@@ -25,10 +25,13 @@
     <input type="search" id="q" class="search" placeholder="搜索比赛 / 主办方 / 标签…">
     <div class="chip-group" id="status-chips" data-filter="status"></div>
     <div class="chip-group" id="type-chips" data-filter="type"></div>
+    <div class="chip-group" id="region-chips" data-filter="region"></div>
+    <button id="active-tag" class="chip active" hidden></button>
     <div class="toolbar-right">
       <button id="fav-toggle" class="chip fav-filter">★ 只看收藏</button>
       <select id="sort" class="select">
         <option value="deadline">按截止时间</option>
+        <option value="prize">按奖金</option>
         <option value="start">按开始时间</option>
         <option value="name">按名称</option>
       </select>

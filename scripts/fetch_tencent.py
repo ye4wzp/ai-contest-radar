@@ -36,6 +36,7 @@ def normalize(d: dict) -> dict:
         "deadline": iso_date(d.get("signEndTime")),
         "end": iso_date(d.get("endTime")),
         "description": (d.get("introduce") or "").replace("\n", " ")[:300],
+        "detail": (d.get("introduce") or "")[:2500] or None,
         "sources": [{"name": "腾讯云黑客松官网", "url": BASE}],
     }
 

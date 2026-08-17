@@ -115,7 +115,11 @@ a { color: var(--vermilion); }
 .card-dates { font-family: var(--mono); font-size: 12px; color: var(--ink-soft); border-top: 1px dashed var(--line); padding-top: 8px; display: flex; justify-content: space-between; gap: 8px; flex-wrap: wrap; }
 .card-prize { color: var(--vermilion); font-weight: 600; }
 .card-tags { display: flex; gap: 5px; flex-wrap: wrap; }
-.tag { font-size: 11px; color: var(--ink-faint); border: 1px solid var(--line); padding: 1px 7px; }
+.tag {
+  font-size: 11px; color: var(--ink-faint); border: 1px solid var(--line); padding: 1px 7px;
+  background: none; font-family: var(--sans); cursor: pointer;
+}
+.tag:hover { color: var(--vermilion); border-color: var(--vermilion); }
 
 .empty { text-align: center; color: var(--ink-faint); padding: 60px 0; font-family: var(--serif); font-size: 16px; }
 
@@ -158,6 +162,16 @@ a { color: var(--vermilion); }
 .modal-table td:first-child { color: var(--ink-faint); width: 84px; white-space: nowrap; }
 .modal-table .mono { font-family: var(--mono); }
 .modal-desc { font-size: 14px; color: var(--ink-soft); margin: 12px 0 18px; }
+.modal-md { font-size: 13.5px; color: var(--ink-soft); margin: 14px 0 18px; max-height: 340px; overflow-y: auto; padding-right: 6px; }
+.modal-md h4 {
+  font-family: var(--serif); font-size: 15px; color: var(--ink); margin: 14px 0 6px;
+  border-left: 3px solid var(--vermilion); padding-left: 8px;
+}
+.modal-md h4:first-child { margin-top: 0; }
+.modal-md p { margin: 4px 0; }
+.modal-md ul { margin: 4px 0 8px; padding-left: 20px; }
+.modal-md li { margin: 2px 0; }
+.modal-md b { color: var(--ink); }
 .modal-actions { display: flex; gap: 10px; flex-wrap: wrap; }
 .btn {
   display: inline-block; padding: 9px 20px; font-size: 14px; text-decoration: none;

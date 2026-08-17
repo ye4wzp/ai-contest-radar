@@ -12,7 +12,9 @@ DELAY = 0.4
 def normalize(d: dict) -> dict:
     providers = [p["name"] for p in d.get("providers", []) if p.get("name")]
     prize = d.get("prize") or ""
+    detail = "\n\n".join(t.get("content", "") for t in d.get("tagContents", []))[:2500]
     return {
+        "detail": detail or None,
         "id": d["id"],
         "name": d.get("title", "").strip(),
         "organizer": "、".join(providers) or None,

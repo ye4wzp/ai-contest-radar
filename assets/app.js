@@ -26,14 +26,36 @@
     return "tbd";
   }
 
+  function regionOf(c) {
+    if (c.tags.indexOf("MLH") >= 0 || c.tags.indexOf("国际") >= 0) return "国际";
+    if (/,\s*[A-Z]{2}$/.test(c.city || "")) return "国际";
+    return /[一-鿿]/.test(c.organizer || c.name) ? "国内" : "国际";
+  }
+
+  function prizeValue(c) {
+    if (!c.prize) return 0;
+    var mult = /USD|\$|美元/i.test(c.prize) ? 7.2 : 1;
+    var best = 0, m, re = /([\d,]+(?:\.\d+)?)\s*(万|[kKwW])?/g;
+    while ((m = re.exec(c.prize))) {
+      var v = parseFloat(m[1].replace(/,/g, ""));
+      if (m[2] === "万" || m[2] === "w" || m[2] === "W") v *= 10000;
+      else if (m[2] === "k" || m[2] === "K") v *= 1000;
+      if (v > best) best = v;
+    }
+    return best * mult;
+  }
+
   var comps = DATA.competitions.map(function (c) {
     c._status = statusOf(c);
     c._days = c.deadline ? daysTo(c.deadline) : null;
+    c._region = regionOf(c);
+    c._online = (c.city || "").indexOf("线上") >= 0;
+    c._prize = prizeValue(c);
     return c;
   });
 
   // ── 状态 ──
-  var state = { q: "", status: "all", type: "all", sort: "deadline", view: "list", favOnly: false };
+  var state = { q: "", status: "all", type: "all", region: "all", tag: null, sort: "deadline", view: "list", favOnly: false };
   var favs = new Set(JSON.parse(localStorage.getItem("favs") || "[]"));
 
   function saveFavs() { localStorage.setItem("favs", JSON.stringify(Array.from(favs))); }
@@ -79,6 +101,19 @@
       return { value: t, label: t + " " + typeCounts[t] };
     })), "type");
 
+  chips(document.getElementById("region-chips"),
+    [{ value: "all", label: "全部地区" }, { value: "国内", label: "国内" }, { value: "国际", label: "国际" },
+     { value: "线上", label: "线上" }, { value: "线下", label: "线下" }], "region");
+
+  var activeTagBtn = document.getElementById("active-tag");
+  function setTag(tag) {
+    state.tag = tag;
+    activeTagBtn.hidden = !tag;
+    if (tag) activeTagBtn.textContent = "标签：" + tag + " ✕";
+    render();
+  }
+  activeTagBtn.onclick = function () { setTag(null); };
+
   document.getElementById("q").oninput = function () { state.q = this.value.trim().toLowerCase(); render(); };
   document.getElementById("sort").onchange = function () { state.sort = this.value; render(); };
 
@@ -96,6 +131,10 @@
       if (state.favOnly && !favs.has(c.id)) return false;
       if (state.status !== "all" && c._status !== state.status) return false;
       if (state.type !== "all" && c.type !== state.type) return false;
+      if (state.region === "国内" || state.region === "国际") { if (c._region !== state.region) return false; }
+      else if (state.region === "线上") { if (!c._online) return false; }
+      else if (state.region === "线下") { if (c._online) return false; }
+      if (state.tag && c.tags.indexOf(state.tag) < 0 && c.city !== state.tag) return false;
       if (state.q) {
         var hay = (c.name + " " + (c.organizer || "") + " " + c.tags.join(" ") + " " + (c.city || "")).toLowerCase();
         if (hay.indexOf(state.q) < 0) return false;
@@ -103,6 +142,7 @@
       return true;
     }).sort(function (a, b) {
       if (state.sort === "name") return a.name.localeCompare(b.name, "zh");
+      if (state.sort === "prize") return b._prize - a._prize;
       if (state.sort === "start") return (a.start || "9999") < (b.start || "9999") ? -1 : 1;
       var d = STATUS[a._status].order - STATUS[b._status].order;
       if (d) return d;
@@ -131,14 +171,29 @@
       '<button class="fav-btn' + (favs.has(c.id) ? " on" : "") + '" data-fav="' + c.id + '" title="收藏">' + (favs.has(c.id) ? "★" : "☆") + "</button></span></div>" +
       '<h3 class="card-name">' + esc(c.name) + "</h3>" +
       (c.organizer ? '<div class="card-org">主办：' + esc(c.organizer) + "</div>" : "") +
-      '<div class="card-tags">' + c.tags.slice(0, 4).map(function (t) { return '<span class="tag">' + esc(t) + "</span>"; }).join("") +
-      (c.city ? '<span class="tag">' + esc(c.city) + "</span>" : "") + "</div>" +
+      '<div class="card-tags">' + c.tags.slice(0, 4).map(tagBtn).join("") +
+      (c.city ? tagBtn(c.city) : "") + "</div>" +
       '<div class="card-dates"><span>' + fmt(c.start) + " → " + fmt(c.deadline) + "</span>" +
       (c.prize ? '<span class="card-prize">' + esc(c.prize) + "</span>" : "") + "</div>" +
       "</article>";
   }
 
   function esc(s) { return String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/"/g, "&quot;"); }
+
+  function tagBtn(t) { return '<button class="tag" data-tag="' + esc(t) + '">' + esc(t) + "</button>"; }
+
+  // 极简 markdown：标题 / 列表 / 加粗 / 段落
+  function md(s) {
+    var out = [], inList = false, m;
+    esc(s).split(/\r?\n/).forEach(function (l) {
+      if ((m = l.match(/^#{1,4}\s*(.*)/))) { if (inList) { out.push("</ul>"); inList = false; } out.push("<h4>" + m[1] + "</h4>"); }
+      else if ((m = l.match(/^\s*[-*]\s+(.*)/))) { if (!inList) { out.push("<ul>"); inList = true; } out.push("<li>" + m[1] + "</li>"); }
+      else if (!l.trim()) { if (inList) { out.push("</ul>"); inList = false; } }
+      else out.push("<p>" + l + "</p>");
+    });
+    if (inList) out.push("</ul>");
+    return out.join("").replace(/\*\*([^*]+)\*\*/g, "<b>$1</b>");
+  }
 
   // ── 渲染 ──
   function render() {
@@ -201,6 +256,12 @@
   // ── 详情弹窗 ──
   var modal = document.getElementById("modal");
   document.body.addEventListener("click", function (ev) {
+    var tag = ev.target.closest("[data-tag]");
+    if (tag) {
+      closeModal();
+      setTag(tag.dataset.tag === state.tag ? null : tag.dataset.tag);
+      return;
+    }
     var fav = ev.target.closest(".fav-btn");
     if (fav) {
       var id = fav.dataset.fav;
@@ -228,14 +289,15 @@
       ["时间", '<span class="mono">' + fmt(c.start) + " → " + fmt(c.deadline) + (c.end && c.end !== c.deadline ? "（决赛/结束 " + fmt(c.end) + "）" : "") + "</span>"],
       ["奖金", c.prize ? '<b style="color:var(--vermilion)">' + esc(c.prize) + "</b>" : "见官方页面"],
       ["类型", esc(c.type) + (c.city ? " · " + esc(c.city) : "")],
-      ["标签", c.tags.map(function (t) { return '<span class="tag">' + esc(t) + "</span>"; }).join(" ")]
+      ["标签", c.tags.map(tagBtn).join(" ")]
     ];
     document.getElementById("modal-body").innerHTML =
       "<h3>" + esc(c.name) + "</h3>" +
       '<table class="modal-table">' + rows.map(function (r) {
         return "<tr><td>" + r[0] + "</td><td>" + r[1] + "</td></tr>";
       }).join("") + "</table>" +
-      (c.description ? '<p class="modal-desc">' + esc(c.description) + "</p>" : "") +
+      (c.detail ? '<div class="modal-md">' + md(c.detail) + "</div>"
+        : c.description ? '<p class="modal-desc">' + esc(c.description) + "</p>" : "") +
       '<div class="modal-actions">' +
       (c.official_url ? '<a class="btn primary" href="' + esc(c.official_url) + '" target="_blank" rel="noopener">前往官方页面 ↗</a>' : "") +
       c.sources.map(function (s) {
