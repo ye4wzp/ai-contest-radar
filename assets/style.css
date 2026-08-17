@@ -91,6 +91,14 @@ a { color: var(--vermilion); }
 @keyframes rise { from { opacity: 0; transform: translateY(10px); } }
 
 .card-top { display: flex; justify-content: space-between; align-items: flex-start; gap: 10px; }
+.card-top-right { display: flex; align-items: center; gap: 8px; }
+.fav-btn {
+  border: none; background: none; cursor: pointer; font-size: 17px; line-height: 1;
+  color: var(--ink-faint); padding: 0;
+}
+.fav-btn:hover { color: var(--running); }
+.fav-btn.on { color: var(--running); }
+.fav-filter.active { background: var(--running); border-color: var(--running); color: #fff; }
 .badge { font-size: 11px; padding: 2px 8px; border: 1px solid currentColor; letter-spacing: .15em; white-space: nowrap; font-weight: 600; }
 .badge.open { color: var(--open); }
 .badge.upcoming { color: var(--upcoming); }

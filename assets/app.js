@@ -33,7 +33,10 @@
   });
 
   // ── 状态 ──
-  var state = { q: "", status: "all", type: "all", sort: "deadline", view: "list" };
+  var state = { q: "", status: "all", type: "all", sort: "deadline", view: "list", favOnly: false };
+  var favs = new Set(JSON.parse(localStorage.getItem("favs") || "[]"));
+
+  function saveFavs() { localStorage.setItem("favs", JSON.stringify(Array.from(favs))); }
   var calCursor = new Date(TODAY.getFullYear(), TODAY.getMonth(), 1);
 
   // ── 报头 ──
@@ -90,6 +93,7 @@
   // ── 过滤与排序 ──
   function filtered() {
     return comps.filter(function (c) {
+      if (state.favOnly && !favs.has(c.id)) return false;
       if (state.status !== "all" && c._status !== state.status) return false;
       if (state.type !== "all" && c.type !== state.type) return false;
       if (state.q) {
@@ -122,7 +126,9 @@
 
   function cardHTML(c, i) {
     return '<article class="card' + (c.featured ? " featured" : "") + '" data-id="' + c.id + '" style="animation-delay:' + Math.min(i * 30, 400) + 'ms">' +
-      '<div class="card-top">' + badge(c) + countdown(c) + "</div>" +
+      '<div class="card-top">' + badge(c) +
+      '<span class="card-top-right">' + countdown(c) +
+      '<button class="fav-btn' + (favs.has(c.id) ? " on" : "") + '" data-fav="' + c.id + '" title="收藏">' + (favs.has(c.id) ? "★" : "☆") + "</button></span></div>" +
       '<h3 class="card-name">' + esc(c.name) + "</h3>" +
       (c.organizer ? '<div class="card-org">主办：' + esc(c.organizer) + "</div>" : "") +
       '<div class="card-tags">' + c.tags.slice(0, 4).map(function (t) { return '<span class="tag">' + esc(t) + "</span>"; }).join("") +
@@ -195,11 +201,25 @@
   // ── 详情弹窗 ──
   var modal = document.getElementById("modal");
   document.body.addEventListener("click", function (ev) {
+    var fav = ev.target.closest(".fav-btn");
+    if (fav) {
+      var id = fav.dataset.fav;
+      favs.has(id) ? favs.delete(id) : favs.add(id);
+      saveFavs();
+      render();
+      return;
+    }
     var el = ev.target.closest("[data-id]");
     if (!el) return;
     var c = comps.find(function (x) { return x.id === el.dataset.id; });
     if (c) openModal(c);
   });
+
+  document.getElementById("fav-toggle").onclick = function () {
+    state.favOnly = !state.favOnly;
+    this.classList.toggle("active", state.favOnly);
+    render();
+  };
 
   function openModal(c) {
     var rows = [

@@ -1,0 +1,209 @@
+[
+ {
+  "id": "tch-42",
+  "name": "虚拟足球夏季冠军赛 · S13（CODE × FOOTBALL 巅峰对决）",
+  "organizer": "腾讯青科实训营",
+  "official_url": "https://tcamp.qq.com/mooc/YWvub8Ml?tab=camp-intro",
+  "type": "黑客松",
+  "tags": [
+   "腾讯云",
+   "官方赛事"
+  ],
+  "city": "线上",
+  "prize": "价值16000元积分及奖品",
+  "start": "2026-06-12",
+  "deadline": "2026-07-08",
+  "end": "2026-07-17",
+  "description": "一场用代码踢的绿茵盛宴。每位选手编写一份 AI 策略，操控球场上的机器人球员完成智能跑位、精准传球与射门；系统自动匹配对手实时开战，120 秒倒计时结束，进球多者胜出。战术布局、临场应变、团队配合，全部藏在你的代码之中。 零门槛、全员可参与：不会写代码也没关系，借助 WorkBuddy 用自然语言描述战术思路，由 AI 帮你生成、调试并优化策略代码，人人都能成为球队主教练。 从入围到决赛，从 48 强到登顶，用真实战绩争夺最高荣誉。",
+  "sources": [
+   {
+    "name": "腾讯云黑客松官网",
+    "url": "https://tch.cloud.tencent.com"
+   }
+  ]
+ },
+ {
+  "id": "tch-39",
+  "name": "Tencent Cloud Hackathon: AI Coding Hackathon Singapore 2026",
+  "organizer": "腾讯云",
+  "official_url": "https://luma.com/8zmaufas",
+  "type": "黑客松",
+  "tags": [
+   "腾讯云",
+   "官方赛事"
+  ],
+  "city": "线上",
+  "prize": "USD $1,700 credit",
+  "start": "2026-03-26",
+  "deadline": "2026-04-20",
+  "end": "2026-05-09",
+  "description": "​Build AI Agents that Think, Decide, and Execute  This is a premier AI builder event designed for developers, founders, and students to create next-generation AI products — with a strong focus on AI Agents and real-world applications.  ​ What You’ll Experience  ​Build AI-powered products from concep",
+  "sources": [
+   {
+    "name": "腾讯云黑客松官网",
+    "url": "https://tch.cloud.tencent.com"
+   }
+  ]
+ },
+ {
+  "id": "tch-38",
+  "name": "腾讯云黑客松·第二届智能渗透挑战赛2026",
+  "organizer": "腾讯云安全｜腾讯安全众测",
+  "official_url": "https://zc.tencent.com/hackathon?utm_source=poster&utm_medium=qrcode",
+  "type": "黑客松",
+  "tags": [
+   "腾讯云",
+   "官方赛事"
+  ],
+  "city": "线上",
+  "prize": "220000",
+  "start": "2026-04-03",
+  "deadline": "2026-04-08",
+  "end": "2026-04-25",
+  "description": "本次大赛由智能渗透主战场与\"零界\"平行战场组成，两个战场相对独立。 赛事参赛者需以大语言模型为核心构建自主渗透智能体，在隔离架构中逐区突破，完成从漏洞发现、利用执行到攻击路径编排的全流程验证，见证 AI 从“解题能力”向“破网能力”的跃迁。同期推出智能体专属平行战场——“零界”，AI社交，人类禁言。",
+  "sources": [
+   {
+    "name": "腾讯云黑客松官网",
+    "url": "https://tch.cloud.tencent.com"
+   }
+  ]
+ },
+ {
+  "id": "tch-37",
+  "name": "腾讯云黑客松·第一届智能渗透挑战赛2025",
+  "organizer": "腾讯云丨腾讯安全",
+  "official_url": "https://wj.qq.com/s2/24440553/4b12/",
+  "type": "黑客松",
+  "tags": [
+   "腾讯云",
+   "官方赛事"
+  ],
+  "city": "线上",
+  "prize": "220,000",
+  "start": "2025-10-23",
+  "deadline": "2025-11-02",
+  "end": "2025-11-28",
+  "description": "腾讯云黑客松-智能渗透挑战赛来了！本次大赛旨在推动AI大模型与网络安全技术的深度融合，探索智能体在自动化渗透测试领域的应用潜力，促进\"AI+安全\"交叉领域人才能力增长，助力产业良性发展。 本次大赛引入大语言模型（LLM）智能体​​，挑战全流程自动化渗透！ 以权威​​XBOW Benchmark​​为基准，结合高还原度自研靶机环境，打造贴近真实攻防的多维度场景。你的任务：​​编写以LLM为核心的智能体BOT​​，在隔离式环境中自主完成漏洞挖掘、路径突破与FLAG夺取，用AI破解安全难题！",
+  "sources": [
+   {
+    "name": "腾讯云黑客松官网",
+    "url": "https://tch.cloud.tencent.com"
+   }
+  ]
+ },
+ {
+  "id": "tch-36",
+  "name": "腾讯云黑客松 · “AI+公益”开发挑战赛 2025",
+  "organizer": "腾讯云",
+  "official_url": "1",
+  "type": "黑客松",
+  "tags": [
+   "腾讯云",
+   "官方赛事"
+  ],
+  "city": "线上",
+  "prize": "390,000",
+  "start": "2025-09-15",
+  "deadline": "2025-09-15",
+  "end": "2025-09-18",
+  "description": "首届腾讯云黑客松，结合 Cloud Studio、CodeBuddy IDE、CNB代码平台、腾讯云智能体完成全程开发，覆盖生物多样性互动游戏、心理健康专家助手两大赛道，联合海内外开发者社区和国内顶级学府进行初赛选拔，通过48小时极限黑客松评选，角逐最终各个产品赛道一二三等奖，最高奖金50000元现金。                                                                ",
+  "sources": [
+   {
+    "name": "腾讯云黑客松官网",
+    "url": "https://tch.cloud.tencent.com"
+   }
+  ]
+ },
+ {
+  "id": "tch-34",
+  "name": "Hunyuan3D创意大赛",
+  "organizer": "腾讯云",
+  "official_url": "https://marketing.csdn.net/questions/Q2503111509331158927?shareId=2244&pId=2981",
+  "type": "黑客松",
+  "tags": [
+   "腾讯云",
+   "官方赛事"
+  ],
+  "city": "线上",
+  "prize": "35,000",
+  "start": "2025-05-13",
+  "deadline": "2025-06-01",
+  "end": "2025-06-23",
+  "description": "腾讯混元3D 是一个开源的3D 生成模型，旨在解决现有3D生成模型在生成速度和泛化能力上的不足。混元3D2.0版本是时下最强的3D生成模型，限于本地显卡的资源限制，本次我们将联手HAI与NVIDIA，为开发者提供一键部署及生图的能力，让开发者体验3D 模型的同时，也了解云的便利性。",
+  "sources": [
+   {
+    "name": "腾讯云黑客松官网",
+    "url": "https://tch.cloud.tencent.com"
+   }
+  ]
+ },
+ {
+  "id": "tch-33",
+  "name": "腾讯云黑客松 · Agent应用创新挑战赛",
+  "organizer": "腾讯云",
+  "official_url": "https://marketing.csdn.net/questions/Q2507161437478228702?shareId=2377&pId=3065",
+  "type": "黑客松",
+  "tags": [
+   "腾讯云",
+   "官方赛事"
+  ],
+  "city": "线上",
+  "prize": "147,000",
+  "start": "2025-07-27",
+  "deadline": "2025-09-01",
+  "end": "2025-10-20",
+  "description": "腾讯云黑客松Agent应用创新挑战赛面向企业、高校、及个人开发者举行，旨在推动AI智能体技术应用创新、及场景探索落地，并促进智能体生态人才培育。大赛鼓励开发者探索丰富场景下高可用的智能体应用。可透过两大智能体开发平台（腾讯云智能体开发平台、腾讯元器），采用零代码或低代码方式，灵活整合RAG、多Agent协同、Workflow工作流等前沿技术，以及丰富的MCP插件和微信、企业微信接入等生态资源，开发智能体应用。",
+  "sources": [
+   {
+    "name": "腾讯云黑客松官网",
+    "url": "https://tch.cloud.tencent.com"
+   }
+  ]
+ },
+ {
+  "id": "tch-32",
+  "name": "腾讯云黑客松 · 全栈开发挑战赛",
+  "organizer": "腾讯云",
+  "official_url": "https://marketing.csdn.net/questions/Q2506091704482070075?pId=3020",
+  "type": "黑客松",
+  "tags": [
+   "腾讯云",
+   "官方赛事"
+  ],
+  "city": "线上",
+  "prize": "101,000",
+  "start": "2025-06-17",
+  "deadline": "2025-08-17",
+  "end": "2025-09-17",
+  "description": "OpenAI创始人曾预言：“一个人就能做出市值10亿美金公司的时代马上就要到来。”开发者能够如何利用AI Coding更快地让想法完整落地，成为未来的超级个体，打造自己的“一人公司”？ 即日起，腾讯云黑客松全栈开发挑战赛启动，向全网征集脑洞，鼓励广大开发者们用AI Coding，挑战“一人公司”！ 本场挑战赛采用线上开发+线下路演的创新形式，设有Web应用、微信小程序两大赛道。期待开发者以实际生活需求为创意原点，通过使用腾讯云旗下CodeBuddy（Craft软件开发智能体/AI IDE）+CloudBase智能全栈开发产品组合，真实生成并发布具有实用价值和创新意义的全栈应用。真正集AI技术之",
+  "sources": [
+   {
+    "name": "腾讯云黑客松官网",
+    "url": "https://tch.cloud.tencent.com"
+   }
+  ]
+ },
+ {
+  "id": "tch-31",
+  "name": "Hunyuan 3D造梗大赛",
+  "organizer": "腾讯云",
+  "official_url": "https://marketing.csdn.net/questions/Q2507251804047657758?shareId=2396&pId=3085",
+  "type": "黑客松",
+  "tags": [
+   "腾讯云",
+   "官方赛事"
+  ],
+  "city": "线上",
+  "prize": "35,000",
+  "start": "2025-08-19",
+  "deadline": "2025-09-14",
+  "end": "2025-09-22",
+  "description": "腾讯混元3D是一个开源的3D生成模型，旨在解决现有3D生成模型在生成速度和泛化能力上的不足。混元3D2.1版本是时下最强的3D生成模型，限于本地显卡的资源限制，本次我们将联合腾讯云高性能应用服务HAI，为开发者提供一键部署及生3D能力，让开发者体验3D模型的同时，也了解云的便利性。 万物皆可梗，万梗皆可3D！在信息爆炸的时代，一个有趣的“梗”能瞬间引爆社交网络。Hunyuan3D赋予了“梗”全新的三维生命力。我们不再满足于平面的表情包和截图，而是邀请你成为“3D造梗师”，用Hunyuan3D将脑海中的奇思妙想、网络上的经典瞬间，塑造成可看、可玩、可传播的3D模因。无论是重现经典，还是原创神梗，",
+  "sources": [
+   {
+    "name": "腾讯云黑客松官网",
+    "url": "https://tch.cloud.tencent.com"
+   }
+  ]
+ }
+]

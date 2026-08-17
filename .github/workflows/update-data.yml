@@ -11,16 +11,28 @@ permissions:
 jobs:
   update:
     runs-on: ubuntu-latest
+    env:
+      FEISHU_WEBHOOK: ${{ secrets.FEISHU_WEBHOOK }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - run: python scripts/fetch_competehub.py 20
+      - name: Fetch sources
+        working-directory: scripts
+        run: |
+          python fetch_competehub.py 50
+          python fetch_tencent.py || echo "::warning::tencent fetch failed"
+          python fetch_mlh.py || echo "::warning::mlh fetch failed"
       - run: python scripts/build_data.py
+      - name: Deadline reminders
+        run: python scripts/notify.py || echo "::warning::notify failed"
       - name: Commit and push if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data/
           git diff --cached --quiet || { git commit -m "chore: daily data update $(date -u +%F)"; git push; }
+      - name: Failure alert
+        if: failure()
+        run: python scripts/notify.py --fail "每日抓取失败，请检查 Actions 日志"
