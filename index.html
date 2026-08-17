@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI 赛事雷达 · 全网 AI 比赛聚合</title>
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<header class="masthead">
+  <div class="masthead-rule"></div>
+  <div class="masthead-inner">
+    <div class="masthead-meta">
+      <span id="today-line"></span>
+      <span class="masthead-slogan">收录全网 AI 竞赛 · 黑客松 · 创作赛</span>
+    </div>
+    <h1 class="masthead-title">AI 赛事<em>雷达</em></h1>
+    <div class="stats" id="stats"></div>
+  </div>
+  <div class="masthead-rule thin"></div>
+</header>
+
+<nav class="toolbar" id="toolbar">
+  <div class="toolbar-inner">
+    <input type="search" id="q" class="search" placeholder="搜索比赛 / 主办方 / 标签…">
+    <div class="chip-group" id="status-chips" data-filter="status"></div>
+    <div class="chip-group" id="type-chips" data-filter="type"></div>
+    <div class="toolbar-right">
+      <select id="sort" class="select">
+        <option value="deadline">按截止时间</option>
+        <option value="start">按开始时间</option>
+        <option value="name">按名称</option>
+      </select>
+      <div class="view-toggle" id="view-toggle">
+        <button data-view="list" class="active">列表</button>
+        <button data-view="calendar">日历</button>
+      </div>
+    </div>
+  </div>
+</nav>
+
+<main class="content">
+  <section id="featured-section" hidden>
+    <h2 class="section-title"><span class="tick"></span>官方重点赛事</h2>
+    <div class="featured-grid" id="featured-grid"></div>
+  </section>
+
+  <section id="list-view">
+    <h2 class="section-title"><span class="tick"></span>全部赛事 <span class="count" id="list-count"></span></h2>
+    <div class="card-grid" id="card-grid"></div>
+    <p class="empty" id="empty" hidden>没有符合条件的比赛 —— 换个筛选条件试试。</p>
+  </section>
+
+  <section id="calendar-view" hidden>
+    <div class="cal-header">
+      <button id="cal-prev" class="cal-nav">‹</button>
+      <h2 class="cal-title" id="cal-title"></h2>
+      <button id="cal-next" class="cal-nav">›</button>
+      <span class="cal-hint">标记为当日截止的比赛，点击查看详情</span>
+    </div>
+    <div class="cal-grid" id="cal-grid"></div>
+  </section>
+</main>
+
+<footer class="footer">
+  <p>数据来源：各赛事官方页面 · <a href="https://www.competehub.dev/zh" target="_blank" rel="noopener">AI赛事通</a> 等公开渠道，仅作信息聚合，报名请以官方页面为准。</p>
+  <p id="updated-line"></p>
+</footer>
+
+<div class="modal-backdrop" id="modal" hidden>
+  <article class="modal" role="dialog" aria-modal="true">
+    <button class="modal-close" id="modal-close" aria-label="关闭">×</button>
+    <div class="modal-body" id="modal-body"></div>
+  </article>
+</div>
+
+<script src="data/data.js"></script>
+<script src="assets/app.js"></script>
+</body>
+</html>

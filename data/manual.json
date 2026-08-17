@@ -1,0 +1,50 @@
+[
+ {
+  "id": "manual-trae-ai-creativity-2026",
+  "name": "TRAE AI 创造力大赛",
+  "organizer": "字节跳动 TRAE",
+  "official_url": "https://www.trae.cn/ai-creativity",
+  "type": "创意应用赛",
+  "tags": ["AI 编程", "Agent", "创意应用"],
+  "city": "线上 + 线下决赛",
+  "prize": "决赛现金奖 ¥100,000 - ¥300,000",
+  "start": "2026-06-16",
+  "deadline": "2026-07-15",
+  "end": "2026-08-22",
+  "featured": true,
+  "description": "TRAE 官方发起，让灵感和创意借助 TraeWork / TraeCode 更快被表达与实现。赛道覆盖生活娱乐、学习工作、社会服务、硬件交互及适老、古籍、非遗等专题；初赛报名 6.16-7.15，复赛 7.21-8.9，决赛线下路演 8.21-8.22。",
+  "sources": [{"name": "官方页面", "url": "https://www.trae.cn/ai-creativity"}]
+ },
+ {
+  "id": "manual-miaoda-cup-2026",
+  "name": "第二届「秒哒杯」人工智能通识应用大赛",
+  "organizer": "百度智能云、西交利物浦大学、百度秒哒",
+  "official_url": "https://app-adwpqqaxubr5.appmiaoda.com",
+  "type": "零代码创作赛",
+  "tags": ["零代码", "AI 应用", "全民可参与"],
+  "city": "线上",
+  "prize": "组别一等奖 ¥3,000 + 百度实习/创业孵化权益",
+  "start": "2026-05-09",
+  "deadline": "2026-06-30",
+  "end": "2026-07-15",
+  "featured": true,
+  "description": "零代码 AI 创作大赛，无需编程基础，用百度秒哒即可搭建智能应用，覆盖办公、教育、文创、一人创业等场景。作品提交截止 6.30，评审 7.1-7.15；获奖学生可获百度总部实习机会。",
+  "sources": [{"name": "AItop100 报道", "url": "https://www.aitop100.cn/infomation/details/33800.html"}]
+ },
+ {
+  "id": "manual-tencent-cloud-hackathon-game-2026",
+  "name": "腾讯云黑客松 · 游戏开发挑战赛 2026",
+  "organizer": "腾讯云、腾讯游戏学堂等",
+  "official_url": "https://tch.cloud.tencent.com/",
+  "type": "黑客松",
+  "tags": ["游戏开发", "AI 编程", "高校"],
+  "city": "线上",
+  "prize": "总奖池 ¥1,000,000",
+  "start": "2026-04-17",
+  "deadline": "2026-09-13",
+  "end": "2026-09-13",
+  "featured": true,
+  "description": "腾讯云面向全球开发者的「AI 驱动游戏创作」黑客松，联合腾讯游戏学堂、青腾学堂等举办。官网同时挂载 AI Agent 挑战赛、混元 3D 创意赛、全栈开发挑战赛等多场赛事。",
+  "sources": [{"name": "官方页面", "url": "https://tch.cloud.tencent.com/"}]
+ }
+]
