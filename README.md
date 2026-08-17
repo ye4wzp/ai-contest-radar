@@ -6,7 +6,7 @@
 
 ```bash
 python3 scripts/fetch_competehub.py 20   # 抓取 AI赛事通 前 20 页 -> data/competitions.json
-python3 scripts/build_data.py           # 合并 data/manual.json 并去重 -> data/data.js
+python3 scripts/build_data.py           # 累积合并 manual.json + 历史数据并去重 -> data/data.js
 open index.html                          # 或 python3 -m http.server 8642
 ```
 
