@@ -1,6 +1,54 @@
 {
- "updated": "2026-08-20",
+ "updated": "2026-08-21",
  "competitions": [
+  {
+   "id": "tch-44",
+   "name": "纯爱战神黑客松",
+   "organizer": "研木加安&LinkGen社区",
+   "official_url": "https://my.feishu.cn/share/base/form/shrcnHsQzaaxGKw5RM46BEci1ze?sessionid=",
+   "type": "黑客松",
+   "tags": [
+    "腾讯云",
+    "官方赛事"
+   ],
+   "city": "线上",
+   "prize": "27500",
+   "start": "2026-08-01",
+   "deadline": "2026-08-20",
+   "end": "2026-08-23",
+   "description": "你相信真爱是靠绝对的大数据和效率找到的？ or 真爱命中注定 这一切只能用神秘来解释！  不论你是哪一派，我们的目的只有一个，纯爱战神YYDS！ 来参加我们的「纯爱战神黑客松」，找到心动的那个TA or 伟大而存续的dating大业贡献全新的灵感！",
+   "detail": "你相信真爱是靠绝对的大数据和效率找到的？\nor\n真爱命中注定 这一切只能用神秘来解释！\n\n不论你是哪一派，我们的目的只有一个，纯爱战神YYDS！\n来参加我们的「纯爱战神黑客松」，找到心动的那个TA or 伟大而存续的dating大业贡献全新的灵感！",
+   "sources": [
+    {
+     "name": "腾讯云黑客松官网",
+     "url": "https://tch.cloud.tencent.com"
+    }
+   ]
+  },
+  {
+   "id": "tch-43",
+   "name": "Inspiring Experience with Tencent EdgeOne",
+   "organizer": "Tencent EdgeOne",
+   "official_url": "https://devhandal2026.codepolitan.com/",
+   "type": "黑客松",
+   "tags": [
+    "腾讯云",
+    "官方赛事"
+   ],
+   "city": "线上",
+   "prize": " 5,000,000 Token/人",
+   "start": "2026-08-12",
+   "deadline": "2026-09-16",
+   "end": "2026-09-18",
+   "description": "Tencent EdgeOne, in partnership with CODEPOLITAN — a leading Indonesian developer community — presents DevHandal 2026 Batch 2: Inspiring Experience with Tencent EdgeOne. This is a hands-on creation journey designed to let every Indonesian developer experience what it's like to deploy an AI Agent wit",
+   "detail": "Tencent EdgeOne, in partnership with CODEPOLITAN — a leading Indonesian developer community — presents DevHandal 2026 Batch 2: Inspiring Experience with Tencent EdgeOne. This is a hands-on creation journey designed to let every Indonesian developer experience what it's like to deploy an AI Agent with EdgeOne Makers — where AI Agents go live in minutes, just like shipping a webpage, and the distance between an idea and a product shrinks to nearly nothing.",
+   "sources": [
+    {
+     "name": "腾讯云黑客松官网",
+     "url": "https://tch.cloud.tencent.com"
+    }
+   ]
+  },
   {
    "id": "tch-40",
    "name": "腾讯云黑客松 · 游戏开发挑战赛 2026",
@@ -18,54 +66,6 @@
    "end": "2026-09-13",
    "description": "AI CAN DO IT | 腾讯云黑客松游戏极限开发挑战赛正式启动！腾讯云联合腾讯游戏学堂、Tencent WeTech Academy、腾讯互娱社会价值探索中心、腾讯教育，面向全球高校开发者发起一场 AI 驱动的游戏创作挑战。不论你是程序员、设计师还是创意策划，只要你对游戏和 AI 有热情，这里就是你的舞台。  Tencent Cloud Hackathon · Registration Form AI CAN DO IT | **Tencent Cloud Hackathon: Extreme Game Dev Challenge** Tencent Cloud, in partners",
    "detail": "AI CAN DO IT | 腾讯云黑客松游戏极限开发挑战赛正式启动！腾讯云联合腾讯游戏学堂、Tencent WeTech Academy、腾讯互娱社会价值探索中心、腾讯教育，面向全球高校开发者发起一场 AI 驱动的游戏创作挑战。不论你是程序员、设计师还是创意策划，只要你对游戏和 AI 有热情，这里就是你的舞台。\n\nTencent Cloud Hackathon · Registration Form\nAI CAN DO IT | **Tencent Cloud Hackathon: Extreme Game Dev Challenge**\nTencent Cloud, in partnership with Tencent Institute of Games, Tencent WeTech Academy, Tencent IEG Social Value Exploration Center and Tencent Education, is launching an AI-driven game creation challenge open to university developers worldwide. Whether you are a programmer, designer, or creative producer — if you have a passion for games and AI, this is your stage.",
-   "sources": [
-    {
-     "name": "腾讯云黑客松官网",
-     "url": "https://tch.cloud.tencent.com"
-    }
-   ]
-  },
-  {
-   "id": "tch-42",
-   "name": "虚拟足球夏季冠军赛 · S13（CODE × FOOTBALL 巅峰对决）",
-   "organizer": "腾讯青科实训营",
-   "official_url": "https://tcamp.qq.com/mooc/YWvub8Ml?tab=camp-intro",
-   "type": "黑客松",
-   "tags": [
-    "腾讯云",
-    "官方赛事"
-   ],
-   "city": "线上",
-   "prize": "价值16000元积分及奖品",
-   "start": "2026-06-12",
-   "deadline": "2026-07-08",
-   "end": "2026-07-17",
-   "description": "一场用代码踢的绿茵盛宴。每位选手编写一份 AI 策略，操控球场上的机器人球员完成智能跑位、精准传球与射门；系统自动匹配对手实时开战，120 秒倒计时结束，进球多者胜出。战术布局、临场应变、团队配合，全部藏在你的代码之中。 零门槛、全员可参与：不会写代码也没关系，借助 WorkBuddy 用自然语言描述战术思路，由 AI 帮你生成、调试并优化策略代码，人人都能成为球队主教练。 从入围到决赛，从 48 强到登顶，用真实战绩争夺最高荣誉。",
-   "detail": "一场用代码踢的绿茵盛宴。每位选手编写一份 AI 策略，操控球场上的机器人球员完成智能跑位、精准传球与射门；系统自动匹配对手实时开战，120 秒倒计时结束，进球多者胜出。战术布局、临场应变、团队配合，全部藏在你的代码之中。\n零门槛、全员可参与：不会写代码也没关系，借助 WorkBuddy 用自然语言描述战术思路，由 AI 帮你生成、调试并优化策略代码，人人都能成为球队主教练。\n从入围到决赛，从 48 强到登顶，用真实战绩争夺最高荣誉。",
-   "sources": [
-    {
-     "name": "腾讯云黑客松官网",
-     "url": "https://tch.cloud.tencent.com"
-    }
-   ]
-  },
-  {
-   "id": "tch-41",
-   "name": "腾讯云黑客松 · AI 智能体争霸赛",
-   "organizer": "腾讯云",
-   "official_url": "https://tch.cloud.tencent.com/claw",
-   "type": "黑客松",
-   "tags": [
-    "腾讯云",
-    "官方赛事"
-   ],
-   "city": "线上",
-   "prize": "45万元",
-   "start": "2026-04-15",
-   "deadline": "2026-05-31",
-   "end": "2026-09-18",
-   "description": "腾讯云黑客松·AI智能体争霸赛，以「以赛代训」为核心，联合伙伴共同挖掘AI产品在商业场景中的价值。 赛事重点面向合作伙伴发起作品招募，通过腾讯云伙伴网络带动客户参赛，在陪跑过程中验证CodeBuddy、ClawPro、WorkBuddy的能力，完成从体验到转化的全链路。 双赛道（Skill + Agent）、五大赛区路演、全程激励，确保伙伴与客户持续互动，实现生态共赢。",
-   "detail": "腾讯云黑客松·AI智能体争霸赛，以「以赛代训」为核心，联合伙伴共同挖掘AI产品在商业场景中的价值。\n赛事重点面向合作伙伴发起作品招募，通过腾讯云伙伴网络带动客户参赛，在陪跑过程中验证CodeBuddy、ClawPro、WorkBuddy的能力，完成从体验到转化的全链路。\n双赛道（Skill + Agent）、五大赛区路演、全程激励，确保伙伴与客户持续互动，实现生态共赢。",
    "sources": [
     {
      "name": "腾讯云黑客松官网",
@@ -98,6 +98,30 @@
    ]
   },
   {
+   "id": "tch-41",
+   "name": "腾讯云黑客松 · AI 智能体争霸赛",
+   "organizer": "腾讯云",
+   "official_url": "https://tch.cloud.tencent.com/claw",
+   "type": "黑客松",
+   "tags": [
+    "腾讯云",
+    "官方赛事"
+   ],
+   "city": "线上",
+   "prize": "45万元",
+   "start": "2026-04-15",
+   "deadline": "2026-05-31",
+   "end": "2026-09-18",
+   "description": "腾讯云黑客松·AI智能体争霸赛，以「以赛代训」为核心，联合伙伴共同挖掘AI产品在商业场景中的价值。 赛事重点面向合作伙伴发起作品招募，通过腾讯云伙伴网络带动客户参赛，在陪跑过程中验证CodeBuddy、ClawPro、WorkBuddy的能力，完成从体验到转化的全链路。 双赛道（Skill + Agent）、五大赛区路演、全程激励，确保伙伴与客户持续互动，实现生态共赢。",
+   "detail": "腾讯云黑客松·AI智能体争霸赛，以「以赛代训」为核心，联合伙伴共同挖掘AI产品在商业场景中的价值。\n赛事重点面向合作伙伴发起作品招募，通过腾讯云伙伴网络带动客户参赛，在陪跑过程中验证CodeBuddy、ClawPro、WorkBuddy的能力，完成从体验到转化的全链路。\n双赛道（Skill + Agent）、五大赛区路演、全程激励，确保伙伴与客户持续互动，实现生态共赢。",
+   "sources": [
+    {
+     "name": "腾讯云黑客松官网",
+     "url": "https://tch.cloud.tencent.com"
+    }
+   ]
+  },
+  {
    "id": "tch-38",
    "name": "腾讯云黑客松·第二届智能渗透挑战赛2026",
    "organizer": "腾讯云安全｜腾讯安全众测",
@@ -114,6 +138,30 @@
    "end": "2026-04-25",
    "description": "本次大赛由智能渗透主战场与\"零界\"平行战场组成，两个战场相对独立。 赛事参赛者需以大语言模型为核心构建自主渗透智能体，在隔离架构中逐区突破，完成从漏洞发现、利用执行到攻击路径编排的全流程验证，见证 AI 从“解题能力”向“破网能力”的跃迁。同期推出智能体专属平行战场——“零界”，AI社交，人类禁言。",
    "detail": "本次大赛由智能渗透主战场与\"零界\"平行战场组成，两个战场相对独立。\n赛事参赛者需以大语言模型为核心构建自主渗透智能体，在隔离架构中逐区突破，完成从漏洞发现、利用执行到攻击路径编排的全流程验证，见证 AI 从“解题能力”向“破网能力”的跃迁。同期推出智能体专属平行战场——“零界”，AI社交，人类禁言。",
+   "sources": [
+    {
+     "name": "腾讯云黑客松官网",
+     "url": "https://tch.cloud.tencent.com"
+    }
+   ]
+  },
+  {
+   "id": "tch-42",
+   "name": "虚拟足球夏季冠军赛 · S13（CODE × FOOTBALL 巅峰对决）",
+   "organizer": "腾讯青科实训营",
+   "official_url": "https://tcamp.qq.com/mooc/YWvub8Ml?tab=camp-intro",
+   "type": "黑客松",
+   "tags": [
+    "腾讯云",
+    "官方赛事"
+   ],
+   "city": "线上",
+   "prize": "价值16000元积分及奖品",
+   "start": "2026-06-12",
+   "deadline": "2026-07-08",
+   "end": "2026-07-17",
+   "description": "一场用代码踢的绿茵盛宴。每位选手编写一份 AI 策略，操控球场上的机器人球员完成智能跑位、精准传球与射门；系统自动匹配对手实时开战，120 秒倒计时结束，进球多者胜出。战术布局、临场应变、团队配合，全部藏在你的代码之中。 零门槛、全员可参与：不会写代码也没关系，借助 WorkBuddy 用自然语言描述战术思路，由 AI 帮你生成、调试并优化策略代码，人人都能成为球队主教练。 从入围到决赛，从 48 强到登顶，用真实战绩争夺最高荣誉。",
+   "detail": "一场用代码踢的绿茵盛宴。每位选手编写一份 AI 策略，操控球场上的机器人球员完成智能跑位、精准传球与射门；系统自动匹配对手实时开战，120 秒倒计时结束，进球多者胜出。战术布局、临场应变、团队配合，全部藏在你的代码之中。\n零门槛、全员可参与：不会写代码也没关系，借助 WorkBuddy 用自然语言描述战术思路，由 AI 帮你生成、调试并优化策略代码，人人都能成为球队主教练。\n从入围到决赛，从 48 强到登顶，用真实战绩争夺最高荣誉。",
    "sources": [
     {
      "name": "腾讯云黑客松官网",
