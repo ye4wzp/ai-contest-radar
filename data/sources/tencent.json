@@ -1,23 +1,47 @@
 {
- "updated": "2026-08-23",
+ "updated": "2026-08-24",
  "competitions": [
   {
-   "id": "tch-44",
-   "name": "纯爱战神黑客松",
-   "organizer": "研木加安&LinkGen社区",
-   "official_url": "https://my.feishu.cn/share/base/form/shrcnHsQzaaxGKw5RM46BEci1ze?sessionid=",
+   "id": "tch-40",
+   "name": "腾讯云黑客松 · 游戏开发挑战赛 2026",
+   "organizer": "腾讯云",
+   "official_url": "https://wj.qq.com/s2/26331484/2e19/",
    "type": "黑客松",
    "tags": [
     "腾讯云",
     "官方赛事"
    ],
    "city": "线上",
-   "prize": "27500",
-   "start": "2026-08-01",
-   "deadline": "2026-08-20",
-   "end": "2026-08-23",
-   "description": "你相信真爱是靠绝对的大数据和效率找到的？ or 真爱命中注定 这一切只能用神秘来解释！  不论你是哪一派，我们的目的只有一个，纯爱战神YYDS！ 来参加我们的「纯爱战神黑客松」，找到心动的那个TA or 伟大而存续的dating大业贡献全新的灵感！",
-   "detail": "你相信真爱是靠绝对的大数据和效率找到的？\nor\n真爱命中注定 这一切只能用神秘来解释！\n\n不论你是哪一派，我们的目的只有一个，纯爱战神YYDS！\n来参加我们的「纯爱战神黑客松」，找到心动的那个TA or 伟大而存续的dating大业贡献全新的灵感！",
+   "prize": "100万元",
+   "start": "2026-04-17",
+   "deadline": "2026-07-15",
+   "end": "2026-09-13",
+   "description": "AI CAN DO IT | 腾讯云黑客松游戏极限开发挑战赛正式启动！腾讯云联合腾讯游戏学堂、Tencent WeTech Academy、腾讯互娱社会价值探索中心、腾讯教育，面向全球高校开发者发起一场 AI 驱动的游戏创作挑战。不论你是程序员、设计师还是创意策划，只要你对游戏和 AI 有热情，这里就是你的舞台。  Tencent Cloud Hackathon · Registration Form AI CAN DO IT | **Tencent Cloud Hackathon: Extreme Game Dev Challenge** Tencent Cloud, in partners",
+   "detail": "AI CAN DO IT | 腾讯云黑客松游戏极限开发挑战赛正式启动！腾讯云联合腾讯游戏学堂、Tencent WeTech Academy、腾讯互娱社会价值探索中心、腾讯教育，面向全球高校开发者发起一场 AI 驱动的游戏创作挑战。不论你是程序员、设计师还是创意策划，只要你对游戏和 AI 有热情，这里就是你的舞台。\n\nTencent Cloud Hackathon · Registration Form\nAI CAN DO IT | **Tencent Cloud Hackathon: Extreme Game Dev Challenge**\nTencent Cloud, in partnership with Tencent Institute of Games, Tencent WeTech Academy, Tencent IEG Social Value Exploration Center and Tencent Education, is launching an AI-driven game creation challenge open to university developers worldwide. Whether you are a programmer, designer, or creative producer — if you have a passion for games and AI, this is your stage.",
+   "sources": [
+    {
+     "name": "腾讯云黑客松官网",
+     "url": "https://tch.cloud.tencent.com"
+    }
+   ]
+  },
+  {
+   "id": "tch-41",
+   "name": "腾讯云黑客松 · AI 智能体争霸赛",
+   "organizer": "腾讯云",
+   "official_url": "https://tch.cloud.tencent.com/claw",
+   "type": "黑客松",
+   "tags": [
+    "腾讯云",
+    "官方赛事"
+   ],
+   "city": "线上",
+   "prize": "45万元",
+   "start": "2026-04-15",
+   "deadline": "2026-05-31",
+   "end": "2026-09-18",
+   "description": "腾讯云黑客松·AI智能体争霸赛，以「以赛代训」为核心，联合伙伴共同挖掘AI产品在商业场景中的价值。 赛事重点面向合作伙伴发起作品招募，通过腾讯云伙伴网络带动客户参赛，在陪跑过程中验证CodeBuddy、ClawPro、WorkBuddy的能力，完成从体验到转化的全链路。 双赛道（Skill + Agent）、五大赛区路演、全程激励，确保伙伴与客户持续互动，实现生态共赢。",
+   "detail": "腾讯云黑客松·AI智能体争霸赛，以「以赛代训」为核心，联合伙伴共同挖掘AI产品在商业场景中的价值。\n赛事重点面向合作伙伴发起作品招募，通过腾讯云伙伴网络带动客户参赛，在陪跑过程中验证CodeBuddy、ClawPro、WorkBuddy的能力，完成从体验到转化的全链路。\n双赛道（Skill + Agent）、五大赛区路演、全程激励，确保伙伴与客户持续互动，实现生态共赢。",
    "sources": [
     {
      "name": "腾讯云黑客松官网",
@@ -50,30 +74,6 @@
    ]
   },
   {
-   "id": "tch-40",
-   "name": "腾讯云黑客松 · 游戏开发挑战赛 2026",
-   "organizer": "腾讯云",
-   "official_url": "https://wj.qq.com/s2/26331484/2e19/",
-   "type": "黑客松",
-   "tags": [
-    "腾讯云",
-    "官方赛事"
-   ],
-   "city": "线上",
-   "prize": "100万元",
-   "start": "2026-04-17",
-   "deadline": "2026-07-15",
-   "end": "2026-09-13",
-   "description": "AI CAN DO IT | 腾讯云黑客松游戏极限开发挑战赛正式启动！腾讯云联合腾讯游戏学堂、Tencent WeTech Academy、腾讯互娱社会价值探索中心、腾讯教育，面向全球高校开发者发起一场 AI 驱动的游戏创作挑战。不论你是程序员、设计师还是创意策划，只要你对游戏和 AI 有热情，这里就是你的舞台。  Tencent Cloud Hackathon · Registration Form AI CAN DO IT | **Tencent Cloud Hackathon: Extreme Game Dev Challenge** Tencent Cloud, in partners",
-   "detail": "AI CAN DO IT | 腾讯云黑客松游戏极限开发挑战赛正式启动！腾讯云联合腾讯游戏学堂、Tencent WeTech Academy、腾讯互娱社会价值探索中心、腾讯教育，面向全球高校开发者发起一场 AI 驱动的游戏创作挑战。不论你是程序员、设计师还是创意策划，只要你对游戏和 AI 有热情，这里就是你的舞台。\n\nTencent Cloud Hackathon · Registration Form\nAI CAN DO IT | **Tencent Cloud Hackathon: Extreme Game Dev Challenge**\nTencent Cloud, in partnership with Tencent Institute of Games, Tencent WeTech Academy, Tencent IEG Social Value Exploration Center and Tencent Education, is launching an AI-driven game creation challenge open to university developers worldwide. Whether you are a programmer, designer, or creative producer — if you have a passion for games and AI, this is your stage.",
-   "sources": [
-    {
-     "name": "腾讯云黑客松官网",
-     "url": "https://tch.cloud.tencent.com"
-    }
-   ]
-  },
-  {
    "id": "tch-39",
    "name": "Tencent Cloud Hackathon: AI Coding Hackathon Singapore 2026",
    "organizer": "腾讯云",
@@ -98,22 +98,22 @@
    ]
   },
   {
-   "id": "tch-41",
-   "name": "腾讯云黑客松 · AI 智能体争霸赛",
-   "organizer": "腾讯云",
-   "official_url": "https://tch.cloud.tencent.com/claw",
+   "id": "tch-44",
+   "name": "纯爱战神黑客松",
+   "organizer": "研木加安&LinkGen社区",
+   "official_url": "https://my.feishu.cn/share/base/form/shrcnHsQzaaxGKw5RM46BEci1ze?sessionid=",
    "type": "黑客松",
    "tags": [
     "腾讯云",
     "官方赛事"
    ],
    "city": "线上",
-   "prize": "45万元",
-   "start": "2026-04-15",
-   "deadline": "2026-05-31",
-   "end": "2026-09-18",
-   "description": "腾讯云黑客松·AI智能体争霸赛，以「以赛代训」为核心，联合伙伴共同挖掘AI产品在商业场景中的价值。 赛事重点面向合作伙伴发起作品招募，通过腾讯云伙伴网络带动客户参赛，在陪跑过程中验证CodeBuddy、ClawPro、WorkBuddy的能力，完成从体验到转化的全链路。 双赛道（Skill + Agent）、五大赛区路演、全程激励，确保伙伴与客户持续互动，实现生态共赢。",
-   "detail": "腾讯云黑客松·AI智能体争霸赛，以「以赛代训」为核心，联合伙伴共同挖掘AI产品在商业场景中的价值。\n赛事重点面向合作伙伴发起作品招募，通过腾讯云伙伴网络带动客户参赛，在陪跑过程中验证CodeBuddy、ClawPro、WorkBuddy的能力，完成从体验到转化的全链路。\n双赛道（Skill + Agent）、五大赛区路演、全程激励，确保伙伴与客户持续互动，实现生态共赢。",
+   "prize": "27500",
+   "start": "2026-08-01",
+   "deadline": "2026-08-20",
+   "end": "2026-08-23",
+   "description": "你相信真爱是靠绝对的大数据和效率找到的？ or 真爱命中注定 这一切只能用神秘来解释！  不论你是哪一派，我们的目的只有一个，纯爱战神YYDS！ 来参加我们的「纯爱战神黑客松」，找到心动的那个TA or 伟大而存续的dating大业贡献全新的灵感！",
+   "detail": "你相信真爱是靠绝对的大数据和效率找到的？\nor\n真爱命中注定 这一切只能用神秘来解释！\n\n不论你是哪一派，我们的目的只有一个，纯爱战神YYDS！\n来参加我们的「纯爱战神黑客松」，找到心动的那个TA or 伟大而存续的dating大业贡献全新的灵感！",
    "sources": [
     {
      "name": "腾讯云黑客松官网",
