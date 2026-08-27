@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-26",
+ "updated": "2026-08-27",
  "competitions": [
   {
    "id": "mlh-events-mlh-com-events-14510-midnight-hackathon-august",
@@ -324,16 +324,16 @@
    ]
   },
   {
-   "id": "mlh-hackumbc-tech",
-   "name": "hackUMBC",
+   "id": "mlh-www-owlhacks-com",
+   "name": "OwlHacks",
    "organizer": "MLH 认证",
-   "official_url": "https://hackumbc.tech/",
+   "official_url": "https://www.owlhacks.com/",
    "type": "黑客松",
    "tags": [
     "MLH",
     "国际"
    ],
-   "city": "Baltimore, US",
+   "city": "Philadelphia, US",
    "prize": null,
    "start": "2026-09-26",
    "deadline": "2026-09-26",
@@ -342,7 +342,7 @@
    "sources": [
     {
      "name": "MLH",
-     "url": "https://hackumbc.tech/"
+     "url": "https://www.owlhacks.com/"
     }
    ]
   },
@@ -370,16 +370,16 @@
    ]
   },
   {
-   "id": "mlh-www-owlhacks-com",
-   "name": "OwlHacks",
+   "id": "mlh-hackumbc-tech",
+   "name": "hackUMBC",
    "organizer": "MLH 认证",
-   "official_url": "https://www.owlhacks.com/",
+   "official_url": "https://hackumbc.tech/",
    "type": "黑客松",
    "tags": [
     "MLH",
     "国际"
    ],
-   "city": "Philadelphia, US",
+   "city": "Baltimore, US",
    "prize": null,
    "start": "2026-09-26",
    "deadline": "2026-09-26",
@@ -388,7 +388,7 @@
    "sources": [
     {
      "name": "MLH",
-     "url": "https://www.owlhacks.com/"
+     "url": "https://hackumbc.tech/"
     }
    ]
   },
@@ -416,29 +416,6 @@
    ]
   },
   {
-   "id": "mlh-rowdyhacks-org",
-   "name": "Rowdy Hacks",
-   "organizer": "MLH 认证",
-   "official_url": "https://rowdyhacks.org",
-   "type": "黑客松",
-   "tags": [
-    "MLH",
-    "国际"
-   ],
-   "city": "San Antonio, US",
-   "prize": null,
-   "start": "2026-10-03",
-   "deadline": "2026-10-03",
-   "end": "2026-10-04",
-   "description": "MLH（Major League Hacking）官方认证黑客松，开赛前均可报名。",
-   "sources": [
-    {
-     "name": "MLH",
-     "url": "https://rowdyhacks.org"
-    }
-   ]
-  },
-  {
    "id": "mlh-www-hackdearborn-org",
    "name": "Hack Dearborn 5: Conjure Reality",
    "organizer": "MLH 认证",
@@ -458,6 +435,29 @@
     {
      "name": "MLH",
      "url": "https://www.hackdearborn.org/"
+    }
+   ]
+  },
+  {
+   "id": "mlh-rowdyhacks-org",
+   "name": "Rowdy Hacks",
+   "organizer": "MLH 认证",
+   "official_url": "https://rowdyhacks.org",
+   "type": "黑客松",
+   "tags": [
+    "MLH",
+    "国际"
+   ],
+   "city": "San Antonio, US",
+   "prize": null,
+   "start": "2026-10-03",
+   "deadline": "2026-10-03",
+   "end": "2026-10-04",
+   "description": "MLH（Major League Hacking）官方认证黑客松，开赛前均可报名。",
+   "sources": [
+    {
+     "name": "MLH",
+     "url": "https://rowdyhacks.org"
     }
    ]
   },
@@ -531,29 +531,6 @@
    ]
   },
   {
-   "id": "mlh-hacknc-com",
-   "name": "HackNC",
-   "organizer": "MLH 认证",
-   "official_url": "https://hacknc.com/",
-   "type": "黑客松",
-   "tags": [
-    "MLH",
-    "国际"
-   ],
-   "city": "Chapel Hill, US",
-   "prize": null,
-   "start": "2026-10-09",
-   "deadline": "2026-10-09",
-   "end": "2026-10-11",
-   "description": "MLH（Major League Hacking）官方认证黑客松，开赛前均可报名。",
-   "sources": [
-    {
-     "name": "MLH",
-     "url": "https://hacknc.com/"
-    }
-   ]
-  },
-  {
    "id": "mlh-hack-sbcs-io",
    "name": "SBUHacks",
    "organizer": "MLH 认证",
@@ -573,6 +550,29 @@
     {
      "name": "MLH",
      "url": "https://hack.sbcs.io/"
+    }
+   ]
+  },
+  {
+   "id": "mlh-hacknc-com",
+   "name": "HackNC",
+   "organizer": "MLH 认证",
+   "official_url": "https://hacknc.com/",
+   "type": "黑客松",
+   "tags": [
+    "MLH",
+    "国际"
+   ],
+   "city": "Chapel Hill, US",
+   "prize": null,
+   "start": "2026-10-09",
+   "deadline": "2026-10-09",
+   "end": "2026-10-11",
+   "description": "MLH（Major League Hacking）官方认证黑客松，开赛前均可报名。",
+   "sources": [
+    {
+     "name": "MLH",
+     "url": "https://hacknc.com/"
     }
    ]
   },
