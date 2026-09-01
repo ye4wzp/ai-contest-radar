@@ -205,5 +205,116 @@
     "url": "https://tch.cloud.tencent.com"
    }
   ]
+ },
+ {
+  "detail": "# 🚀 AgentCofounder Hackathon: Kickoff Event\n\n## 1. 比赛简介\nAgentCofounder Hackathon 是由 Stockholm AI 主办的一场开源黑客马拉松活动。该活动旨在建立一个多智能体 AI 系统，将原始的创业想法转化为实际可工作的原型。比赛的目标是吸引开发者、团队和对此感兴趣的人士，共同构建一个能够提供全天候支持、不断产生新想法、将想法转化为代码、制作产品、营销、销售、支持并记账的“虚拟联合创始人”。\n\n**背景：**\n随着人工智能技术的快速发展，多智能体系统在各个领域展现出巨大的潜力。AgentCofounder Hackathon 旨在推动这一领域的发展，并为参与者提供一个实践和展示自己技能的平台。\n\n**目的：**\n- 培养和促进多智能体系统的开发和应用。\n- 吸引全球开发者共同参与，共同解决实际问题。\n- 为参与者提供一个展示自己技能和创意的机会。\n\n**主要内容：**\n- 参与者将围绕多智能体系统进行开发，将原始创业想法转化为实际可工作的原型。\n- 活动包括介绍挑战、技术栈、工具和起始代码库，以及与参与者、导师和 Stockholm AI 团队的交流。\n\n## 2. 时间安排\n- **活动时间：** 2023年8月17日星期一，17:30 - 19:00 GMT+2\n- **地点：** Epicenter, Stockholm\n\n## 3. 奖金\n- **最终入围者：** 将获得独家门票参加投资者日（200名来自欧洲的投资者）以及在 Nordic Tech Week 主舞台前向 10,000 名观众进行展示的机会。\n- **冠军：** 将获得永恒的荣誉、Wellstreet 的筹资导师以及持续的夸耀权利。\n\n## 4. 要求\n- 参与者需具备一定的编程和人工智能知识。\n- 参与者可以单独参加，也可以组队参加。\n- 参与者需在截止日期前提交自己的作品。\n\n## 5. 重要细节\n- **提交截止日期：** 2023年9月4日，08:00\n- **入围者公布日期：** 2023年9月6日\n- **活动主办方：** Stockholm AI、Nordic Tech Week、DanAds、Wellstreet、Accurate、BergetAI、Epicenter、Svenska AI Fabriken（由 RISE 和 NAISS 运营）",
+  "id": "lumaevt-mBRwaCOCb6ssjKT",
+  "name": "🚀 代理联合创始人黑客松：启动活动",
+  "organizer": "STOCKHOLM AI",
+  "official_url": "https://luma.com/cjgfx089",
+  "type": "黑客松",
+  "tags": [
+   "机器学习/AI",
+   "计算机视觉"
+  ],
+  "city": "中心点，马尔姆斯基兰德加特恩44a，11157斯德哥尔摩，瑞典",
+  "prize": null,
+  "start": "2026-08-17",
+  "deadline": "2026-08-17",
+  "description": "建立斯德哥尔摩为全球人工智能中心",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/lumaevt-mBRwaCOCb6ssjKT"
+   }
+  ]
+ },
+ {
+  "detail": "# Vibe Coding 101: Keep Building! 比赛内容概括\n\n## 1. 比赛简介\n🚀 **比赛概述**：Vibe Coding 101: Keep Building! 是一个面向初学者的研讨会，旨在介绍编码、AI辅助开发和将想法转化为实际项目的过程。无论参与者是否有编码经验或只是对AI工具感兴趣，这个环节将帮助他们自信地迈出第一步。\n\n🎯 **背景**：此研讨会由KrackedDevs Academy与马来西亚技术社区合作举办，旨在通过编码、AI工具、训练营、黑客马拉松和实际学习体验来赋能有抱负的构建者。\n\n✅ **目的**：通过这次活动，参与者将了解AI如何支持开发过程，并使构建数字项目更加容易。\n\n📝 **主要内容**：\n- 学习AI辅助编码的基础\n- 探索适合初学者的工具\n- 获得实际操作经验\n- 了解简单想法如何发展成为真正的数字项目\n\n## 2. 时间安排\n📅 **日期**：10, 17, 24 August 2026\n⏰ **时间**：6:00 PM – 9:00 PM\n📝 **注册**：5:30 PM – 6:00 PM\n\n## 3. 奖金\n💳 **奖金信息**：未提供\n\n## 4. 要求\n📝 **参与者要求**：\n- 参与者应准时到达，以便顺利注册，并自带笔记本电脑/设备参加实操环节。\n\n## 5. 重要细节\n⚠️ **重要提示**：\n- 完成研讨会系列后，参与者将获得电子证书。\n- 活动期间可能拍摄照片和视频用于记录和宣传。参加即表示同意被拍照或录像。\n📍 **地点**：注册后可见具体地点\n🎫 **费用**：RM5（可退还押金）适用。",
+  "id": "lumaevt-IfEb8f2RnHHn2Dv",
+  "name": "节奏编码101：持续构建！",
+  "organizer": "SUNWAY DEALFLOW CLUB (SDFC)、SUNWAY DEALFLOW CLUB、SUNWAY KRACKED DEVS CLUB",
+  "official_url": "https://luma.com/kjij4qnq",
+  "type": "黑客松",
+  "tags": [
+   "新手友好",
+   "机器学习/AI",
+   "教育"
+  ],
+  "city": "马来西亚怡保",
+  "prize": null,
+  "start": "2026-08-17",
+  "deadline": "2026-08-17",
+  "description": "SDFC是一个专注于培训、连接和帮助学生创业者与投资者对接的学生组织。我们为学生举办互动研讨会和有效的路演模拟。",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/lumaevt-IfEb8f2RnHHn2Dv"
+   }
+  ]
+ },
+ {
+  "detail": "# ReverieHacks 学生虚拟黑客马拉松\n\n## 1. 比赛简介 🚀\nReverieHacks 是一项面向学生的虚拟黑客马拉松，旨在提供一个平台，让学生展示他们的创新能力和技术专长。比赛背景是为了激发学生的创造力，培养他们的技术技能，并鼓励他们解决实际问题。比赛目的包括：\n\n- **展示技能**：学生可以展示他们在不同技术领域的专长。\n- **创新思维**：鼓励学生提出创新的想法和解决方案。\n- **团队合作**：通过团队协作，培养学生的沟通和协作能力。\n\n比赛主要内容分为六个赛道，每个赛道都有其独特的挑战：\n\n- **创意马拉松**：团队协作，从想法到完整项目计划。\n- **ML 指令工程**：设计 AI 工作流程，优化特定目的的结果。\n- **软件开发**：设计软件解决方案。\n- **数据马拉松**：使用机器学习和数据分析解决问题。\n- **嵌入式系统**：开发硬件解决方案。\n- **应用开发**：为移动设备开发应用程序。\n\n## 2. 要求 📚\n每个赛道都有具体的要求：\n\n- **创意马拉松**：构建你的想法，确定问题、设计解决方案、确定项目细节，并提交演示视频和项目计划。\n- **ML 指令工程**：构建你的项目，设计 AI 工作流程，并提交 ML 工作流程图、样本、文档。\n- **软件开发**：构建你的项目，创建软件解决方案，并提交代码库、演示视频、文档。\n- **数据马拉松**：构建你的项目，分析数据集，解决问题，并提交代码库、数据集、报告、演示视频。\n- **嵌入式系统**：构建你的项目，设计电路和 PCB，并提交项目文件、固件、演示视频、技术报告。\n- **应用开发**：构建你的想法，开发应用程序，并提交代码库、演示视频、项目文档。\n\n## 3. 重要细节 🤝\n- **赞助商**：黑客马拉松由多家赞助商支持，提供实习机会、现金奖励、产品订阅等。\n- **奖品**：总奖金高达 $208,798，包括实习机会、现金奖励、产品订阅等。\n- **Devpost 成就**：参与黑客马拉松可以获得 Devpost 成就。\n- **评委**：评委团由来自不同领域的专业人士组成。\n- **评判标准**：评判标准包括创新、问题解决、可持续性、用户体验等。\n\n更多信息请访问 [ReverieHacks 网站](https://www.reveriehacks.org/)。",
+  "id": "devpost30198",
+  "name": "梦想黑客2026",
+  "organizer": "REVERIEHACKS",
+  "official_url": "https://reverie-hacks-2026.devpost.com/",
+  "type": "黑客松",
+  "tags": [
+   "机器学习/AI",
+   "教育"
+  ],
+  "city": "线上",
+  "prize": "¥1,503,300",
+  "start": "2026-08-02",
+  "deadline": "2026-08-17",
+  "description": "ReverieHacks学生虚拟黑客马拉松，设有六个赛道：创意马拉松、ML指令工程、软件开发、数据马拉松、嵌入式系统、应用开发，要求学生展示技能，提交项目计划或代码库等。比赛奖金丰厚，评委由专业人士组成，评判标准包括创新、问题解决等。",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/devpost30198"
+   }
+  ]
+ },
+ {
+  "id": "luma50a35b576e0c360eca5eb89436a90993",
+  "name": "黑客员工福利 - 会员+1",
+  "organizer": "FRONTIER TOWER",
+  "official_url": "https://luma.com/hacking-employee-benefits",
+  "type": "AI大模型赛",
+  "tags": [],
+  "city": "9楼附楼995市场街，旧金山，边锋大厦",
+  "prize": null,
+  "start": "2026-08-17",
+  "deadline": "2026-08-17",
+  "description": "小型创始人专属研讨会：如何通过黑客手段提升员工福利，争夺顶尖人才，提高生活质量，打造重量级福利包。学习如何为您的初创公司获得FANG级福利。仅限10席，需审批。",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/luma50a35b576e0c360eca5eb89436a90993"
+   }
+  ]
+ },
+ {
+  "id": "dorahacksiitm-research-agents",
+  "name": "研究代理黑客：构建多智能体AI系统（印度理工学院马德拉斯）",
+  "organizer": "IIT MADRAS",
+  "official_url": "https://dorahacks.io/hackathon/iitm-research-agents",
+  "type": "黑客松",
+  "tags": [
+   "机器学习/AI",
+   "计算机视觉"
+  ],
+  "city": "线上",
+  "prize": "¥700",
+  "start": "2026-08-08",
+  "deadline": "2026-08-17",
+  "description": "加入IIT Madras的9天在线黑客马拉松，构建多智能体AI系统，简化学术研究。解决实际问题，与同行合作，争夺100美元奖金。展示创新解决方案，享受导师指导和社区支持。",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/dorahacksiitm-research-agents"
+   }
+  ]
  }
 ]
