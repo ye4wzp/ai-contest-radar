@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-01",
+ "updated": "2026-09-02",
  "competitions": [
   {
    "id": "tch-40",
@@ -18,6 +18,30 @@
    "end": "2026-09-13",
    "description": "AI CAN DO IT | 腾讯云黑客松游戏极限开发挑战赛正式启动！腾讯云联合腾讯游戏学堂、Tencent WeTech Academy、腾讯互娱社会价值探索中心、腾讯教育，面向全球高校开发者发起一场 AI 驱动的游戏创作挑战。不论你是程序员、设计师还是创意策划，只要你对游戏和 AI 有热情，这里就是你的舞台。  Tencent Cloud Hackathon · Registration Form AI CAN DO IT | **Tencent Cloud Hackathon: Extreme Game Dev Challenge** Tencent Cloud, in partners",
    "detail": "AI CAN DO IT | 腾讯云黑客松游戏极限开发挑战赛正式启动！腾讯云联合腾讯游戏学堂、Tencent WeTech Academy、腾讯互娱社会价值探索中心、腾讯教育，面向全球高校开发者发起一场 AI 驱动的游戏创作挑战。不论你是程序员、设计师还是创意策划，只要你对游戏和 AI 有热情，这里就是你的舞台。\n\nTencent Cloud Hackathon · Registration Form\nAI CAN DO IT | **Tencent Cloud Hackathon: Extreme Game Dev Challenge**\nTencent Cloud, in partnership with Tencent Institute of Games, Tencent WeTech Academy, Tencent IEG Social Value Exploration Center and Tencent Education, is launching an AI-driven game creation challenge open to university developers worldwide. Whether you are a programmer, designer, or creative producer — if you have a passion for games and AI, this is your stage.",
+   "sources": [
+    {
+     "name": "腾讯云黑客松官网",
+     "url": "https://tch.cloud.tencent.com"
+    }
+   ]
+  },
+  {
+   "id": "tch-45",
+   "name": "腾讯云黑客松·中大岭院AI应用大赛 2026",
+   "organizer": "腾讯云、中山大学岭南学院",
+   "official_url": "http://42.193.249.5:3000/",
+   "type": "黑客松",
+   "tags": [
+    "腾讯云",
+    "官方赛事"
+   ],
+   "city": "线上",
+   "prize": "23200",
+   "start": "2026-08-26",
+   "deadline": "2026-09-04",
+   "end": "2026-09-05",
+   "description": "腾讯云黑客松·中大岭院AI应用大赛，针对中山大学岭南学院MDE新生及MBA、EMBA等开展，将于2026年8月24日启动预热并做参赛准备，9月5日开展路演。活动参与队伍12组以上，人数涉及200-300人。  经过专家评委与Workbuddy评委联合评审打分，针对两个赛道分别选择1个冠亚季军队伍，即最终2个获胜队伍。",
+   "detail": "腾讯云黑客松·中大岭院AI应用大赛，针对中山大学岭南学院MDE新生及MBA、EMBA等开展，将于2026年8月24日启动预热并做参赛准备，9月5日开展路演。活动参与队伍12组以上，人数涉及200-300人。\n\n经过专家评委与Workbuddy评委联合评审打分，针对两个赛道分别选择1个冠亚季军队伍，即最终2个获胜队伍。",
    "sources": [
     {
      "name": "腾讯云黑客松官网",
