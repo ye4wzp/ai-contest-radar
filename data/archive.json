@@ -526,5 +526,141 @@
     "url": "https://www.competehub.dev/zh/competitions/luma7b09784d5161f31e4ddd3b721d57b088"
    }
   ]
+ },
+ {
+  "detail": "# 健康黑客会议6：着陆\n\n## 1. 比赛简介\n🚀 **健康黑客会议6：着陆** 是一个专注于提升提案表达能力的会议。该活动旨在帮助参与者准备即将到来的Demo Day提案，强调清晰表达的重要性。会议将探讨如何构建一个强有力的提案，如何在短时间内展示价值，以及如何展示原型或概念，以便评委能够立即理解。\n\n会议背景：随着科技和创新的快速发展，许多有潜力的想法和项目需要通过有效的提案来获得支持和资源。然而，许多优秀的想法因为表达不清而未能得到足够的关注。\n\n会议目的：\n- 帮助参与者理解强有力的提案所需要素。\n- 提升参与者提案的表达能力。\n- 准备即将到来的Demo Day。\n\n主要内容：\n- 强有力的提案需要什么，以及需要删除什么。\n- 评判标准。\n- 亲身体验将在9月构建和展示的平台。\n\n## 2. 时间安排\n📅 8月19日星期三，7:00 - 8:30 GMT-7，通过Zoom平台进行。\n\n## 4. 要求\n✅ 参与者需准备好自己的提案或项目概念。\n✅ 参与者需对提案表达有较高的热情和兴趣。\n\n## 5. 重要细节\n- 会议将通过Zoom平台进行，需提前注册并等待审核。\n- 会议将提供宝贵的机会，让参与者了解Demo Day的要求，并提前做好准备。\n- 会议结束后，参与者将更加明确如何提升自己的提案表达能力。",
+  "id": "luma9805a85af79e2dfa04d7a2353ea7c00e",
+  "name": "健康黑客研讨会第6期：让它落地",
+  "organizer": "VENTURE BUILDER",
+  "official_url": "https://luma.com/akelmz06",
+  "type": "工程开发赛",
+  "tags": [
+   "健康",
+   "通信"
+  ],
+  "city": "线上",
+  "prize": null,
+  "start": "2026-08-19",
+  "deadline": "2026-08-19",
+  "description": "本系列所有内容都为这一刻做准备：Demo Day的提案。好的想法若表达不当会被遗忘，清晰表达的想法会被记住并得到支持。《让提案落地》就是帮你达到这一目标的课程。我们将探讨一个强有力的提案需要什么，如何在几分钟内展示价值，以及如何展示原型或概念以便评委立即理解。然后，我们将亲身体验你将在九月使用来构建和展示的平台，确保当天不会有任何意外。无论你的团队是否已确定，都来参加这次课程。结束时，你将确切了解Demo Day对你的要求以及如何为它做好准备。我们将涵盖：强有力的提案所需内容及需删减的部分，评判标准，以及九月构建和展示时平台的实操演练。",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/luma9805a85af79e2dfa04d7a2353ea7c00e"
+   }
+  ]
+ },
+ {
+  "id": "lumaevt-MVXfi9oqHHaAWNC",
+  "name": "丹阳链上建设者聚会",
+  "organizer": "PERSONAL、SUPERTEAM VIETNAM、SQRDAO",
+  "official_url": "https://luma.com/lytzzee1",
+  "type": "黑客松",
+  "tags": [
+   "区块链",
+   "金融科技"
+  ],
+  "city": "越南·安海",
+  "prize": null,
+  "start": "2026-08-19",
+  "deadline": "2026-08-19",
+  "description": "",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/lumaevt-MVXfi9oqHHaAWNC"
+   }
+  ]
+ },
+ {
+  "id": "luma334c6254d55e52b4ffbf9803ec20bb28",
+  "name": "特工记忆黑客之夜 | Mastra x Elasticsearch",
+  "organizer": "MASTRA AND ELASTIC",
+  "official_url": "https://luma.com/mastra-hack",
+  "type": "AI Agent 挑战赛",
+  "tags": [
+   "机器学习/AI",
+   "区块链",
+   "数据库"
+  ],
+  "city": "旧金山，加利福尼亚州，33号蒙哥马利街",
+  "prize": null,
+  "start": "2026-08-19",
+  "deadline": "2026-08-19",
+  "description": "加入Mastra和Elastic，探索代理内存的动手黑客之夜。大多数AI代理每次对话都从头开始。它们忘记用户告诉过什么，重复失败的提议，失去进度跟踪，有时依赖过时信息而非最新发生的事。在这个黑客之夜，您将构建一个能利用过去信息做出更好当前决策的代理。",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/luma334c6254d55e52b4ffbf9803ec20bb28"
+   }
+  ]
+ },
+ {
+  "id": "devfolio3e7e207ccbc94c33830ffe5d2e403a24",
+  "name": "起源",
+  "organizer": "DEVFOLIO",
+  "official_url": "https://origins.devfolio.co/",
+  "type": "黑客松",
+  "tags": [
+   "机器学习/AI",
+   "区块链",
+   "网络安全"
+  ],
+  "city": "VIT 查伊纳，凯拉姆巴克姆 - 万达鲁尔路，梅拉科塔伊鲁，查伊纳，泰米尔纳德邦，印度",
+  "prize": "¥25,200",
+  "start": "2026-08-18",
+  "deadline": "2026-08-19",
+  "description": "Origins 是由印度计算机学会（CSI）和 VIT Chennai 组织的 24 小时黑客马拉松。它汇集了来自全国的学生创新者、开发者、设计师和问题解决者。参与者将参与编码马拉松，将想法转化为可工作的原型，并与同行、导师和行业专家合作。黑客马拉松是一个创新平台，涵盖了从头脑风暴到展示的全产品构建旅程。无需注册费用，团队由 2 到 4 名成员组成。",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/devfolio3e7e207ccbc94c33830ffe5d2e403a24"
+   }
+  ]
+ },
+ {
+  "id": "lumaevt-7nWTtG8hGM9Hv9Q",
+  "name": "光标AI游戏黑客松",
+  "organizer": "CURSOR LAS VEGAS、US、CHRIS FORD",
+  "official_url": "https://luma.com/cursor-jl0y",
+  "type": "黑客松",
+  "tags": [
+   "游戏",
+   "机器学习/AI"
+  ],
+  "city": "3700 华拉派大道南，拉斯维加斯，NV 89147，美国",
+  "prize": null,
+  "start": "2026-08-19",
+  "deadline": "2026-08-19",
+  "description": "美国拉斯维加斯光标社区活动",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/lumaevt-7nWTtG8hGM9Hv9Q"
+   }
+  ]
+ },
+ {
+  "id": "lumaevt-l9rsyvDHg1cZDGS",
+  "name": "码头 × 布利普构建挑战赛：约斯",
+  "organizer": "PERSONAL、WEB3AMBROSE",
+  "official_url": "https://luma.com/0w9q82yt",
+  "type": "黑客松",
+  "tags": [
+   "区块链",
+   "金融科技",
+   "机器学习/AI"
+  ],
+  "city": "BLOCKFUSE实验室，尼日利亚高原州，费韦，雷菲尔德路，前Limca House，Peakfield学院旁，Jos 930103",
+  "prize": null,
+  "start": "2026-08-10",
+  "deadline": "2026-08-19",
+  "description": "",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/lumaevt-l9rsyvDHg1cZDGS"
+   }
+  ]
  }
 ]
