@@ -662,5 +662,342 @@
     "url": "https://www.competehub.dev/zh/competitions/lumaevt-l9rsyvDHg1cZDGS"
    }
   ]
+ },
+ {
+  "detail": "# Friday Hacks #297: 评估AI代理 & LiquidJS：构建模板引擎 比赛内容概括\n\n## 1. 比赛简介\n**Friday Hacks** 是由 [NUS Hackers](https://www.nushackers.org/?utm_source=luma) 举办的一项定期活动，旨在传播黑客文化和开源软件。该活动每周邀请嘉宾分享他们的技术经验和兴趣。本周的 #Friday Hacks #297 将聚焦于两个主题：评估AI代理和LiquidJS——构建模板引擎。\n\n### 背景\n[NUS Hackers](https://www.nushackers.org/?utm_source=luma) 是一个致力于推广黑客文化和开源软件的学生组织，通过举办各种技术活动，如黑客马拉松、研讨会和技术讲座，为参与者提供学习和交流的平台。\n\n### 目的\n本次活动的目的是：\n- 分享AI代理评估的最新技术和方法。\n- 介绍LiquidJS——一个用于构建模板引擎的开源项目。\n- 促进参与者之间的技术交流和合作。\n\n### 主要内容\n- **演讲1：发布前后评估AI代理**：探讨如何评估AI代理在发布前后的性能和效果。\n- **演讲2：LiquidJS - 构建模板引擎和开源项目**：介绍LiquidJS的功能和特点，以及如何使用它来构建模板引擎。\n\n## 2. 时间安排\n- **日期**：2023年8月21日星期五\n- **时间**：19:00 - 21:00 GMT+8\n\n## 4. 要求\n- 参与者需注册活动以获取具体地点信息。\n- 活动面向所有对技术感兴趣的人士。\n\n## 5. 重要细节\n- 活动由 [NUS Hackers](https://www.nushackers.org/?utm_source=luma) 主办。\n- 地点信息将在注册后提供。\n- 活动将在线上举行，具体平台待定。",
+  "id": "lumac0fa7d7865869db501a3eb0ef988e12a",
+  "name": "周五黑客#297：发布前后如何评估AI代理 & LiquidJS：构建模板引擎 & 培育操作系统项目",
+  "organizer": "NUS HACKERS",
+  "official_url": "https://luma.com/mbkur23f",
+  "type": "AI Agent 挑战赛",
+  "tags": [
+   "机器学习/AI"
+  ],
+  "city": "新加坡",
+  "prize": null,
+  "start": "2026-08-21",
+  "deadline": "2026-08-21",
+  "description": "周五黑客，由NUS黑客组织，是每周一次的活动，邀请嘉宾分享技术经验和兴趣！本周我们有：演讲1：发布前后如何评估AI代理 演讲2：LiquidJS-构建模板引擎和开源项目成长",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/lumac0fa7d7865869db501a3eb0ef988e12a"
+   }
+  ]
+ },
+ {
+  "detail": "# CastleDAO Mixer | Prospective Builders Welcome\n\n## 1. 比赛简介\n🚀 CastleDAO Mixer 是一个专为有意向加入 CastleDAO 的创始人、工程师、运营者和创作者举办的聚会活动。此次活动由 Superteam Ireland 主办，旨在为参与者提供一个了解 CastleDAO 驻留活动内容、交流项目想法的平台。\n\n🌍 背景：CastleDAO 是一个在 Solana 上构建的社区，致力于支持有潜力的项目。此次驻留活动将在 Slane Castle 举办，为期两周，时间为 8 月 24 日至 9 月 6 日。\n\n🎯 目的：通过此次活动，参与者可以认识 CastleDAO 团队，了解驻留活动的具体内容，并就自己的项目进行深入交流。对于有意申请驻留活动的参与者来说，这是一个提前了解并留下印象的好机会。\n\n## 2. 时间安排\n📅 8月21日星期五，9:30 - 18:00 GMT+1\n\n📍 地点：Dogpatch Labs Dublin 1, Ireland\n\n## 3. 要求\n✅ 欲参加活动，请注册报名。\n\n## 4. 重要细节\n🤝 活动将有助于最终驻留选拔，有意向的参与者不要错过。\n\n🛠️ 活动将提供交流机会，参与者可以就自己的项目与 CastleDAO 团队进行深入探讨。\n\n📚 活动结束后，参与者将有机会获得 CastleDAO 驻留活动的选拔资格。",
+  "id": "lumaevt-hUC7U2SH11Tacw0",
+  "name": "城堡DAO混合器 | 欢迎潜在建设者",
+  "organizer": "SUPERTEAM IRELAND、ALEJANDRO GUTIERREZ",
+  "official_url": "https://luma.com/uj4op75k",
+  "type": "黑客松",
+  "tags": [
+   "区块链",
+   "机器学习/AI",
+   "金融科技"
+  ],
+  "city": "狗镇实验室，查克大厦，海关码头，北墙，都柏林，爱尔兰",
+  "prize": null,
+  "start": "2026-08-21",
+  "deadline": "2026-08-21",
+  "description": "超级团队爱尔兰是全球超级团队网络的爱尔兰分会。\n\n我们是一个在Solana上构建的创始人、工程师、运营人员和创作者的社区。",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/lumaevt-hUC7U2SH11Tacw0"
+   }
+  ]
+ },
+ {
+  "detail": "# 天驭星·商业航天创新创业大赛\n\n## 1. 比赛简介\n商业航天与空天信息产业是数字经济和高端制造领域的前沿赛道。本次大赛由北京航天驭星科技股份有限公司联合“上地 UPSIDE”品牌发起，旨在推动航天创新成果的商业化落地。大赛由海淀区人才工作局、海淀区上地街道党工委、办事处联合指导，北京理工大学大湾区创新研究院协办，面向全国高校、科研机构及优质初创企业开放。赛题围绕太空智算、卫星遥感、测控通信、空间操作四大核心前沿赛道，旨在挖掘具备真实落地价值的优质科创项目。\n\n## 2. 时间安排\n- 报名阶段：即日起至2026年8月21日\n- 初审阶段：2026年8月1日至8月21日\n- 复赛阶段：2026年8月26日\n- 总决赛：前2名直通“上地UPSIDE”2026人工智能创新创业大赛总决赛，具体时间与地点根据UPSIDE大会安排确定。\n\n## 3. 奖金\n具体奖励措施及支持政策详见后续发布的官方文件。\n\n## 4. 要求\n- 参赛项目需拥有前瞻性、创新性、自主知识产权。\n- 支持跨学科、跨单位联合组队。\n- 参赛项目或团队具有创新性的技术、产品或经营服务模式，具有较高成长潜力。\n- 参赛项目中所有成员应遵守中华人民共和国宪法及相关法律法规。\n\n## 5. 重要细节\n- 评审维度：项目团队、产品技术、商业模式、市场规模、产业关联。\n- 报名通道：扫描海报中的二维码或访问报名链接。\n- 联系人：黎老师（15811159433）、李老师（15913295015）、张老师（13264445866）。\n- 指导单位：海淀区人才工作局、海淀区上地街道党工委、办事处。\n- 主办单位：北京航天驭星科技股份有限公司。\n- 协办单位：北京理工大学大湾区创新研究院。\n- 支持单位：HICOOL一站式创业生态平台、上地科创服务中心。",
+  "id": "urls6afa3254097bdd4b14aeaf2566e8b016",
+  "name": "天驭星·商业航天创新创业大赛",
+  "organizer": "北京航天驭星科技股份有限公司",
+  "official_url": "https://mp.weixin.qq.com/s/ESb3IgPKNH6LaBCS4QtroA",
+  "type": "工程开发赛",
+  "tags": [
+   "机器学习/AI",
+   "计算机视觉"
+  ],
+  "city": "江苏",
+  "prize": null,
+  "start": "2026-08-01",
+  "deadline": "2026-08-21",
+  "description": "商业航天与空天信息产业是当前数字经济、高端制造领域极具战略价值的前沿赛道，空天信息、人工智能、遥感、通信多技术融合更是产业落地的核心突破口。2026年8月，北京航天驭星科技股份有限公司联合“上地 UPSIDE”品牌发起的航天驭星・商业航天创新创业大赛正式启动！",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/urls6afa3254097bdd4b14aeaf2566e8b016"
+   }
+  ]
+ },
+ {
+  "detail": "$14",
+  "id": "urls9d3d25a7ff8df415d4f343833edfe083",
+  "name": "2026中韩创业大赛",
+  "organizer": "韩国中小风险企业部（MINISTRY OF SMES AND STARTUPS、MSS）；启迪控股",
+  "official_url": "https://mp.weixin.qq.com/s/RkZta2iboGt-HBNEs4KoEw",
+  "type": "工程开发赛",
+  "tags": [
+   "机器学习/AI",
+   "健康"
+  ],
+  "city": "中国",
+  "prize": null,
+  "start": "2026-08-01",
+  "deadline": "2026-08-20",
+  "description": "为深化中韩创新创业交流，促进两国科技项目与产业资源精准对接，由启迪控股与韩国中小风险企业部（Ministry of SMEs and Startups, MSS）联合主办，启迪之星、韩国创业振兴院（KISED）、TUSNEX、广东启迪集团、光明科发集团共同承办的2026中韩创业大赛正式启动中国区招募。",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/urls9d3d25a7ff8df415d4f343833edfe083"
+   }
+  ]
+ },
+ {
+  "detail": "$14",
+  "id": "urls0adcda74b98f506fb5a122346f7c495e",
+  "name": "WORLDPROOF Hackathon × SUSTech-BIO 黑客松",
+  "organizer": "SUSTECH-BIO、GRAND APIC与南方科技大学合成生物学与生物工程社",
+  "official_url": "https://mp.weixin.qq.com/s/xhEta0wE5QLw77FUlH-woA",
+  "type": "黑客松",
+  "tags": [],
+  "city": "南方科技大学",
+  "prize": null,
+  "start": "2026-08-20",
+  "deadline": "2026-08-20",
+  "description": "一个在实验室里表现良好的合成生物系统，进入医院、社区、工厂、农田或自然环境后，还能顺利运行吗？为此，SUSTech-BIO、Grand APiC与南方科技大学合成生物学与生物工程社将共同呈现首届 WORLDPROOF Hackathon——一场面向合成生物真实世界应用的对抗式原型黑客松。",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/urls0adcda74b98f506fb5a122346f7c495e"
+   }
+  ]
+ },
+ {
+  "detail": "# 不设限，才无限！2026“乐创东明”社创大赛招募开启，等你来“创”\n\n## 1. 比赛简介\n🎯 **比赛背景**：由上海市浦东新区物联网协会主办，旨在鼓励和支持社区创新和创业项目。\n✅ **比赛目的**：激发社区创新活力，推动社区经济发展，提升社区居民生活质量。\n🚀 **主要内容**：\n- **赛道介绍**：分为民创赛道、文创赛道和综合赛道，涵盖社区生活服务、文化传承与创新、社区新经济形态等多个领域。\n- **参赛对象**：社区居民、高校毕业生、退役军人、初创及成长型团队、社区应用项目、小微企业及个体工商户等。\n- **赛程安排**：包括预热报名期、初赛、进阶赋能、复赛、决赛和赛后落地等环节。\n\n## 2. 要求\n- 参赛项目需符合社区需求，具有创新性和可行性。\n- 参赛者需具备一定的创业能力和团队协作精神。\n\n## 3. 重要细节\n- 报名时间：即日起至8月10日。\n- 赛事地点：待定。\n- 指导单位：上海市就业促进中心。\n- 主办单位：浦东新区人社局、东明路街道办事处。\n- 承办单位：东明路街道社区事务受理服务中心、汇明心街区发展中心。\n- 支持单位：上海市浦东新区物联网协会。",
+  "id": "urls64074d4d4c78dbc162a1da07dd8c82f9",
+  "name": "不设限，才无限！2026“乐创东明”社创大赛招募开启，等你来“创”",
+  "organizer": "浦东新区人社局、东明路街道办事处",
+  "official_url": "https://mp.weixin.qq.com/s/_n-w--rObsQbmThqd_3N1Q",
+  "type": "工程开发赛",
+  "tags": [
+   "社会公益",
+   "物联网",
+   "教育"
+  ],
+  "city": "上海",
+  "prize": null,
+  "start": "2026-08-01",
+  "deadline": "2026-08-20",
+  "description": "在小说阅读器读本章\n去阅读\n在小说阅读器中沉浸阅读\n\n撰 稿：王 潇\n图 片：程毅翎\n审 核：王 滨\n**免责声明：除非特别说明，本站所载内容、图片来源于互联网、微信公众号等公开渠道，不代表本站观点，仅供参考、交流之目的。转载的稿件版权归原作者或机构所有 。**\n\n![图片](https://mmbiz.qpic.cn/sz_mmbiz_jpg/rzujawx0NAG0hgMEeHPwqHOb1DeEwAXgKvRS23NHhdKG0q0kVibOBjOjNdoCc6zJ5LBsfsuWoibaj0dbBhfaK7Iw/640?wx_fmt=jpeg&from=appmsg&wxfrom=5&",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/urls64074d4d4c78dbc162a1da07dd8c82f9"
+   }
+  ]
+ },
+ {
+  "detail": "# 活动预告｜聚势新程 · 创业江湾——2026\"梦创江湾\"创业大赛\n\n## 1. 比赛简介\n虹口江湾将于2026年7月26日举办“梦创江湾”创业大赛。本次大赛旨在响应国家创新创业号召，激活社区经济，为创业者提供展示和发展的平台。大赛整合产业空间、金融资本、专家导师、社区场景等资源，搭建优质小微项目展示落地平台，以创新激活社区邻里经济。\n\n## 2. 时间安排\n- 赛事报名截止时间：2026年8月10日 17:00\n- 赛前动员会（线上）：2026年7月28日 14:30-15:15\n- 初赛评审：云端路演形式\n- 决赛评审：2026年10月中旬\n\n## 3. 奖金\n- 优胜奖：奖金2000元 + 免费办公场地 + 创业教练 + 用工补贴 + 推荐参加更高层次创业大赛\n- 新星奖：奖金1000元 + 创业教练 + 免费注册服务 + 入驻孵化基地 + 推荐参加更高层次创业大赛\n\n## 4. 要求\n- 企业成长类：截至2026年6月30日，在市场监督管理部门登记注册未满5年的企业或机构，拥有创新性的技术、产品或经营服务模式。\n- 青年创意类：项目第一创始人在2026年6月30日年满16周岁、不超过35周岁，涵盖高校及技工院校在校生、毕业生等青年群体，项目尚未在市场监督管理部门登记注册。\n\n## 5. 重要细节\n- 指导单位：虹口区江湾镇街道办事处、虹口区就业促进中心\n- 主办单位：虹口区江湾镇街道社区服务办公室\n- 承办单位：上海创就教育培训有限公司\n- 协办单位：北中环就业服务工作站、上海市创业指导专家志愿团虹口分团、中国出版蓝桥创意产业园、1876老站文化创意产业园、上海联合数字内容产业园、上海明珠创意产业园\n- 联系人：孙老师：13641792421，丁老师：13621744813",
+  "id": "urlsb2e65bf433ec8504ad8fffa460ae237b",
+  "name": "梦创江湾",
+  "organizer": "虹口区江湾镇街道办事处、虹口区就业促进中心、虹口区江湾镇街道社区服务办公室、上海创就教育培训有限公司、北中环就业服务工作站、上海市创业指导专家志愿团虹口分团、中国出版蓝桥创意产业园、1876老站文化创意产业园、上海联合数字内容产业园、上海明珠创意产业园",
+  "official_url": "https://mp.weixin.qq.com/s/Pl0LiMDiLjNOChIBVP2FLg",
+  "type": "工程开发赛",
+  "tags": [],
+  "city": "虹口江湾",
+  "prize": null,
+  "start": "2026-08-01",
+  "deadline": "2026-08-20",
+  "description": "聚势新程2026年虹口区江湾镇街道创业大赛",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/urlsb2e65bf433ec8504ad8fffa460ae237b"
+   }
+  ]
+ },
+ {
+  "detail": "$14",
+  "id": "urls74bbd51ee9beb042365a0d3cadad4cbf",
+  "name": "第十三届中国青年创青春大赛",
+  "organizer": "共青团中央、商务部、国家卫生健康委、国家税务总局、中共湖南省委、上海市人民政府、湖北省人民政府",
+  "official_url": "https://mp.weixin.qq.com/s/q74o04uDpouT1ISLQ-V8nA",
+  "type": "工程开发赛",
+  "tags": [
+   "教育",
+   "社会公益"
+  ],
+  "city": "线上",
+  "prize": null,
+  "start": "2026-07-20",
+  "deadline": "2026-08-20",
+  "description": "为贯彻落实党的二十大和二十届历次全会精神，深入贯彻习近平总书记关于青年工作的重要思想、关于青年创新创业的重要指示批示精神，全面落实中央经济工作会议部署，进一步弘扬创业精神，强化创新思维，激励引导广大青年敢创业、创成业，以青年创业带动高质量充分就业，激发经济发展的内生动力和创新活力，培育更多青年创业主体助力中国式现代化建设，共青团中央、商务部、国家卫生健康委、国家税务总局和相关省委、省级人民政府定于2026年共同举办第十三届中国青年创青春大赛。",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/urls74bbd51ee9beb042365a0d3cadad4cbf"
+   }
+  ]
+ },
+ {
+  "detail": "$14",
+  "id": "xfyun801",
+  "name": "关于举办2026年AI助残创新创意大赛的公告",
+  "organizer": "中国残联—科大讯飞通用人工智能助残联合实验室",
+  "official_url": "https://challenge.xfyun.cn/topic/info?type=AIADIC-2026",
+  "type": "AI大模型赛",
+  "tags": [
+   "机器学习/AI",
+   "计算机视觉",
+   "社会公益"
+  ],
+  "city": "线上",
+  "prize": "¥50,000",
+  "start": "2026-07-03",
+  "deadline": "2026-08-21",
+  "description": "为深入贯彻习近平总书记关于科技创新和残疾人事业的重要指示精神，进一步落实《关于推进科技助残的指导意见》，持续推动人工智能、具身智能、脑机接口等前沿技术与助残需求深度融合，倡导科技向善理念，助力残疾人共享社会发展成果，中国残联—科大讯飞通用人工智能助残联合实验室决定举办2026年AI助残创新创意大赛",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/xfyun801"
+   }
+  ]
+ },
+ {
+  "id": "luma1929d21642a1b058626c6a3d3fd7d05e",
+  "name": "西雅图RAG与向量存储代理上下文 | 人工智能黑客之夜",
+  "organizer": "UNION.AI",
+  "official_url": "https://luma.com/mcge7o47",
+  "type": "AI Agent 挑战赛",
+  "tags": [
+   "机器学习/AI",
+   "计算机视觉"
+  ],
+  "city": "美国贝尔维尤",
+  "prize": null,
+  "start": "2026-08-20",
+  "deadline": "2026-08-20",
+  "description": "来西雅图与AI开发者一起构建、学习和实验RAG的向量存储，应用于代理应用。本月主题：RAG与代理上下文向量存储。AI Hacknights旨在聚集人们探讨AI话题、构建有趣的项目、互相帮助解决问题并分享所学。每次Hacknight从简短介绍、实际演示和社区讨论开始，然后进行构建。带上笔记本电脑！带来自己的想法，从我们的示例开始，与他人组队，或只是晚上实验。无评委、无奖品、无必需工具。目标是学习、构建并结识其他AI工作者。夜幕降临时，你可以展示你的作品、分享所学或看看别人的成果。你将看到Flyte在演示中的应用。Flyte是由Union维护的开源AI运行时平台，用于构建可扩展、持久和可观察的AI",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/luma1929d21642a1b058626c6a3d3fd7d05e"
+   }
+  ]
+ },
+ {
+  "id": "luma1e288b8075c01c6526bb5f475b8d2fa2",
+  "name": "新Hack社区坎皮纳斯#4",
+  "organizer": "NEWHACK",
+  "official_url": "https://luma.com/newhack-td16",
+  "type": "AI大模型赛",
+  "tags": [
+   "机器学习/AI",
+   "区块链",
+   "社会公益"
+  ],
+  "city": "维维，阿维尼翁·皮埃尔·西蒙·拉普拉斯大道740号 - 技术公园，坎皮纳斯 - 圣保罗州，13069-320，巴西",
+  "prize": null,
+  "start": "2026-08-20",
+  "deadline": "2026-08-20",
+  "description": "三版之后，一点很明确：坎皮纳斯有优秀的人在构建科技未来。是时候迎来第四版NewHack Community Campinas了——这次在Wevy的创业孵化器Hangar Startups。又一个夜晚，聚集那些在创造、创新和推动帕乌斯塔州内科技生态系统的专业人士。一个交流思想、加强联系、继续建设这个不断成长的社区的机会，现在在坎皮纳斯最充满创业气息的地方。如果你来过，就知道期待什么。如果是第一次，做好准备：这里是事情发生的地方。来第四版NewHack Community Campinas，Hangar Startups见。",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/luma1e288b8075c01c6526bb5f475b8d2fa2"
+   }
+  ]
+ },
+ {
+  "id": "unstop1723695",
+  "name": "回声球：现在对话式AI黑客松",
+  "organizer": null,
+  "official_url": "https://unstop.com/hackathons/echosphere-agora-conversational-ai-hackathon-knotic-1723695",
+  "type": "黑客松",
+  "tags": [
+   "机器学习/AI",
+   "语音技能"
+  ],
+  "city": "线上",
+  "prize": null,
+  "start": "2026-07-24",
+  "deadline": "2026-08-21",
+  "description": "EchoSphere：Agora 对话式 AI 黑客马拉松是一个混合型 AI 黑客马拉松，开发者、学生、初创公司和 AI 爱好者合作，使用 Agora 对话式 AI 构建实时对话式 AI 应用。黑客马拉松专注于创建能够进行自然对话、处理中断、记住上下文、调用外部工具并在实时中采取有意义行动的语音原生 AI 体验。参与者可以选择各种现实世界的问题陈述或开发创新解决方案。活动面向 2 到 4 人的团队，并提供 3000 美元的奖金池，包括现金奖励和获奖者的证书。注册截止日期为 2026 年 8 月 26 日上午 11:30。",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/unstop1723695"
+   }
+  ]
+ },
+ {
+  "id": "devpost30547",
+  "name": "漫步",
+  "organizer": "KIT",
+  "official_url": "https://rampamble.devpost.com/",
+  "type": "黑客松",
+  "tags": [
+   "机器学习/AI",
+   "社会公益"
+  ],
+  "city": "KIT主楼",
+  "prize": "¥360,000",
+  "start": "2026-07-22",
+  "deadline": "2026-08-20",
+  "description": "2026年Rampamble黑客马拉松，面向全球开发者、设计师等，以“创新、构建、影响”为主题，涵盖人工智能、网页开发等领域。7月1日开始报名，8月2日截止提交，评审标准包括创新、技术复杂性等。奖金丰厚，奖品包括现金和Devpost成就。",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/devpost30547"
+   }
+  ]
+ },
+ {
+  "id": "lumaevt-Gd6DovWCMe6Ooiq",
+  "name": "黑客揭秘——速成课",
+  "organizer": "COINFEST ASIA",
+  "official_url": "https://luma.com/whatthehack",
+  "type": "黑客松",
+  "tags": [
+   "区块链",
+   "金融科技",
+   "教育"
+  ],
+  "city": "Coinfest亚洲，5524+QR，乌古山，库塔南，巴厘岛巴登县，印度尼西亚80361",
+  "prize": null,
+  "start": "2026-08-21",
+  "deadline": "2026-08-21",
+  "description": "世界加密货币节 ☀️ 巴厘岛，印度尼西亚 | 2026年8月20-21日",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/lumaevt-Gd6DovWCMe6Ooiq"
+   }
+  ]
+ },
+ {
+  "id": "luma65ff66a6e8a10f77cb77d05a4af2ad9c",
+  "name": "从表格混乱到单一真相来源：Softr与事件运营AI黑客松",
+  "organizer": "SOFTR.IO",
+  "official_url": "https://luma.com/softr-hackathon-london-aug",
+  "type": "黑客松",
+  "tags": [
+   "机器学习/AI",
+   "低代码/无代码"
+  ],
+  "city": "伦敦黄楼，英国",
+  "prize": null,
+  "start": "2026-08-20",
+  "deadline": "2026-08-20",
+  "description": "您的供应商列表在一个电子表格中，赞助状态在另一个，预算在第三个。入职文档自启动以来无人打开。真正的状况——现在实际发生的事情——存在于您的收件箱或某人的脑海中。这不是一个数据问题，而是散布在每个团队接触的工具中的上百个小问题。这就是为什么供应商合同会遗漏，赞助成果会错过，“X的最新进展”变成了一场五分钟的搜索。这个黑客马拉松就是为了解决这个问题。不是通过给你另一个工具添加到堆栈中——而是将你已有的所有东西集中在一个地方，并变成一个整个团队可以真正信赖的单个应用程序。我们不是在构建下一个Cvent、Bizzabo或Accelevents。它们拥有面向参会者的体验。我们正在构建其下的系统：团队每天",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/luma65ff66a6e8a10f77cb77d05a4af2ad9c"
+   }
+  ]
  }
 ]
