@@ -20,7 +20,10 @@ def load_prev() -> list:
     if not f.exists():
         return []
     raw = re.sub(r"^window\.__DATA__ = |;\s*$", "", f.read_text())
-    return json.loads(raw)["competitions"]
+    prev = json.loads(raw)["competitions"]
+    for c in prev:  # 跨源合并每次都从新鲜源重做，历史条目只保留自身来源
+        c["sources"] = c["sources"][:1]
+    return prev
 
 
 def main():
@@ -36,11 +39,15 @@ def main():
         final = c.get("end") or c.get("deadline")
         return c.get("featured") or not final or final >= cutoff
 
-    merged, keys = [], {}
+    merged, keys, ids = [], {}, set()
     for c in manual + [x for x in scraped + prev if alive(x)]:
+        if c["id"] in ids:
+            continue
+        ids.add(c["id"])
         k = norm(c["name"])
+        # 子串合并要求双方都够长，否则「黑客马拉松」这类泛称会吞掉所有含它的赛事
         dup = keys.get(k) or next(
-            (keys[e] for e in keys if len(k) > 8 and (k in e or e in k)), None
+            (keys[e] for e in keys if len(k) > 8 and len(e) > 8 and (k in e or e in k)), None
         )
         if dup:
             dup["sources"] += [s for s in c["sources"] if s not in dup["sources"]]

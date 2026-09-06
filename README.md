@@ -7,6 +7,7 @@
 ## 数据管线
 
 ```bash
+pip install -r scripts/requirements.txt   # patchright；另需本机装有 Google Chrome
 cd scripts
 python3 fetch_competehub.py 50   # AI赛事通       -> data/sources/competehub.json
 python3 fetch_tencent.py         # 腾讯云黑客松官网 -> data/sources/tencent.json
@@ -15,6 +16,8 @@ cd .. && python3 scripts/build_data.py
 # 累积合并全部源 + manual.json 并去重 -> data/data.js；结束超 14 天的赛事移入 data/archive.json
 ```
 
+- AI赛事通站点有 Cloudflare 人机挑战：首次 403 时由 patchright 驾驭有头 Chrome 过一次挑战并复用 `cf_clearance`，
+  其余请求仍走 urllib；CI 里跑在 `xvfb-run` 下。任一源抓取失败只告警，`build_data` 沿用上次已提交的源文件。
 - `data/manual.json`：手工维护的官方重点赛事（`featured: true`），条目 schema 与抓取结果一致。
 - 日期字段：`start` 开始、`deadline` **报名截止**（拿不到就留空）、`end` 比赛结束；
   `signup`（`open`/`closed`/`upcoming`/`ended`）为源站自报的报名状态，优先于日期判定。

@@ -1,4 +1,4 @@
-"""Scrape mlh.io season events (schema.org microdata) into data/sources/mlh.json."""
+"""Scrape mlh.com season events (schema.org microdata) into data/sources/mlh.json."""
 import re
 import sys
 from datetime import date
@@ -17,7 +17,7 @@ def main():
     today, comps, seen = date.today().isoformat(), [], set()
     for season in SEASONS:
         try:
-            scan(f"https://mlh.io/seasons/{season}/events", today, comps, seen)
+            scan(f"https://www.mlh.com/seasons/{season}/events", today, comps, seen)
         except Exception as e:
             print(f"season {season}: {e}", file=sys.stderr)
     write_source("mlh", comps)

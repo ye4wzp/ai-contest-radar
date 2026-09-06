@@ -14,14 +14,16 @@ jobs:
     env:
       FEISHU_WEBHOOK: ${{ secrets.FEISHU_WEBHOOK }}
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
         with:
           python-version: "3.12"
+      - run: pip install -r scripts/requirements.txt
       - name: Fetch sources
         working-directory: scripts
+        # competehub 有 Cloudflare 挑战，需在 xvfb 中驾驭有头 Chrome 过一次；任一源失败都不中断，沿用上次结果
         run: |
-          python fetch_competehub.py 50
+          xvfb-run -a python fetch_competehub.py 50 || echo "::warning::competehub fetch failed"
           python fetch_tencent.py || echo "::warning::tencent fetch failed"
           python fetch_mlh.py || echo "::warning::mlh fetch failed"
       - run: python scripts/build_data.py
