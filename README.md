@@ -16,7 +16,10 @@ cd .. && python3 scripts/build_data.py
 ```
 
 - `data/manual.json`：手工维护的官方重点赛事（`featured: true`），条目 schema 与抓取结果一致。
-- 状态（报名中/进行中/已结束等）由前端按日期实时计算，无需重新构建。
+- 日期字段：`start` 开始、`deadline` **报名截止**（拿不到就留空）、`end` 比赛结束；
+  `signup`（`open`/`closed`/`upcoming`/`ended`）为源站自报的报名状态，优先于日期判定。
+  AI赛事通的 `closeDate` 是比赛结束日而非报名截止，报名截止另从赛程正文解析。
+- 状态（报名中/报名已结束/进行中/已结束等）由前端按上述字段实时计算，无需重新构建。
 - 收藏：页面上点 ☆ 收藏比赛（存 localStorage），工具栏「★ 只看收藏」过滤。
 
 ## 飞书提醒

@@ -4,26 +4,28 @@
   var MS_DAY = 864e5;
 
   var STATUS = {
-    open:     { label: "报名中",   order: 0 },
-    upcoming: { label: "即将开始", order: 1 },
-    running:  { label: "进行中",   order: 2 },
-    tbd:      { label: "日期待定", order: 3 },
-    ended:    { label: "已结束",   order: 4 }
+    open:     { label: "报名中",     order: 0 },
+    upcoming: { label: "即将开始",   order: 1 },
+    running:  { label: "进行中",     order: 2 },
+    closed:   { label: "报名已结束", order: 3 },
+    tbd:      { label: "日期待定",   order: 4 },
+    ended:    { label: "已结束",     order: 5 }
   };
 
   function parse(d) { return d ? new Date(d + "T00:00:00") : null; }
   function fmt(d) { return d ? d.replace(/-/g, ".") : "待定"; }
   function daysTo(d) { return Math.ceil((parse(d) - TODAY) / MS_DAY); }
 
+  // deadline = 报名截止（未知则为空）；end = 比赛结束；signup = 源站报名状态
   function statusOf(c) {
     var s = parse(c.start), dl = parse(c.deadline), e = parse(c.end);
     var final = e || dl;
-    if (!dl && !s) return "tbd";
-    if (final && TODAY > final) return "ended";
+    if (!s && !dl && !e) return "tbd";
+    if ((final && TODAY > final) || c.signup === "ended") return "ended";
+    if (c.signup === "closed" || (dl && TODAY > dl)) return "closed";
     if (s && TODAY < s) return "upcoming";
-    if (dl && TODAY <= dl) return "open";
-    if (e && TODAY <= e) return "running";
-    return "tbd";
+    if (dl || c.signup === "open") return "open";
+    return e ? "running" : "tbd";
   }
 
   function regionOf(c) {
@@ -48,6 +50,7 @@
   var comps = DATA.competitions.map(function (c) {
     c._status = statusOf(c);
     c._days = c.deadline ? daysTo(c.deadline) : null;
+    c._endDays = c.end ? daysTo(c.end) : null;
     c._region = regionOf(c);
     c._online = (c.city || "").indexOf("线上") >= 0;
     c._prize = prizeValue(c);
@@ -71,8 +74,8 @@
   var weekCount = comps.filter(function (c) { return c._status === "open" && c._days !== null && c._days <= 7; }).length;
   document.getElementById("stats").innerHTML =
     '<div class="stat"><b>' + comps.length + '</b><span>收录赛事</span></div>' +
-    '<div class="stat"><b>' + openCount + '</b><span>报名/进行中</span></div>' +
-    '<div class="stat hot"><b>' + weekCount + '</b><span>7 天内截止</span></div>';
+    '<div class="stat"><b>' + openCount + '</b><span>可报名</span></div>' +
+    '<div class="stat hot"><b>' + weekCount + '</b><span>7 天内报名截止</span></div>';
 
   // ── 筛选 chips ──
   function chips(el, items, key) {
@@ -146,7 +149,7 @@
       if (state.sort === "start") return (a.start || "9999") < (b.start || "9999") ? -1 : 1;
       var d = STATUS[a._status].order - STATUS[b._status].order;
       if (d) return d;
-      return (a.deadline || "9999") < (b.deadline || "9999") ? -1 : 1;
+      return (a.deadline || a.end || "9999") < (b.deadline || b.end || "9999") ? -1 : 1;
     });
   }
 
@@ -154,14 +157,22 @@
   function badge(c) {
     var s = c._status;
     if (s === "open" && c._days !== null && c._days <= 7)
-      return '<span class="badge urgent">急 · ' + (c._days === 0 ? "今天" : c._days + " 天后") + "截止</span>";
+      return '<span class="badge urgent">急 · ' + (c._days === 0 ? "今天" : c._days + " 天后") + "报名截止</span>";
     return '<span class="badge ' + s + '">' + STATUS[s].label + "</span>";
   }
 
+  // 只有拿到真实报名截止才倒计时；否则退化为「距结束」，不做紧迫提示
   function countdown(c) {
-    if (c._status !== "open" || c._days === null) return "";
-    var cls = c._days > 30 ? " far" : "";
-    return '<span class="countdown' + cls + '">D-' + c._days + "</span>";
+    if (c._status === "open" && c._days !== null)
+      return '<span class="countdown' + (c._days > 30 ? " far" : "") + '">报名 D-' + c._days + "</span>";
+    if (c._endDays !== null && c._endDays >= 0 && c._status !== "upcoming" && c._status !== "ended")
+      return '<span class="countdown far">结束 D-' + c._endDays + "</span>";
+    return "";
+  }
+
+  function dateLine(c) {
+    var tail = c.deadline ? "报名截止 " + fmt(c.deadline) : c.end ? "结束 " + fmt(c.end) : "待定";
+    return fmt(c.start) + " → " + tail;
   }
 
   function cardHTML(c, i) {
@@ -173,7 +184,7 @@
       (c.organizer ? '<div class="card-org">主办：' + esc(c.organizer) + "</div>" : "") +
       '<div class="card-tags">' + c.tags.slice(0, 4).map(tagBtn).join("") +
       (c.city ? tagBtn(c.city) : "") + "</div>" +
-      '<div class="card-dates"><span>' + fmt(c.start) + " → " + fmt(c.deadline) + "</span>" +
+      '<div class="card-dates"><span>' + dateLine(c) + "</span>" +
       (c.prize ? '<span class="card-prize">' + esc(c.prize) + "</span>" : "") + "</div>" +
       "</article>";
   }
@@ -222,10 +233,10 @@
 
     var byDay = {};
     list.forEach(function (c) {
-      [["deadline", "deadline"], ["start", "start"]].forEach(function (p) {
-        var v = c[p[0]];
-        if (v) (byDay[v] = byDay[v] || []).push({ c: c, kind: p[1] });
-      });
+      function put(v, kind) { if (v) (byDay[v] = byDay[v] || []).push({ c: c, kind: kind }); }
+      put(c.deadline, "deadline");
+      if (!c.deadline) put(c.end, "end");
+      put(c.start, "start");
     });
 
     var first = new Date(y, m, 1), startPad = first.getDay();
@@ -235,14 +246,16 @@
     for (var i = 0; i < startPad; i++) html += '<div class="cal-cell other"></div>';
     for (var d = 1; d <= daysInMonth; d++) {
       var iso = y + "-" + String(m + 1).padStart(2, "0") + "-" + String(d).padStart(2, "0");
-      var items = (byDay[iso] || []).filter(function (x) { return x.kind === "deadline"; })
-        .concat((byDay[iso] || []).filter(function (x) { return x.kind === "start"; }));
+      var day = byDay[iso] || [];
+      var items = ["deadline", "end", "start"].reduce(function (acc, k) {
+        return acc.concat(day.filter(function (x) { return x.kind === k; }));
+      }, []);
       var isToday = parse(iso).getTime() === TODAY.getTime();
       html += '<div class="cal-cell' + (isToday ? " today-cell" : "") + '"><div class="cal-day">' + d + "</div>";
       items.slice(0, 3).forEach(function (x) {
-        html += '<button class="cal-item' + (x.kind === "start" ? " start-mark" : "") + '" data-id="' + x.c.id + '" title="' +
-          esc(x.c.name) + (x.kind === "start" ? "（开始）" : "（截止）") + '">' +
-          (x.kind === "start" ? "始 " : "止 ") + esc(x.c.name) + "</button>";
+        var mark = { deadline: ["止 ", "（报名截止）"], end: ["终 ", "（比赛结束）"], start: ["始 ", "（开始）"] }[x.kind];
+        html += '<button class="cal-item' + (x.kind === "start" ? " start-mark" : x.kind === "end" ? " end-mark" : "") +
+          '" data-id="' + x.c.id + '" title="' + esc(x.c.name) + mark[1] + '">' + mark[0] + esc(x.c.name) + "</button>";
       });
       if (items.length > 3) html += '<div class="cal-more">+' + (items.length - 3) + " 场</div>";
       html += "</div>";
@@ -286,7 +299,9 @@
     var rows = [
       ["状态", badge(c) + " " + countdown(c)],
       ["主办方", esc(c.organizer || "见官方页面")],
-      ["时间", '<span class="mono">' + fmt(c.start) + " → " + fmt(c.deadline) + (c.end && c.end !== c.deadline ? "（决赛/结束 " + fmt(c.end) + "）" : "") + "</span>"],
+      ["报名截止", c.deadline ? '<span class="mono">' + fmt(c.deadline) + "</span>"
+        : '<span class="hint">未获取到，以官方页面为准</span>'],
+      ["赛程", '<span class="mono">' + fmt(c.start) + " → " + fmt(c.end || c.deadline) + "</span>"],
       ["奖金", c.prize ? '<b style="color:var(--vermilion)">' + esc(c.prize) + "</b>" : "见官方页面"],
       ["类型", esc(c.type) + (c.city ? " · " + esc(c.city) : "")],
       ["标签", c.tags.map(tagBtn).join(" ")]

@@ -104,6 +104,7 @@ a { color: var(--vermilion); }
 .badge.upcoming { color: var(--upcoming); }
 .badge.running { color: var(--running); }
 .badge.ended { color: var(--ended); text-decoration: line-through; }
+.badge.closed { color: var(--ended); border-style: dashed; }
 .badge.tbd { color: var(--ink-faint); border-style: dashed; }
 .badge.urgent { background: var(--vermilion); border-color: var(--vermilion); color: #fff; }
 
@@ -142,6 +143,7 @@ a { color: var(--vermilion); }
   white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
 }
 .cal-item.start-mark { background: transparent; color: var(--upcoming); border: 1px solid var(--upcoming); }
+.cal-item.end-mark { background: transparent; color: var(--ink-soft); border: 1px dashed var(--line); }
 .cal-more { font-size: 11px; color: var(--ink-faint); margin-top: 3px; }
 
 /* ── 弹窗 ── */
@@ -161,6 +163,7 @@ a { color: var(--vermilion); }
 .modal-table td { padding: 7px 4px; border-bottom: 1px dashed var(--line); vertical-align: top; }
 .modal-table td:first-child { color: var(--ink-faint); width: 84px; white-space: nowrap; }
 .modal-table .mono { font-family: var(--mono); }
+.modal-table .hint { color: var(--ink-faint); font-size: 12.5px; }
 .modal-desc { font-size: 14px; color: var(--ink-soft); margin: 12px 0 18px; }
 .modal-md { font-size: 13.5px; color: var(--ink-soft); margin: 14px 0 18px; max-height: 340px; overflow-y: auto; padding-right: 6px; }
 .modal-md h4 {

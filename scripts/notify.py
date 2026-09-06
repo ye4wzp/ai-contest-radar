@@ -40,7 +40,8 @@ def main():
 
     lines = []
     for c in sorted(comps, key=lambda x: x.get("deadline") or ""):
-        if not c.get("deadline"):
+        # 只提醒确知的报名截止，且源站未标记报名已结束
+        if not c.get("deadline") or c.get("signup") in ("closed", "ended"):
             continue
         days = (date.fromisoformat(c["deadline"]) - today).days
         if days in REMIND_DAYS:
