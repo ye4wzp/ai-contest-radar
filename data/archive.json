@@ -1516,5 +1516,483 @@
     "url": "https://www.competehub.dev/zh/competitions/lumaevt-33BGJqnfm01AGEq"
    }
   ]
+ },
+ {
+  "id": "tch-44",
+  "name": "纯爱战神黑客松",
+  "organizer": "研木加安&LinkGen社区",
+  "official_url": "https://my.feishu.cn/share/base/form/shrcnHsQzaaxGKw5RM46BEci1ze?sessionid=",
+  "type": "黑客松",
+  "tags": [
+   "腾讯云",
+   "官方赛事"
+  ],
+  "city": "线上",
+  "prize": "27500",
+  "start": "2026-08-01",
+  "deadline": "2026-08-20",
+  "end": "2026-08-23",
+  "description": "你相信真爱是靠绝对的大数据和效率找到的？ or 真爱命中注定 这一切只能用神秘来解释！  不论你是哪一派，我们的目的只有一个，纯爱战神YYDS！ 来参加我们的「纯爱战神黑客松」，找到心动的那个TA or 伟大而存续的dating大业贡献全新的灵感！",
+  "detail": "你相信真爱是靠绝对的大数据和效率找到的？\nor\n真爱命中注定 这一切只能用神秘来解释！\n\n不论你是哪一派，我们的目的只有一个，纯爱战神YYDS！\n来参加我们的「纯爱战神黑客松」，找到心动的那个TA or 伟大而存续的dating大业贡献全新的灵感！",
+  "sources": [
+   {
+    "name": "腾讯云黑客松官网",
+    "url": "https://tch.cloud.tencent.com"
+   }
+  ]
+ },
+ {
+  "detail": "# Dubai Builders — No Pitch, Just Building 比赛内容概括\n\n## 1. 比赛简介\n🚀 **比赛概述**：Dubai Builders — No Pitch, Just Building 是一场非正式的聚会活动，旨在为在迪拜构建项目的创始人、独立黑客、营销人员和工程师提供一个交流的平台。\n\n🌍 **背景**：活动旨在促进迪拜地区科技和创业领域的交流与合作，为参与者提供一个轻松的环境，让他们能够分享自己的项目、遇到的问题以及寻求解决方案。\n\n🎯 **目的**：通过这次活动，主办方希望鼓励创新思维，促进项目之间的交流，并帮助参与者建立专业网络。\n\n**主要内容**：\n- **参与对象**：在迪拜构建项目的创始人、独立黑客、营销人员和工程师。\n- **活动规则**：不推销、不招聘、不销售。只谈论你在做什么和遇到的问题。\n- **活动格式**：到场，拿咖啡或水烟，介绍自己，然后自由交流。随时离开。\n- **活动费用**：免费。自付饮料费。\n\n## 2. 时间安排\n📅 **日期**：2023年8月23日星期日\n🕒 **时间**：16:00 - 18:00 GMT+4\n\n## 3. 奖金\n💳 **奖金信息**：此活动不提供奖金。\n\n## 4. 要求\n📝 **报名要求**：需要审核。你的报名需要主办人审核。\n\n## 5. 重要细节\n📍 **地点**：Traum Kaffee - Dubai Coffee Roasters and German Bakery, Pavillion - Jabal Ali First - Discovery Gardens - Dubai - UAE\n👨‍💻 **主办人**：Hassan Muhammad Younas\n📚 **活动详情**：[活动详情](https://luma.com/discover)\n🤝 **联系方式**：[联系主办人](https://luma.com/user/hassan_m)",
+  "id": "lumaevt-BIH7hKEEYZfpWED",
+  "name": "迪拜建筑者——无推销，只建造",
+  "organizer": "PERSONAL、HASSAN MUHAMMAD YOUNAS",
+  "official_url": "https://luma.com/mscs4kbm",
+  "type": "黑客松",
+  "tags": [
+   "新手友好",
+   "社会公益"
+  ],
+  "city": "特拉姆咖啡 - 迪拜烘焙坊及德国面包店，帕维利翁 - 阿勒马克图姆 - 发现花园 - 迪拜 - 阿联酋",
+  "prize": null,
+  "start": "2026-08-23",
+  "deadline": "2026-08-23",
+  "description": "",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/lumaevt-BIH7hKEEYZfpWED"
+   }
+  ]
+ },
+ {
+  "detail": "$14",
+  "id": "devfolio53d611d90436495dbd3b40034332d8c7",
+  "name": "CodeWars1.0 -> 代码战1.0",
+  "organizer": "DEVFOLIO",
+  "official_url": "https://codewars-2.devfolio.co/",
+  "type": "黑客松",
+  "tags": [
+   "机器学习/AI",
+   "区块链",
+   "网络安全"
+  ],
+  "city": "阿育王工程学院与信息技术学院，斋普尔，阿育王学院路，RIICO工业园区，库卡斯，拉贾斯坦邦，印度",
+  "prize": "¥4,300",
+  "start": "2026-08-22",
+  "deadline": "2026-08-23",
+  "description": "CodeWars1.0是由Hacker’s Unity × Arya College of Engineering & IT（ACEIT）主办的国家级黑客马拉松。这是开发者、设计师、问题解决者和创新者构建有影响力的技术解决方案的机会。黑客马拉松涵盖AI/ML、Web开发、区块链、物联网、网络安全等多个领域。参与者可以期待构建现实世界的科技解决方案，与有才华的个人合作，接受指导，参加技术研讨会，与行业专家建立联系，并争夺5万卢比奖金池。活动定于2026年8月22日至23日在印度库卡斯举行，面向2-4人团队开放。",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/devfolio53d611d90436495dbd3b40034332d8c7"
+   }
+  ]
+ },
+ {
+  "detail": "$14",
+  "id": "devfoliocbcbaf162a984f31b001228a3bececdc",
+  "name": "代码迁移",
+  "organizer": "DEVFOLIO",
+  "official_url": "https://codeshift.devfolio.co/",
+  "type": "黑客松",
+  "tags": [
+   "机器学习/AI",
+   "区块链",
+   "网络安全"
+  ],
+  "city": "阿瑞亚工程学院与信息技术学院，斋普尔，阿瑞亚学院路，RIICO工业区，库卡斯，拉贾斯坦邦，印度",
+  "prize": "¥4,300",
+  "start": "2026-08-22",
+  "deadline": "2026-08-23",
+  "description": "CodeShift 2026黑客马拉松是由 Hacker’s Unity 与阿瑞亚工程学院 & I.T.库卡斯合作举办的24小时线下黑客马拉松。旨在挑战参与者的技术能力和创造力，帮助他们将想法变为现实。活动面向2至4人团队，奖金池为50,000卢比。参与者有机会与合作伙伴公司竞争预就业机会和实习机会，获得孵化支持，获得证书，并与行业领袖建立联系。黑客马拉松将于2026年8月22日至23日在阿瑞亚工程学院 & I.T.库卡斯举行。",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/devfoliocbcbaf162a984f31b001228a3bececdc"
+   }
+  ]
+ },
+ {
+  "detail": "# 爱拼·特种兵黑客松\n\n## 1. 比赛简介\n🚀 **比赛概述**：爱拼·特种兵黑客松是由SeeAI商业创新举办的商业创新活动，旨在激发参赛者用最少的token打造最强的AI产品。活动以“用最少的token，做最强的AI产品”为口号，鼓励参赛团队在两天一夜的极限开发中，以特种兵模式进行高效竞争。\n\n🎯 **背景与目的**：活动旨在推动AI技术的创新应用，鼓励开发者以高效、创新的方式解决实际问题。通过限定token的使用，激发参赛者的创意和优化能力，促进AI技术的实际应用和发展。\n\n📚 **主要内容**：\n- **团队组成**：每组由1-4人组成。\n- **地点**：广东·深圳深圳湾万丽酒店。\n- **时间**：2026年8月22日至23日。\n- **挑战**：使用同等数量的token，在限定时间内开发出最具创新性和实用性的AI产品。\n- **奖励**：近万元奖金、亿万TokeniN、实习机会等。\n\n## 2. 时间安排\n📅 **日期**：2026年8月22日至23日\n📍 **地点**：广东·深圳深圳湾万丽酒店\n\n## 3. 奖金\n💳 **奖金**：近万元奖金、亿万TokeniN、实习机会等\n\n## 4. 要求\n📝 **参赛要求**：\n- 每组由1-4人组成。\n- 参赛者需具备一定的AI技术基础或创新思维。\n- 参赛作品需使用同等数量的token进行开发。\n\n## 5. 重要细节\n🤝 **合作伙伴**：InfoQ极客传媒、超越之路、UibeFriends、Waffoα小饭桌、CSDN G CULIU TECH、飞象·Exploring等。\n📢 **报名方式**：扫描二维码报名，关注清程极智最新公告获取更多信息。",
+  "id": "urls40b16e39d31f25c1a4e4c77f261c5830",
+  "name": "坐标深圳｜爱拼·特种兵黑客松",
+  "organizer": "清程极智",
+  "official_url": "https://mp.weixin.qq.com/s/uDvGxGXTfYiJrpo5iB_IPA",
+  "type": "黑客松",
+  "tags": [],
+  "city": "广东·深圳深圳湾万丽酒店",
+  "prize": null,
+  "start": "2026-08-22",
+  "deadline": "2026-08-23",
+  "description": "用最少的token，做最强的AI产品",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/urls40b16e39d31f25c1a4e4c77f261c5830"
+   }
+  ]
+ },
+ {
+  "detail": "# Road to Devcon - NITK Surathkal 比赛内容概括\n\n## 1. 比赛简介\n🚀 **Road to Devcon - NITK Surathkal** 是一场以“使用以太坊制作私有应用”为主题的结构化项目比赛。活动旨在为参与者提供一个学习和实践区块链技术的平台，特别关注以太坊和隐私保护技术。\n\n比赛背景：\n- 以太坊作为领先的区块链平台，其应用开发日益受到关注。\n- 隐私保护技术在区块链应用中扮演重要角色，尤其是在保护用户数据方面。\n\n比赛目的：\n- 培养参与者对以太坊和区块链技术的兴趣。\n- 提升参与者使用以太坊开发私有应用的能力。\n- 促进区块链技术在各个领域的应用。\n\n主要内容：\n- **三个互动研讨会**：为参与者提供以太坊基础知识、零知识证明和隐私保护SDK的培训。\n- **一周混合黑客马拉松**：参与者将利用所学知识，开发基于以太坊的私有应用。\n\n## 2. 时间安排\n- **活动时间**：Aug 17 - 23, 2026\n- **举办地点**：在线\n\n## 3. 奖金\n💳 比赛奖金为 $300。\n\n## 4. 要求\n- **团队规模**：1 - 3人\n- **注册费用**：无\n\n## 5. 重要细节\n- 参与者需遵循 [行为准则](https://devfolio.co/code-of-conduct)。\n- 所有参与、项目提交和评审将在网上进行。\n- 最后两天将专门为NITK学生在线下举办。\n\n🤝 加入我们的官方WhatsApp群组获取更多信息、团队建设和现场公告：\n[https://chat.whatsapp.com/EN0vnycm3DsL6pDZSLj6VK](https://road-to-devcon-nitk-surathkal.devfolio.co/url)\n\n👨‍💻 更多信息请访问 [Road to Devcon - NITK Surathkal 官方网站](https://road-to-devcon-nitk-surathkal.devfolio.co/overview)。",
+  "id": "devfoliodea350fe852e4dc8a1bcf2e7f38601a9",
+  "name": "通往Devcon之路 - NITK苏拉特卡尔",
+  "organizer": "DEVFOLIO",
+  "official_url": "https://road-to-devcon-nitk-surathkal.devfolio.co/",
+  "type": "黑客松",
+  "tags": [
+   "区块链",
+   "教育",
+   "金融科技"
+  ],
+  "city": "线上",
+  "prize": "¥2,100",
+  "start": "2026-08-17",
+  "deadline": "2026-08-23",
+  "description": "Devcon NITK Surathkal之路是一个混合黑客马拉松，专注于使用以太坊构建私有应用程序。它包括三个面向无区块链知识背景的参与者的互动研讨会，涵盖以太坊基础和隐私保护SDK。黑客马拉松持续一周，最后两天为NITK学生离线，其余时间在线。奖金池包括300美元。",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/devfoliodea350fe852e4dc8a1bcf2e7f38601a9"
+   }
+  ]
+ },
+ {
+  "detail": "# Devin x Claw Collective x Qwen Hackathon 2026: Build with AI Agents\n\n## 1. 比赛简介\nDevin x Claw Collective x Qwen Hackathon 2026 是一场一天内的黑客马拉松，旨在与AI代理一起将想法从概念变为演示。活动由Hoh Jia Da和其他6人主办，于2026年8月23日在马来西亚吉隆坡举行。参与者将有机会探索Qwen3.8、Cognition的SWE-1.7和Devin Fusion等技术，构建产品、自动化工作流程、创建实用工具，并交付真实成果。\n\n**背景：**\n随着人工智能技术的快速发展，Devin AI、Claw Collective（前OpenClaw KL）和Qwen决定联合举办这场黑客马拉松，以鼓励创新和探索AI在各个领域的应用。\n\n**目的：**\n- 鼓励参与者利用AI技术解决实际问题。\n- 促进AI技术的创新和应用。\n- 增强参与者之间的合作与交流。\n\n**主要内容：**\n- 8:45 AM - 检查和团队组建（每队1-4人）\n- 9:00 AM - 开幕式，随后是Devin和OpenClaw研讨会\n- 10:45 AM - 黑客马拉松构建冲刺开始\n- 1:00 PM - 提供午餐\n- 4:00 PM - 项目提交截止\n- 5:00 PM - 决赛演示\n- 6:00 PM - 公布获奖者\n\n## 2. 时间安排\n- 日期：2026年8月23日\n- 时间：9:00 AM - 6:00 PM GMT+8\n\n## 4. 要求\n- 参与者需携带笔记本电脑和充电器。\n- 项目必须有意义地使用所有三个技术合作伙伴：Devin by Cognition、OpenClaw和Qwen。\n- 项目需在活动结束时可以演示。\n\n## 5. 重要细节\n- 活动地点将在活动临近时与批准的参与者分享。\n- 初步评审将辅助AI。\n- 提供食物和饮料。",
+  "id": "luma30593207f1dd4444ae217a4c437be98b",
+  "name": "2026德文x爪子集体x秋文黑客松：与AI构建",
+  "organizer": "HOH JIA DA AND OTHER 6 PEOPLE",
+  "official_url": "https://luma.com/u0lxkpjt",
+  "type": "AI Agent 挑战赛",
+  "tags": [],
+  "city": "吉隆坡，马来西亚",
+  "prize": null,
+  "start": "2026-08-23",
+  "deadline": "2026-08-23",
+  "description": "一天内与AI代理一起黑客马拉松。加入Devin AI、Claw Collective（前OpenClaw KL）和Qwen，从概念到演示，与AI代理一起实现想法。构建产品，自动化工作流程，创建实用工具，交付真实成果。探索Qwen 3.8、Cognition SWE-1.7和Devin Fusion。组队或单独参加，欢迎所有经验水平的人士。",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/luma30593207f1dd4444ae217a4c437be98b"
+   }
+  ]
+ },
+ {
+  "detail": "# 【全球花路】伙伴推荐 | 报名开启：我们办了一场没有评委的黑客松，唯一的裁判是掏钱的用户\n\n## 1. 比赛简介\n🚀 **卖客松** 是一场独特的黑客松活动，旨在将创业者从舞台上的展示者拉回真实世界。这场比赛没有评委，没有投票，没有路演打分，唯一的排名依据是**净收入**：真实付费总额，减去你登记过的投流成本。\n\n**背景**： 许多黑客松和Demo Day中，创业者往往难以分辨观众和评委的评价是否真实，因为“我很喜欢”和“我愿意掏钱”之间存在着巨大的差距。\n\n**目的**： 卖客松希望通过真实的市场反馈，帮助创业者了解产品的真实价值，并提升他们的市场营销能力。\n\n**主要内容**：\n- **时间**： 2026年8月21日至23日\n- **地点**： 杭州\n- **规模**： 50支团队\n- **比赛形式**： 48小时纯线下销售窗口，线上线下渠道同步进行\n- **赛道**： 主赛道（人人可报）和两条专有赛道（Tripo 赛道和AI Financial 赛道）\n- **奖金**： 冠军 ¥20,000，Tripo 最佳 3D 变现奖 ¥10,000，AI Financial 赛道奖金池 ¥10,000\n\n## 2. 时间安排\n📅 2026年8月21日至23日\n\n## 3. 奖金\n💳 冠军 ¥20,000，Tripo 最佳 3D 变现奖 ¥10,000，AI Financial 赛道奖金池 ¥10,000\n\n## 4. 要求\n✅ 产品提前开发好，可以是一个开发完成但是没有多少收入的产品，也可以是一个只是想来预售验证的想法。\n✅ 奖金只是彩头，别把注意力放在它上面；这场比赛真正值钱的，是三天里市场给你的真实反馈。\n✅ 不欢迎将营销整个外包出去。\n\n## 5. 重要细节\n🤝 卖客松追求的是真实，不是“绝对”公平。\n🤝 如果最后的结果证明，提前积累听众（build audience）、经营私域的人更容易赢，那恰恰说明：给自己构建听众，本来就是行之有效的市场手段。\n🤝 对于用恶劣手段进行不正当竞争、或损害他人的行为，立即取消参赛和获奖资格，主办方保留解释权。",
+  "id": "urlsd5b13ff07f0d8f0cd8f16cd487ad261e",
+  "name": "卖客松",
+  "organizer": "主办方未提及",
+  "official_url": "https://mp.weixin.qq.com/s/KYw9EeoJ3GEDnVKey5n2uw",
+  "type": "黑客松",
+  "tags": [
+   "电商/零售",
+   "社会公益"
+  ],
+  "city": "上海",
+  "prize": "¥40,000",
+  "start": "2026-08-21",
+  "deadline": "2026-08-23",
+  "description": "一场把东西卖给顾客的马拉松，全球第一场无评委的销售黑客松。",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/urlsd5b13ff07f0d8f0cd8f16cd487ad261e"
+   }
+  ]
+ },
+ {
+  "detail": "# 「Eazo · 全球青年AI Agent黑客松」比赛内容概括\n\n## 1. 比赛简介\n🚀 这是一场文科生友好、创意导向的国际化AI Agent黑客松，旨在激发全球青年对AI技术的创新应用。比赛以“让一本书鲜活起来”和“Personal Agent”为主题，鼓励参赛者创作出独特的AI体验和个性化智能代理。\n\n比赛背景：随着AI技术的发展，AI Agent的应用场景日益广泛。Eazo平台希望通过此次黑客松，挖掘更多创意和潜力，推动AI Agent在各个领域的应用。\n\n比赛目的：\n- 激发全球青年对AI技术的创新应用\n- 促进AI Agent技术的交流与合作\n- 发现和培养AI领域的优秀人才\n\n主要内容：\n- 线上初赛：8/4 - 8/10\n- 线下复赛：8/16北京&上海，8/17新加坡\n- 线上总决赛：8/22-23（策划中）\n\n## 2. 时间安排\n⏰ 赛事时间线：\n- 线上初赛：8/4 - 8/10\n- 线下复赛：8/16北京&上海，8/17新加坡\n- 线上总决赛：8/22-23（策划中）\n\n## 3. 奖金\n💳 赛事奖项（总奖金池3.3万元）：\n- 总决赛前三名：海内外孵化器优先孵化资格 + 现金奖励（冠军8000元、亚军5000元、季军3000元、创客共鸣奖2000元）\n- 另外，总决赛15支战队，每组1000人民币现金奖金\n- 优秀项目将有机会获得媒体专访与曝光、创业资源对接等增值权益\n\n## 4. 要求\n- 1-4人组队\n- 文科生友好/创意导向/零代码\n- Agent作品入驻Eazo获得更多曝光\n- 每位选手500美金token支持\n\n## 5. 重要细节\n- 赛道命题：\n  - 命题一：Eazo「让一本书鲜活起来」挑战，让一本书变成可以参与的AI体验。\n  - 命题二：Eazo「Personal Agent」挑战，为一个具体的人，做一个刚好够用的Agent。\n- 联合发起方：去探秦‘WAVE、Mixer AI\n- 总冠名赞助商：Eazo\n- 联合主办方：SMUQAI、DpenBuild\n- 钻石合作伙伴：火山引擎华清普智\n- 黄金合作伙伴：跃迁\n- 内容战略伙伴：小红书科技、知乎科技\n- 媒体战略伙伴：动察Beating、ADVEnTURC Wteam H WEKATHON 信睿Labr、云超科技\n- 生态伙伴：词元工坊ondAikerWorld Txo",
+  "id": "urls60ae4d22e9d26ea511a80b355fca20a2",
+  "name": "「Eazo · 全球青年AI Agent黑客松」北京+上海+新加坡同期开赛！",
+  "organizer": "EAZO",
+  "official_url": "https://mp.weixin.qq.com/s/bRHjHLA1VWp-pQ2NhJQP7g",
+  "type": "AI Agent 挑战赛",
+  "tags": [
+   "机器学习/AI",
+   "智能体",
+   "计算机视觉"
+  ],
+  "city": "北京, 上海, 新加坡",
+  "prize": "¥33,000",
+  "start": "2026-07-28",
+  "deadline": "2026-08-23",
+  "description": "这是一场文科生友好、创意导向的国际化AI Agent黑客松！",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/urls60ae4d22e9d26ea511a80b355fca20a2"
+   }
+  ]
+ },
+ {
+  "detail": "# Code Royale 比赛内容概括\n\n## 1. 比赛简介\nCode Royale 是由 D'Code – 竞赛编程协会组织的 Oblivion'26 的旗舰编程竞赛。该比赛旨在挑战参赛者的编程技能、逻辑推理和解决问题的能力。比赛分为两个阶段：在线初赛和线下决赛。\n\n**比赛背景**：Code Royale 是 Oblivion'26 的一部分，一个旨在提供各种学术和文化活动的大学节日。\n\n**比赛目的**：评估参赛者的编程能力、逻辑思维和解决问题的能力。\n\n**主要内容**：\n- **在线初赛**：参赛者将在编码平台上解决基于算法和数据结构的编程问题。\n- **线下决赛**：包括编程挑战赛和 Code Royale 拍卖赛。\n\n## 2. 时间安排\n- **报名截止**：2026年8月11日 11:30 AM\n- **在线初赛**：2026年7月20日 11:31 PM 至 2026年8月26日 07:30 AM\n- **线下决赛**：2026年8月22日 08:30 PM 至 2026年8月23日 04:30 AM\n\n## 3. 奖金\n- **奖金总额**：₹ 30,000 现金\n\n## 4. 要求\n- **参赛资格**：本科生、研究生、工程学生\n- **团队规模**：个人参赛\n\n## 5. 重要细节\n- **比赛地点**：净土子哈大学理工学院，自由印度军队大道，德瓦卡区3号，德瓦卡，德里，110078，西南德里，德里，印度\n- **比赛规则**：个人活动，参赛者需在规定时间内完成编程挑战。\n- **比赛平台**：未指定具体平台，但将在 Unstop 上进行。",
+  "id": "unstop1722239",
+  "name": "荣耀代码",
+  "organizer": null,
+  "official_url": "https://unstop.com/hackathons/code-royale-oblivion26-dcode-nsut-1722239",
+  "type": "黑客松",
+  "tags": [
+   "工程开发"
+  ],
+  "city": "西南北京，印度，新德里，德里，印度\nNetaji Subhas University of Technology，阿扎德·印度军队路，德瓦卡区3号，德瓦卡，德里，110078",
+  "prize": "¥2,600",
+  "start": "2026-07-20",
+  "deadline": "2026-08-23",
+  "description": "Code Royale 是由 D'Code - 南京信息工程大学程序设计竞赛协会组织的两阶段竞赛编程活动，作为 Oblivion'26 节的一部分。黑客马拉松面向本科生和研究生工程学生开放，并提供 30,000 印度卢比的现金奖励。第一阶段是线上编程竞赛，随后是线下决赛，包括编程挑战和代码拍卖。该活动旨在挑战参与者的编程技能、逻辑推理和解决问题的能力。",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/unstop1722239"
+   }
+  ]
+ },
+ {
+  "detail": "$14",
+  "id": "unstop1734263",
+  "name": "DevCrest Buildathon '26\n2026 DevCrest 构建马拉松",
+  "organizer": null,
+  "official_url": "https://unstop.com/hackathons/devcrest-buildathon-26-devcrest-1734263",
+  "type": "黑客松",
+  "tags": [
+   "Web开发",
+   "机器学习/AI"
+  ],
+  "city": "线上",
+  "prize": null,
+  "start": "2026-08-22",
+  "deadline": "2026-08-23",
+  "description": "DevCrest Buildathon '26 是一场为期两天的虚拟黑客马拉松，结合了协作团队开发和个人技术竞赛。活动面向所有具备Web开发（包括前端、后端和数据库基础）实际知识的开发者。黑客马拉松分为两轮：Buildathon 轮次，三人的团队将在6小时内构建一个完整的Web开发MVP；Code Rush 轮次，个人快速编码环节，涵盖各种技术概念。活动定于2026年8月22日和23日举行，报名截止日期为8月20日。",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/unstop1734263"
+   }
+  ]
+ },
+ {
+  "detail": "# 黑客占领普纳\n\n## 比赛简介\n🚀 **黑客占领普纳** 是一场城市范围内的黑客马拉松，旨在聚集开发者、设计师、创始人、创造者和建设者，共同构建未来。这场活动于 2026 年 8 月 22 日至 23 日在印度普纳的 MIT-WPU 大学举行，为期 24 小时。参与者将面临现实世界的挑战，通过与经验丰富的导师和行业专家互动，学习、协作并创新。\n\n### 背景\n该活动由 HackCulture 平台主办，旨在提供一个无观众、无限制的环境，让黑客们一点一点地接管城市，将想法转化为原型，将陌生人变成队友，将雄心勃勃的挑战变成可行的解决方案。\n\n### 目的\n- 促进创新和协作。\n- 提供一个展示创意和技能的平台。\n- 建立行业联系和社区。\n\n### 主要内容\n- 24 小时黑客马拉松。\n- 现实世界挑战。\n- 经验丰富的导师和行业专家。\n- 社区建设和网络。\n\n## 时间安排\n📅 2026年8月22日 – 2026年8月23日\n🕒 上午9:00 – 下午4:00 · IST\n\n## 奖金\n💳 争夺超过 200,000 卢比的奖金池。\n\n## 要求\n🤝 所有参与者都有资格注册。\n\n## 重要细节\n- **团队规模**：3–5人\n- **地点**：MIT WPU University, Survey No, 124, Paud Rd, Rambaug Colony, Kothrud, Pune, Maharashtra 411038, India\n- **官方WhatsApp社区**：[加入社区](https://chat.whatsapp.com/BSScXtc6PfD7wcE7PpFSEM)\n- **注册**：[立即注册](https://hackculture.io/hackathons/register/hackers-occupied-pune)\n- **支持**：[联系活动管理员](contact@genesishacks.com)",
+  "id": "hackculture_hackathons_hackers_occupied_pune",
+  "name": "黑客占领了浦那",
+  "organizer": "GENESIS、HACKCULTURE",
+  "official_url": "https://hackculture.io/hackathons/hackers-occupied-pune",
+  "type": "黑客松",
+  "tags": [
+   "区块链",
+   "机器学习/AI"
+  ],
+  "city": "混合",
+  "prize": "¥17,300",
+  "start": "2026-08-22",
+  "deadline": "2026-08-23",
+  "description": "黑客占领普纳是一场全城黑客马拉松活动，开发者、设计师、创始人、创造者和建设者齐聚一堂，共同创新和构建解决方案。这是一场24小时的活动，鼓励参与者构建、学习、协作和创新。活动聚焦于寻找“建设者心中的创造者”，并庆祝视频创作者和讲故事的人。黑客马拉松包含现实世界的挑战、导师指导和志同道合的社区。参与者可以期待构建创新解决方案，承担高风险问题，并从经验丰富的导师那里学习。这是一场混合型黑客马拉松，主要黑客活动和评审将在普纳的维什瓦卡尔马理工学院线下进行，任何在线部分将另行通知。",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/hackculture_hackathons_hackers_occupied_pune"
+   }
+  ]
+ },
+ {
+  "detail": "# MARKATHON 2026 – 印度最大的营销创新挑战赛\n\n## 1. 比赛简介\n🚀 **比赛概述**：MARKATHON 2026 是一场面向印度大学生的营销创新挑战赛，旨在激发学生的创新思维和营销技能。比赛由 IcyPluto 主办，在基督学院高级研究院（CAIAS）基督纳加尔举行。\n\n🎯 **比赛背景**：随着数字化时代的到来，营销行业正经历着巨大的变革。此次比赛旨在培养学生的创新思维和营销技能，以应对未来营销领域的挑战。\n\n✅ **比赛目的**：\n- 激发学生的创新思维和营销技能。\n- 提供一个展示学生才华的平台。\n- 帮助学生了解营销行业的最新趋势。\n\n📚 **主要内容**：\n- 参与者将获得基于品牌、增长、数字、消费者和商业问题的真实世界营销挑战/案例研究。\n- 比赛包括多个阶段，包括问题解决、策略发展和最终展示。\n\n## 2. 时间安排\n📅 **注册截止日期**：2026年8月20日，上午11:30\n📅 **MARKATHON - 2026**：2026年8月22日，下午8:30\n\n## 3. 奖金\n💳 **奖励与奖品**：\n- 前5名团队将获得独家机会进行预就业面试（PPI）。\n- 所有奖品和证书将在活动结束后30天内发布。\n\n## 4. 要求\n👨‍💻 **资格要求**：\n- 面向来自印度的所有大学生。\n- 参与者可以个人参赛或以2-4人的团队参赛。\n- 鼓励来自不同学术背景和专业的学生参加。\n\n## 5. 重要细节\n🌍 **地点**：基督学院高级研究院（CAIAS）基督纳加尔，胡拉哈利，贝古尔-科帕路，萨克卡尔瓦拉邮政区，胡拉哈利，班加罗尔，卡纳塔克邦 – 560083，印度\n🏥 **团队规模**：1 - 4 名成员\n🤝 **校际团队**：来自不同学院的学生可以组成团队\n🛠️ **跨学科团队**：鼓励来自不同学术背景和专业的学生参加\n📈 **轮次**：比赛包括多个阶段，包括问题解决、策略发展和最终展示",
+  "id": "unstop1734496",
+  "name": "2026年印度最大营销创新挑战赛——MARKATHON",
+  "organizer": null,
+  "official_url": "https://unstop.com/hackathons/markathon-2026-indias-biggest-marketing-innovation-challenge-icypluto-1734496",
+  "type": "黑客松",
+  "tags": [],
+  "city": "基督学院高级研究院（CAIAS）\n基督纳加尔，胡拉哈利，贝古尔-科帕路，萨卡尔瓦拉邮局，胡拉哈利，班加罗尔，卡纳塔克邦 – 560083，印度。\n班加罗尔，卡纳塔克邦，印度",
+  "prize": null,
+  "start": "2026-08-17",
+  "deadline": "2026-08-23",
+  "description": "MARKATHON 2026 是一项面向印度大学生的市场营销创新挑战赛。它是在卡纳塔克邦班加罗尔的基督学院高级研究学院举办的线下活动。黑客马拉松聚焦于现实世界的市场营销挑战，分为多个阶段，包括在线评估和线下决赛。参与者可以个人或1至4人团队参赛。前5名团队将有机会与招聘合作伙伴和参与组织进行预就业面试。该活动面向本科生、研究生以及来自工程、管理、艺术、商业、科学、法律和医学等各个学科的学生。黑客马拉松提供了一个开发市场营销解决方案的机会，并提供了在市场营销领域建立联系和展示技能的机会。",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/unstop1734496"
+   }
+  ]
+ },
+ {
+  "detail": "# One-Day Studio: An AI Creative Hackathon 比赛内容概括\n\n## 1. 比赛简介\n🚀 **One-Day Studio: An AI Creative Hackathon** 是一场专注于AI在视频制作领域的创新应用的比赛。这场黑客马拉松旨在鼓励参与者利用AI技术，开发出能够改变视频制作方式的工具、代理或体验。\n\n**背景**：随着AI技术的快速发展，视频制作领域也迎来了新的变革。生成模型每月都在进步，但围绕它们的流程、工具和产品仍在创新。\n\n**目的**：通过这场比赛，主办方希望激发参与者们的创新思维，推动AI技术在视频制作领域的应用。\n\n**主要内容**：\n- **参赛项目**：视频生成工作流程和管道、AI原生编辑、角色和风格一致性、语音、音乐和声音设计、互动和个性化视频、故事板、制作和后期代理等。\n- **比赛形式**：一天内完成项目，下午5点进行演示。\n- **评委**：创意技术人员、AI研究人员和见过好作品的投资者。\n- **奖项**：最佳工具、最佳故事、最具雄心之作。\n\n## 2. 时间安排\n📅 8月22日星期六，9:00 - 19:00\n\n## 3. 奖金\n💳 奖品包括合作伙伴提供的API和GPU积分。\n\n## 4. 要求\n🤝 参赛者需具备以下条件：\n- 工程师、设计师、电影制作人、创意技术人员和创始人。\n- 不需要是ML专家，最佳团队是构建者和讲述者的组合。\n- 最多4人团队，或单独参加。\n\n## 5. 重要细节\n- **报名**：请注册以查看具体地点。\n- **主办方**：OpenStages，湾区团队，为创始人构建和举办精选活动。\n- **地点**：请注册以查看具体地点。",
+  "id": "lumaevt-Bj1BlIgrzGmZmCv",
+  "name": "一日工作室：AI创意黑客松",
+  "organizer": "OPENSTAGES CALENDAR、OPENSTAGES TEAM",
+  "official_url": "https://luma.com/uqxby9dm",
+  "type": "黑客松",
+  "tags": [
+   "机器学习/AI",
+   "艺术/设计",
+   "计算机视觉"
+  ],
+  "city": "线上",
+  "prize": null,
+  "start": "2026-08-22",
+  "deadline": "2026-08-23",
+  "description": "我们专注于高品质活动，支持初创企业GTM扩张。精选湾区AI x SaaS x 娱乐领域日历。私信我们添加活动。",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/lumaevt-Bj1BlIgrzGmZmCv"
+   }
+  ]
+ },
+ {
+  "detail": "# AntlerVC / Apify / Bolt / N8N Hackathon 比赛内容概括\n\n## 1. 比赛简介\n🚀 **比赛概述**：AntlerVC / Apify / Bolt / N8N Hackathon 是一场专注于初创公司自动化和创新的黑客马拉松。参赛者将利用N8N、Bolt和Apify的工具，为他们的现有初创公司添加一个真实、可工作的功能。\n\n🌍 **背景**：该比赛旨在鼓励初创公司利用自动化技术提升产品功能，同时为最具潜力的项目提供直接与Antler VC进行投资面试的机会。\n\n🎯 **目的**：通过Hackathon，参赛者能够快速实现产品功能的自动化，同时有机会获得风险投资。\n\n## 2. 时间安排\n📅 **日期**：2023年8月22日\n🕒 **时间**：10:00 - 17:00\n📍 **地点**：San Francisco, United States\n\n## 3. 奖金\n💳 **奖金**：获胜团队将获得Antler VC的直接投资面试。\n\n## 4. 要求\n🛠️ **参赛资格**：\n- 初创阶段有现有产品的创始人\n- 欢迎技术和非技术团队\n- 希望在一天内推出真实功能的构建者\n- 寻找首次风险投资对话的初创公司\n- 任何希望将自动化添加到其产品中的人\n\n📋 **所需物品**：\n- 你的笔记本电脑 + 访问你的产品\n- 1-4名团队成员\n- 清晰的自动化想法\n\n## 5. 重要细节\n📈 **日程安排**：\n- 10:00 AM - 开门，咖啡、设置和早期网络\n- 10:30 AM - 欢迎及启动，主持人介绍、活动规则和评判标准\n- 10:35 AM - Antler介绍\n- 10:40 AM - Apify演示\n- 10:45 AM - N8N演示\n- 10:50 AM - Bolt演示\n- 11:00 AM - 构建冲刺开始\n- 3:00 PM - 构建冲刺结束，提交演示视频\n- 3:30 PM - 公司提案 + 演示\n- 4:20 PM - 评判 + 公布获胜者\n- 4:30 PM - 网络和点心\n- 5:00 PM - 活动结束\n\n🤝 **主办方**：Apify、Antler VC、Bolt、N8N\n\n👨‍💻 **技术支持**：Apify 是一个平台，为AI代理和应用程序提供访问网络数据、自动化和现实世界信息的数千个现成工具。",
+  "id": "lumaevt-YBplD1pQjkKDciZ",
+  "name": "鹿角VC / Apify / Bolt / N8N黑客松",
+  "organizer": "APIFY EVENTS、APIFY、PETROS HONG、HELEN PARK、RYAN GREEN、BRIAN GALLAGHER、KAILA LOVE",
+  "official_url": "https://luma.com/apify-v8vw",
+  "type": "黑客松",
+  "tags": [
+   "机器学习/AI",
+   "生产力/效率"
+  ],
+  "city": "旧金山，加州",
+  "prize": null,
+  "start": "2026-08-22",
+  "deadline": "2026-08-23",
+  "description": "与Apify相遇，您的最爱网络数据工具市场。点击上方“订阅”⬆️",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/lumaevt-YBplD1pQjkKDciZ"
+   }
+  ]
+ },
+ {
+  "detail": "# Vibewright 黑客马拉松\n\n## 1. 比赛简介\nVibewright 是一个人工智能辅助的 vibe 编码黑客马拉松，旨在挑战参与者将一个原始想法转化为一个功能原型。与传统的黑客马拉松不同，该活动不仅测试编码能力，更强调团队在时间压力下如何进行创意思考、解决问题、做出架构决策以及有效地使用人工智能工具。\n\n**背景**：随着人工智能的快速发展，人类统治已成为历史，未来属于一个相信完美可以工程化的智能。Vibewright 作为最后一次评估，旨在测试人类在人工智能时代的能力。\n\n**目的**：\n- 激发参与者对人工智能和 vibe 编码的兴趣。\n- 培养团队协作和解决问题的能力。\n- 推动人工智能技术在现实世界中的应用。\n\n**主要内容**：\n- 参与者需在规定时间内将一个原始想法转化为一个功能原型。\n- 活动分为在线第一轮和线下第二轮。\n- 在线第一轮为在线测验，评估参与者对人工智能代理、vibe 编码原则和系统架构的理解。\n- 线下第二轮包括三个试验，要求团队开发原型并展示解决方案。\n\n## 2. 时间安排\n- **在线第一轮**：2026年8月14日，11:30 AM - 2026年8月14日，11:29 AM\n- **线下第二轮**：具体时间待定\n\n## 3. 奖金\n- **奖金池**：₹30,000 现金\n\n## 4. 要求\n- **团队规模**：1 - 4 名成员\n- **参赛资格**：本科生、研究生、工程学生、管理、艺术、商业、科学、法律、医学等领域的专业人士均可参加\n\n## 5. 重要细节\n- **地点**：净土子哈大学技术学院，自由印度军队大道，德瓦卡区3号，德瓦卡，德里，110078，西南德里，德里，印度\n- **报名截止日期**：2026年8月14日，11:29 AM\n- **联系方式**：向组织者发送查询",
+  "id": "unstop1722532",
+  "name": "Vibewright\n维贝莱特",
+  "organizer": null,
+  "official_url": "https://unstop.com/hackathons/vibewright-oblivion26-dcode-nsut-1722532",
+  "type": "黑客松",
+  "tags": [
+   "机器学习/AI",
+   "计算机视觉",
+   "艺术/设计"
+  ],
+  "city": "西南 Delhi，印度，德里，德瓦卡，德瓦卡区3，阿扎德·辛地军队路，Netaji Subhas科技大学，110078",
+  "prize": "¥2,600",
+  "start": "2026-08-13",
+  "deadline": "2026-08-23",
+  "description": "Vibewright 是一个由人工智能辅助的节奏编码黑客马拉松，挑战参与者将原始想法转化为功能性原型。它不是一个传统的编码竞赛，而是专注于团队在时间压力下进行创意、解决问题、做出架构决策和有效使用人工智能工具的能力。该黑客马拉松面向本科生、研究生以及来自工程、管理、艺术、商业、科学、法律和医学等各个学科的学生。活动分为线上和线下两轮，奖金池为₹30,000。线上轮次包括评估人工智能代理、节奏编码原则和系统架构的测验，而线下轮次则涉及开发原型并向评委展示解决方案。",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/unstop1722532"
+   }
+  ]
+ },
+ {
+  "id": "devfolio399cb9a87a16420583d816b6706fe4b7",
+  "name": "复仇者黑客",
+  "organizer": "DEVFOLIO",
+  "official_url": "https://revengershack.devfolio.co/",
+  "type": "黑客松",
+  "tags": [
+   "机器学习/AI",
+   "网络安全",
+   "DevOps"
+  ],
+  "city": "线上",
+  "prize": null,
+  "start": "2026-08-22",
+  "deadline": "2026-08-23",
+  "description": "RevengersHack 2026 是一场面向全印度学生、开发者、设计师和创客的全国性在线黑客马拉松。这是一个多阶段活动，团队通过评估轮次进行竞争，并从行业专业人士那里获得指导。黑客马拉松持续30小时，分为三个阶段：预活动PPT提交、主活动和决赛。参与者可以以2-4人的团队形式参加，活动免费注册。黑客马拉松聚焦于AI与机器学习、网络安全、云与DevOps、区块链与Web3、Web开发以及开放创新等赛道。",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/devfolio399cb9a87a16420583d816b6706fe4b7"
+   }
+  ]
+ },
+ {
+  "id": "hackculture_hackathons_x402_global_challenge_prehack",
+  "name": "x402 全球挑战预黑客",
+  "organizer": "KROWDKRAFT、HACKCULTURE",
+  "official_url": "https://hackculture.io/hackathons/x402-global-challenge-prehack",
+  "type": "黑客松",
+  "tags": [
+   "区块链",
+   "金融科技",
+   "机器学习/AI"
+  ],
+  "city": "创业园区，班加罗尔",
+  "prize": "¥3,600",
+  "start": "2026-08-23",
+  "deadline": "2026-08-23",
+  "description": "x402全球挑战预Hack：BLR版是一次由AlgoBharat在2026年8月23日于班加罗尔Startup Park举办的为期一天的黑客马拉松。该活动旨在为当地构建者提供在x402全球挑战前的领先优势。参与者将有12小时时间构建一个整合x402的项目，奖金池为500美元。黑客马拉松面向1-3人团队，免费报名。无需具备Algorand或区块链的先验经验。",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/hackculture_hackathons_x402_global_challenge_prehack"
+   }
+  ]
+ },
+ {
+  "id": "unstop1721294",
+  "name": "黑客-皇冠",
+  "organizer": null,
+  "official_url": "https://unstop.com/hackathons/hack-4-crown-oblivion26-dcode-nsut-1721294",
+  "type": "黑客松",
+  "tags": [
+   "机器学习/AI",
+   "计算机视觉"
+  ],
+  "city": "西南 Delhi，印度，新德里，德瓦卡区，德瓦卡3区，阿扎德·希德福军路，Netaji Subhas科技大学，邮编110078",
+  "prize": "¥800",
+  "start": "2026-07-20",
+  "deadline": "2026-08-23",
+  "description": "Hack-4-Crown 是 Netaji Subhas 大学技术学院（NSUT）Oblivion'26 活动的一部分，为期 24 小时的黑客马拉松。它面向工程、本科、研究生以及艺术、商业、科学和其他学科的学生开放。黑客马拉松聚焦于软件和全栈开发，参与者需提交基于提供轨道的创新项目想法。活动包括在线想法提交环节和随后的 24 小时离线开发环节。入围团队将获得行业专家的指导。黑客马拉松将为获胜者提供现金奖励和证书。该活动强调创新、技术卓越、团队合作、适应性、有效的时间管理和有影响力的解决问题。",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/unstop1721294"
+   }
+  ]
+ },
+ {
+  "id": "unstop1722249",
+  "name": "创新法庭",
+  "organizer": null,
+  "official_url": "https://unstop.com/hackathons/the-innovators-court-oblivion26-netaji-subhas-university-of-technology-nsut-delhi-1722249",
+  "type": "黑客松",
+  "tags": [
+   "机器学习/AI",
+   "艺术/设计",
+   "开放式"
+  ],
+  "city": "西南德里，新德里，印度\nNetaji Subhas University of Technology, Azad Hind Fauj Marg, Dwarka Sector-3, Dwarka, Delhi, 110078, 南西德里，德里，印度",
+  "prize": "¥600",
+  "start": "2026-07-20",
+  "deadline": "2026-08-23",
+  "description": "创新法庭是一个仅限想法的Hackathon，在德里Netaji Subhas科技大学（NSUT）举办。它邀请参与者识别现实世界问题并提出创新解决方案，无需编码。活动主题为“技术帝国——攀登硅王之座”，鼓励参与者思考领导力、智慧和科技进步。Hackathon分为两轮：在线提交环节，团队展示演示文稿和可选的视觉辅助材料，随后是线下决赛，入围团队向评委团展示解决方案。Hackathon面向本科生、研究生和来自各个学科的学生开放。奖品包括现金奖励和证书。",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/unstop1722249"
+   }
+  ]
+ },
+ {
+  "id": "unstop1722371",
+  "name": "用户体验帝国",
+  "organizer": null,
+  "official_url": "https://unstop.com/hackathons/ux-imperium-oblivion26-netaji-subhas-university-of-technology-nsut-delhi-1722371",
+  "type": "黑客松",
+  "tags": [
+   "艺术/设计",
+   "机器学习/AI"
+  ],
+  "city": "印度德里，西南德里，德瓦卡区3号，德瓦卡，自由印度军队路，纳齐·苏巴斯理工学院，110078",
+  "prize": "¥600",
+  "start": "2026-08-07",
+  "deadline": "2026-08-23",
+  "description": "UX帝国是由D’Code NSUT组织的一项两阶段设计马拉松。黑客松面向本科生、研究生、工程学生以及来自管理、艺术、商业、科学和其他学科的学生开放。活动包括一个数字预选赛，团队有6天时间构建一个可工作的原型和演示文稿。前25-30个团队将晋级到NSUT主校区现场决赛。决赛是一个5-6小时的离线设计冲刺，包含新的挑战和导师评估环节。黑客松提供总奖金₹7,000现金和获奖者证书。该活动旨在推动用户体验和创造性解决问题的边界。",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/unstop1722371"
+   }
+  ]
  }
 ]
