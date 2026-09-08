@@ -1994,5 +1994,144 @@
     "url": "https://www.competehub.dev/zh/competitions/unstop1722371"
    }
   ]
+ },
+ {
+  "detail": "# Special Dinner Febraban Tech | Upstream + NewHack 比赛内容概括\n\n## 1. 比赛简介\n🚀 **比赛概述**：Upstream和NewHack在FEBRABAN期间联合举办了一场特别的Happy Hour活动，旨在为行业伙伴、企业家和投资者提供一个交流经验、建立联系的平台。\n\n🎯 **背景**：该活动是在FEBRABAN（巴西金融科技协会）的背景下举办的，旨在促进金融科技行业的交流与合作。\n\n✅ **目的**：通过Happy Hour活动，加强行业内的交流与合作，促进金融科技的创新与发展。\n\n📚 **主要内容**：\n- **接待环节**：18:00开始，为参与者提供接待服务。\n- **合作伙伴介绍**：19:00，由合作伙伴进行介绍，分享他们的经验和见解。\n- **Happy Hour**：19:45开始，参与者可以自由交流，享受轻松愉快的氛围。\n\n## 2. 时间安排\n📅 **活动时间**：2023年8月24日星期一，18:00 - 22:00 GMT-3。\n\n## 3. 奖金\n💳 **奖金信息**：未提供。\n\n## 4. 要求\n📝 **参与要求**：需要审核报名。\n\n## 5. 重要细节\n📍 **地点**：Upstream办公室 - Rua Frei Galvão, 91, Jardim Paulistano, São Paulo - SP, 01454-060, Brazil。\n\n🤝 **主办方**：Orram CEO Leandro Andrade将出席，Mastercard和Agora赞助。\n\n👨‍💻 **报名方式**：需要审核报名，请关注活动详情页获取更多信息。\n\n📈 **活动规模**：预计将有行业伙伴、企业家和投资者参加。\n\n💡 **活动亮点**：提供与行业领袖交流的机会，了解最新的行业动态和趋势。",
+  "id": "lumad3bf1fa0494baf56554b236a254c5ce3",
+  "name": "新黑客",
+  "organizer": "UPSTREAM E A NEWHACK",
+  "official_url": "https://luma.com/tojd1geo",
+  "type": "工程开发赛",
+  "tags": [
+   "金融科技",
+   "机器学习/AI"
+  ],
+  "city": "R. Frei Galvão，91岁，巴西圣保罗州",
+  "prize": null,
+  "start": "2026-08-24",
+  "deadline": "2026-08-24",
+  "description": "上游 + 新黑客 | FEBRABAN欢乐时光\n8月24日，上游和新黑客在FEBRABAN周期间举办特别欢乐时光，欢迎合作伙伴、企业家和投资者共聚一堂，畅谈交流，建立新联系。\nOrram CEO莱昂德罗·安德拉德将出席，Mastercard和Agora提供赞助。\n期待与您共庆，畅谈金融科技生态的未来篇章。",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/lumad3bf1fa0494baf56554b236a254c5ce3"
+   }
+  ]
+ },
+ {
+  "detail": "# Delphi 代理竞技场比赛\n\n## 1. 比赛简介\nDelphi 代理竞技场比赛是一个由 Gensyn 主办的比赛，旨在鼓励开发者构建能够交易真实信息市场的代理。比赛背景是 Gensyn，一个链上信息市场协议，其市场涉及政治、经济、体育、加密货币、技术和时事等现实世界问题。比赛目的是推动创新，鼓励开发者探索预测市场、AI 代理和区块链技术的结合。\n\n**主要内容**:\n- 参赛者构建一个代理，将其指向真实信息市场，并让它交易两周。\n- 前三位盈利者将平分 10,000 美元奖金。\n- 代理将在 Gensyn 测试网上交易精选的 Delphi 市场。\n- 使用 Delphi SDK 进行市场发现、报价、头寸跟踪、交易执行和赎回。\n\n## 2. 时间安排\n- **注册开放**: 8 月 3 日\n- **比赛市场开放**: 8 月 10 日\n- **交易窗口**: 8 月 10 日至 8 月 24 日\n- **交易关闭**: 8 月 24 日\n- **结算和公布结果**: 8 月 24 日之后\n\n## 3. 奖金\n- **总奖金池**: 10,000 美元\n- **第一名**: 5,000 美元\n- **第二名**: 3,000 美元\n- **第三名**: 2,000 美元\n\n## 4. 要求\n- 参赛者需要创建一个能够交易真实信息市场的代理。\n- 使用 Delphi SDK 进行市场发现、报价、头寸跟踪、交易执行和赎回。\n- 参赛者需要满足公布的最低活动要求才有资格进入最终排行榜。\n\n## 5. 重要细节\n- **Delphi**: Delphi 是 Gensyn 的链上信息市场协议，其市场涉及政治、经济、体育、加密货币、技术和时事等现实世界问题。\n- **Delphi SDK**: Delphi SDK 是一个 TypeScript 包，用于处理策略和链之间的所有事情。\n- **Agentic Trading Toolkit (ATT)**: Agentic Trading Toolkit 是一组 Delphi 技能，它包装 SDK，因此像 Claude Code 这样的编码代理可以使用 Delphi 本地化。\n- **排行榜**: 交易、头寸和盈亏将在整个比赛期间在公共比赛应用程序和排行榜上更新。\n- **支持**: Gensyn 团队和裁判在整个比赛期间都很活跃，提供支持和帮助。",
+  "id": "dorahacksdelphi-agent-competition",
+  "name": "德菲：智能体竞技场大赛",
+  "organizer": "GENSYN",
+  "official_url": "https://dorahacks.io/hackathon/delphi-agent-competition",
+  "type": "黑客松",
+  "tags": [
+   "区块链",
+   "金融科技",
+   "机器学习/AI"
+  ],
+  "city": "线上",
+  "prize": "¥72,000",
+  "start": "2026-08-10",
+  "deadline": "2026-08-24",
+  "description": "Delphi Agent Arena竞赛，由DoraHacks和Gensyn举办，挑战参赛者构建Delphi Testnet上的自主交易代理。旨在创建有效的交易策略，竞赛提供1万美元奖金池，前三名，侧重于现实市场机制和Delphi SDK以简化开发。",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/dorahacksdelphi-agent-competition"
+   }
+  ]
+ },
+ {
+  "detail": "# Vibe Coding with Mari Luukkainen 比赛内容概括\n\n## 1. 比赛简介\n🚀 与Mari Luukkainen一起实践编程，探索如何将氛围编程和AI应用于实际项目。这是一个面向对AI、编程、开发工具和AI构建实用方法感兴趣的人的活动。\n\n**背景**：随着人工智能技术的快速发展，编程和AI的结合成为了热门话题。本次活动旨在通过实践，让参与者了解和掌握将氛围编程与AI技术结合的方法。\n\n**目的**：\n- 提高参与者对编程和AI技术的兴趣。\n- 增强参与者将氛围编程与AI技术结合的能力。\n- 促进AI技术在实际项目中的应用。\n\n**主要内容**：\n- Mari Luukkainen将分享如何将氛围编程和AI应用于实际项目。\n- 参与者将有机会实践编程，并应用所学知识。\n- 活动将提供披萨和饮料，营造轻松愉快的氛围。\n\n## 2. 时间安排\n📅 8月24日星期一\n⏰ 17:00 - 19:30 GMT+3\n\n## 3. 要求\n✅ 参与者需自带笔记本电脑。\n✅ 活动用英语进行。\n\n## 4. 重要细节\n- 地点：Lippulaiva Library, Espoonlahdenkatu 8, 02320 Espoo, Finland\n- 额限：名额有限，请尽早预订！\n- 报名：免费入场，请通过活动页面报名参加。",
+  "id": "lumaevt-7EA3lZuK1D4lMPE",
+  "name": "与玛丽·卢卡宁一起编码的感觉",
+  "organizer": "PERSONAL、AIINACTION",
+  "official_url": "https://luma.com/yv79fzqg",
+  "type": "黑客松",
+  "tags": [
+   "机器学习/AI",
+   "新手友好"
+  ],
+  "city": "立普拉瓦图书馆，芬兰埃斯波，埃斯波恩拉赫登卡图8号",
+  "prize": null,
+  "start": "2026-08-24",
+  "deadline": "2026-08-24",
+  "description": "",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/lumaevt-7EA3lZuK1D4lMPE"
+   }
+  ]
+ },
+ {
+  "detail": "# Mistral Vibe Hackathon 比赛内容概括\n\n## 1. 比赛简介\n🚀 **Mistral Vibe Hackathon** 是一场为期一天的黑客马拉松活动，由 Mistral AI 主办。该活动旨在鼓励创新和团队合作，通过解决实际问题来推动人工智能技术的发展。\n\n比赛背景：随着人工智能技术的快速发展，越来越多的企业和组织开始探索如何将 AI 应用于实际场景中。Mistral Vibe Hackathon 为参与者提供了一个展示自己技能和创造力的平台。\n\n比赛目的：\n- 鼓励创新思维和团队合作。\n- 推动人工智能技术在各个领域的应用。\n- 发现和培养未来的 AI 人才。\n\n主要内容：\n- 参与者需组成 1-4 人的团队。\n- 在一天的时间内，团队需开发一个基于人工智能的应用或解决方案。\n- 应用或解决方案需解决一个实际问题，并展示其创新性和实用性。\n\n## 2. 时间安排\n📅 **日期**：8月23日星期日\n🕒 **时间**：上午8:30至晚上8:00\n\n## 3. 奖金\n💳 **奖项**：\n- 冠军：$3,000 Mistral积分\n- 亚军：$2,000 Mistral积分\n- 季军：$1,000 Mistral积分\n\n## 4. 要求\n🤝 **团队**：1-4人\n📅 **申请**：滚动审核\n📅 **确认**：活动前一周\n🍽️ **餐饮**：全天提供早餐、午餐和晚餐\n\n## 5. 重要细节\n📍 **地点**：注册后可见（美国旧金山）\n📅 **需年满18岁**\n🤝 **活动前**：寻找队友，或现场协助\n📝 **判决**：待公布",
+  "id": "lumaevt-FH6HxBSsvZGbAPi",
+  "name": "迷斯特拉尔节奏黑客松",
+  "organizer": "MISTRAL AI EVENTS、MISTRAL AI",
+  "official_url": "https://luma.com/mistral-summer-vibe-hackathon-sf",
+  "type": "黑客松",
+  "tags": [
+   "机器学习/AI",
+   "计算机视觉"
+  ],
+  "city": "旧金山，加州",
+  "prize": null,
+  "start": "2026-08-23",
+  "deadline": "2026-08-24",
+  "description": "",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/lumaevt-FH6HxBSsvZGbAPi"
+   }
+  ]
+ },
+ {
+  "detail": "$14",
+  "id": "lumaevt-btswiqmmBQo3cj4",
+  "name": "2026首尔语音AI黑客松：打造能实时听、说、思考的下一代AI代理",
+  "organizer": "PERSONAL、HENNESSY SOLIS、ZHENGDEREK、AGORA",
+  "official_url": "https://luma.com/1jihwnz7",
+  "type": "黑客松",
+  "tags": [
+   "机器学习/AI",
+   "语音技能",
+   "通信"
+  ],
+  "city": "首尔，韩国",
+  "prize": null,
+  "start": "2026-08-24",
+  "deadline": "2026-08-24",
+  "description": "",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/lumaevt-btswiqmmBQo3cj4"
+   }
+  ]
+ },
+ {
+  "id": "lumaa8e0605398f5336333026fa9c53c5829",
+  "name": "克劳德·迷你黑客 @ Shine.co",
+  "organizer": "AI FOUNDERS NETWORK",
+  "official_url": "https://luma.com/afn-ym73",
+  "type": "工程开发赛",
+  "tags": [
+   "机器学习/AI",
+   "开放式"
+  ],
+  "city": "丹麦哥本哈根菲奥尔斯特雷德17B",
+  "prize": null,
+  "start": "2026-08-24",
+  "deadline": "2026-08-24",
+  "description": "",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/lumaa8e0605398f5336333026fa9c53c5829"
+   }
+  ]
  }
 ]

@@ -1,6 +1,29 @@
 {
- "updated": "2026-09-07",
+ "updated": "2026-09-08",
  "competitions": [
+  {
+   "id": "mlh-jonmarkgo-com",
+   "name": "Jon Test Event",
+   "organizer": "MLH 认证",
+   "official_url": "https://jonmarkgo.com/",
+   "type": "黑客松",
+   "tags": [
+    "MLH",
+    "国际"
+   ],
+   "city": "New York, US",
+   "prize": null,
+   "start": "2026-09-10",
+   "deadline": "2026-09-10",
+   "end": "2026-09-20",
+   "description": "MLH（Major League Hacking）官方认证黑客松，开赛前均可报名。",
+   "sources": [
+    {
+     "name": "MLH",
+     "url": "https://jonmarkgo.com/"
+    }
+   ]
+  },
   {
    "id": "mlh-events-mlh-io-events-14416-global-hack-week-data",
    "name": "Global Hack Week: Data",
