@@ -2133,5 +2133,140 @@
     "url": "https://www.competehub.dev/zh/competitions/lumaa8e0605398f5336333026fa9c53c5829"
    }
   ]
+ },
+ {
+  "detail": "# 🚀 Miro Hack & Learn | 设计. 创造. 协作.\n\n## 1. 比赛简介\n由 Bruna Miranda 和 Miro Community Team 主办，这是一场面向开发者、创始人、设计师和学生的活动，旨在提供一个平台，让参与者将他们的想法变为现实。活动将聚焦于头脑风暴、用户旅程映射和团队挑战，通过使用 Miro 工具进行实时协作和优先级排序。活动不包含演讲，而是强调交流、学习和协作。\n\n### 背景\nMiro Hack & Learn 活动旨在促进创新思维和团队协作，通过提供一个无障碍的环境，让不同背景的参与者能够共同探讨和实现他们的创意。\n\n### 目的\n- 促进参与者之间的交流和合作。\n- 提供一个实践平台，让参与者将想法转化为可行的解决方案。\n- 增强对 Miro 工具的使用和理解。\n\n### 主要内容\n- 头脑风暴和方案构建。\n- 用户旅程和流程映射。\n- 团队挑战和协作。\n- 分享想法和获取反馈。\n\n## 2. 时间安排\n- 日期：2026年8月25日\n- 时间：16:00 - 18:00 GMT-3\n- 地点：Tero Brasa e Vinho, 巴西维多利亚\n\n## 3. 要求\n- 参与者需具备一定的创意思维和团队协作能力。\n- 无需 Miro 经验，活动开始时将进行简要介绍。\n- 带上热情、问题和想法。\n\n## 4. 重要细节\n- 活动不包含演讲，仅提供交流和协作的机会。\n- 地点：Tero Brasa e Vinho, R. Eugênio Netto, 326 - Praia do Canto, Vitória - ES, 29055-270, Brazil\n- 社交媒体：[Instagram](https://www.instagram.com/luma_hq/)  |  [X](https://x.com/LumaHQ)\n- 下载 App：[下载 App](https://luma.com/app)",
+  "id": "luma933fd62c38bf6575e05f8916ad5ae765",
+  "name": "米罗黑客与学习 | 设计。创造。协作。",
+  "organizer": "BRUNA MIRANDA AND MIRO COMMUNITY TEAM",
+  "official_url": "https://luma.com/5zlcoj5t",
+  "type": "工程开发赛",
+  "tags": [
+   "艺术/设计",
+   "新手友好",
+   "通信",
+   "生产力/效率"
+  ],
+  "city": "维多利亚，巴西",
+  "prize": null,
+  "start": "2026-08-25",
+  "deadline": "2026-08-25",
+  "description": "如果您是产品开发者、想法验证者、用户旅程设计师或技术领域探索者，这场会议适合喜欢将想法变为现实的人。",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/luma933fd62c38bf6575e05f8916ad5ae765"
+   }
+  ]
+ },
+ {
+  "detail": "# 工业AI黑客松\n\n## 1. 比赛简介\n🚀 **背景**：工业AI黑客松是由Swenode.AI与Neo4j、Lovable和Nebius共同举办的创新活动，旨在加速工业AI知识的传播，促进参与者结识未来的雇主或合作伙伴，并了解北欧工业AI的发展趋势。\n\n🎯 **目的**：通过解决基于Saab、LKAB等公司的真实挑战，构建工作原型，推动工业AI技术的应用和发展。\n\n📚 **主要内容**：\n- **挑战**：分为三条路线：弹性、安全和物理AI。\n- **挑战内容**：\n  1. **安全 - 海上决策优势**：解决海上决策过程中的安全问题。\n  2. **物理AI - 不眨眼的视觉**：利用AI技术实现视觉系统的连续性和稳定性。\n  3. **弹性 - 未失败前的资产**：提高工业资产的可靠性和稳定性。\n- **活动流程**：\n  - 09:00 开门\n  - ~10:00 开始构建\n  - 12:00 午餐\n  - 19:00 构建结束，向评审团展示\n  - 19:30 交流与黑客松后\n- **获奖者公布**：8月27日TechBBQ哥本哈根宣布获奖者。\n\n## 2. 时间安排\n📅 **日期**：8月25日（周二）\n🕒 **时间**：9:00 - 21:00 GMT+2\n📍 **地点**：马尔默，瑞典\n\n## 4. 要求\n✅ **参与者**：50位建造者\n✅ **报名**：需审核\n✅ **门票**：1\n✅ **申请加入**：申请加入\n\n## 5. 重要细节\n- **挑战**：弹性、安全和物理AI\n- **日程**：09:00 开门，~10:00 开始构建，12:00 午餐，19:00 构建结束，向评审团展示，19:30 交流与黑客松后\n- **获奖者公布**：8月27日TechBBQ哥本哈根宣布获奖者\n- **主办方**：Swenode.AI与Neo4j、Lovable和Nebius共同举办",
+  "id": "luma144fd53f6bfd65736849c3ef5dbb1fc0",
+  "name": "工业AI黑客松",
+  "organizer": "SWENODE.AI",
+  "official_url": "https://luma.com/xrnsdv8l",
+  "type": "黑客松",
+  "tags": [
+   "机器学习/AI",
+   "计算机视觉",
+   "网络安全"
+  ],
+  "city": "马尔默，瑞典",
+  "prize": null,
+  "start": "2026-08-25",
+  "deadline": "2026-08-25",
+  "description": "50位建筑工人，一天，三条路线：韧性、安全和物理AI。基于Saab、LKAB、Boliden、Zenseact、FT Technologies、NCC和Aixia的实际情况。任务：构建解决他们问题的原型。成功者不仅能在评审团面前展示，还能向行业公司管理层展示解决方案。这是加速工业AI知识、找到下一任雇主或合作伙伴、了解北欧工业AI发展趋势的绝佳机会。",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/luma144fd53f6bfd65736849c3ef5dbb1fc0"
+   }
+  ]
+ },
+ {
+  "detail": "# 夏季班黑客马拉松\n\n## 1. 比赛简介\n🚀 夏季班黑客马拉松是一个旨在激发创新思维和编程技能的竞赛活动。该活动在夏季班结束后举办，旨在为参与者提供一个展示自己技术才能的平台。比赛背景是鼓励学生和开发者通过实际项目来应用所学知识，提升团队协作和问题解决能力。\n\n**目的：**\n- 提升参与者的编程技能和创新能力。\n- 促进团队合作和交流。\n- 创造实际可用的项目，解决实际问题。\n\n**主要内容：**\n- 参与者需要在规定时间内，围绕特定主题或问题进行编程。\n- 比赛鼓励创新和实用性，鼓励参与者提出新颖的解决方案。\n- 比赛结束后，将评选出最佳项目，并颁发奖项。\n\n## 2. 时间安排\n📅 8月25日星期二\n⏰ 9:00 - 17:00 GMT-4\n\n## 3. 奖金\n💳 比赛奖金信息未提供。\n\n## 4. 要求\n📚 参赛者需具备一定的编程技能，熟悉至少一种编程语言。\n🤝 参赛者可以个人或团队形式参加，团队人数不限。\n⚙️ 参赛者需在规定时间内完成项目，并提交项目演示和代码。\n\n## 5. 重要细节\n- 地点：Hult国际商学院剑桥，美国\n- 报名：需审核\n- 活动详情：[cursorboston.com/events/cursor-boston-sports-hack-…](http://cursorboston.com/events/cursor-boston-sports-hack-2026)\n- 主办人：[Roger Hunt](https://luma.com/user/rogerhunt)、[Anusha Vissapragada](https://luma.com/user/usr-oo64p66dmEfYj9B)\n- 联系主办人：[Cursor Boston, US](https://luma.com/cursor-boston?k=c)",
+  "id": "lumaf5142ab151b94fafd16311a47cad0251",
+  "name": "夏季班黑客马拉松",
+  "organizer": "CURSOR BOSTON",
+  "official_url": "https://luma.com/s5wuujzl",
+  "type": "黑客松",
+  "tags": [
+   "机器学习/AI"
+  ],
+  "city": "霍特国际商学院，美国马萨诸塞州剑桥市教育街1号",
+  "prize": null,
+  "start": "2026-08-25",
+  "deadline": "2026-08-25",
+  "description": "夏日班次结束，派对和黑客马拉松即将开始！！认识Cursor员工，获得Cursor积分，了解如何为秋季和春季班次赚取学分！！",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/lumaf5142ab151b94fafd16311a47cad0251"
+   }
+  ]
+ },
+ {
+  "id": "lumadba64e7e920acb64b1f4138d3495af24",
+  "name": "代理建造者日迈阿密 | 德文 x 黑客周",
+  "organizer": "JA'DAN JOHNSON、MIAMI HACK WEEK",
+  "official_url": "https://luma.com/9351vlvo",
+  "type": "AI Agent 挑战赛",
+  "tags": [
+   "机器学习/AI",
+   "移动开发"
+  ],
+  "city": "Wynwood，迈阿密，佛罗里达州，美国",
+  "prize": null,
+  "start": "2026-08-25",
+  "deadline": "2026-08-25",
+  "description": "",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/lumadba64e7e920acb64b1f4138d3495af24"
+   }
+  ]
+ },
+ {
+  "id": "lumaevt-g7vPwTANaKq8XcQ",
+  "name": "星际建造者营 - 爪哇版",
+  "organizer": "PERSONAL、RISE IN - LEARN WEB3 FOR FREE、STELLAR DEVELOPMENT FOUNDATION、STELLAR INDIA",
+  "official_url": "https://luma.com/ajcns4mc",
+  "type": "黑客松",
+  "tags": [
+   "区块链",
+   "金融科技",
+   "生产力/效率"
+  ],
+  "city": "斋普尔，印度",
+  "prize": null,
+  "start": "2026-08-21",
+  "deadline": "2026-08-25",
+  "description": "",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/lumaevt-g7vPwTANaKq8XcQ"
+   }
+  ]
+ },
+ {
+  "id": "lumaevt-cudMT4Y4lG0OC4m",
+  "name": "社区黑客松研讨会 & 自然追逐主街冒险",
+  "organizer": "SOCO STARTUP WEEK 2026、EXPONENTIAL IMPACT",
+  "official_url": "https://luma.com/w2l7zc05",
+  "type": "黑客松",
+  "tags": [],
+  "city": "邮政活动中心，科罗拉多州卡农城，麦科恩大道505号，美国 81212",
+  "prize": null,
+  "start": "2026-08-25",
+  "deadline": "2026-08-25",
+  "description": "南方科罗拉多创业周（8月24-28日）将企业家、创新者和社区聚集在科罗拉多斯普林斯、弗洛伦斯和彭罗斯。",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/lumaevt-cudMT4Y4lG0OC4m"
+   }
+  ]
  }
 ]
