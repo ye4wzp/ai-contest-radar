@@ -1,29 +1,6 @@
 {
- "updated": "2026-09-14",
+ "updated": "2026-09-15",
  "competitions": [
-  {
-   "id": "mlh-jonmarkgo-com",
-   "name": "Jon Test Event",
-   "organizer": "MLH 认证",
-   "official_url": "https://jonmarkgo.com/",
-   "type": "黑客松",
-   "tags": [
-    "MLH",
-    "国际"
-   ],
-   "city": "New York, US",
-   "prize": null,
-   "start": "2026-09-10",
-   "deadline": "2026-09-10",
-   "end": "2026-09-20",
-   "description": "MLH（Major League Hacking）官方认证黑客松，开赛前均可报名。",
-   "sources": [
-    {
-     "name": "MLH",
-     "url": "https://jonmarkgo.com/"
-    }
-   ]
-  },
   {
    "id": "mlh-events-mlh-io-events-14416-global-hack-week-data",
    "name": "Global Hack Week: Data",
@@ -439,29 +416,6 @@
    ]
   },
   {
-   "id": "mlh-www-stormhacks-com",
-   "name": "StormHacks",
-   "organizer": "MLH 认证",
-   "official_url": "https://www.stormhacks.com/",
-   "type": "黑客松",
-   "tags": [
-    "MLH",
-    "国际"
-   ],
-   "city": "Burnaby, CA",
-   "prize": null,
-   "start": "2026-10-03",
-   "deadline": "2026-10-03",
-   "end": "2026-10-04",
-   "description": "MLH（Major League Hacking）官方认证黑客松，开赛前均可报名。",
-   "sources": [
-    {
-     "name": "MLH",
-     "url": "https://www.stormhacks.com/"
-    }
-   ]
-  },
-  {
    "id": "mlh-rowdyhacks-org",
    "name": "Rowdy Hacks",
    "organizer": "MLH 认证",
@@ -481,6 +435,29 @@
     {
      "name": "MLH",
      "url": "https://rowdyhacks.org"
+    }
+   ]
+  },
+  {
+   "id": "mlh-www-stormhacks-com",
+   "name": "StormHacks",
+   "organizer": "MLH 认证",
+   "official_url": "https://www.stormhacks.com/",
+   "type": "黑客松",
+   "tags": [
+    "MLH",
+    "国际"
+   ],
+   "city": "Burnaby, CA",
+   "prize": null,
+   "start": "2026-10-03",
+   "deadline": "2026-10-03",
+   "end": "2026-10-04",
+   "description": "MLH（Major League Hacking）官方认证黑客松，开赛前均可报名。",
+   "sources": [
+    {
+     "name": "MLH",
+     "url": "https://www.stormhacks.com/"
     }
    ]
   },
@@ -715,6 +692,29 @@
    ]
   },
   {
+   "id": "mlh-palmettohacks-ktpusc-com",
+   "name": "Palmetto Hacks",
+   "organizer": "MLH 认证",
+   "official_url": "https://palmettohacks.ktpusc.com",
+   "type": "黑客松",
+   "tags": [
+    "MLH",
+    "国际"
+   ],
+   "city": "Columbia, US",
+   "prize": null,
+   "start": "2026-10-10",
+   "deadline": "2026-10-10",
+   "end": "2026-10-11",
+   "description": "MLH（Major League Hacking）官方认证黑客松，开赛前均可报名。",
+   "sources": [
+    {
+     "name": "MLH",
+     "url": "https://palmettohacks.ktpusc.com"
+    }
+   ]
+  },
+  {
    "id": "mlh-innohacks-live",
    "name": "Innohacks 4.0",
    "organizer": "MLH 认证",
@@ -830,6 +830,29 @@
    ]
   },
   {
+   "id": "mlh-gotechnica-org",
+   "name": "Technica Hacks",
+   "organizer": "MLH 认证",
+   "official_url": "https://gotechnica.org/",
+   "type": "黑客松",
+   "tags": [
+    "MLH",
+    "国际"
+   ],
+   "city": "Hyattsville, US",
+   "prize": null,
+   "start": "2026-10-17",
+   "deadline": "2026-10-17",
+   "end": "2026-10-18",
+   "description": "MLH（Major League Hacking）官方认证黑客松，开赛前均可报名。",
+   "sources": [
+    {
+     "name": "MLH",
+     "url": "https://gotechnica.org/"
+    }
+   ]
+  },
+  {
    "id": "mlh-dh26-dubhacks-co",
    "name": "DubHacks",
    "organizer": "MLH 认证",
@@ -876,29 +899,6 @@
    ]
   },
   {
-   "id": "mlh-gotechnica-org",
-   "name": "Technica Hacks",
-   "organizer": "MLH 认证",
-   "official_url": "https://gotechnica.org/",
-   "type": "黑客松",
-   "tags": [
-    "MLH",
-    "国际"
-   ],
-   "city": "Hyattsville, US",
-   "prize": null,
-   "start": "2026-10-17",
-   "deadline": "2026-10-17",
-   "end": "2026-10-18",
-   "description": "MLH（Major League Hacking）官方认证黑客松，开赛前均可报名。",
-   "sources": [
-    {
-     "name": "MLH",
-     "url": "https://gotechnica.org/"
-    }
-   ]
-  },
-  {
    "id": "mlh-ai-lahacks-com",
    "name": "LA Hacks AI Hackathon 2026",
    "organizer": "MLH 认证",
@@ -941,6 +941,29 @@
     {
      "name": "MLH",
      "url": "https://hack.sbcs.io/"
+    }
+   ]
+  },
+  {
+   "id": "mlh-26-oxhack-net",
+   "name": "OxHack &#x27;26",
+   "organizer": "MLH 认证",
+   "official_url": "https://26.oxhack.net/",
+   "type": "黑客松",
+   "tags": [
+    "MLH",
+    "国际"
+   ],
+   "city": "Oxford, GB",
+   "prize": null,
+   "start": "2026-10-24",
+   "deadline": "2026-10-24",
+   "end": "2026-10-25",
+   "description": "MLH（Major League Hacking）官方认证黑客松，开赛前均可报名。",
+   "sources": [
+    {
+     "name": "MLH",
+     "url": "https://26.oxhack.net/"
     }
    ]
   },
@@ -1313,29 +1336,6 @@
    ]
   },
   {
-   "id": "mlh-hackatbrown-org",
-   "name": "Hack@Brown 2027",
-   "organizer": "MLH 认证",
-   "official_url": "https://hackatbrown.org/",
-   "type": "黑客松",
-   "tags": [
-    "MLH",
-    "国际"
-   ],
-   "city": "Providence, US",
-   "prize": null,
-   "start": "2027-02-05",
-   "deadline": "2027-02-05",
-   "end": "2027-02-07",
-   "description": "MLH（Major League Hacking）官方认证黑客松，开赛前均可报名。",
-   "sources": [
-    {
-     "name": "MLH",
-     "url": "https://hackatbrown.org/"
-    }
-   ]
-  },
-  {
    "id": "mlh-ugahacks-com",
    "name": "UGAHacks",
    "organizer": "MLH 认证",
@@ -1355,6 +1355,29 @@
     {
      "name": "MLH",
      "url": "https://ugahacks.com/"
+    }
+   ]
+  },
+  {
+   "id": "mlh-hackatbrown-org",
+   "name": "Hack@Brown 2027",
+   "organizer": "MLH 认证",
+   "official_url": "https://hackatbrown.org/",
+   "type": "黑客松",
+   "tags": [
+    "MLH",
+    "国际"
+   ],
+   "city": "Providence, US",
+   "prize": null,
+   "start": "2027-02-05",
+   "deadline": "2027-02-05",
+   "end": "2027-02-07",
+   "description": "MLH（Major League Hacking）官方认证黑客松，开赛前均可报名。",
+   "sources": [
+    {
+     "name": "MLH",
+     "url": "https://hackatbrown.org/"
     }
    ]
   },
@@ -1497,29 +1520,6 @@
    ]
   },
   {
-   "id": "mlh-www-hackillinois-org",
-   "name": "HackIllinois",
-   "organizer": "MLH 认证",
-   "official_url": "https://www.hackillinois.org/",
-   "type": "黑客松",
-   "tags": [
-    "MLH",
-    "国际"
-   ],
-   "city": "Urbana, US",
-   "prize": null,
-   "start": "2027-02-26",
-   "deadline": "2027-02-26",
-   "end": "2027-02-28",
-   "description": "MLH（Major League Hacking）官方认证黑客松，开赛前均可报名。",
-   "sources": [
-    {
-     "name": "MLH",
-     "url": "https://www.hackillinois.org/"
-    }
-   ]
-  },
-  {
    "id": "mlh-hacklytics2027-web-app",
    "name": "Hacklytics 2027",
    "organizer": "MLH 认证",
@@ -1543,25 +1543,25 @@
    ]
   },
   {
-   "id": "mlh-ruhackhers-org",
-   "name": "HackHERS",
+   "id": "mlh-www-hackillinois-org",
+   "name": "HackIllinois",
    "organizer": "MLH 认证",
-   "official_url": "https://ruhackhers.org/",
+   "official_url": "https://www.hackillinois.org/",
    "type": "黑客松",
    "tags": [
     "MLH",
     "国际"
    ],
-   "city": "New Brunswick, US",
+   "city": "Urbana, US",
    "prize": null,
-   "start": "2027-02-27",
-   "deadline": "2027-02-27",
+   "start": "2027-02-26",
+   "deadline": "2027-02-26",
    "end": "2027-02-28",
    "description": "MLH（Major League Hacking）官方认证黑客松，开赛前均可报名。",
    "sources": [
     {
      "name": "MLH",
-     "url": "https://ruhackhers.org/"
+     "url": "https://www.hackillinois.org/"
     }
    ]
   },
@@ -1585,6 +1585,29 @@
     {
      "name": "MLH",
      "url": "https://www.revolutionuc.com/"
+    }
+   ]
+  },
+  {
+   "id": "mlh-ruhackhers-org",
+   "name": "HackHERS",
+   "organizer": "MLH 认证",
+   "official_url": "https://ruhackhers.org/",
+   "type": "黑客松",
+   "tags": [
+    "MLH",
+    "国际"
+   ],
+   "city": "New Brunswick, US",
+   "prize": null,
+   "start": "2027-02-27",
+   "deadline": "2027-02-27",
+   "end": "2027-02-28",
+   "description": "MLH（Major League Hacking）官方认证黑客松，开赛前均可报名。",
+   "sources": [
+    {
+     "name": "MLH",
+     "url": "https://ruhackhers.org/"
     }
    ]
   },
