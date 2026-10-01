@@ -14,9 +14,9 @@
    "city": "Rochester, US",
    "prize": null,
    "start": "2026-11-07",
-   "deadline": "2026-11-07",
+   "deadline": null,
    "end": "2026-11-08",
-   "description": "MLH（Major League Hacking）官方认证黑客松，开赛前均可报名。",
+   "description": "MLH（Major League Hacking）官方认证黑客松，报名时间以官网为准。",
    "sources": [
     {
      "name": "MLH",
@@ -37,9 +37,9 @@
    "city": "Ithaca, US",
    "prize": null,
    "start": "2026-10-02",
-   "deadline": "2026-10-02",
+   "deadline": null,
    "end": "2026-10-04",
-   "description": "MLH（Major League Hacking）官方认证黑客松，开赛前均可报名。",
+   "description": "MLH（Major League Hacking）官方认证黑客松，报名时间以官网为准。",
    "sources": [
     {
      "name": "MLH",
@@ -60,9 +60,9 @@
    "city": "Gainesville, US",
    "prize": null,
    "start": "2026-10-02",
-   "deadline": "2026-10-02",
+   "deadline": null,
    "end": "2026-10-04",
-   "description": "MLH（Major League Hacking）官方认证黑客松，开赛前均可报名。",
+   "description": "MLH（Major League Hacking）官方认证黑客松，报名时间以官网为准。",
    "sources": [
     {
      "name": "MLH",
@@ -83,9 +83,9 @@
    "city": "Raleigh, US",
    "prize": null,
    "start": "2026-10-03",
-   "deadline": "2026-10-03",
+   "deadline": null,
    "end": "2026-10-04",
-   "description": "MLH（Major League Hacking）官方认证黑客松，开赛前均可报名。",
+   "description": "MLH（Major League Hacking）官方认证黑客松，报名时间以官网为准。",
    "sources": [
     {
      "name": "MLH",
@@ -106,9 +106,9 @@
    "city": "Ann Arbor, US",
    "prize": null,
    "start": "2026-10-03",
-   "deadline": "2026-10-03",
+   "deadline": null,
    "end": "2026-10-04",
-   "description": "MLH（Major League Hacking）官方认证黑客松，开赛前均可报名。",
+   "description": "MLH（Major League Hacking）官方认证黑客松，报名时间以官网为准。",
    "sources": [
     {
      "name": "MLH",
@@ -129,9 +129,9 @@
    "city": "Burnaby, CA",
    "prize": null,
    "start": "2026-10-03",
-   "deadline": "2026-10-03",
+   "deadline": null,
    "end": "2026-10-04",
-   "description": "MLH（Major League Hacking）官方认证黑客松，开赛前均可报名。",
+   "description": "MLH（Major League Hacking）官方认证黑客松，报名时间以官网为准。",
    "sources": [
     {
      "name": "MLH",
@@ -152,9 +152,9 @@
    "city": "San Antonio, US",
    "prize": null,
    "start": "2026-10-03",
-   "deadline": "2026-10-03",
+   "deadline": null,
    "end": "2026-10-04",
-   "description": "MLH（Major League Hacking）官方认证黑客松，开赛前均可报名。",
+   "description": "MLH（Major League Hacking）官方认证黑客松，报名时间以官网为准。",
    "sources": [
     {
      "name": "MLH",
@@ -175,9 +175,9 @@
    "city": "Newark, US",
    "prize": null,
    "start": "2026-10-03",
-   "deadline": "2026-10-03",
+   "deadline": null,
    "end": "2026-10-04",
-   "description": "MLH（Major League Hacking）官方认证黑客松，开赛前均可报名。",
+   "description": "MLH（Major League Hacking）官方认证黑客松，报名时间以官网为准。",
    "sources": [
     {
      "name": "MLH",
@@ -198,9 +198,9 @@
    "city": "Dearborn, US",
    "prize": null,
    "start": "2026-10-03",
-   "deadline": "2026-10-03",
+   "deadline": null,
    "end": "2026-10-04",
-   "description": "MLH（Major League Hacking）官方认证黑客松，开赛前均可报名。",
+   "description": "MLH（Major League Hacking）官方认证黑客松，报名时间以官网为准。",
    "sources": [
     {
      "name": "MLH",
@@ -221,9 +221,9 @@
    "city": "Chapel Hill, US",
    "prize": null,
    "start": "2026-10-09",
-   "deadline": "2026-10-09",
+   "deadline": null,
    "end": "2026-10-11",
-   "description": "MLH（Major League Hacking）官方认证黑客松，开赛前均可报名。",
+   "description": "MLH（Major League Hacking）官方认证黑客松，报名时间以官网为准。",
    "sources": [
     {
      "name": "MLH",
@@ -244,9 +244,9 @@
    "city": "Bhilai, IN",
    "prize": null,
    "start": "2026-10-09",
-   "deadline": "2026-10-09",
+   "deadline": null,
    "end": "2026-10-10",
-   "description": "MLH（Major League Hacking）官方认证黑客松，开赛前均可报名。",
+   "description": "MLH（Major League Hacking）官方认证黑客松，报名时间以官网为准。",
    "sources": [
     {
      "name": "MLH",
@@ -267,9 +267,9 @@
    "city": "Flushing, US",
    "prize": null,
    "start": "2026-10-09",
-   "deadline": "2026-10-09",
+   "deadline": null,
    "end": "2026-10-11",
-   "description": "MLH（Major League Hacking）官方认证黑客松，开赛前均可报名。",
+   "description": "MLH（Major League Hacking）官方认证黑客松，报名时间以官网为准。",
    "sources": [
     {
      "name": "MLH",
@@ -290,9 +290,9 @@
    "city": "Saltillo, MX",
    "prize": null,
    "start": "2026-10-09",
-   "deadline": "2026-10-09",
+   "deadline": null,
    "end": "2026-10-10",
-   "description": "MLH（Major League Hacking）官方认证黑客松，开赛前均可报名。",
+   "description": "MLH（Major League Hacking）官方认证黑客松，报名时间以官网为准。",
    "sources": [
     {
      "name": "MLH",
@@ -313,9 +313,9 @@
    "city": "Atlanta, US",
    "prize": null,
    "start": "2026-10-09",
-   "deadline": "2026-10-09",
+   "deadline": null,
    "end": "2026-10-11",
-   "description": "MLH（Major League Hacking）官方认证黑客松，开赛前均可报名。",
+   "description": "MLH（Major League Hacking）官方认证黑客松，报名时间以官网为准。",
    "sources": [
     {
      "name": "MLH",
@@ -336,9 +336,9 @@
    "city": "Orlando, US",
    "prize": null,
    "start": "2026-10-09",
-   "deadline": "2026-10-09",
+   "deadline": null,
    "end": "2026-10-11",
-   "description": "MLH（Major League Hacking）官方认证黑客松，开赛前均可报名。",
+   "description": "MLH（Major League Hacking）官方认证黑客松，报名时间以官网为准。",
    "sources": [
     {
      "name": "MLH",
@@ -359,9 +359,9 @@
    "city": "Columbia, US",
    "prize": null,
    "start": "2026-10-10",
-   "deadline": "2026-10-10",
+   "deadline": null,
    "end": "2026-10-11",
-   "description": "MLH（Major League Hacking）官方认证黑客松，开赛前均可报名。",
+   "description": "MLH（Major League Hacking）官方认证黑客松，报名时间以官网为准。",
    "sources": [
     {
      "name": "MLH",
@@ -382,9 +382,9 @@
    "city": "Houston, US",
    "prize": null,
    "start": "2026-10-10",
-   "deadline": "2026-10-10",
+   "deadline": null,
    "end": "2026-10-11",
-   "description": "MLH（Major League Hacking）官方认证黑客松，开赛前均可报名。",
+   "description": "MLH（Major League Hacking）官方认证黑客松，报名时间以官网为准。",
    "sources": [
     {
      "name": "MLH",
@@ -405,9 +405,9 @@
    "city": "Princeton, US",
    "prize": null,
    "start": "2026-10-10",
-   "deadline": "2026-10-10",
+   "deadline": null,
    "end": "2026-10-11",
-   "description": "MLH（Major League Hacking）官方认证黑客松，开赛前均可报名。",
+   "description": "MLH（Major League Hacking）官方认证黑客松，报名时间以官网为准。",
    "sources": [
     {
      "name": "MLH",
@@ -428,9 +428,9 @@
    "city": "Piscataway, US",
    "prize": null,
    "start": "2026-10-10",
-   "deadline": "2026-10-10",
+   "deadline": null,
    "end": "2026-10-11",
-   "description": "MLH（Major League Hacking）官方认证黑客松，开赛前均可报名。",
+   "description": "MLH（Major League Hacking）官方认证黑客松，报名时间以官网为准。",
    "sources": [
     {
      "name": "MLH",
@@ -451,9 +451,9 @@
    "city": "Ghaziabad, IN",
    "prize": null,
    "start": "2026-10-10",
-   "deadline": "2026-10-10",
+   "deadline": null,
    "end": "2026-10-11",
-   "description": "MLH（Major League Hacking）官方认证黑客松，开赛前均可报名。",
+   "description": "MLH（Major League Hacking）官方认证黑客松，报名时间以官网为准。",
    "sources": [
     {
      "name": "MLH",
@@ -474,9 +474,9 @@
    "city": "Gainesville, US",
    "prize": null,
    "start": "2026-10-16",
-   "deadline": "2026-10-16",
+   "deadline": null,
    "end": "2026-10-18",
-   "description": "MLH（Major League Hacking）官方认证黑客松，开赛前均可报名。",
+   "description": "MLH（Major League Hacking）官方认证黑客松，报名时间以官网为准。",
    "sources": [
     {
      "name": "MLH",
@@ -497,9 +497,9 @@
    "city": "Scarborough, CA",
    "prize": null,
    "start": "2026-10-16",
-   "deadline": "2026-10-16",
+   "deadline": null,
    "end": "2026-10-18",
-   "description": "MLH（Major League Hacking）官方认证黑客松，开赛前均可报名。",
+   "description": "MLH（Major League Hacking）官方认证黑客松，报名时间以官网为准。",
    "sources": [
     {
      "name": "MLH",
@@ -520,9 +520,9 @@
    "city": "Green Bay, US",
    "prize": null,
    "start": "2026-10-17",
-   "deadline": "2026-10-17",
+   "deadline": null,
    "end": "2026-10-18",
-   "description": "MLH（Major League Hacking）官方认证黑客松，开赛前均可报名。",
+   "description": "MLH（Major League Hacking）官方认证黑客松，报名时间以官网为准。",
    "sources": [
     {
      "name": "MLH",
@@ -543,9 +543,9 @@
    "city": "Charlottesville, US",
    "prize": null,
    "start": "2026-10-17",
-   "deadline": "2026-10-17",
+   "deadline": null,
    "end": "2026-10-18",
-   "description": "MLH（Major League Hacking）官方认证黑客松，开赛前均可报名。",
+   "description": "MLH（Major League Hacking）官方认证黑客松，报名时间以官网为准。",
    "sources": [
     {
      "name": "MLH",
@@ -566,9 +566,9 @@
    "city": "Seattle, US",
    "prize": null,
    "start": "2026-10-17",
-   "deadline": "2026-10-17",
+   "deadline": null,
    "end": "2026-10-18",
-   "description": "MLH（Major League Hacking）官方认证黑客松，开赛前均可报名。",
+   "description": "MLH（Major League Hacking）官方认证黑客松，报名时间以官网为准。",
    "sources": [
     {
      "name": "MLH",
@@ -589,9 +589,9 @@
    "city": "London, GB",
    "prize": null,
    "start": "2026-10-17",
-   "deadline": "2026-10-17",
+   "deadline": null,
    "end": "2026-10-18",
-   "description": "MLH（Major League Hacking）官方认证黑客松，开赛前均可报名。",
+   "description": "MLH（Major League Hacking）官方认证黑客松，报名时间以官网为准。",
    "sources": [
     {
      "name": "MLH",
@@ -612,9 +612,9 @@
    "city": "Hyattsville, US",
    "prize": null,
    "start": "2026-10-17",
-   "deadline": "2026-10-17",
+   "deadline": null,
    "end": "2026-10-18",
-   "description": "MLH（Major League Hacking）官方认证黑客松，开赛前均可报名。",
+   "description": "MLH（Major League Hacking）官方认证黑客松，报名时间以官网为准。",
    "sources": [
     {
      "name": "MLH",
@@ -635,9 +635,9 @@
    "city": "Los Angeles, US",
    "prize": null,
    "start": "2026-10-17",
-   "deadline": "2026-10-17",
+   "deadline": null,
    "end": "2026-10-18",
-   "description": "MLH（Major League Hacking）官方认证黑客松，开赛前均可报名。",
+   "description": "MLH（Major League Hacking）官方认证黑客松，报名时间以官网为准。",
    "sources": [
     {
      "name": "MLH",
@@ -658,9 +658,9 @@
    "city": "San Francisco, US",
    "prize": null,
    "start": "2026-10-23",
-   "deadline": "2026-10-23",
+   "deadline": null,
    "end": "2026-10-25",
-   "description": "MLH（Major League Hacking）官方认证黑客松，开赛前均可报名。",
+   "description": "MLH（Major League Hacking）官方认证黑客松，报名时间以官网为准。",
    "sources": [
     {
      "name": "MLH",
@@ -681,9 +681,9 @@
    "city": "Stony Brook, US",
    "prize": null,
    "start": "2026-10-23",
-   "deadline": "2026-10-23",
+   "deadline": null,
    "end": "2026-10-25",
-   "description": "MLH（Major League Hacking）官方认证黑客松，开赛前均可报名。",
+   "description": "MLH（Major League Hacking）官方认证黑客松，报名时间以官网为准。",
    "sources": [
     {
      "name": "MLH",
@@ -704,9 +704,9 @@
    "city": "Oxford, GB",
    "prize": null,
    "start": "2026-10-24",
-   "deadline": "2026-10-24",
+   "deadline": null,
    "end": "2026-10-25",
-   "description": "MLH（Major League Hacking）官方认证黑客松，开赛前均可报名。",
+   "description": "MLH（Major League Hacking）官方认证黑客松，报名时间以官网为准。",
    "sources": [
     {
      "name": "MLH",
@@ -727,9 +727,9 @@
    "city": "Austin, US",
    "prize": null,
    "start": "2026-10-24",
-   "deadline": "2026-10-24",
+   "deadline": null,
    "end": "2026-10-25",
-   "description": "MLH（Major League Hacking）官方认证黑客松，开赛前均可报名。",
+   "description": "MLH（Major League Hacking）官方认证黑客松，报名时间以官网为准。",
    "sources": [
     {
      "name": "MLH",
@@ -750,9 +750,9 @@
    "city": "University Park, US",
    "prize": null,
    "start": "2026-10-24",
-   "deadline": "2026-10-24",
+   "deadline": null,
    "end": "2026-10-25",
-   "description": "MLH（Major League Hacking）官方认证黑客松，开赛前均可报名。",
+   "description": "MLH（Major League Hacking）官方认证黑客松，报名时间以官网为准。",
    "sources": [
     {
      "name": "MLH",
@@ -773,9 +773,9 @@
    "city": "New delhi, IN",
    "prize": null,
    "start": "2026-10-31",
-   "deadline": "2026-10-31",
+   "deadline": null,
    "end": "2026-11-01",
-   "description": "MLH（Major League Hacking）官方认证黑客松，开赛前均可报名。",
+   "description": "MLH（Major League Hacking）官方认证黑客松，报名时间以官网为准。",
    "sources": [
     {
      "name": "MLH",
@@ -796,9 +796,9 @@
    "city": "York PA, US",
    "prize": null,
    "start": "2026-11-06",
-   "deadline": "2026-11-06",
+   "deadline": null,
    "end": "2026-11-08",
-   "description": "MLH（Major League Hacking）官方认证黑客松，开赛前均可报名。",
+   "description": "MLH（Major League Hacking）官方认证黑客松，报名时间以官网为准。",
    "sources": [
     {
      "name": "MLH",
@@ -819,9 +819,9 @@
    "city": "Richardson, US",
    "prize": null,
    "start": "2026-11-07",
-   "deadline": "2026-11-07",
+   "deadline": null,
    "end": "2026-11-08",
-   "description": "MLH（Major League Hacking）官方认证黑客松，开赛前均可报名。",
+   "description": "MLH（Major League Hacking）官方认证黑客松，报名时间以官网为准。",
    "sources": [
     {
      "name": "MLH",
@@ -842,9 +842,9 @@
    "city": "New York, US",
    "prize": null,
    "start": "2026-11-07",
-   "deadline": "2026-11-07",
+   "deadline": null,
    "end": "2026-11-08",
-   "description": "MLH（Major League Hacking）官方认证黑客松，开赛前均可报名。",
+   "description": "MLH（Major League Hacking）官方认证黑客松，报名时间以官网为准。",
    "sources": [
     {
      "name": "MLH",
@@ -865,9 +865,9 @@
    "city": "Troy, US",
    "prize": null,
    "start": "2026-11-07",
-   "deadline": "2026-11-07",
+   "deadline": null,
    "end": "2026-11-08",
-   "description": "MLH（Major League Hacking）官方认证黑客松，开赛前均可报名。",
+   "description": "MLH（Major League Hacking）官方认证黑客松，报名时间以官网为准。",
    "sources": [
     {
      "name": "MLH",
@@ -888,9 +888,9 @@
    "city": "Mississauga, CA",
    "prize": null,
    "start": "2026-11-07",
-   "deadline": "2026-11-07",
+   "deadline": null,
    "end": "2026-11-08",
-   "description": "MLH（Major League Hacking）官方认证黑客松，开赛前均可报名。",
+   "description": "MLH（Major League Hacking）官方认证黑客松，报名时间以官网为准。",
    "sources": [
     {
      "name": "MLH",
@@ -911,9 +911,9 @@
    "city": "Kitchener, CA",
    "prize": null,
    "start": "2026-11-07",
-   "deadline": "2026-11-07",
+   "deadline": null,
    "end": "2026-11-08",
-   "description": "MLH（Major League Hacking）官方认证黑客松，开赛前均可报名。",
+   "description": "MLH（Major League Hacking）官方认证黑客松，报名时间以官网为准。",
    "sources": [
     {
      "name": "MLH",
@@ -934,9 +934,9 @@
    "city": "Vancovuer, CA",
    "prize": null,
    "start": "2026-11-07",
-   "deadline": "2026-11-07",
+   "deadline": null,
    "end": "2026-11-08",
-   "description": "MLH（Major League Hacking）官方认证黑客松，开赛前均可报名。",
+   "description": "MLH（Major League Hacking）官方认证黑客松，报名时间以官网为准。",
    "sources": [
     {
      "name": "MLH",
@@ -957,9 +957,9 @@
    "city": "Cincinnati, US",
    "prize": null,
    "start": "2026-11-07",
-   "deadline": "2026-11-07",
+   "deadline": null,
    "end": "2026-11-08",
-   "description": "MLH（Major League Hacking）官方认证黑客松，开赛前均可报名。",
+   "description": "MLH（Major League Hacking）官方认证黑客松，报名时间以官网为准。",
    "sources": [
     {
      "name": "MLH",
@@ -980,9 +980,9 @@
    "city": "College Station, US",
    "prize": null,
    "start": "2026-11-07",
-   "deadline": "2026-11-07",
+   "deadline": null,
    "end": "2026-11-08",
-   "description": "MLH（Major League Hacking）官方认证黑客松，开赛前均可报名。",
+   "description": "MLH（Major League Hacking）官方认证黑客松，报名时间以官网为准。",
    "sources": [
     {
      "name": "MLH",
@@ -1003,9 +1003,9 @@
    "city": "Atlanta, US",
    "prize": null,
    "start": "2026-11-13",
-   "deadline": "2026-11-13",
+   "deadline": null,
    "end": "2026-11-15",
-   "description": "MLH（Major League Hacking）官方认证黑客松，开赛前均可报名。",
+   "description": "MLH（Major League Hacking）官方认证黑客松，报名时间以官网为准。",
    "sources": [
     {
      "name": "MLH",
@@ -1026,9 +1026,9 @@
    "city": "Timișoara, RO",
    "prize": null,
    "start": "2026-11-13",
-   "deadline": "2026-11-13",
+   "deadline": null,
    "end": "2026-11-15",
-   "description": "MLH（Major League Hacking）官方认证黑客松，开赛前均可报名。",
+   "description": "MLH（Major League Hacking）官方认证黑客松，报名时间以官网为准。",
    "sources": [
     {
      "name": "MLH",
@@ -1049,9 +1049,9 @@
    "city": "Amherst, US",
    "prize": null,
    "start": "2026-11-13",
-   "deadline": "2026-11-13",
+   "deadline": null,
    "end": "2026-11-15",
-   "description": "MLH（Major League Hacking）官方认证黑客松，开赛前均可报名。",
+   "description": "MLH（Major League Hacking）官方认证黑客松，报名时间以官网为准。",
    "sources": [
     {
      "name": "MLH",
@@ -1072,9 +1072,9 @@
    "city": "Durham, GB",
    "prize": null,
    "start": "2026-11-14",
-   "deadline": "2026-11-14",
+   "deadline": null,
    "end": "2026-11-15",
-   "description": "MLH（Major League Hacking）官方认证黑客松，开赛前均可报名。",
+   "description": "MLH（Major League Hacking）官方认证黑客松，报名时间以官网为准。",
    "sources": [
     {
      "name": "MLH",
@@ -1095,9 +1095,9 @@
    "city": "Hamilton, CA",
    "prize": null,
    "start": "2027-01-09",
-   "deadline": "2027-01-09",
+   "deadline": null,
    "end": "2027-01-10",
-   "description": "MLH（Major League Hacking）官方认证黑客松，开赛前均可报名。",
+   "description": "MLH（Major League Hacking）官方认证黑客松，报名时间以官网为准。",
    "sources": [
     {
      "name": "MLH",
@@ -1118,9 +1118,9 @@
    "city": "Ottawa, CA",
    "prize": null,
    "start": "2027-01-15",
-   "deadline": "2027-01-15",
+   "deadline": null,
    "end": "2027-01-17",
-   "description": "MLH（Major League Hacking）官方认证黑客松，开赛前均可报名。",
+   "description": "MLH（Major League Hacking）官方认证黑客松，报名时间以官网为准。",
    "sources": [
     {
      "name": "MLH",
@@ -1141,9 +1141,9 @@
    "city": "Toronto, CA",
    "prize": null,
    "start": "2027-01-15",
-   "deadline": "2027-01-15",
+   "deadline": null,
    "end": "2027-01-17",
-   "description": "MLH（Major League Hacking）官方认证黑客松，开赛前均可报名。",
+   "description": "MLH（Major League Hacking）官方认证黑客松，报名时间以官网为准。",
    "sources": [
     {
      "name": "MLH",
@@ -1164,9 +1164,9 @@
    "city": "Vancouver, CA",
    "prize": null,
    "start": "2027-01-16",
-   "deadline": "2027-01-16",
+   "deadline": null,
    "end": "2027-01-17",
-   "description": "MLH（Major League Hacking）官方认证黑客松，开赛前均可报名。",
+   "description": "MLH（Major League Hacking）官方认证黑客松，报名时间以官网为准。",
    "sources": [
     {
      "name": "MLH",
@@ -1187,9 +1187,9 @@
    "city": "Missisauga, CA",
    "prize": null,
    "start": "2027-01-22",
-   "deadline": "2027-01-22",
+   "deadline": null,
    "end": "2027-01-24",
-   "description": "MLH（Major League Hacking）官方认证黑客松，开赛前均可报名。",
+   "description": "MLH（Major League Hacking）官方认证黑客松，报名时间以官网为准。",
    "sources": [
     {
      "name": "MLH",
@@ -1210,9 +1210,9 @@
    "city": "Washington, US",
    "prize": null,
    "start": "2027-01-22",
-   "deadline": "2027-01-22",
+   "deadline": null,
    "end": "2027-01-24",
-   "description": "MLH（Major League Hacking）官方认证黑客松，开赛前均可报名。",
+   "description": "MLH（Major League Hacking）官方认证黑客松，报名时间以官网为准。",
    "sources": [
     {
      "name": "MLH",
@@ -1233,9 +1233,9 @@
    "city": "Toronto, CA",
    "prize": null,
    "start": "2027-01-29",
-   "deadline": "2027-01-29",
+   "deadline": null,
    "end": "2027-01-31",
-   "description": "MLH（Major League Hacking）官方认证黑客松，开赛前均可报名。",
+   "description": "MLH（Major League Hacking）官方认证黑客松，报名时间以官网为准。",
    "sources": [
     {
      "name": "MLH",
@@ -1256,9 +1256,9 @@
    "city": "Athens, US",
    "prize": null,
    "start": "2027-02-05",
-   "deadline": "2027-02-05",
+   "deadline": null,
    "end": "2027-02-07",
-   "description": "MLH（Major League Hacking）官方认证黑客松，开赛前均可报名。",
+   "description": "MLH（Major League Hacking）官方认证黑客松，报名时间以官网为准。",
    "sources": [
     {
      "name": "MLH",
@@ -1279,9 +1279,9 @@
    "city": "Providence, US",
    "prize": null,
    "start": "2027-02-05",
-   "deadline": "2027-02-05",
+   "deadline": null,
    "end": "2027-02-07",
-   "description": "MLH（Major League Hacking）官方认证黑客松，开赛前均可报名。",
+   "description": "MLH（Major League Hacking）官方认证黑客松，报名时间以官网为准。",
    "sources": [
     {
      "name": "MLH",
@@ -1302,9 +1302,9 @@
    "city": "East Lansing, US",
    "prize": null,
    "start": "2027-02-06",
-   "deadline": "2027-02-06",
+   "deadline": null,
    "end": "2027-02-07",
-   "description": "MLH（Major League Hacking）官方认证黑客松，开赛前均可报名。",
+   "description": "MLH（Major League Hacking）官方认证黑客松，报名时间以官网为准。",
    "sources": [
     {
      "name": "MLH",
@@ -1325,9 +1325,9 @@
    "city": "Raleigh, US",
    "prize": null,
    "start": "2027-02-06",
-   "deadline": "2027-02-06",
+   "deadline": null,
    "end": "2027-02-07",
-   "description": "MLH（Major League Hacking）官方认证黑客松，开赛前均可报名。",
+   "description": "MLH（Major League Hacking）官方认证黑客松，报名时间以官网为准。",
    "sources": [
     {
      "name": "MLH",
@@ -1348,9 +1348,9 @@
    "city": "West Lafayette, US",
    "prize": null,
    "start": "2027-02-06",
-   "deadline": "2027-02-06",
+   "deadline": null,
    "end": "2027-02-07",
-   "description": "MLH（Major League Hacking）官方认证黑客松，开赛前均可报名。",
+   "description": "MLH（Major League Hacking）官方认证黑客松，报名时间以官网为准。",
    "sources": [
     {
      "name": "MLH",
@@ -1371,9 +1371,9 @@
    "city": "Toronto, CA",
    "prize": null,
    "start": "2027-02-13",
-   "deadline": "2027-02-13",
+   "deadline": null,
    "end": "2027-02-14",
-   "description": "MLH（Major League Hacking）官方认证黑客松，开赛前均可报名。",
+   "description": "MLH（Major League Hacking）官方认证黑客松，报名时间以官网为准。",
    "sources": [
     {
      "name": "MLH",
@@ -1394,9 +1394,9 @@
    "city": "San Francisco, US",
    "prize": null,
    "start": "2027-02-19",
-   "deadline": "2027-02-19",
+   "deadline": null,
    "end": "2027-02-21",
-   "description": "MLH（Major League Hacking）官方认证黑客松，开赛前均可报名。",
+   "description": "MLH（Major League Hacking）官方认证黑客松，报名时间以官网为准。",
    "sources": [
     {
      "name": "MLH",
@@ -1417,9 +1417,9 @@
    "city": "Clemson, US",
    "prize": null,
    "start": "2027-02-20",
-   "deadline": "2027-02-20",
+   "deadline": null,
    "end": "2027-02-21",
-   "description": "MLH（Major League Hacking）官方认证黑客松，开赛前均可报名。",
+   "description": "MLH（Major League Hacking）官方认证黑客松，报名时间以官网为准。",
    "sources": [
     {
      "name": "MLH",
@@ -1440,9 +1440,9 @@
    "city": "Atlanta, US",
    "prize": null,
    "start": "2027-02-26",
-   "deadline": "2027-02-26",
+   "deadline": null,
    "end": "2027-02-28",
-   "description": "MLH（Major League Hacking）官方认证黑客松，开赛前均可报名。",
+   "description": "MLH（Major League Hacking）官方认证黑客松，报名时间以官网为准。",
    "sources": [
     {
      "name": "MLH",
@@ -1463,9 +1463,9 @@
    "city": "Urbana, US",
    "prize": null,
    "start": "2027-02-26",
-   "deadline": "2027-02-26",
+   "deadline": null,
    "end": "2027-02-28",
-   "description": "MLH（Major League Hacking）官方认证黑客松，开赛前均可报名。",
+   "description": "MLH（Major League Hacking）官方认证黑客松，报名时间以官网为准。",
    "sources": [
     {
      "name": "MLH",
@@ -1486,9 +1486,9 @@
    "city": "Cincinnati, US",
    "prize": null,
    "start": "2027-02-27",
-   "deadline": "2027-02-27",
+   "deadline": null,
    "end": "2027-02-28",
-   "description": "MLH（Major League Hacking）官方认证黑客松，开赛前均可报名。",
+   "description": "MLH（Major League Hacking）官方认证黑客松，报名时间以官网为准。",
    "sources": [
     {
      "name": "MLH",
@@ -1509,9 +1509,9 @@
    "city": "New Brunswick, US",
    "prize": null,
    "start": "2027-02-27",
-   "deadline": "2027-02-27",
+   "deadline": null,
    "end": "2027-02-28",
-   "description": "MLH（Major League Hacking）官方认证黑客松，开赛前均可报名。",
+   "description": "MLH（Major League Hacking）官方认证黑客松，报名时间以官网为准。",
    "sources": [
     {
      "name": "MLH",
@@ -1532,9 +1532,9 @@
    "city": "Rochester, US",
    "prize": null,
    "start": "2027-02-27",
-   "deadline": "2027-02-27",
+   "deadline": null,
    "end": "2027-02-28",
-   "description": "MLH（Major League Hacking）官方认证黑客松，开赛前均可报名。",
+   "description": "MLH（Major League Hacking）官方认证黑客松，报名时间以官网为准。",
    "sources": [
     {
      "name": "MLH",
@@ -1555,9 +1555,9 @@
    "city": "Newark, US",
    "prize": null,
    "start": "2027-03-06",
-   "deadline": "2027-03-06",
+   "deadline": null,
    "end": "2027-03-07",
-   "description": "MLH（Major League Hacking）官方认证黑客松，开赛前均可报名。",
+   "description": "MLH（Major League Hacking）官方认证黑客松，报名时间以官网为准。",
    "sources": [
     {
      "name": "MLH",
@@ -1578,9 +1578,9 @@
    "city": "Kent, US",
    "prize": null,
    "start": "2027-03-06",
-   "deadline": "2027-03-06",
+   "deadline": null,
    "end": "2027-03-07",
-   "description": "MLH（Major League Hacking）官方认证黑客松，开赛前均可报名。",
+   "description": "MLH（Major League Hacking）官方认证黑客松，报名时间以官网为准。",
    "sources": [
     {
      "name": "MLH",
@@ -1601,9 +1601,9 @@
    "city": "La Jolla, US",
    "prize": null,
    "start": "2027-04-04",
-   "deadline": "2027-04-04",
+   "deadline": null,
    "end": "2027-04-05",
-   "description": "MLH（Major League Hacking）官方认证黑客松，开赛前均可报名。",
+   "description": "MLH（Major League Hacking）官方认证黑客松，报名时间以官网为准。",
    "sources": [
     {
      "name": "MLH",
@@ -1624,9 +1624,9 @@
    "city": "Lawrence, US",
    "prize": null,
    "start": "2027-04-09",
-   "deadline": "2027-04-09",
+   "deadline": null,
    "end": "2027-04-11",
-   "description": "MLH（Major League Hacking）官方认证黑客松，开赛前均可报名。",
+   "description": "MLH（Major League Hacking）官方认证黑客松，报名时间以官网为准。",
    "sources": [
     {
      "name": "MLH",
@@ -1647,9 +1647,9 @@
    "city": "Montreal, CA",
    "prize": null,
    "start": "2027-04-09",
-   "deadline": "2027-04-09",
+   "deadline": null,
    "end": "2027-04-10",
-   "description": "MLH（Major League Hacking）官方认证黑客松，开赛前均可报名。",
+   "description": "MLH（Major League Hacking）官方认证黑客松，报名时间以官网为准。",
    "sources": [
     {
      "name": "MLH",
@@ -1670,9 +1670,9 @@
    "city": "Richardson, US",
    "prize": null,
    "start": "2027-04-10",
-   "deadline": "2027-04-10",
+   "deadline": null,
    "end": "2027-04-11",
-   "description": "MLH（Major League Hacking）官方认证黑客松，开赛前均可报名。",
+   "description": "MLH（Major League Hacking）官方认证黑客松，报名时间以官网为准。",
    "sources": [
     {
      "name": "MLH",
@@ -1693,9 +1693,9 @@
    "city": "Los Angeles, US",
    "prize": null,
    "start": "2027-04-16",
-   "deadline": "2027-04-16",
+   "deadline": null,
    "end": "2027-04-18",
-   "description": "MLH（Major League Hacking）官方认证黑客松，开赛前均可报名。",
+   "description": "MLH（Major League Hacking）官方认证黑客松，报名时间以官网为准。",
    "sources": [
     {
      "name": "MLH",

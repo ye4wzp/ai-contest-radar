@@ -15,6 +15,29 @@ def norm(name: str) -> str:
     return re.sub(r"[\s　·・「」『』“”\"'（）()【】\[\]，,。.：:；;—\-|]+", "", name).lower()
 
 
+def url_key(url: str | None) -> str | None:
+    if not url:
+        return None
+    url = re.sub(r"[?&](ref|utm_\w+|live_from)=[^&]*", "", url.lower())
+    return re.sub(r"^https?://(www\.)?|[/?&#]+$", "", url)
+
+
+# Luma 上大量是聚会、讲座、答疑，只留名称像比赛且与 AI 相关的
+CONTEST = re.compile(r"黑客|hack|马拉松|挑战|竞赛|比赛|大赛|buildathon|ideathon|创客松|jam", re.I)
+NOT_CONTEST = re.compile(
+    r"办公时间|office hours|聚会|见面会|交流会|讲座|分享会|研讨会|招待|派对|欢乐时光|happy hour|"
+    r"networking|meetup|演示日|演示之夜|demo day|获奖者展示|共工作|协同办公|圆桌", re.I)
+AI = re.compile(r"AI|人工智能|智能|大模型|代理|[Aa]gent|LLM|GPT|机器学习|模型")
+
+
+def is_meetup(c: dict) -> bool:
+    if "luma.com" not in (c.get("official_url") or ""):
+        return False
+    name = c["name"]
+    ai = "机器学习/AI" in c.get("tags", []) or AI.search(name)
+    return not (CONTEST.search(name) and not NOT_CONTEST.search(name) and ai)
+
+
 def load_prev() -> list:
     f = DATA / "data.js"
     if not f.exists():
@@ -29,7 +52,8 @@ def load_prev() -> list:
 def main():
     manual = json.loads((DATA / "manual.json").read_text())
     scraped = []
-    for f in sorted((DATA / "sources").glob("*.json")):
+    # AI赛事通是二手聚合（机翻名称、奖金折成人民币、多无报名截止），与其他源重复时让其他源的条目做主
+    for f in sorted((DATA / "sources").glob("*.json"), key=lambda f: (f.stem == "competehub", f.stem)):
         scraped += json.loads(f.read_text())["competitions"]
     prev = load_prev()
 
@@ -39,20 +63,25 @@ def main():
         final = c.get("end") or c.get("deadline")
         return c.get("featured") or not final or final >= cutoff
 
-    merged, keys, ids = [], {}, set()
-    for c in manual + [x for x in scraped + prev if alive(x)]:
+    merged, keys, urls, ids = [], {}, {}, set()
+    for c in manual + [x for x in scraped + prev if alive(x) and not is_meetup(x)]:
         if c["id"] in ids:
             continue
         ids.add(c["id"])
-        k = norm(c["name"])
+        k, u = norm(c["name"]), url_key(c.get("official_url"))
         # 子串合并要求双方都够长，否则「黑客马拉松」这类泛称会吞掉所有含它的赛事
         dup = keys.get(k) or next(
             (keys[e] for e in keys if len(k) > 8 and len(e) > 8 and (k in e or e in k)), None
         )
+        # 名称跨语言对不上时按官网链接合并；同源内不按链接合并（腾讯多场赛事共用官网首页）
+        if not dup and u in urls and urls[u]["sources"][0]["name"] != c["sources"][0]["name"]:
+            dup = urls[u]
         if dup:
             dup["sources"] += [s for s in c["sources"] if s not in dup["sources"]]
             continue
         keys[k] = c
+        if u:
+            urls.setdefault(u, c)
         merged.append(c)
 
     # archive what fell out of the live set

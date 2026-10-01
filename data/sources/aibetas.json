@@ -1,0 +1,304 @@
+{
+ "updated": "2026-10-01",
+ "competitions": [
+  {
+   "id": "aibetas-627",
+   "name": "2026“科学3分钟”AI科普视频大赛",
+   "organizer": "哔哩哔哩、中国科学院物理研究所",
+   "official_url": "https://live.bilibili.com/blackboard/era/science3min2026pc.html?live_from=81001",
+   "type": "AI创作赛",
+   "tags": [
+    "AI视频",
+    "AIGC"
+   ],
+   "city": null,
+   "prize": "约16万元贝壳金奖励；一等奖50000元贝壳金，另含花生AI会员及积分权益",
+   "start": null,
+   "deadline": "2026-10-08",
+   "end": null,
+   "description": "哔哩哔哩与中国科学院物理研究所联合举办“科学3分钟”2026全国科普微视频大赛，面向个人及不超过5人的团队征集使用AI技术创作的科普视频。赛事设置约16万元贝壳金奖励，一等奖5万元，征稿于2026年10月8日24:00结束。",
+   "sources": [
+    {
+     "name": "AIBetas",
+     "url": "https://www.aibetas.com/aigc_events/bilibili-science-3min-ai-video-competition-2026"
+    }
+   ]
+  },
+  {
+   "id": "aibetas-625",
+   "name": "RunningHub全球AIGC长片创作大赛",
+   "organizer": "RunningHub（赛事平台；官方页面未单列主办单位）",
+   "official_url": "https://www.runninghub.cn/inspire",
+   "type": "AI创作赛",
+   "tags": [
+    "AI视频",
+    "AIGC"
+   ],
+   "city": null,
+   "prize": "550万元创作激励（350万元现金+价值200万元创作算力）；全场大奖100万元现金+30万算力",
+   "start": null,
+   "deadline": "2026-10-09",
+   "end": null,
+   "description": "RunningHub全球AIGC长片创作大赛面向全球个人创作者及团队，设置科幻、微光、品牌三大片场，总创作激励550万元，全场大奖100万元现金；科幻与微光片场先导片于2026年10月9日截止。",
+   "sources": [
+    {
+     "name": "AIBetas",
+     "url": "https://www.aibetas.com/aigc_events/runninghub-global-aigc-feature-film-competition-2026"
+    }
+   ]
+  },
+  {
+   "id": "aibetas-622",
+   "name": "“AI视界·海丝新程”2026年泉州市短视频比赛",
+   "organizer": "泉州市文学艺术界联合会、泉州市电视艺术家协会",
+   "official_url": "https://mp.weixin.qq.com/s/74-J9TYidCl47FV9Vj_RhQ",
+   "type": "AI创作赛",
+   "tags": [
+    "AI视频",
+    "AIGC"
+   ],
+   "city": null,
+   "prize": "一等奖3个、奖金各2000元；二等奖6个、奖金各1000元；三等奖10个、奖金各800元；优秀奖10个、奖金各500元；各奖项均颁发证书",
+   "start": null,
+   "deadline": "2026-12-03",
+   "end": null,
+   "description": "“AI视界·海丝新程”——“中国人寿杯”2026年泉州市短视频比赛暨AIGC创作活动面向社会公开征集5分钟以内短视频，设四大主题，一等奖奖金2000元，2026年12月3日截止投稿。",
+   "sources": [
+    {
+     "name": "AIBetas",
+     "url": "https://www.aibetas.com/aigc_events/quanzhou-ai-maritime-silk-road-short-video-competition-2026"
+    }
+   ]
+  },
+  {
+   "id": "aibetas-619",
+   "name": "2026腾讯SSV“科技向善”AI视频大赛",
+   "organizer": "腾讯集团可持续社会价值事业部",
+   "official_url": "https://docs.qq.com/form/page/DRVdUYmV6c0xqREtI",
+   "type": "AI创作赛",
+   "tags": [
+    "AI视频",
+    "AIGC"
+   ],
+   "city": null,
+   "prize": "13万元现金奖金和1000万SeeBay积分奖励",
+   "start": null,
+   "deadline": "2026-10-31",
+   "end": null,
+   "description": "2026腾讯SSV“科技向善”AI视频大赛面向全国及全球华语创作者征集2—5分钟原创AI视频，现金奖金合计13万元，另设1000万SeeBay积分奖励，2026年10月31日截止投稿。",
+   "sources": [
+    {
+     "name": "AIBetas",
+     "url": "https://www.aibetas.com/aigc_events/tencent-ssv-ai-for-good-video-competition-2026"
+    }
+   ]
+  },
+  {
+   "id": "aibetas-616",
+   "name": "“看见微光”可灵AI·公益影像大赛",
+   "organizer": "可灵AI、快手公益",
+   "official_url": "https://klingai.com/app/activity-zone/brand-activity?id=924015525368696877",
+   "type": "AI创作赛",
+   "tags": [
+    "AI视频",
+    "AIGC"
+   ],
+   "city": null,
+   "prize": "最高现金奖金100,000元；10个奖项名额，现金奖金合计320,000元，另设灵感值奖励",
+   "start": null,
+   "deadline": "2026-11-01",
+   "end": null,
+   "description": "“看见微光”可灵AI·公益影像大赛由可灵AI与快手公益联合发起，邀请创作者用AI影像讲述真实、具体的公益故事。 […]",
+   "sources": [
+    {
+     "name": "AIBetas",
+     "url": "https://www.aibetas.com/aigc_events/616"
+    }
+   ]
+  },
+  {
+   "id": "aibetas-612",
+   "name": "“这就是深圳”第3季短视频征集",
+   "organizer": "“学习强国”深圳学习平台",
+   "official_url": "https://www.aki.com.cn/szstory2026",
+   "type": "AI创作赛",
+   "tags": [
+    "AI视频",
+    "AIGC"
+   ],
+   "city": null,
+   "prize": "两赛道奖金合计74,000元（含税），每赛道一等奖1名、奖金10,000元；合计24个获奖名额",
+   "start": null,
+   "deadline": "2026-12-06",
+   "end": null,
+   "description": "正文 2026年“这就是深圳”（第3季）短视频征集活动以“亚太同行，AI拍深圳”为主题，围绕深圳及粤港澳大湾区 […]",
+   "sources": [
+    {
+     "name": "AIBetas",
+     "url": "https://www.aibetas.com/aigc_events/612"
+    }
+   ]
+  },
+  {
+   "id": "aibetas-610",
+   "name": "天猫AI黑客松·高校挑战赛",
+   "organizer": "天猫",
+   "official_url": "https://pages.tmall.com/wow/a/act/tmall/dailygroup/24732/25590/wupr?wh_pid=daily-597100&disableNav=YES&status_bar_transparent=true",
+   "type": "创意应用赛",
+   "tags": [
+    "AI应用",
+    "AIGC"
+   ],
+   "city": null,
+   "prize": "现金奖金合计20万元，最高单项奖金6万元",
+   "start": null,
+   "deadline": "2026-10-07",
+   "end": null,
+   "description": "正文 2026天猫AI黑客松·高校挑战赛以“开造未来，让AI成真”为主题，面向全国高校在校学生征集AI创意项目 […]",
+   "sources": [
+    {
+     "name": "AIBetas",
+     "url": "https://www.aibetas.com/aigc_events/610"
+    }
+   ]
+  },
+  {
+   "id": "aibetas-608",
+   "name": "鲸锐AI创作大赛",
+   "organizer": "虎鲸文娱集团",
+   "official_url": " https://jingrui-ai-competition.youku.com/",
+   "type": "AI创作赛",
+   "tags": [
+    "AI视频",
+    "AIGC"
+   ],
+   "city": null,
+   "prize": "总奖金池1000万元，最高单项奖金200万",
+   "start": null,
+   "deadline": "2026-11-22",
+   "end": null,
+   "description": "正文 鲸锐AI创作大赛正式启动作品征集。大赛由虎鲸文娱集团主办，优酷担任独家视频展映平台，大麦娱乐提供独家线下 […]",
+   "sources": [
+    {
+     "name": "AIBetas",
+     "url": "https://www.aibetas.com/aigc_events/608"
+    }
+   ]
+  },
+  {
+   "id": "aibetas-606",
+   "name": "2026金鸡AI影展作品征集",
+   "organizer": "2026金鸡AI影展组委会",
+   "official_url": "https://qr61.cn/oU0qhd/qqebyZg",
+   "type": "AI创作赛",
+   "tags": [
+    "AI视频",
+    "AIGC"
+   ],
+   "city": null,
+   "prize": "七项年度荣誉，入围作品颁发官方证书；未设置现金奖金",
+   "start": null,
+   "deadline": "2026-10-05",
+   "end": null,
+   "description": "正文 2026金鸡AI影展（暨AIGC未来影像）正式启动全球作品征集。影展作为金鸡奖官方平台与AI影像浪潮融合 […]",
+   "sources": [
+    {
+     "name": "AIBetas",
+     "url": "https://www.aibetas.com/aigc_events/606"
+    }
+   ]
+  },
+  {
+   "id": "aibetas-595",
+   "name": "PixLight 2026全球AI类型片影像大赛",
+   "organizer": "PixVerse",
+   "official_url": "https://app.pixverse.ai/challenge/pixlight",
+   "type": "AI创作赛",
+   "tags": [
+    "综合创作",
+    "AIGC"
+   ],
+   "city": null,
+   "prize": "最高奖10万美元，总奖金30万美元",
+   "start": null,
+   "deadline": "2026-10-10",
+   "end": null,
+   "description": "正文 PixVerse正式启动PixLight 2026全球AI类型片影像大赛，面向全球AI创作者与编剧征集具 […]",
+   "sources": [
+    {
+     "name": "AIBetas",
+     "url": "https://www.aibetas.com/aigc_events/595"
+    }
+   ]
+  },
+  {
+   "id": "aibetas-586",
+   "name": "首届（2026）AIGC与可视化创作大赛",
+   "organizer": "中国传媒大学、中国新闻技术工作者联合会",
+   "official_url": "https://aigc.capt.cn/",
+   "type": "AI创作赛",
+   "tags": [
+    "综合创作",
+    "AIGC"
+   ],
+   "city": null,
+   "prize": "精品作品获证书及纪念品",
+   "start": null,
+   "deadline": "2026-10-11",
+   "end": null,
+   "description": "大赛简介 首届（2026）AIGC与可视化创作大赛面向全国相关机构和成年创作者征集作品，由中国传媒大学与中国新 […]",
+   "sources": [
+    {
+     "name": "AIBetas",
+     "url": "https://www.aibetas.com/aigc_events/586"
+    }
+   ]
+  },
+  {
+   "id": "aibetas-424",
+   "name": "2026年全国青年建筑与城市AI创意作品征集",
+   "organizer": "中国建筑文化中心",
+   "official_url": "https://mp.weixin.qq.com/s/NRMb2L8l6tuukQdtIs1lYg",
+   "type": "AI创作赛",
+   "tags": [
+    "综合创作",
+    "AIGC"
+   ],
+   "city": null,
+   "prize": null,
+   "start": null,
+   "deadline": "2026-10-01",
+   "end": null,
+   "description": "各有关单位、广大青年朋友： 当前，数字中国建设深入推进，城市更新行动全面提速，为传承中华优秀传统文化、激发城市 […]",
+   "sources": [
+    {
+     "name": "AIBetas",
+     "url": "https://www.aibetas.com/aigc_events/424"
+    }
+   ]
+  },
+  {
+   "id": "aibetas-103",
+   "name": "粤港澳大湾区AIGC短剧制作征集大赛",
+   "organizer": "广州妙笔华章文化传媒有限公司、广州广播电视大学",
+   "official_url": "https://docs.qq.com/form/page/DUktrRENKakxsbHBm",
+   "type": "AI创作赛",
+   "tags": [
+    "AI视频",
+    "AIGC"
+   ],
+   "city": null,
+   "prize": null,
+   "start": null,
+   "deadline": "2026-12-31",
+   "end": null,
+   "description": "大赛主题 大赛简介 大赛以国家网络视听领域最新政策为指引，立足AI技术与文艺创作的深度融合，聚焦粤港澳大湾区（ […]",
+   "sources": [
+    {
+     "name": "AIBetas",
+     "url": "https://www.aibetas.com/aigc_events/103"
+    }
+   ]
+  }
+ ]
+}

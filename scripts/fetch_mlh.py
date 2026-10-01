@@ -49,9 +49,9 @@ def scan(url: str, today: str, comps: list, seen: set):
                 x.group(1).strip(" ,") for x in (loc, country) if x and x.group(1).strip(" ,")),
             "prize": None,
             "start": start[:10],
-            "deadline": start[:10],
+            "deadline": None,  # MLH 不公布统一的报名截止，不拿开赛日冒充
             "end": end[:10],
-            "description": "MLH（Major League Hacking）官方认证黑客松，开赛前均可报名。",
+            "description": "MLH（Major League Hacking）官方认证黑客松，报名时间以官网为准。",
             "sources": [{"name": "MLH", "url": url}],
         })
 

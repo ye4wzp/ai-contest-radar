@@ -1,0 +1,639 @@
+{
+ "updated": "2026-10-01",
+ "competitions": [
+  {
+   "id": "mlc-flagos-io-race-detail-season2-id-8q4m2x7p-lang-en",
+   "name": "Optimise LLM Operators & Inference Across AI Chips",
+   "organizer": "FlagOS Community, IEEE",
+   "official_url": "https://flagos.io/race-detail-season2?id=8q4m2x7p&lang=en",
+   "type": "数据算法赛",
+   "tags": [
+    "Independent",
+    "国际"
+   ],
+   "city": "线上",
+   "prize": "$14,925",
+   "start": "2026-07-19",
+   "deadline": null,
+   "end": "2026-11-15",
+   "description": "Independent 平台赛事",
+   "sources": [
+    {
+     "name": "ML Contests",
+     "url": "https://mlcontests.com/"
+    }
+   ]
+  },
+  {
+   "id": "mlc-ansperformance-eu-study-data-challenge-dc2026",
+   "name": "Predict Aircraft Taxi-Out Time at European Airports",
+   "organizer": "EUROCONTROL Performance Review Commission (PRC)",
+   "official_url": "https://ansperformance.eu/study/data-challenge/dc2026/",
+   "type": "数据算法赛",
+   "tags": [
+    "Independent",
+    "国际"
+   ],
+   "city": "线上",
+   "prize": "$5,800",
+   "start": "2026-09-01",
+   "deadline": null,
+   "end": "2026-10-11",
+   "description": "Independent 平台赛事",
+   "sources": [
+    {
+     "name": "ML Contests",
+     "url": "https://mlcontests.com/"
+    }
+   ]
+  },
+  {
+   "id": "mlc-hub-crunchdao-com-competitions-datacrunch-2",
+   "name": "Predict Cross-sectional Equity Returns",
+   "organizer": "Crunch Capital",
+   "official_url": "https://hub.crunchdao.com/competitions/datacrunch-2",
+   "type": "数据算法赛",
+   "tags": [
+    "CrunchDAO",
+    "国际"
+   ],
+   "city": "线上",
+   "prize": "$52,000",
+   "start": "2026-01-05",
+   "deadline": "2026-12-31",
+   "end": "2026-12-31",
+   "description": "CrunchDAO 平台赛事",
+   "sources": [
+    {
+     "name": "ML Contests",
+     "url": "https://mlcontests.com/"
+    }
+   ]
+  },
+  {
+   "id": "mlc-zindi-africa-competitions-caribbean-voices-hackathon",
+   "name": "Build Speech Recognition Systems for Caribbean Voices",
+   "organizer": "UWI AI Innovation Centre, CIBC, Infolytics, Data Axis, CTU",
+   "official_url": "https://zindi.africa/competitions/caribbean-voices-hackathon",
+   "type": "数据算法赛",
+   "tags": [
+    "Zindi",
+    "国际"
+   ],
+   "city": "线上",
+   "prize": "$7,500",
+   "start": "2025-11-17",
+   "deadline": "2026-12-07",
+   "end": "2026-12-07",
+   "description": "Zindi 平台赛事",
+   "sources": [
+    {
+     "name": "ML Contests",
+     "url": "https://mlcontests.com/"
+    }
+   ]
+  },
+  {
+   "id": "mlc-www-kaggle-com-competitions-arc-prize-2026-arc-agi-2",
+   "name": "ARC Prize 2026 - ARC-AGI-2",
+   "organizer": "ARC Prize",
+   "official_url": "https://www.kaggle.com/competitions/arc-prize-2026-arc-agi-2",
+   "type": "数据算法赛",
+   "tags": [
+    "Kaggle",
+    "国际"
+   ],
+   "city": "线上",
+   "prize": "$700,000",
+   "start": "2026-03-25",
+   "deadline": "2026-10-26",
+   "end": "2026-11-02",
+   "description": "Kaggle 平台赛事",
+   "sources": [
+    {
+     "name": "ML Contests",
+     "url": "https://mlcontests.com/"
+    }
+   ]
+  },
+  {
+   "id": "mlc-www-kaggle-com-competitions-arc-prize-2026-arc-agi-3",
+   "name": "ARC Prize 2026 - ARC-AGI-3",
+   "organizer": "ARC Prize",
+   "official_url": "https://www.kaggle.com/competitions/arc-prize-2026-arc-agi-3",
+   "type": "数据算法赛",
+   "tags": [
+    "Kaggle",
+    "国际"
+   ],
+   "city": "线上",
+   "prize": "$850,000",
+   "start": "2026-03-25",
+   "deadline": "2026-10-26",
+   "end": "2026-11-02",
+   "description": "Kaggle 平台赛事",
+   "sources": [
+    {
+     "name": "ML Contests",
+     "url": "https://mlcontests.com/"
+    }
+   ]
+  },
+  {
+   "id": "mlc-www-kaggle-com-competitions-arc-prize-2026-paper-track",
+   "name": "ARC Prize 2026 - Paper Track",
+   "organizer": "ARC Prize",
+   "official_url": "https://www.kaggle.com/competitions/arc-prize-2026-paper-track",
+   "type": "数据算法赛",
+   "tags": [
+    "Kaggle",
+    "国际"
+   ],
+   "city": "线上",
+   "prize": "$450,000",
+   "start": "2026-03-25",
+   "deadline": null,
+   "end": "2026-11-09",
+   "description": "Kaggle 平台赛事",
+   "sources": [
+    {
+     "name": "ML Contests",
+     "url": "https://mlcontests.com/"
+    }
+   ]
+  },
+  {
+   "id": "mlc-zindi-africa-competitions-road-barbados-historic-handwriting-challenge",
+   "name": "Build Models to Transcribe Handwritten Historical Records",
+   "organizer": "Reclaiming Our Atlantic Destinity (R.O.A.D.)",
+   "official_url": "https://zindi.africa/competitions/road-barbados-historic-handwriting-challenge",
+   "type": "数据算法赛",
+   "tags": [
+    "Zindi",
+    "国际"
+   ],
+   "city": "线上",
+   "prize": "$25,000",
+   "start": "2026-07-03",
+   "deadline": "2026-10-05",
+   "end": "2026-10-05",
+   "description": "Zindi 平台赛事",
+   "sources": [
+    {
+     "name": "ML Contests",
+     "url": "https://mlcontests.com/"
+    }
+   ]
+  },
+  {
+   "id": "mlc-www-learn2design2026-com",
+   "name": "Design Physics Experiments for Gravitational Waves",
+   "organizer": "SPRIN-D",
+   "official_url": "https://www.learn2design2026.com/",
+   "type": "数据算法赛",
+   "tags": [
+    "Independent",
+    "NeurIPS",
+    "国际"
+   ],
+   "city": "线上",
+   "prize": "$27,000",
+   "start": "2026-07-15",
+   "deadline": null,
+   "end": "2026-10-15",
+   "description": "Independent 平台赛事 （NeurIPS 竞赛赛道）",
+   "sources": [
+    {
+     "name": "ML Contests",
+     "url": "https://mlcontests.com/"
+    }
+   ]
+  },
+  {
+   "id": "mlc-fusion-equilibrium-challenge-sophelio-io",
+   "name": "Infer Fusion Reactor Magnetic Geometry",
+   "organizer": "Sophelio, General Atomics, UKAEA, UT Austin",
+   "official_url": "https://fusion-equilibrium-challenge.sophelio.io/",
+   "type": "数据算法赛",
+   "tags": [
+    "Independent",
+    "NeurIPS",
+    "国际"
+   ],
+   "city": "线上",
+   "prize": "$1,000",
+   "start": null,
+   "deadline": null,
+   "end": "2026-10-26",
+   "description": "Independent 平台赛事 （NeurIPS 竞赛赛道）",
+   "sources": [
+    {
+     "name": "ML Contests",
+     "url": "https://mlcontests.com/"
+    }
+   ]
+  },
+  {
+   "id": "mlc-realpdecompetition-github-io",
+   "name": "RealPDE: Scientific ML for Real-World Physical Systems",
+   "organizer": "Uniforce AI",
+   "official_url": "https://realpdecompetition.github.io/",
+   "type": "数据算法赛",
+   "tags": [
+    "Codabench",
+    "NeurIPS",
+    "国际"
+   ],
+   "city": "线上",
+   "prize": "$21,000",
+   "start": "2026-07-05",
+   "deadline": "2026-08-20",
+   "end": "2026-10-25",
+   "description": "Codabench 平台赛事 （NeurIPS 竞赛赛道）",
+   "sources": [
+    {
+     "name": "ML Contests",
+     "url": "https://mlcontests.com/"
+    }
+   ]
+  },
+  {
+   "id": "mlc-www-codabench-org-competitions-10902",
+   "name": "Weak Lensing Uncertainty under Distribution Shift",
+   "organizer": "US Department of Energy",
+   "official_url": "https://www.codabench.org/competitions/10902/",
+   "type": "数据算法赛",
+   "tags": [
+    "Codabench",
+    "NeurIPS",
+    "国际"
+   ],
+   "city": "线上",
+   "prize": "$4,000",
+   "start": "2026-04-22",
+   "deadline": null,
+   "end": "2026-10-11",
+   "description": "Codabench 平台赛事 （NeurIPS 竞赛赛道）",
+   "sources": [
+    {
+     "name": "ML Contests",
+     "url": "https://mlcontests.com/"
+    }
+   ]
+  },
+  {
+   "id": "mlc-www-kaggle-com-competitions-rsna-knee-abnormality-detection",
+   "name": "Detect Knee Abnormalities in Multimodal Imaging Data",
+   "organizer": "Radiological Society of North America",
+   "official_url": "https://www.kaggle.com/competitions/rsna-knee-abnormality-detection",
+   "type": "数据算法赛",
+   "tags": [
+    "Kaggle",
+    "国际"
+   ],
+   "city": "线上",
+   "prize": "$77,000",
+   "start": "2026-08-05",
+   "deadline": "2026-10-15",
+   "end": "2026-10-22",
+   "description": "Kaggle 平台赛事",
+   "sources": [
+    {
+     "name": "ML Contests",
+     "url": "https://mlcontests.com/"
+    }
+   ]
+  },
+  {
+   "id": "mlc-situatedevals-org-simulacrabench",
+   "name": "Generate Synthetic Humanitarian Survey Responses",
+   "organizer": "Independent",
+   "official_url": "https://situatedevals.org/simulacrabench",
+   "type": "数据算法赛",
+   "tags": [
+    "Independent",
+    "NeurIPS",
+    "国际"
+   ],
+   "city": "线上",
+   "prize": null,
+   "start": "2026-08-01",
+   "deadline": null,
+   "end": "2026-11-14",
+   "description": "Independent 平台赛事 （NeurIPS 竞赛赛道）",
+   "sources": [
+    {
+     "name": "ML Contests",
+     "url": "https://mlcontests.com/"
+    }
+   ]
+  },
+  {
+   "id": "mlc-szczurek-lab-github-io-amp-challenge-website",
+   "name": "Generative AI for Antimicrobial Peptide Design",
+   "organizer": "Independent",
+   "official_url": "https://szczurek-lab.github.io/amp-challenge-website/",
+   "type": "数据算法赛",
+   "tags": [
+    "Independent",
+    "NeurIPS",
+    "国际"
+   ],
+   "city": "线上",
+   "prize": null,
+   "start": null,
+   "deadline": null,
+   "end": "2026-10-01",
+   "description": "Independent 平台赛事 （NeurIPS 竞赛赛道）",
+   "sources": [
+    {
+     "name": "ML Contests",
+     "url": "https://mlcontests.com/"
+    }
+   ]
+  },
+  {
+   "id": "mlc-virtualembryo-ai-challenge",
+   "name": "Generative Modeling of Mouse Embryo Development",
+   "organizer": "Laude Institute",
+   "official_url": "https://virtualembryo.ai/challenge",
+   "type": "数据算法赛",
+   "tags": [
+    "Independent",
+    "NeurIPS",
+    "国际"
+   ],
+   "city": "线上",
+   "prize": "$54,000",
+   "start": "2026-06-30",
+   "deadline": null,
+   "end": "2026-10-25",
+   "description": "Independent 平台赛事 （NeurIPS 竞赛赛道）",
+   "sources": [
+    {
+     "name": "ML Contests",
+     "url": "https://mlcontests.com/"
+    }
+   ]
+  },
+  {
+   "id": "mlc-aimo-interp-github-io",
+   "name": "Interpretability for AI Mathematical Olympiad Reasoning",
+   "organizer": "Fields Model Initiative",
+   "official_url": "https://aimo-interp.github.io/",
+   "type": "数据算法赛",
+   "tags": [
+    "Codabench",
+    "NeurIPS",
+    "国际"
+   ],
+   "city": "线上",
+   "prize": "$10,000",
+   "start": "2026-07-15",
+   "deadline": null,
+   "end": "2026-10-25",
+   "description": "Codabench 平台赛事 （NeurIPS 竞赛赛道）",
+   "sources": [
+    {
+     "name": "ML Contests",
+     "url": "https://mlcontests.com/"
+    }
+   ]
+  },
+  {
+   "id": "mlc-quantiphy-stanford-edu-competition-index-html",
+   "name": "Quantitative Physical Reasoning for VLMs",
+   "organizer": "Stanford HAI, UST",
+   "official_url": "https://quantiphy.stanford.edu/competition/index.html",
+   "type": "数据算法赛",
+   "tags": [
+    "Independent",
+    "NeurIPS",
+    "国际"
+   ],
+   "city": "线上",
+   "prize": null,
+   "start": "2026-06-30",
+   "deadline": null,
+   "end": "2026-11-05",
+   "description": "Independent 平台赛事 （NeurIPS 竞赛赛道）",
+   "sources": [
+    {
+     "name": "ML Contests",
+     "url": "https://mlcontests.com/"
+    }
+   ]
+  },
+  {
+   "id": "mlc-competitions-mozilladatacollective-com-competitions-group-lost-in-transcription",
+   "name": "Transcribe Code-Switched Speech in Underserved Languages",
+   "organizer": "Mozilla Data Collective",
+   "official_url": "https://competitions.mozilladatacollective.com/competitions/group/lost-in-transcription/",
+   "type": "数据算法赛",
+   "tags": [
+    "DrivenData",
+    "国际"
+   ],
+   "city": "线上",
+   "prize": "$20,000",
+   "start": "2026-08-04",
+   "deadline": null,
+   "end": "2026-10-02",
+   "description": "DrivenData 平台赛事",
+   "sources": [
+    {
+     "name": "ML Contests",
+     "url": "https://mlcontests.com/"
+    }
+   ]
+  },
+  {
+   "id": "mlc-wundernn-io-connectome",
+   "name": "Predict Price Movements from Limit Order Book Data",
+   "organizer": "Wunder Fund",
+   "official_url": "https://wundernn.io/connectome",
+   "type": "数据算法赛",
+   "tags": [
+    "Independent",
+    "国际"
+   ],
+   "city": "线上",
+   "prize": "$13,600",
+   "start": "2026-09-11",
+   "deadline": null,
+   "end": "2026-11-15",
+   "description": "Independent 平台赛事",
+   "sources": [
+    {
+     "name": "ML Contests",
+     "url": "https://mlcontests.com/"
+    }
+   ]
+  },
+  {
+   "id": "mlc-www-kaggle-com-competitions-enveda-CASMI26-molecule-id-mass-spectra",
+   "name": "Predict 2D Chemical Structures From Mass Spectra",
+   "organizer": "Enveda",
+   "official_url": "https://www.kaggle.com/competitions/enveda-CASMI26-molecule-id-mass-spectra",
+   "type": "数据算法赛",
+   "tags": [
+    "Kaggle",
+    "国际"
+   ],
+   "city": "线上",
+   "prize": "$50,000",
+   "start": "2026-09-14",
+   "deadline": "2026-12-07",
+   "end": "2026-12-14",
+   "description": "Kaggle 平台赛事",
+   "sources": [
+    {
+     "name": "ML Contests",
+     "url": "https://mlcontests.com/"
+    }
+   ]
+  },
+  {
+   "id": "mlc-www-kaggle-com-competitions-gemma-4-developer-agent-paper",
+   "name": "Write a Research Paper on Coding Agents",
+   "organizer": "Google DeepMind",
+   "official_url": "https://www.kaggle.com/competitions/gemma-4-developer-agent-paper",
+   "type": "数据算法赛",
+   "tags": [
+    "Kaggle",
+    "国际"
+   ],
+   "city": "线上",
+   "prize": "$35,000",
+   "start": "2026-09-23",
+   "deadline": "2026-11-12",
+   "end": "2026-11-12",
+   "description": "Kaggle 平台赛事",
+   "sources": [
+    {
+     "name": "ML Contests",
+     "url": "https://mlcontests.com/"
+    }
+   ]
+  },
+  {
+   "id": "mlc-www-kaggle-com-competitions-gemma-4-developer-agent",
+   "name": "Build Coding Agents with Gemma 4",
+   "organizer": "Google DeepMind",
+   "official_url": "https://www.kaggle.com/competitions/gemma-4-developer-agent",
+   "type": "数据算法赛",
+   "tags": [
+    "Kaggle",
+    "国际"
+   ],
+   "city": "线上",
+   "prize": "$65,000",
+   "start": "2026-09-23",
+   "deadline": "2026-11-25",
+   "end": "2026-12-02",
+   "description": "Kaggle 平台赛事",
+   "sources": [
+    {
+     "name": "ML Contests",
+     "url": "https://mlcontests.com/"
+    }
+   ]
+  },
+  {
+   "id": "mlc-neural-interfaces26-github-io",
+   "name": "Decode Brains Signals in Task-Specific Settings",
+   "organizer": "Various",
+   "official_url": "https://neural-interfaces26.github.io",
+   "type": "数据算法赛",
+   "tags": [
+    "Codabench",
+    "NeurIPS Brain & Body Workshop",
+    "国际"
+   ],
+   "city": "线上",
+   "prize": "$20,000",
+   "start": "2026-09-21",
+   "deadline": "2026-10-24",
+   "end": "2026-11-21",
+   "description": "Codabench 平台赛事 （NeurIPS Brain & Body Workshop 竞赛赛道）",
+   "sources": [
+    {
+     "name": "ML Contests",
+     "url": "https://mlcontests.com/"
+    }
+   ]
+  },
+  {
+   "id": "mlc-aimslab-stanford-edu-competition",
+   "name": "Predict Whether AI Systems Answer Benchmark Items Correctly",
+   "organizer": "Codabench",
+   "official_url": "https://aimslab.stanford.edu/competition",
+   "type": "数据算法赛",
+   "tags": [
+    "Codabench",
+    "NeurIPS",
+    "国际"
+   ],
+   "city": "线上",
+   "prize": null,
+   "start": null,
+   "deadline": null,
+   "end": "2026-10-30",
+   "description": "Codabench 平台赛事 （NeurIPS 竞赛赛道）",
+   "sources": [
+    {
+     "name": "ML Contests",
+     "url": "https://mlcontests.com/"
+    }
+   ]
+  },
+  {
+   "id": "mlc-robosyn-bench-net",
+   "name": "Sim2Real Bimanual Robot Manipulation",
+   "organizer": "DexForce, Tencent Cloud, AgileX, Computational Freedom",
+   "official_url": "https://robosyn-bench.net/",
+   "type": "数据算法赛",
+   "tags": [
+    "Independent",
+    "NeurIPS",
+    "国际"
+   ],
+   "city": "线上",
+   "prize": null,
+   "start": "2026-07-13",
+   "deadline": null,
+   "end": "2026-10-11",
+   "description": "Independent 平台赛事 （NeurIPS 竞赛赛道）",
+   "sources": [
+    {
+     "name": "ML Contests",
+     "url": "https://mlcontests.com/"
+    }
+   ]
+  },
+  {
+   "id": "mlc-www-agenthon-net",
+   "name": "Verifiable AI Agents for Quantitative Finance",
+   "organizer": "NVIDIA, Bloomberg, AllianceBernstein",
+   "official_url": "https://www.agenthon.net/",
+   "type": "数据算法赛",
+   "tags": [
+    "Codabench",
+    "NeurIPS",
+    "国际"
+   ],
+   "city": "线上",
+   "prize": "$12,000",
+   "start": "2026-08-17",
+   "deadline": null,
+   "end": "2026-10-12",
+   "description": "Codabench 平台赛事 （NeurIPS 竞赛赛道）",
+   "sources": [
+    {
+     "name": "ML Contests",
+     "url": "https://mlcontests.com/"
+    }
+   ]
+  }
+ ]
+}
