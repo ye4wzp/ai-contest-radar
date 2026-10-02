@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-01",
+ "updated": "2026-10-02",
  "competitions": [
   {
    "id": "aibetas-627",
@@ -251,29 +251,6 @@
     {
      "name": "AIBetas",
      "url": "https://www.aibetas.com/aigc_events/586"
-    }
-   ]
-  },
-  {
-   "id": "aibetas-424",
-   "name": "2026年全国青年建筑与城市AI创意作品征集",
-   "organizer": "中国建筑文化中心",
-   "official_url": "https://mp.weixin.qq.com/s/NRMb2L8l6tuukQdtIs1lYg",
-   "type": "AI创作赛",
-   "tags": [
-    "综合创作",
-    "AIGC"
-   ],
-   "city": null,
-   "prize": null,
-   "start": null,
-   "deadline": "2026-10-01",
-   "end": null,
-   "description": "各有关单位、广大青年朋友： 当前，数字中国建设深入推进，城市更新行动全面提速，为传承中华优秀传统文化、激发城市 […]",
-   "sources": [
-    {
-     "name": "AIBetas",
-     "url": "https://www.aibetas.com/aigc_events/424"
     }
    ]
   },
