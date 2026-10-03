@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-02",
+ "updated": "2026-10-03",
  "competitions": [
   {
    "id": "mlc-flagos-io-race-detail-season2-id-8q4m2x7p-lang-en",
@@ -401,29 +401,6 @@
    ]
   },
   {
-   "id": "mlc-competitions-mozilladatacollective-com-competitions-group-lost-in-transcription",
-   "name": "Transcribe Code-Switched Speech in Underserved Languages",
-   "organizer": "Mozilla Data Collective",
-   "official_url": "https://competitions.mozilladatacollective.com/competitions/group/lost-in-transcription/",
-   "type": "数据算法赛",
-   "tags": [
-    "DrivenData",
-    "国际"
-   ],
-   "city": "线上",
-   "prize": "$20,000",
-   "start": "2026-08-04",
-   "deadline": null,
-   "end": "2026-10-02",
-   "description": "DrivenData 平台赛事",
-   "sources": [
-    {
-     "name": "ML Contests",
-     "url": "https://mlcontests.com/"
-    }
-   ]
-  },
-  {
    "id": "mlc-wundernn-io-connectome",
    "name": "Predict Price Movements from Limit Order Book Data",
    "organizer": "Wunder Fund",
@@ -604,6 +581,30 @@
    "deadline": null,
    "end": "2026-10-12",
    "description": "Codabench 平台赛事 （NeurIPS 竞赛赛道）",
+   "sources": [
+    {
+     "name": "ML Contests",
+     "url": "https://mlcontests.com/"
+    }
+   ]
+  },
+  {
+   "id": "mlc-www-codabench-org-competitions-18185",
+   "name": "Language-Conditioned Visual Navigation",
+   "organizer": "Codabench",
+   "official_url": "https://www.codabench.org/competitions/18185/",
+   "type": "数据算法赛",
+   "tags": [
+    "Codabench",
+    "NeurIPS RoboPAD Workshop",
+    "国际"
+   ],
+   "city": "线上",
+   "prize": "$2,800",
+   "start": "2026-09-28",
+   "deadline": "2026-10-31",
+   "end": "2026-11-20",
+   "description": "Codabench 平台赛事 （NeurIPS RoboPAD Workshop 竞赛赛道）",
    "sources": [
     {
      "name": "ML Contests",
