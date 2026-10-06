@@ -2,7 +2,7 @@
 
 聚合全网 AI 竞赛 / 黑客松 / 创作赛的静态网页工具。
 
-**在线访问**：<https://ye4wzp.github.io/ai-contest-radar/>（GitHub Actions 每天北京时间 08:30 自动更新数据）
+**在线访问**：<https://ye4wzp.github.io/ai-contest-radar/>（GitHub Actions 每天北京时间约 07:17 自动更新数据，GitHub 定时任务可能有延迟）
 
 ## 数据管线
 

@@ -2,7 +2,7 @@ name: Update competition data
 
 on:
   schedule:
-    - cron: "30 0 * * *" # 每天 08:30 北京时间
+    - cron: "17 23 * * *" # 每天北京时间 07:17；避开整点/半点，GitHub 高峰时段定时任务会延迟数小时
   workflow_dispatch:
 
 permissions:
