@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-05",
+ "updated": "2026-10-06",
  "competitions": [
   {
    "id": "mlc-flagos-io-race-detail-season2-id-8q4m2x7p-lang-en",
@@ -155,29 +155,6 @@
    "deadline": null,
    "end": "2026-11-09",
    "description": "Kaggle 平台赛事",
-   "sources": [
-    {
-     "name": "ML Contests",
-     "url": "https://mlcontests.com/"
-    }
-   ]
-  },
-  {
-   "id": "mlc-zindi-africa-competitions-road-barbados-historic-handwriting-challenge",
-   "name": "Build Models to Transcribe Handwritten Historical Records",
-   "organizer": "Reclaiming Our Atlantic Destinity (R.O.A.D.)",
-   "official_url": "https://zindi.africa/competitions/road-barbados-historic-handwriting-challenge",
-   "type": "数据算法赛",
-   "tags": [
-    "Zindi",
-    "国际"
-   ],
-   "city": "线上",
-   "prize": "$25,000",
-   "start": "2026-07-03",
-   "deadline": "2026-10-05",
-   "end": "2026-10-05",
-   "description": "Zindi 平台赛事",
    "sources": [
     {
      "name": "ML Contests",

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-05",
+ "updated": "2026-10-06",
  "competitions": [
   {
    "id": "aibetas-627",
@@ -182,29 +182,6 @@
     {
      "name": "AIBetas",
      "url": "https://www.aibetas.com/aigc_events/608"
-    }
-   ]
-  },
-  {
-   "id": "aibetas-606",
-   "name": "2026金鸡AI影展作品征集",
-   "organizer": "2026金鸡AI影展组委会",
-   "official_url": "https://qr61.cn/oU0qhd/qqebyZg",
-   "type": "AI创作赛",
-   "tags": [
-    "AI视频",
-    "AIGC"
-   ],
-   "city": null,
-   "prize": "七项年度荣誉，入围作品颁发官方证书；未设置现金奖金",
-   "start": null,
-   "deadline": "2026-10-05",
-   "end": null,
-   "description": "正文 2026金鸡AI影展（暨AIGC未来影像）正式启动全球作品征集。影展作为金鸡奖官方平台与AI影像浪潮融合 […]",
-   "sources": [
-    {
-     "name": "AIBetas",
-     "url": "https://www.aibetas.com/aigc_events/606"
     }
    ]
   },
