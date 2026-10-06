@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07",
+ "updated": "2026-10-06",
  "competitions": [
   {
    "id": "tianchi-532514",
@@ -202,7 +202,7 @@
    "name": "欧莱雅美妆科技黑客松 - 赛题1 数据共情者 - 消费者的AI管家",
    "organizer": "阿里云天池",
    "official_url": "https://tianchi.aliyun.com/competition/entrance/532503",
-   "type": "数据算法赛",
+   "type": "黑客松",
    "tags": [
     "天池",
     "多模态",
@@ -227,7 +227,7 @@
    "name": "欧莱雅美妆科技黑客松 - 赛题2 信任守护师 - 创造者的AI卫士",
    "organizer": "阿里云天池",
    "official_url": "https://tianchi.aliyun.com/competition/entrance/532496",
-   "type": "数据算法赛",
+   "type": "黑客松",
    "tags": [
     "天池",
     "多模态",
@@ -252,7 +252,7 @@
    "name": "欧莱雅美妆科技黑客松 - 赛题3 无界体验家 - 用爱(AI)让美触手可及",
    "organizer": "阿里云天池",
    "official_url": "https://tianchi.aliyun.com/competition/entrance/532497",
-   "type": "数据算法赛",
+   "type": "黑客松",
    "tags": [
     "天池",
     "多模态",
@@ -303,7 +303,7 @@
    "name": "AI+跨境黑客松巅峰赛——用AI解跨境真命题",
    "organizer": "阿里云天池",
    "official_url": "https://tianchi.aliyun.com/competition/entrance/532509",
-   "type": "数据算法赛",
+   "type": "黑客松",
    "tags": [
     "天池",
     "电商",
@@ -402,7 +402,7 @@
    "name": "欧莱雅第二届美妆科技黑客松 - 用 AI 造点美",
    "organizer": "阿里云天池",
    "official_url": "https://tianchi.aliyun.com/competition/entrance/532495",
-   "type": "数据算法赛",
+   "type": "黑客松",
    "tags": [
     "天池",
     "智能体",
