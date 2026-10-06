@@ -22,20 +22,27 @@ def url_key(url: str | None) -> str | None:
     return re.sub(r"^https?://(www\.)?|[/?&#]+$", "", url)
 
 
-# Luma 上大量是聚会、讲座、答疑，只留名称像比赛且与 AI 相关的
 CONTEST = re.compile(r"黑客|hack|马拉松|挑战|竞赛|比赛|大赛|buildathon|ideathon|创客松|jam", re.I)
 NOT_CONTEST = re.compile(
     r"办公时间|office hours|聚会|见面会|交流会|讲座|分享会|研讨会|招待|派对|欢乐时光|happy hour|"
-    r"networking|meetup|演示日|演示之夜|demo day|获奖者展示|共工作|协同办公|圆桌", re.I)
-AI = re.compile(r"AI|人工智能|智能|大模型|代理|[Aa]gent|LLM|GPT|机器学习|模型")
+    r"networking|meetup|演示日|演示之夜|demo day|获奖者展示|共工作|协同办公|圆桌|"
+    r"沙龙|训练营|实战营|创作营|集训营|论坛|会议", re.I)
+# AI赛事通把 Agent 机翻成「代理」「特工」
+AI = re.compile(r"AI|人工智能|智能|大模型|代理|特工|[Aa]gent|LLM|GPT|机器学习|深度学习|模型|具身|Qwen|千问")
 
 
-def is_meetup(c: dict) -> bool:
-    if "luma.com" not in (c.get("official_url") or ""):
+def off_topic(c: dict) -> bool:
+    """AI赛事通混有聚会、训练营和与 AI 无关的创业赛、Web3/CTF 赛，其他源本身已按 AI 筛过。"""
+    if c["sources"][0]["name"] != "AI赛事通":
         return False
-    name = c["name"]
+    name, url = c["name"], c.get("official_url") or ""
     ai = "机器学习/AI" in c.get("tags", []) or AI.search(name)
-    return not (CONTEST.search(name) and not NOT_CONTEST.search(name) and ai)
+    # Luma 上大量是聚会、讲座、答疑，只留名称像比赛且与 AI 相关的
+    if "luma.com" in url:
+        return not (CONTEST.search(name) and not NOT_CONTEST.search(name) and ai)
+    if NOT_CONTEST.search(name) and not CONTEST.search(name):
+        return True
+    return not (ai or "lablab.ai" in url or AI.search(c.get("description") or ""))
 
 
 def load_prev() -> list:
@@ -52,8 +59,11 @@ def load_prev() -> list:
 def main():
     manual = json.loads((DATA / "manual.json").read_text())
     scraped = []
-    # AI赛事通是二手聚合（机翻名称、奖金折成人民币、多无报名截止），与其他源重复时让其他源的条目做主
-    for f in sorted((DATA / "sources").glob("*.json"), key=lambda f: (f.stem == "competehub", f.stem)):
+    # AI赛事通是二手聚合（机翻名称、奖金折成人民币、多无报名截止），与其他源重复时让其他源的条目做主；
+    # 魔搭常转载天池等平台的赛事且不给结束日，也排在一手源之后
+    last = ("modelscope", "competehub")
+    for f in sorted((DATA / "sources").glob("*.json"),
+                    key=lambda f: (last.index(f.stem) if f.stem in last else -1, f.stem)):
         scraped += json.loads(f.read_text())["competitions"]
     prev = load_prev()
 
@@ -64,7 +74,7 @@ def main():
         return c.get("featured") or not final or final >= cutoff
 
     merged, keys, urls, ids = [], {}, {}, set()
-    for c in manual + [x for x in scraped + prev if alive(x) and not is_meetup(x)]:
+    for c in manual + [x for x in scraped + prev if alive(x) and not off_topic(x)]:
         if c["id"] in ids:
             continue
         ids.add(c["id"])

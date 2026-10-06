@@ -1,0 +1,93 @@
+{
+ "updated": "2026-10-07",
+ "competitions": [
+  {
+   "id": "modelscope-375",
+   "name": "支付宝｜智能体涌现奖比赛",
+   "organizer": "支付宝",
+   "official_url": "https://modelscope.cn/events/375",
+   "type": "创意应用赛",
+   "tags": [
+    "魔搭"
+   ],
+   "city": null,
+   "prize": "1000万智能体发展奖金总奖池",
+   "start": "2026-09-10",
+   "deadline": "2026-11-10",
+   "end": null,
+   "description": "欢迎参加由支付宝发起的智能体涌现奖比赛，每一个真实需求都可能长成智能体（包括：智能应用、Agent…），你可以带着原创想法报名提交作品，也可以从阿宝许愿池的真实需求里找灵感动手创作，哪怕没有开发经验，也能投递你的愿望赢取奖励。",
+   "sources": [
+    {
+     "name": "魔搭社区",
+     "url": "https://modelscope.cn/active"
+    }
+   ]
+  },
+  {
+   "id": "modelscope-367",
+   "name": "蚂蚁灵波具身大模型挑战赛",
+   "organizer": "蚂蚁灵波科技、阿里云天池、魔搭社区",
+   "official_url": "https://modelscope.cn/events/367",
+   "type": "AI大模型赛",
+   "tags": [
+    "魔搭"
+   ],
+   "city": null,
+   "prize": "¥280000",
+   "start": "2026-09-14",
+   "deadline": "2026-10-26",
+   "end": null,
+   "description": "蚂蚁灵波具身大模型挑战赛由蚂蚁灵波科技、魔搭社区、阿里云天池共同发起，是一场面向具身智能开发者的算法挑战赛。赛事基于开源 LingBot-VLA 2.0 模型搭建统一评测体系，由线上初赛和线下真机黑客马拉松两个阶段组成，面向全球企业、高校、个人开发者及技术爱好者开放。本次赛事希望让更多开发者真正上手 LingBot-VLA 2.0，在统一任务与真实机器人场景中验证模型复现、训练调优、泛化评测和真机适配能力，推动具身智能技术从模型能力走向真实落地。",
+   "sources": [
+    {
+     "name": "魔搭社区",
+     "url": "https://modelscope.cn/active"
+    }
+   ]
+  },
+  {
+   "id": "modelscope-342",
+   "name": "FlagOS开放计算全球挑战赛S2",
+   "organizer": "众智FlagOS社区",
+   "official_url": "https://modelscope.cn/events/342",
+   "type": "AI大模型赛",
+   "tags": [
+    "魔搭"
+   ],
+   "city": null,
+   "prize": "200w",
+   "start": "2026-07-19",
+   "deadline": "2026-12-31",
+   "end": null,
+   "description": "由众智FlagOS社区主办的一项多赛季、综合性赛事。大赛鼓励开发者基于统一AI系统软件栈FlagOS的能力进行创作实战和创新探索，促进AI开发者能力提升，推动开放计算生态的蓬勃发展。",
+   "sources": [
+    {
+     "name": "魔搭社区",
+     "url": "https://modelscope.cn/active"
+    }
+   ]
+  },
+  {
+   "id": "modelscope-343",
+   "name": "第六届 OceanBase 数据库大赛",
+   "organizer": "OceanBase",
+   "official_url": "https://modelscope.cn/events/343",
+   "type": "创意应用赛",
+   "tags": [
+    "魔搭"
+   ],
+   "city": null,
+   "prize": "0",
+   "start": "2026-08-17",
+   "deadline": "2026-10-19",
+   "end": null,
+   "description": "第六届 OceanBase 数据库大赛是由 CCF 数据库专委指导，OceanBase 主办的面向高校学生的数据库大赛。\n\n大赛以“竞技、交流、成长”为宗旨，搭建开放、专业的技术交流平台，推动数据库人才培养。本届围绕“数据库+AI”设置全新赛题，聚焦数据库内核，同时覆盖数据库、上下文工程、AI 应用开发、基础模型与算力、智能体、具身智能等前沿方向。",
+   "sources": [
+    {
+     "name": "魔搭社区",
+     "url": "https://modelscope.cn/active"
+    }
+   ]
+  }
+ ]
+}

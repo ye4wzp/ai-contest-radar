@@ -29,6 +29,9 @@ jobs:
           python fetch_mlcontests.py || echo "::warning::mlcontests fetch failed"
           python fetch_devpost.py || echo "::warning::devpost fetch failed"
           python fetch_aibetas.py || echo "::warning::aibetas fetch failed"
+          python fetch_tianchi.py || echo "::warning::tianchi fetch failed"
+          python fetch_datafountain.py || echo "::warning::datafountain fetch failed"
+          python fetch_modelscope.py || echo "::warning::modelscope fetch failed"
       - run: python scripts/build_data.py
       - name: Deadline reminders
         run: python scripts/notify.py || echo "::warning::notify failed"

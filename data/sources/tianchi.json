@@ -1,0 +1,426 @@
+{
+ "updated": "2026-10-07",
+ "competitions": [
+  {
+   "id": "tianchi-532514",
+   "name": "蚂蚁灵波具身大模型挑战赛",
+   "organizer": "阿里云天池",
+   "official_url": "https://tianchi.aliyun.com/competition/entrance/532514",
+   "type": "数据算法赛",
+   "tags": [
+    "天池",
+    "机器人",
+    "计算机视觉"
+   ],
+   "city": null,
+   "prize": "¥280,000",
+   "start": "2026-09-11",
+   "deadline": "2026-10-26",
+   "end": "2026-11-15",
+   "signup": "open",
+   "description": "蚂蚁灵波具身大模型挑战赛由蚂蚁灵波科技、魔搭社区、阿里云天池共同发起，是一场面向具身智能开发者的算法挑战赛。\n\n赛事基于开源 LingBot-VLA 2.0 模型搭建统一评测体系，由线上初赛和线下真机黑客马拉松两个阶段组成，面向全球企业、高校、个人开发者及技术爱好者开放。\n\n本次赛事希望让更多开发者真正上手 LingBot-VLA 2.0，在统一任务与真实机器人场景中验证模型复现、训练调优、泛化评测和真机适配能力，推动具身智能技术从模型能力走向真实落地。",
+   "sources": [
+    {
+     "name": "天池",
+     "url": "https://tianchi.aliyun.com/competition/activeList"
+    }
+   ]
+  },
+  {
+   "id": "tianchi-532480",
+   "name": "CHIP2026-医学NLP代码自动生成测评 ——识别符合临床试验入组标准的患者",
+   "organizer": "阿里云天池",
+   "official_url": "https://tianchi.aliyun.com/competition/entrance/532480",
+   "type": "数据算法赛",
+   "tags": [
+    "天池",
+    "医疗健康"
+   ],
+   "city": null,
+   "prize": null,
+   "start": "2026-08-31",
+   "deadline": "2026-10-07",
+   "end": "2026-10-12",
+   "signup": "open",
+   "description": "本任务基于CHIP2025-CP03升级，聚焦医学NLP代码自动生成，以识别符合临床试验入组/出组标准的患者。提供17类48条筛选标准及FHIR FSH定义，需按FHIR Message Bundle递交。评测大模型引导小语言模型(SLM)生成代码的可运行性、标准符合性、查询准确性与稳定性。背景强调CDSS需临床全程参与，但知识产权壁垒阻碍协同；大模型编码与FHIR兼容助系统适配，而SLM引入幻觉与可解释性挑战。本任务为科研、产品及政策提供支撑。",
+   "sources": [
+    {
+     "name": "天池",
+     "url": "https://tianchi.aliyun.com/competition/activeList"
+    }
+   ]
+  },
+  {
+   "id": "tianchi-532511",
+   "name": "2026 SMP第十四届全国社会媒体处理大会-大模型图网络决策挑战赛",
+   "organizer": "阿里云天池",
+   "official_url": "https://tianchi.aliyun.com/competition/entrance/532511",
+   "type": "数据算法赛",
+   "tags": [
+    "天池",
+    "程序设计",
+    "智能体",
+    "大语言模型"
+   ],
+   "city": null,
+   "prize": "¥55,000",
+   "start": "2026-08-30",
+   "deadline": null,
+   "end": "2026-10-23",
+   "signup": "closed",
+   "description": "第十四届全国社会媒体处理大会（SMP 2026）将于2026年11月12日至15日在北京召开。本届大会的主题是“大模型驱动人机共生”，旨在探索在大模型和智能体快速发展给人类社会带来的颠覆性变化以及构建人机和谐共生的社会新生态的路径。\nSMP 2026挑战赛由中国中文信息学会社会媒体处理专委会主办，天池平台为指定赛事平台。本次比赛以外星文明降临地球的科幻故事为背景，邀请广大开发者和相关技术团队，通过科学的算法与策略设计，探索解决网络演化预测与有效干预等核心难题。",
+   "sources": [
+    {
+     "name": "天池",
+     "url": "https://tianchi.aliyun.com/competition/activeList"
+    }
+   ]
+  },
+  {
+   "id": "tianchi-532512",
+   "name": "CHIP2026-面向生物医学全文的特定患者表型概念识别任务",
+   "organizer": "阿里云天池",
+   "official_url": "https://tianchi.aliyun.com/competition/entrance/532512",
+   "type": "数据算法赛",
+   "tags": [
+    "天池",
+    "医疗健康",
+    "自然语言处理",
+    "大语言模型"
+   ],
+   "city": null,
+   "prize": null,
+   "start": "2026-10-03",
+   "deadline": "2029-10-03",
+   "end": "2029-10-03",
+   "signup": "open",
+   "description": "第十二届中国健康信息处理大会（CHIP 2026）评测",
+   "sources": [
+    {
+     "name": "天池",
+     "url": "https://tianchi.aliyun.com/competition/activeList"
+    }
+   ]
+  },
+  {
+   "id": "tianchi-532510",
+   "name": "知乎知学堂大模型挑战赛：大模型复杂表格识别与内容理解",
+   "organizer": "阿里云天池",
+   "official_url": "https://tianchi.aliyun.com/competition/entrance/532510",
+   "type": "数据算法赛",
+   "tags": [
+    "天池",
+    "自然语言处理",
+    "大语言模型"
+   ],
+   "city": null,
+   "prize": "¥20,000",
+   "start": "2026-10-01",
+   "deadline": "2026-12-31",
+   "end": "2026-12-31",
+   "signup": "open",
+   "description": "本赛题面向图片和 PDF 文件中的复杂表格识别与内容理解。参赛者需要读取\n题目清单，识别目标文档中的表格结构和表格内容，并完成结构恢复、内容提取\n或简单推理计算，最终提交可自动评分的 Excel 结果文件。",
+   "sources": [
+    {
+     "name": "天池",
+     "url": "https://tianchi.aliyun.com/competition/activeList"
+    }
+   ]
+  },
+  {
+   "id": "tianchi-532506",
+   "name": "2026-具身仿真合成挑战赛",
+   "organizer": "阿里云天池",
+   "official_url": "https://tianchi.aliyun.com/competition/entrance/532506",
+   "type": "数据算法赛",
+   "tags": [
+    "天池"
+   ],
+   "city": null,
+   "prize": "¥100,000",
+   "start": "2026-07-30",
+   "deadline": null,
+   "end": "2026-11-15",
+   "signup": "closed",
+   "description": "仿真资产是具身智能发展的重要基础，广泛应用于仿真场景构建、机器人训练以及仿真到现实的部署验证。本次比赛是全球首个聚焦多设备真实视频到可交互仿真资产端到端生成与系统评测的具身仿真合成挑战赛。参赛队伍需基于多设备采集的真实物体视频，构建自动化处理流水线，生成结构准确、外观真实、物理可信且可交互的高质量仿真就绪型资产。",
+   "sources": [
+    {
+     "name": "天池",
+     "url": "https://tianchi.aliyun.com/competition/activeList"
+    }
+   ]
+  },
+  {
+   "id": "tianchi-532507",
+   "name": "2026-具身安全应用挑战赛",
+   "organizer": "阿里云天池",
+   "official_url": "https://tianchi.aliyun.com/competition/entrance/532507",
+   "type": "数据算法赛",
+   "tags": [
+    "天池"
+   ],
+   "city": null,
+   "prize": "¥100,000",
+   "start": "2026-07-30",
+   "deadline": null,
+   "end": "2026-11-15",
+   "signup": "closed",
+   "description": "围绕“感知—决策—执行”完整闭环，设置视觉感知、空间感知、任务决策、控制通信、状态估计、执行反馈六个攻击环节，考察具身智能模型在遭受多域攻击时的异常发现、链路识别、危险阻断、降级处置与任务恢复等能力。本次比赛是全球首个以具身安全为核心命题，特别支持VLA、WAM等多模态融合技术的具身安全应用挑战赛，旨在检验多模态感知与决策系统在复杂攻击下的鲁棒性。每类赛题包含简单、中等和困难等难度，正式评测中的攻击形式与参数不公开，重点考察具身模型面对未知异常的泛化防御能力。",
+   "sources": [
+    {
+     "name": "天池",
+     "url": "https://tianchi.aliyun.com/competition/activeList"
+    }
+   ]
+  },
+  {
+   "id": "tianchi-532508",
+   "name": "2026-跨本体具身认知极限联合挑战赛",
+   "organizer": "阿里云天池",
+   "official_url": "https://tianchi.aliyun.com/competition/entrance/532508",
+   "type": "数据算法赛",
+   "tags": [
+    "天池",
+    "机器人"
+   ],
+   "city": null,
+   "prize": "¥100,000",
+   "start": "2026-07-30",
+   "deadline": "2026-10-21",
+   "end": "2026-11-15",
+   "signup": "open",
+   "description": "本赛道聚焦具身智能从仿真训练走向多型号真机验证，探索机器人策略在不同本体和真实物理环境中的迁移能力。本次赛事是全球首个跨本体、跨平台、跨场景仿真+真机挑战赛。",
+   "sources": [
+    {
+     "name": "天池",
+     "url": "https://tianchi.aliyun.com/competition/activeList"
+    }
+   ]
+  },
+  {
+   "id": "tianchi-532503",
+   "name": "欧莱雅美妆科技黑客松 - 赛题1 数据共情者 - 消费者的AI管家",
+   "organizer": "阿里云天池",
+   "official_url": "https://tianchi.aliyun.com/competition/entrance/532503",
+   "type": "数据算法赛",
+   "tags": [
+    "天池",
+    "多模态",
+    "智能体"
+   ],
+   "city": null,
+   "prize": "¥200,000",
+   "start": "2026-07-17",
+   "deadline": "2026-10-20",
+   "end": "2026-10-20",
+   "signup": "open",
+   "description": "作为全球美妆科技创新的重要实践平台，2026 欧莱雅美妆科技黑客松汇聚全球青年创新力量，面向海内外高校在校学生开放报名。赛事聚焦人工智能与美妆产业融合创新，围绕真实业务场景设置挑战赛题，鼓励参赛团队运用 AI、多模态、智能交互等前沿技术，探索美妆行业的创新应用与未来体验。 在这里，创意不仅停留于概念，更有机会与产业需求深度连接。赛事希望发掘兼具技术创新力与商业应用价值的青年团队，为未来美妆科技的发展注入更多创新灵感与实践成果。",
+   "sources": [
+    {
+     "name": "天池",
+     "url": "https://tianchi.aliyun.com/competition/activeList"
+    }
+   ]
+  },
+  {
+   "id": "tianchi-532496",
+   "name": "欧莱雅美妆科技黑客松 - 赛题2 信任守护师 - 创造者的AI卫士",
+   "organizer": "阿里云天池",
+   "official_url": "https://tianchi.aliyun.com/competition/entrance/532496",
+   "type": "数据算法赛",
+   "tags": [
+    "天池",
+    "多模态",
+    "智能体"
+   ],
+   "city": null,
+   "prize": "¥200,000",
+   "start": "2026-07-17",
+   "deadline": "2026-10-20",
+   "end": "2026-10-20",
+   "signup": "open",
+   "description": "作为全球美妆科技创新的重要实践平台，2026 欧莱雅美妆科技黑客松汇聚全球青年创新力量，面向海内外高校在校学生开放报名。赛事聚焦人工智能与美妆产业融合创新，围绕真实业务场景设置挑战赛题，鼓励参赛团队运用 AI、多模态、智能交互等前沿技术，探索美妆行业的创新应用与未来体验。\n在这里，创意不仅停留于概念，更有机会与产业需求深度连接。赛事希望发掘兼具技术创新力与商业应用价值的青年团队，为未来美妆科技的发展注入更多创新灵感与实践成果。",
+   "sources": [
+    {
+     "name": "天池",
+     "url": "https://tianchi.aliyun.com/competition/activeList"
+    }
+   ]
+  },
+  {
+   "id": "tianchi-532497",
+   "name": "欧莱雅美妆科技黑客松 - 赛题3 无界体验家 - 用爱(AI)让美触手可及",
+   "organizer": "阿里云天池",
+   "official_url": "https://tianchi.aliyun.com/competition/entrance/532497",
+   "type": "数据算法赛",
+   "tags": [
+    "天池",
+    "多模态",
+    "智能体"
+   ],
+   "city": null,
+   "prize": "¥200,000",
+   "start": "2026-07-17",
+   "deadline": "2026-10-20",
+   "end": "2026-10-20",
+   "signup": "open",
+   "description": "作为全球美妆科技创新的重要实践平台，2026 欧莱雅美妆科技黑客松汇聚全球青年创新力量，面向海内外高校在校学生开放报名。赛事聚焦人工智能与美妆产业融合创新，围绕真实业务场景设置挑战赛题，鼓励参赛团队运用 AI、多模态、智能交互等前沿技术，探索美妆行业的创新应用与未来体验。\n在这里，创意不仅停留于概念，更有机会与产业需求深度连接。赛事希望发掘兼具技术创新力与商业应用价值的青年团队，为未来美妆科技的发展注入更多创新灵感与实践成果。",
+   "sources": [
+    {
+     "name": "天池",
+     "url": "https://tianchi.aliyun.com/competition/activeList"
+    }
+   ]
+  },
+  {
+   "id": "tianchi-532460",
+   "name": "余震预测技术国际大赛",
+   "organizer": "阿里云天池",
+   "official_url": "https://tianchi.aliyun.com/competition/entrance/532460",
+   "type": "数据算法赛",
+   "tags": [
+    "天池",
+    "地质科学",
+    "地震学",
+    "地球物理学"
+   ],
+   "city": null,
+   "prize": "$30,000",
+   "start": "2026-10-01",
+   "deadline": "2026-10-31",
+   "end": "2026-10-31",
+   "signup": "open",
+   "description": "中国地震局地震预测研究所主办。本次比赛旨在梳理地震序列预测中的科技问题，汇集全球智慧，借助人工智能、大模型等新兴技术，推动学科交叉和合作，提升余震预测的准确性，并为地震序列后续强震的预测提供思路和参考，从而提升全球地震灾害应对能力。",
+   "sources": [
+    {
+     "name": "天池",
+     "url": "https://tianchi.aliyun.com/competition/activeList"
+    }
+   ]
+  },
+  {
+   "id": "tianchi-532509",
+   "name": "AI+跨境黑客松巅峰赛——用AI解跨境真命题",
+   "organizer": "阿里云天池",
+   "official_url": "https://tianchi.aliyun.com/competition/entrance/532509",
+   "type": "数据算法赛",
+   "tags": [
+    "天池",
+    "电商",
+    "物流"
+   ],
+   "city": null,
+   "prize": "¥100,000",
+   "start": "2026-09-24",
+   "deadline": "2026-10-08",
+   "end": "2026-10-08",
+   "signup": "open",
+   "description": "三大跨境真实场景，用AI重解跨境真命题，我们把跨境电商真实的业务中AI高频实战参与的场景搬上赛场，并由阿里云百炼平台提供算力进行大赛支持，让你的开发更高效。菜鸟智谷、跨境百人会将邀请跨境品牌卖家发布开发场景，让你的项目不止于Demo——而是符合市场需求的真方案。",
+   "sources": [
+    {
+     "name": "天池",
+     "url": "https://tianchi.aliyun.com/competition/activeList"
+    }
+   ]
+  },
+  {
+   "id": "tianchi-532338",
+   "name": "【打榜赛】CCL25-Eval  任务2：第三届汉语框架语义解析评测",
+   "organizer": "阿里云天池",
+   "official_url": "https://tianchi.aliyun.com/competition/entrance/532338",
+   "type": "数据算法赛",
+   "tags": [
+    "天池",
+    "自然语言处理"
+   ],
+   "city": null,
+   "prize": "¥5,000",
+   "start": "2025-06-20",
+   "deadline": "2027-05-24",
+   "end": "2027-05-25",
+   "signup": "open",
+   "description": "框架语义解析（Frame Semantic Parsing，FSP）是一项基于框架语义学的细粒度语义分析任务，其目标是从句子中提取框架语义结构，实现对句子中事件或情境的深层理解。框架语义解析对阅读理解、文本摘要、关系抽取等下游任务具有重要意义。",
+   "sources": [
+    {
+     "name": "天池",
+     "url": "https://tianchi.aliyun.com/competition/activeList"
+    }
+   ]
+  },
+  {
+   "id": "tianchi-231573",
+   "name": "资金流入流出预测-挑战Baseline",
+   "organizer": "阿里云天池",
+   "official_url": "https://tianchi.aliyun.com/competition/entrance/231573",
+   "type": "数据算法赛",
+   "tags": [
+    "天池",
+    "金融"
+   ],
+   "city": null,
+   "prize": null,
+   "start": "2016-05-10",
+   "deadline": "2027-05-06",
+   "end": "2027-05-06",
+   "signup": "open",
+   "description": "蚂蚁金服拥有上亿会员并且业务场景中每天都涉及大量的资金流入和流出，面对如此庞大的用户群，资金管理压力会非常大。在既保证资金流动性风险最小，又满足日常业务运转的情况下，精准地预测资金的流入流出情况变得尤为重要。",
+   "sources": [
+    {
+     "name": "天池",
+     "url": "https://tianchi.aliyun.com/competition/activeList"
+    }
+   ]
+  },
+  {
+   "id": "tianchi-532515",
+   "name": "OpenLET 具身智能挑战赛",
+   "organizer": "阿里云天池",
+   "official_url": "https://tianchi.aliyun.com/competition/entrance/532515",
+   "type": "数据算法赛",
+   "tags": [
+    "天池",
+    "机器人",
+    "工业制造",
+    "第三方竞赛"
+   ],
+   "city": null,
+   "prize": "¥500,000",
+   "start": "2026-09-23",
+   "deadline": "2026-12-31",
+   "end": "2026-12-31",
+   "signup": "open",
+   "description": "OpenLET 具身智能挑战赛面向高校实验室、企业研发团队与个人开发者，赛事按赛季组织，围绕真实工业任务开放数据、工具与评测支持。参赛队伍可在赛季内持续提交、改进方案，参与月度揭榜与季度评选。首阶段安排冬季仿真赛、春季仿真与真机赛，优秀队伍可争取全球总决赛参赛资格。",
+   "sources": [
+    {
+     "name": "天池",
+     "url": "https://tianchi.aliyun.com/competition/activeList"
+    }
+   ]
+  },
+  {
+   "id": "tianchi-532495",
+   "name": "欧莱雅第二届美妆科技黑客松 - 用 AI 造点美",
+   "organizer": "阿里云天池",
+   "official_url": "https://tianchi.aliyun.com/competition/entrance/532495",
+   "type": "数据算法赛",
+   "tags": [
+    "天池",
+    "智能体",
+    "多模态"
+   ],
+   "city": null,
+   "prize": "¥200,000",
+   "start": "2026-07-17",
+   "deadline": null,
+   "end": "2026-10-20",
+   "signup": "closed",
+   "description": "作为全球美妆科技创新的重要实践平台，2026 欧莱雅美妆黑客松汇聚全球青年创新力量，面向海内外高校在校学生开放报名。赛事聚焦人工智能与美妆产业融合创新，围绕真实业务场景设置挑战赛题，鼓励参赛团队运用 AI、多模态、智能交互等前沿技术，探索美妆行业的创新应用与未来体验。\n在这里，创意不仅停留于概念，更有机会与产业需求深度连接。赛事希望发掘兼具技术创新力与商业应用价值的青年团队，为未来美妆科技的发展注入更多创新灵感与实践成果。",
+   "sources": [
+    {
+     "name": "天池",
+     "url": "https://tianchi.aliyun.com/competition/activeList"
+    }
+   ]
+  }
+ ]
+}
