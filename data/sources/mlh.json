@@ -1,29 +1,6 @@
 {
- "updated": "2026-10-06",
+ "updated": "2026-10-07",
  "competitions": [
-  {
-   "id": "mlh-events-mlh-io-events-14418-hack-coms-2026",
-   "name": "HACK.COMS 2026",
-   "organizer": "MLH 认证",
-   "official_url": "https://events.mlh.io/events/14418-hack-coms-2026",
-   "type": "黑客松",
-   "tags": [
-    "MLH",
-    "国际"
-   ],
-   "city": "Rochester, US",
-   "prize": null,
-   "start": "2026-11-07",
-   "deadline": null,
-   "end": "2026-11-08",
-   "description": "MLH（Major League Hacking）官方认证黑客松，报名时间以官网为准。",
-   "sources": [
-    {
-     "name": "MLH",
-     "url": "https://events.mlh.io/events/14418-hack-coms-2026"
-    }
-   ]
-  },
   {
    "id": "mlh-hacknc-com",
    "name": "HackNC",
@@ -826,6 +803,29 @@
     {
      "name": "MLH",
      "url": "https://tamudatathon.com/"
+    }
+   ]
+  },
+  {
+   "id": "mlh-hub-salisbury-edu-hackathon",
+   "name": "GullHacks",
+   "organizer": "MLH 认证",
+   "official_url": "https://hub.salisbury.edu/hackathon/",
+   "type": "黑客松",
+   "tags": [
+    "MLH",
+    "国际"
+   ],
+   "city": "Salisbury, US",
+   "prize": null,
+   "start": "2026-11-07",
+   "deadline": null,
+   "end": "2026-11-08",
+   "description": "MLH（Major League Hacking）官方认证黑客松，报名时间以官网为准。",
+   "sources": [
+    {
+     "name": "MLH",
+     "url": "https://hub.salisbury.edu/hackathon/"
     }
    ]
   },
