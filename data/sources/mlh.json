@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07",
+ "updated": "2026-10-08",
  "competitions": [
   {
    "id": "mlh-hacknc-com",
@@ -577,6 +577,29 @@
    ]
   },
   {
+   "id": "mlh-shark-byte-io",
+   "name": "SharkByte",
+   "organizer": "MLH 认证",
+   "official_url": "https://shark-byte.io/",
+   "type": "黑客松",
+   "tags": [
+    "MLH",
+    "国际"
+   ],
+   "city": "Miami, US",
+   "prize": null,
+   "start": "2026-11-06",
+   "deadline": null,
+   "end": "2026-11-08",
+   "description": "MLH（Major League Hacking）官方认证黑客松，报名时间以官网为准。",
+   "sources": [
+    {
+     "name": "MLH",
+     "url": "https://shark-byte.io/"
+    }
+   ]
+  },
+  {
    "id": "mlh-www-hacktrent-ca",
    "name": "HackTrent",
    "organizer": "MLH 认证",
@@ -922,6 +945,29 @@
    ]
   },
   {
+   "id": "mlh-hackeps-dev",
+   "name": "HackEPS",
+   "organizer": "MLH 认证",
+   "official_url": "https://hackeps.dev/",
+   "type": "黑客松",
+   "tags": [
+    "MLH",
+    "国际"
+   ],
+   "city": "Lleida, ES",
+   "prize": null,
+   "start": "2026-11-28",
+   "deadline": null,
+   "end": "2026-11-29",
+   "description": "MLH（Major League Hacking）官方认证黑客松，报名时间以官网为准。",
+   "sources": [
+    {
+     "name": "MLH",
+     "url": "https://hackeps.dev/"
+    }
+   ]
+  },
+  {
    "id": "mlh-www-deltahacks-com",
    "name": "DeltaHacks",
    "organizer": "MLH 认证",
@@ -1083,29 +1129,6 @@
    ]
   },
   {
-   "id": "mlh-ugahacks-com",
-   "name": "UGAHacks",
-   "organizer": "MLH 认证",
-   "official_url": "https://ugahacks.com/",
-   "type": "黑客松",
-   "tags": [
-    "MLH",
-    "国际"
-   ],
-   "city": "Athens, US",
-   "prize": null,
-   "start": "2027-02-05",
-   "deadline": null,
-   "end": "2027-02-07",
-   "description": "MLH（Major League Hacking）官方认证黑客松，报名时间以官网为准。",
-   "sources": [
-    {
-     "name": "MLH",
-     "url": "https://ugahacks.com/"
-    }
-   ]
-  },
-  {
    "id": "mlh-hackatbrown-org",
    "name": "Hack@Brown 2027",
    "organizer": "MLH 认证",
@@ -1125,6 +1148,29 @@
     {
      "name": "MLH",
      "url": "https://hackatbrown.org/"
+    }
+   ]
+  },
+  {
+   "id": "mlh-12-ugahacks-com",
+   "name": "UGAHacks",
+   "organizer": "MLH 认证",
+   "official_url": "https://12.ugahacks.com/",
+   "type": "黑客松",
+   "tags": [
+    "MLH",
+    "国际"
+   ],
+   "city": "Athens, US",
+   "prize": null,
+   "start": "2027-02-05",
+   "deadline": null,
+   "end": "2027-02-07",
+   "description": "MLH（Major League Hacking）官方认证黑客松，报名时间以官网为准。",
+   "sources": [
+    {
+     "name": "MLH",
+     "url": "https://12.ugahacks.com/"
     }
    ]
   },

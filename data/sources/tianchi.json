@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07",
+ "updated": "2026-10-08",
  "competitions": [
   {
    "id": "tianchi-532514",
@@ -39,9 +39,9 @@
    "city": null,
    "prize": null,
    "start": "2026-08-31",
-   "deadline": "2026-10-07",
+   "deadline": null,
    "end": "2026-10-12",
-   "signup": "open",
+   "signup": "closed",
    "description": "本任务基于CHIP2025-CP03升级，聚焦医学NLP代码自动生成，以识别符合临床试验入组/出组标准的患者。提供17类48条筛选标准及FHIR FSH定义，需按FHIR Message Bundle递交。评测大模型引导小语言模型(SLM)生成代码的可运行性、标准符合性、查询准确性与稳定性。背景强调CDSS需临床全程参与，但知识产权壁垒阻碍协同；大模型编码与FHIR兼容助系统适配，而SLM引入幻觉与可解释性挑战。本任务为科研、产品及政策提供支撑。",
    "sources": [
     {

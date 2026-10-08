@@ -13530,5 +13530,182 @@
     "url": "https://www.competehub.dev/zh/competitions/unstop1722539"
    }
   ]
+ },
+ {
+  "detail": "# PaxRocket黑客马拉松\n\n## 1. 比赛简介\n欢迎参加PaxRocket针对法律行业的黑客马拉松！这是一场旨在激发创新和解决问题的活动，参与者将有机会运用技术解决法律领域的挑战。比赛背景是法律行业日益依赖技术，而PaxRocket平台旨在连接业务与AI代理，提供定制化的AI解决方案。\n\n**目的**:\n- 促进法律行业的技术创新\n- 解决法律领域的实际问题\n- 推动法律与技术的融合\n\n**主要内容**:\n- 参与者需在规定时间内开发与法律相关的AI应用或解决方案\n- 项目需符合GDPR和欧盟AI法案的要求\n- 比赛将评选出最佳项目并颁发奖项\n\n## 2. 时间安排\n- 注册：21 Sep, 2026 - 01:00\n- 项目开发：23 Sep, 2026 - 03:30\n\n## 3. 要求\n- 参与者需具备一定的编程和AI技术背景\n- 项目需围绕法律行业展开，具有实际应用价值\n- 项目需符合GDPR和欧盟AI法案的要求\n\n## 4. 重要细节\n- 比赛由PaxRocket平台组织\n- 比赛面向全球参与者\n- 比赛结果将在比赛结束后公布",
+  "id": "taikaiLegalTech",
+  "name": "PaxRocket黑客马拉松",
+  "organizer": "TAIKAI",
+  "official_url": "https://taikai.network/en/paxlegal/hackathons/LegalTech/",
+  "type": "黑客松",
+  "tags": [
+   "机器学习/AI",
+   "区块链",
+   "网络安全"
+  ],
+  "city": "线上",
+  "prize": null,
+  "start": "2026-09-21",
+  "deadline": null,
+  "end": "2026-09-23",
+  "signup": "open",
+  "description": "欢迎参加Paxrocket面向法律行业的黑客马拉松！",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/taikaiLegalTech"
+   }
+  ]
+ },
+ {
+  "detail": "# **关于挑战**\n\n🚀 **Bharat创新挑战赛2.0** 由 Lovely Professional University 组织和主办，是一个面向8-12年级、13-18岁学生的全国性创新平台。该比赛旨在为年轻创新者提供一个展示AI和科技驱动解决方案的舞台，帮助他们识别现实世界问题。\n\n## **比赛简介**\n\nBIC 2.0 比赛分为两个阶段。第一阶段为在线提交，参与者需选择10个创新主题之一，并以PPT/PDF形式提交他们的想法。前100支队伍将晋级第二阶段，于2026年11月20-21日在LPU校园举行的决赛。决赛内容包括现场演讲、原型展示、Networking、导师指导等，设有29个奖项类别，总奖金超过140万卢比。\n\n## **主题**\n\n🎯 BIC 2.0 设有10个创新主题：\n\n* 智能生活与城市智能\n* 医疗与健康科技\n* 网络安全与道德科技\n* 教育 & 教育科技\n* 气候 & 可持续科技\n* 航空航天 & 前沿科技\n* 农业科技 & 农村创新\n* 人工智能 & 生成式AI\n* 金融科技 & 金融包容性\n* 社会影响、文化与遗产\n\n## **要求**\n\n🤝 参赛者需选择一个感兴趣的现实世界问题，并使用AI、科技或其他相关方法开发创新解决方案。解决方案需具有实用性和创新性，并产生有意义的影响。参赛者需在截止日期前通过挑战平台提交PPT/PDF。\n\n## **重要细节**\n\n✅ **要构建的内容**：选择一个现实世界问题，并开发一个实用、创新的解决方案。\n\n✅ **要提交的内容**：在线注册并于2026年9月30日前提交PPT/PDF。\n\n📚 **文件命名**：TeamName_ProjectName_SchoolName\n\n💡 **奖项**：比赛设有29个奖项类别，总奖金超过140万卢比，包括现金、实习机会、奖学金、导师辅导、奖杯、证书等。\n\n🏆 **评审标准**：项目将由行业专家根据问题、创新、解决方案、技术、影响、可行性、可扩展性、原型、竞争优势和展示等标准进行评估。\n\n👨‍💻 **评委**：LPU评审团\n\n📈 **评审标准**：项目将由行业专家根据以下标准进行评估：\n\n* 问题\n* 创新\n* 解决方案\n* 技术\n* 影响\n* 可行性\n* 可扩展性\n* 原型\n* 竞争优势\n* 展示——评估清晰度、原创性、实用性、现实世界影响和执行潜力。",
+  "id": "devpost31301",
+  "name": "Bharat 创新挑战赛 2.0",
+  "organizer": "LOVELY PROFESSIONAL UNIVERSITY",
+  "official_url": "https://bic.devpost.com/",
+  "type": "黑客松",
+  "tags": [
+   "机器学习/AI",
+   "区块链",
+   "网络安全"
+  ],
+  "city": "可爱职业大学",
+  "prize": "¥76,300",
+  "start": "2026-09-18",
+  "deadline": null,
+  "end": "2026-09-23",
+  "signup": "open",
+  "description": "Bharat创新挑战赛2.0面向中学生，旨在开发AI和科技解决方案。分为两阶段，第一阶段在线提交想法，前100支队伍晋级决赛。决赛包括现场演讲、原型展示等，设29个奖项，总奖金超140万卢比。要求提交实用、创新解决方案，使用AI/ML等技术。",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/devpost31301"
+   }
+  ]
+ },
+ {
+  "detail": "# Hackathon MISIÓN QRO - Conectar Querétaro con el mundo\n\n## 1. 比赛简介\n🚀 MISIÓN QRO 是一个创新体验活动，旨在聚集不同背景的参与者，包括技术、创业、商业和创意领域的人才，共同解决实际问题。活动将围绕真实挑战展开，参与者将在一天内提出可行方案，并通过技术构建实现解决方案和原型。活动由 Builders Network 主办，旨在连接拉丁美洲和欧洲的创业者、专家和企业领导者，分享知识、合作和创造机会。\n\n## 2. 时间安排\n- 日期：9月22日星期二\n- 时间：9:30 - 20:00 GMT-6\n\n## 4. 要求\n- 参与者需具备技术、创业、商业或创意领域的背景。\n- 参与者需准备好在一天内提出可行方案并构建原型。\n- 参与者需积极参与团队协作和交流。\n\n## 5. 重要细节\n- **真实挑战**：解决具体问题，一天内提出可行方案。\n- **技术构建**：不仅讨论想法，目标是结束时有解决方案和原型。\n- **导师**：5名来自技术、AI、创业、创新、产品和商业领域的专家。\n- **评委展示**：每个团队展示解决方案，获得商业、技术、创业和创新领域的反馈。\n- **网络交流**：与不同技能的人、导师、评委和生态系统参与者交流。\n- **免费餐饮**：专注于构建和享受整个体验。\n- **参与证书**：完成体验的参与者将获得 MISIÓN QRO 的认可。\n- **奖项和认可**：最佳解决方案将在使命结束时获得认可。\n- **地点**：BLOQUE - Centro de Innovación y Tecnología Creativa, Gral. Francisco Villa 1580, Carlos María de Bustamante, 76140 Santiago de Querétaro, Qro., Mexico",
+  "id": "lumaevt-aUSlm0s1oiHrqhd",
+  "name": "黑客松使命QRO - 连接世界与墨西哥克雷塔罗",
+  "organizer": "BUILDERS NETWORK、BLANCA RAMIREZ",
+  "official_url": "https://luma.com/vfkc955c",
+  "type": "黑客松",
+  "tags": [
+   "机器学习/AI"
+  ],
+  "city": "BLOQUE - 创新科技中心，墨西哥瓜纳华托州，卡洛斯·玛丽亚·德·布斯塔曼特，76140 萨蒂略·德·昆塔纳罗，1580号",
+  "prize": null,
+  "start": "2026-09-22",
+  "deadline": null,
+  "end": "2026-09-23",
+  "signup": "upcoming",
+  "description": "建造者网络是Clairo的社区，连接拉丁美洲和欧洲的企业家、专家和领导者，共享知识、合作和创造机会。",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/lumaevt-aUSlm0s1oiHrqhd"
+   }
+  ]
+ },
+ {
+  "detail": "# 赛事邀请｜第八届电力调度AI应用大赛\n\n## 1. 比赛简介\n🚀 本届大赛由中国南方电力调度控制中心、南方电网公司数字化部、中国电机工程学会电力系统自动化专委会、中国电机工程学会电力信息化专委会联合举办，旨在推动人工智能与电力系统科学计算的融合。比赛聚焦电网潮流计算这一电力系统运行的核心问题，探索通过人工智能实现主网电力潮流快速计算与稳定求解的可行方案。\n\n## 2. 时间安排\n📅\n- 报名截止：2026年9月23日\n- 邀请函发送：2026年9月30日\n- 初赛：2026年10月中旬（具体时间另行通知）\n- 决赛：2026年12月底前（具体安排另行通知）\n\n## 3. 奖金\n💳 奖项设置包括一等奖、二等奖、三等奖和专项奖，对获奖优秀成果，组委会将结合技术成熟度和实际应用价值，优先开展后续技术验证、成果孵化和合作对接。\n\n## 4. 要求\n📊\n- 参赛队伍基于南方电网电力调度人工智能平台，研发电网AI潮流计算模型。\n- 推理计算各节点电压幅值、相角及支路有功、无功功率等潮流结果。\n- 不得完全使用牛顿—拉夫逊法、雅可比矩阵求逆等数值计算方法。\n\n## 5. 重要细节\n🌍\n- 比赛地点：南方电网生产科研综合基地（广州市黄埔区科翔路11号）、国家人工智能应用中试基地（能源领域电力方向）（广州市黄埔区科珠路233号4栋）\n✉️ 组委会联系方式：\n- 何宇斌：19849739430，heyb1@csg.cn\n- 熊一舟：13987638723，xiongyz@csg.cn\n- 戴珍：13600460713，daizhen@csg.cn\n- 谢型浪：15521142796，xiexl@csg.cn",
+  "id": "urlseb816e8d070bccac8ca34139f1046cc6",
+  "name": "第八届电力调度AI应用大赛",
+  "organizer": "中国南方电力调度控制中心、南方电网公司数字化部、中国电机工程学会电力系统自动化专委会、中国电机工程学会电力信息化专委会",
+  "official_url": "https://mp.weixin.qq.com/s/8w0Uu2jSQva1vhmOgfoCxw",
+  "type": "AI大模型赛",
+  "tags": [
+   "机器学习/AI",
+   "计算机视觉"
+  ],
+  "city": "南方电网生产科研综合基地（广州市黄埔区科翔路11号）、国家人工智能应用中试基地（能源领域电力方向）（广州市黄埔区科珠路233号4栋）",
+  "prize": null,
+  "start": "2026-09-01",
+  "deadline": "2026-09-23",
+  "end": "2026-09-23",
+  "signup": "open",
+  "description": "新一轮人工智能技术加速向科学研究和复杂工程计算领域渗透。为推动人工智能与电力系统科学计算融合，中国南方电力调度控制中心、南方电网公司数字化部、中国电机工程学会电力系统自动化专委会、中国电机工程学会电力信息化专委会计划于2026年10月—12月组织开展第八届电力调度AI应用大赛。",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/urlseb816e8d070bccac8ca34139f1046cc6"
+   }
+  ]
+ },
+ {
+  "detail": "# Everesteer Hackathon: New York City\n\n## 1. 比赛简介\n🚀 Everesteer 主办了一场以人工智能为核心的Hackathon，旨在鼓励开发者利用前沿技术构建模型，并提交预测解决方案。此次比赛不仅是一个技术挑战，也是一个展示创新和团队协作的平台。\n\n比赛背景：随着人工智能技术的飞速发展，Everesteer 致力于推动AI在各个领域的应用，此次Hackathon正是为了激发开发者的潜能，探索AI在预测领域的应用可能性。\n\n比赛目的：\n- 促进开发者之间的交流与合作。\n- 探索AI在预测领域的应用。\n- 发现和培养具有创新能力的开发者。\n\n主要内容：\n- 参赛者需在规定时间内，利用AI技术构建模型，并提交预测结果。\n- 比赛分为多个小组，每个小组需在规定时间内完成模型构建和预测。\n- 最终评选出最佳预测模型，并颁发奖金。\n\n## 2. 时间安排\n📅 9月23日\n🕓 5:00 - 10:00 pm EDT\n\n## 3. 奖金\n💳 $1,000 prize pool\n\n## 4. 要求\n- 参赛者需具备一定的AI技术基础，包括但不限于机器学习、深度学习等。\n- 参赛者需在规定时间内完成模型构建和预测。\n- 参赛者需遵守比赛规则，不得抄袭他人作品。\n\n## 5. 重要细节\n- 地点：19 West 24th Street, New York City\n- 报名：需要审核\n- 官网：[Everesteer](https://everesteer.ai/?utm_source=luma)",
+  "id": "lumafbf4f3ae14f9f166b88fc9b71e9d637f",
+  "name": "珠峰对冲基金黑客马拉松：纽约市",
+  "organizer": "EVERESTEER AND MARTON PETER PRICE",
+  "official_url": "https://luma.com/sdnfy9kp",
+  "type": "黑客松",
+  "tags": [
+   "机器学习/AI",
+   "金融科技"
+  ],
+  "city": "19西24街，纽约市，仅限本人",
+  "prize": "¥7,200",
+  "start": "2026-09-23",
+  "deadline": null,
+  "end": "2026-09-23",
+  "signup": "upcoming",
+  "description": "Everesteer将将其对冲基金黑客马拉松带到纽约市。利用前沿AI构建量化模型，提交预测并在加速直播轮次中竞争。随着新的财务结果到来，决定下注哪些模型，调整策略，攀登排行榜，争夺1,000美元奖金池。",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/lumafbf4f3ae14f9f166b88fc9b71e9d637f"
+   }
+  ]
+ },
+ {
+  "detail": "# Tenzo's AI Buildathon!\n\n## 1. 比赛简介\n🚀 **比赛概述**：Tenzo's AI Buildathon! 是一场专注于Tenzo的MCP功能（我们的AI连接器）的构建挑战赛。该功能允许用户用简单的英语查询实时餐厅数据，并在几秒钟内创建自己的报告。\n\n🎯 **背景**：Tenzo是一个提供餐厅管理解决方案的平台，其MCP功能旨在通过连接操作数据（销售、劳动力、库存、评论、预订、团队反馈）到AI工具（如Claude和ChatGPT），帮助用户更高效地管理餐厅。\n\n✅ **目的**：此挑战赛的目的是让参与者深入了解MCP功能，并通过实际操作来构建自己的报告，从而提高餐厅管理的效率和效果。\n\n📚 **主要内容**：\n- MCP功能介绍及如何将操作数据直接连接到AI工具。\n- 实际操作时间，使用MCP构建自己的报告。\n- 活动结束后提供饮料，以便继续交流。\n\n## 4. 要求\n- 参与者需对餐厅管理有一定的了解。\n- 参与者需具备基本的计算机操作技能。\n- 参与者需对AI技术有一定的兴趣。\n\n## 5. 重要细节\n- **日期**：2023年9月23日\n- **时间**：14:00 - 16:00 GMT+1\n- **地点**：WeWork - Office Space & Coworking, Aviation House, 125 Kingsway, London WC2B 6NH, UK\n- **报名**：请通过活动页面进行报名。",
+  "id": "lumaevt-3RXin5q63d6EGj7",
+  "name": "天宗AI挑战赛！",
+  "organizer": "TENZO、HANNAH AL-KHAWALED RODRIGUEZ",
+  "official_url": "https://luma.com/wwg878ia",
+  "type": "黑客松",
+  "tags": [
+   "机器学习/AI",
+   "企业"
+  ],
+  "city": "WeWork - 办公空间 & 共享办公，航空大厦，伦敦金斯韦路125号，WC2B 6NH，英国",
+  "prize": null,
+  "start": "2026-09-23",
+  "deadline": null,
+  "end": "2026-09-23",
+  "signup": "upcoming",
+  "description": "",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/lumaevt-3RXin5q63d6EGj7"
+   }
+  ]
+ },
+ {
+  "detail": "# 金融服务实时数据黑客松\n\n## 1. 比赛简介\n🚀 在伦敦，欧洲最大的金融中心，参加这场由Apache Flink的创造者工程师指导的金融服务实时数据黑客松。挑战真实银行问题，如欺诈拦截、交易丰富、主机卸载、客户360度视图。在Ververica平台环境中设计和构建解决方案，并在一天结束时展示您的架构和权衡。\n\n## 2. 时间安排\n📅 9月23日星期三\n⏰ 9:30 - 16:00 GMT+1\n\n## 3. 奖金\n💳 无奖金信息提供\n\n## 4. 要求\n✅ 需要工作SQL\n✅ 无需Apache Flink的先前经验\n✅ 可使用Java、Scala或Python\n\n## 5. 重要细节\n- **挑战类型**：欺诈拦截、交易丰富和分类、实时AI代理、动态客户360度视图、合规性和审计监控\n- **提交方式**：构建或设计\n- **数据**：提供真实的合成数据集\n- **导师**：Ververica工程师全天在房间内提供支持\n- **奖品**：书面架构审查、Ververica学院认证书、平台信用和沙盒、参考解决方案和数据集\n- **地点**：伦敦（具体地址将在活动日期临近时公布）\n- **注册**：需要审核，注册关闭时达到上限",
+  "id": "lumaevt-BwzawrAG9WpRL0V",
+  "name": "金融服务流数据黑客松",
+  "organizer": "VERVERICA、VERVERICA GMBH",
+  "official_url": "https://luma.com/ververica-f2w7",
+  "type": "黑客松",
+  "tags": [
+   "金融科技",
+   "数据库",
+   "机器学习/AI"
+  ],
+  "city": "伦敦，英国",
+  "prize": null,
+  "start": "2026-09-23",
+  "deadline": null,
+  "end": "2026-09-23",
+  "signup": "upcoming",
+  "description": "",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/lumaevt-BwzawrAG9WpRL0V"
+   }
+  ]
  }
 ]

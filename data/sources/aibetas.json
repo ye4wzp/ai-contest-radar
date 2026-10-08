@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07",
+ "updated": "2026-10-08",
  "competitions": [
   {
    "id": "aibetas-627",
@@ -136,29 +136,6 @@
     {
      "name": "AIBetas",
      "url": "https://www.aibetas.com/aigc_events/612"
-    }
-   ]
-  },
-  {
-   "id": "aibetas-610",
-   "name": "天猫AI黑客松·高校挑战赛",
-   "organizer": "天猫",
-   "official_url": "https://pages.tmall.com/wow/a/act/tmall/dailygroup/24732/25590/wupr?wh_pid=daily-597100&disableNav=YES&status_bar_transparent=true",
-   "type": "创意应用赛",
-   "tags": [
-    "AI应用",
-    "AIGC"
-   ],
-   "city": null,
-   "prize": "现金奖金合计20万元，最高单项奖金6万元",
-   "start": null,
-   "deadline": "2026-10-07",
-   "end": null,
-   "description": "正文 2026天猫AI黑客松·高校挑战赛以“开造未来，让AI成真”为主题，面向全国高校在校学生征集AI创意项目 […]",
-   "sources": [
-    {
-     "name": "AIBetas",
-     "url": "https://www.aibetas.com/aigc_events/610"
     }
    ]
   },
