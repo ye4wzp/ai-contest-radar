@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08",
+ "updated": "2026-10-09",
  "competitions": [
   {
    "id": "mlh-hacknc-com",
@@ -531,6 +531,29 @@
    ]
   },
   {
+   "id": "mlh-duquantum-org",
+   "name": "DuQuantum",
+   "organizer": "MLH 认证",
+   "official_url": "https://duquantum.org/",
+   "type": "黑客松",
+   "tags": [
+    "MLH",
+    "国际"
+   ],
+   "city": "Durham, US",
+   "prize": null,
+   "start": "2026-10-24",
+   "deadline": null,
+   "end": "2026-10-25",
+   "description": "MLH（Major League Hacking）官方认证黑客松，报名时间以官网为准。",
+   "sources": [
+    {
+     "name": "MLH",
+     "url": "https://duquantum.org/"
+    }
+   ]
+  },
+  {
    "id": "mlh-hackpsu-org",
    "name": "Hack at Penn State",
    "organizer": "MLH 认证",
@@ -895,6 +918,29 @@
     {
      "name": "MLH",
      "url": "https://unihack.eu/"
+    }
+   ]
+  },
+  {
+   "id": "mlh-www-spaceappschallenge-org-2026-local-events-new-york",
+   "name": "NASA&#x27;s Space Apps Challenge NYC",
+   "organizer": "MLH 认证",
+   "official_url": "https://www.spaceappschallenge.org/2026/local-events/new-york/",
+   "type": "黑客松",
+   "tags": [
+    "MLH",
+    "国际"
+   ],
+   "city": "Brooklyn, US",
+   "prize": null,
+   "start": "2026-11-13",
+   "deadline": null,
+   "end": "2026-11-15",
+   "description": "MLH（Major League Hacking）官方认证黑客松，报名时间以官网为准。",
+   "sources": [
+    {
+     "name": "MLH",
+     "url": "https://www.spaceappschallenge.org/2026/local-events/new-york/"
     }
    ]
   },

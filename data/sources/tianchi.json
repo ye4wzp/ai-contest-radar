@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08",
+ "updated": "2026-10-09",
  "competitions": [
   {
    "id": "tianchi-532514",
@@ -40,7 +40,7 @@
    "prize": null,
    "start": "2026-08-31",
    "deadline": null,
-   "end": "2026-10-12",
+   "end": "2026-10-14",
    "signup": "closed",
    "description": "本任务基于CHIP2025-CP03升级，聚焦医学NLP代码自动生成，以识别符合临床试验入组/出组标准的患者。提供17类48条筛选标准及FHIR FSH定义，需按FHIR Message Bundle递交。评测大模型引导小语言模型(SLM)生成代码的可运行性、标准符合性、查询准确性与稳定性。背景强调CDSS需临床全程参与，但知识产权壁垒阻碍协同；大模型编码与FHIR兼容助系统适配，而SLM引入幻觉与可解释性挑战。本任务为科研、产品及政策提供支撑。",
    "sources": [
@@ -64,10 +64,10 @@
    ],
    "city": null,
    "prize": "¥55,000",
-   "start": "2026-08-30",
-   "deadline": null,
+   "start": "2026-10-09",
+   "deadline": "2026-10-23",
    "end": "2026-10-23",
-   "signup": "closed",
+   "signup": "open",
    "description": "第十四届全国社会媒体处理大会（SMP 2026）将于2026年11月12日至15日在北京召开。本届大会的主题是“大模型驱动人机共生”，旨在探索在大模型和智能体快速发展给人类社会带来的颠覆性变化以及构建人机和谐共生的社会新生态的路径。\nSMP 2026挑战赛由中国中文信息学会社会媒体处理专委会主办，天池平台为指定赛事平台。本次比赛以外星文明降临地球的科幻故事为背景，邀请广大开发者和相关技术团队，通过科学的算法与策略设计，探索解决网络演化预测与有效干预等核心难题。",
    "sources": [
     {
@@ -299,31 +299,6 @@
    ]
   },
   {
-   "id": "tianchi-532509",
-   "name": "AI+跨境黑客松巅峰赛——用AI解跨境真命题",
-   "organizer": "阿里云天池",
-   "official_url": "https://tianchi.aliyun.com/competition/entrance/532509",
-   "type": "黑客松",
-   "tags": [
-    "天池",
-    "电商",
-    "物流"
-   ],
-   "city": null,
-   "prize": "¥100,000",
-   "start": "2026-09-24",
-   "deadline": "2026-10-08",
-   "end": "2026-10-08",
-   "signup": "open",
-   "description": "三大跨境真实场景，用AI重解跨境真命题，我们把跨境电商真实的业务中AI高频实战参与的场景搬上赛场，并由阿里云百炼平台提供算力进行大赛支持，让你的开发更高效。菜鸟智谷、跨境百人会将邀请跨境品牌卖家发布开发场景，让你的项目不止于Demo——而是符合市场需求的真方案。",
-   "sources": [
-    {
-     "name": "天池",
-     "url": "https://tianchi.aliyun.com/competition/activeList"
-    }
-   ]
-  },
-  {
    "id": "tianchi-532338",
    "name": "【打榜赛】CCL25-Eval  任务2：第三届汉语框架语义解析评测",
    "organizer": "阿里云天池",
@@ -340,6 +315,31 @@
    "end": "2027-05-25",
    "signup": "open",
    "description": "框架语义解析（Frame Semantic Parsing，FSP）是一项基于框架语义学的细粒度语义分析任务，其目标是从句子中提取框架语义结构，实现对句子中事件或情境的深层理解。框架语义解析对阅读理解、文本摘要、关系抽取等下游任务具有重要意义。",
+   "sources": [
+    {
+     "name": "天池",
+     "url": "https://tianchi.aliyun.com/competition/activeList"
+    }
+   ]
+  },
+  {
+   "id": "tianchi-532421",
+   "name": "【天池经典打榜赛】赛道六-评论观点挖掘赛",
+   "organizer": "阿里云天池",
+   "official_url": "https://tianchi.aliyun.com/competition/entrance/532421",
+   "type": "数据算法赛",
+   "tags": [
+    "天池",
+    "电商",
+    "阿里云竞赛"
+   ],
+   "city": null,
+   "prize": null,
+   "start": "2026-09-01",
+   "deadline": "2026-11-30",
+   "end": "2026-11-30",
+   "signup": "open",
+   "description": "本次品牌评论观点挖掘的任务是在商品评论中抽取商品属性特征和消费者观点，并确认其情感极性和属性种类。",
    "sources": [
     {
      "name": "天池",

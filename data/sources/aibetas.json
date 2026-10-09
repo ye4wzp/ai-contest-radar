@@ -1,29 +1,6 @@
 {
- "updated": "2026-10-08",
+ "updated": "2026-10-09",
  "competitions": [
-  {
-   "id": "aibetas-627",
-   "name": "2026“科学3分钟”AI科普视频大赛",
-   "organizer": "哔哩哔哩、中国科学院物理研究所",
-   "official_url": "https://live.bilibili.com/blackboard/era/science3min2026pc.html?live_from=81001",
-   "type": "AI创作赛",
-   "tags": [
-    "AI视频",
-    "AIGC"
-   ],
-   "city": null,
-   "prize": "约16万元贝壳金奖励；一等奖50000元贝壳金，另含花生AI会员及积分权益",
-   "start": null,
-   "deadline": "2026-10-08",
-   "end": null,
-   "description": "哔哩哔哩与中国科学院物理研究所联合举办“科学3分钟”2026全国科普微视频大赛，面向个人及不超过5人的团队征集使用AI技术创作的科普视频。赛事设置约16万元贝壳金奖励，一等奖5万元，征稿于2026年10月8日24:00结束。",
-   "sources": [
-    {
-     "name": "AIBetas",
-     "url": "https://www.aibetas.com/aigc_events/bilibili-science-3min-ai-video-competition-2026"
-    }
-   ]
-  },
   {
    "id": "aibetas-625",
    "name": "RunningHub全球AIGC长片创作大赛",
