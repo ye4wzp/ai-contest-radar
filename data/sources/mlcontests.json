@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09",
+ "updated": "2026-10-10",
  "competitions": [
   {
    "id": "mlc-flagos-io-race-detail-season2-id-8q4m2x7p-lang-en",
@@ -652,29 +652,6 @@
    "deadline": "2026-11-17",
    "end": "2026-11-17",
    "description": "Kaggle 平台赛事",
-   "sources": [
-    {
-     "name": "ML Contests",
-     "url": "https://mlcontests.com/"
-    }
-   ]
-  },
-  {
-   "id": "mlc-www-codabench-org-competitions-17866",
-   "name": "L2RPN 2026: Optimal Power Network Management",
-   "organizer": "Codabench",
-   "official_url": "https://www.codabench.org/competitions/17866/",
-   "type": "数据算法赛",
-   "tags": [
-    "Codabench",
-    "国际"
-   ],
-   "city": "线上",
-   "prize": "$6,700",
-   "start": "2026-08-24",
-   "deadline": "2026-10-09",
-   "end": "2026-10-09",
-   "description": "Codabench 平台赛事",
    "sources": [
     {
      "name": "ML Contests",

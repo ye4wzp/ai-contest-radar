@@ -1,29 +1,6 @@
 {
- "updated": "2026-10-09",
+ "updated": "2026-10-10",
  "competitions": [
-  {
-   "id": "aibetas-625",
-   "name": "RunningHub全球AIGC长片创作大赛",
-   "organizer": "RunningHub（赛事平台；官方页面未单列主办单位）",
-   "official_url": "https://www.runninghub.cn/inspire",
-   "type": "AI创作赛",
-   "tags": [
-    "AI视频",
-    "AIGC"
-   ],
-   "city": null,
-   "prize": "550万元创作激励（350万元现金+价值200万元创作算力）；全场大奖100万元现金+30万算力",
-   "start": null,
-   "deadline": "2026-10-09",
-   "end": null,
-   "description": "RunningHub全球AIGC长片创作大赛面向全球个人创作者及团队，设置科幻、微光、品牌三大片场，总创作激励550万元，全场大奖100万元现金；科幻与微光片场先导片于2026年10月9日截止。",
-   "sources": [
-    {
-     "name": "AIBetas",
-     "url": "https://www.aibetas.com/aigc_events/runninghub-global-aigc-feature-film-competition-2026"
-    }
-   ]
-  },
   {
    "id": "aibetas-622",
    "name": "“AI视界·海丝新程”2026年泉州市短视频比赛",
