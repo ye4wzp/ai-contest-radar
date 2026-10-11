@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10",
+ "updated": "2026-10-11",
  "competitions": [
   {
    "id": "aibetas-622",
@@ -113,29 +113,6 @@
     {
      "name": "AIBetas",
      "url": "https://www.aibetas.com/aigc_events/608"
-    }
-   ]
-  },
-  {
-   "id": "aibetas-595",
-   "name": "PixLight 2026全球AI类型片影像大赛",
-   "organizer": "PixVerse",
-   "official_url": "https://app.pixverse.ai/challenge/pixlight",
-   "type": "AI创作赛",
-   "tags": [
-    "综合创作",
-    "AIGC"
-   ],
-   "city": null,
-   "prize": "最高奖10万美元，总奖金30万美元",
-   "start": null,
-   "deadline": "2026-10-10",
-   "end": null,
-   "description": "正文 PixVerse正式启动PixLight 2026全球AI类型片影像大赛，面向全球AI创作者与编剧征集具 […]",
-   "sources": [
-    {
-     "name": "AIBetas",
-     "url": "https://www.aibetas.com/aigc_events/595"
     }
    ]
   },

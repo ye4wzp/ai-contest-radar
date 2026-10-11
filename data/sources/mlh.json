@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10",
+ "updated": "2026-10-11",
  "competitions": [
   {
    "id": "mlh-hacknc-com",
@@ -25,29 +25,6 @@
    ]
   },
   {
-   "id": "mlh-hackbios-xyz",
-   "name": "HackBIOS",
-   "organizer": "MLH 认证",
-   "official_url": "https://hackbios.xyz/",
-   "type": "黑客松",
-   "tags": [
-    "MLH",
-    "国际"
-   ],
-   "city": "Bhilai, IN",
-   "prize": null,
-   "start": "2026-10-09",
-   "deadline": null,
-   "end": "2026-10-10",
-   "description": "MLH（Major League Hacking）官方认证黑客松，报名时间以官网为准。",
-   "sources": [
-    {
-     "name": "MLH",
-     "url": "https://hackbios.xyz/"
-    }
-   ]
-  },
-  {
    "id": "mlh-hackknight-org",
    "name": "Hack Knight",
    "organizer": "MLH 认证",
@@ -67,29 +44,6 @@
     {
      "name": "MLH",
      "url": "https://hackknight.org/"
-    }
-   ]
-  },
-  {
-   "id": "mlh-www-road2tech-com",
-   "name": "Hackathon TecNM Campus Saltillo 2026",
-   "organizer": "MLH 认证",
-   "official_url": "https://www.road2tech.com/",
-   "type": "黑客松",
-   "tags": [
-    "MLH",
-    "国际"
-   ],
-   "city": "Saltillo, MX",
-   "prize": null,
-   "start": "2026-10-09",
-   "deadline": null,
-   "end": "2026-10-10",
-   "description": "MLH（Major League Hacking）官方认证黑客松，报名时间以官网为准。",
-   "sources": [
-    {
-     "name": "MLH",
-     "url": "https://www.road2tech.com/"
     }
    ]
   },

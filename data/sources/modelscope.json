@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-10",
+ "updated": "2026-10-11",
  "competitions": [
+  {
+   "id": "modelscope-380",
+   "name": "支付宝AI付年度黑客松",
+   "organizer": "支付宝AI付",
+   "official_url": "https://modelscope.cn/events/380",
+   "type": "黑客松",
+   "tags": [
+    "魔搭"
+   ],
+   "city": null,
+   "prize": "总奖池¥200,000",
+   "start": "2026-09-21",
+   "deadline": "2026-12-01",
+   "end": null,
+   "description": "把AI做成一门真实的生意。不只做出 Demo，更要完成从发现、使用到付款、交付的商业闭环。",
+   "sources": [
+    {
+     "name": "魔搭社区",
+     "url": "https://modelscope.cn/active"
+    }
+   ]
+  },
   {
    "id": "modelscope-375",
    "name": "支付宝｜智能体涌现奖比赛",
