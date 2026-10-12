@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11",
+ "updated": "2026-10-12",
  "competitions": [
   {
    "id": "mlc-flagos-io-race-detail-season2-id-8q4m2x7p-lang-en",
@@ -16,29 +16,6 @@
    "start": "2026-07-19",
    "deadline": null,
    "end": "2026-11-15",
-   "description": "Independent 平台赛事",
-   "sources": [
-    {
-     "name": "ML Contests",
-     "url": "https://mlcontests.com/"
-    }
-   ]
-  },
-  {
-   "id": "mlc-ansperformance-eu-study-data-challenge-dc2026",
-   "name": "Predict Aircraft Taxi-Out Time at European Airports",
-   "organizer": "EUROCONTROL Performance Review Commission (PRC)",
-   "official_url": "https://ansperformance.eu/study/data-challenge/dc2026/",
-   "type": "数据算法赛",
-   "tags": [
-    "Independent",
-    "国际"
-   ],
-   "city": "线上",
-   "prize": "$5,800",
-   "start": "2026-09-01",
-   "deadline": null,
-   "end": "2026-10-11",
    "description": "Independent 平台赛事",
    "sources": [
     {
@@ -226,30 +203,6 @@
    "start": "2026-07-05",
    "deadline": "2026-08-20",
    "end": "2026-10-25",
-   "description": "Codabench 平台赛事 （NeurIPS 竞赛赛道）",
-   "sources": [
-    {
-     "name": "ML Contests",
-     "url": "https://mlcontests.com/"
-    }
-   ]
-  },
-  {
-   "id": "mlc-www-codabench-org-competitions-10902",
-   "name": "Weak Lensing Uncertainty under Distribution Shift",
-   "organizer": "US Department of Energy",
-   "official_url": "https://www.codabench.org/competitions/10902/",
-   "type": "数据算法赛",
-   "tags": [
-    "Codabench",
-    "NeurIPS",
-    "国际"
-   ],
-   "city": "线上",
-   "prize": "$4,000",
-   "start": "2026-04-22",
-   "deadline": null,
-   "end": "2026-10-11",
    "description": "Codabench 平台赛事 （NeurIPS 竞赛赛道）",
    "sources": [
     {
@@ -557,30 +510,6 @@
    "deadline": null,
    "end": "2026-10-30",
    "description": "Codabench 平台赛事 （NeurIPS 竞赛赛道）",
-   "sources": [
-    {
-     "name": "ML Contests",
-     "url": "https://mlcontests.com/"
-    }
-   ]
-  },
-  {
-   "id": "mlc-robosyn-bench-net",
-   "name": "Sim2Real Bimanual Robot Manipulation",
-   "organizer": "DexForce, Tencent Cloud, AgileX, Computational Freedom",
-   "official_url": "https://robosyn-bench.net/",
-   "type": "数据算法赛",
-   "tags": [
-    "Independent",
-    "NeurIPS",
-    "国际"
-   ],
-   "city": "线上",
-   "prize": null,
-   "start": "2026-07-13",
-   "deadline": null,
-   "end": "2026-10-11",
-   "description": "Independent 平台赛事 （NeurIPS 竞赛赛道）",
    "sources": [
     {
      "name": "ML Contests",

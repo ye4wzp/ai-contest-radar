@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11",
+ "updated": "2026-10-12",
  "competitions": [
   {
    "id": "aibetas-622",
@@ -113,29 +113,6 @@
     {
      "name": "AIBetas",
      "url": "https://www.aibetas.com/aigc_events/608"
-    }
-   ]
-  },
-  {
-   "id": "aibetas-586",
-   "name": "首届（2026）AIGC与可视化创作大赛",
-   "organizer": "中国传媒大学、中国新闻技术工作者联合会",
-   "official_url": "https://aigc.capt.cn/",
-   "type": "AI创作赛",
-   "tags": [
-    "综合创作",
-    "AIGC"
-   ],
-   "city": null,
-   "prize": "精品作品获证书及纪念品",
-   "start": null,
-   "deadline": "2026-10-11",
-   "end": null,
-   "description": "大赛简介 首届（2026）AIGC与可视化创作大赛面向全国相关机构和成年创作者征集作品，由中国传媒大学与中国新 […]",
-   "sources": [
-    {
-     "name": "AIBetas",
-     "url": "https://www.aibetas.com/aigc_events/586"
     }
    ]
   },
