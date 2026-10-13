@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12",
+ "updated": "2026-10-13",
  "competitions": [
   {
    "id": "devpost-30992",
@@ -218,54 +218,6 @@
    ]
   },
   {
-   "id": "devpost-31054",
-   "name": "Qloo Agentic Hackathon",
-   "organizer": "Qloo",
-   "official_url": "https://qloo.devpost.com/",
-   "type": "黑客松",
-   "tags": [
-    "Devpost",
-    "国际"
-   ],
-   "city": "线上",
-   "prize": "$25,000",
-   "start": "2026-09-30",
-   "deadline": "2026-10-30",
-   "end": "2026-10-30",
-   "signup": "open",
-   "description": "Devpost 黑客松，主题：Machine Learning/AI",
-   "sources": [
-    {
-     "name": "Devpost",
-     "url": "https://devpost.com/hackathons"
-    }
-   ]
-  },
-  {
-   "id": "devpost-31400",
-   "name": "YouCam API Skin AI & eCommerce VTO Hackathon",
-   "organizer": "Perfect Corp",
-   "official_url": "https://youcam-api-skin-ai-ecommerce.devpost.com/",
-   "type": "黑客松",
-   "tags": [
-    "Devpost",
-    "国际"
-   ],
-   "city": "线上",
-   "prize": "$6,000",
-   "start": "2026-09-29",
-   "deadline": "2026-11-02",
-   "end": "2026-11-02",
-   "signup": "open",
-   "description": "Devpost 黑客松，主题：AR/VR、E-commerce/Retail、Machine Learning/AI",
-   "sources": [
-    {
-     "name": "Devpost",
-     "url": "https://devpost.com/hackathons"
-    }
-   ]
-  },
-  {
    "id": "devpost-31052",
    "name": "AWS Communication Developer Services (CDS) Agentic AI Partner Hackathon",
    "organizer": "AWS",
@@ -282,6 +234,30 @@
    "end": "2026-10-28",
    "signup": "open",
    "description": "Devpost 黑客松，主题：Communication、Mobile、Machine Learning/AI",
+   "sources": [
+    {
+     "name": "Devpost",
+     "url": "https://devpost.com/hackathons"
+    }
+   ]
+  },
+  {
+   "id": "devpost-31054",
+   "name": "Qloo Agentic Hackathon",
+   "organizer": "Qloo",
+   "official_url": "https://qloo.devpost.com/",
+   "type": "黑客松",
+   "tags": [
+    "Devpost",
+    "国际"
+   ],
+   "city": "线上",
+   "prize": "$25,000",
+   "start": "2026-09-30",
+   "deadline": "2026-10-30",
+   "end": "2026-10-30",
+   "signup": "open",
+   "description": "Devpost 黑客松，主题：Machine Learning/AI",
    "sources": [
     {
      "name": "Devpost",
@@ -338,6 +314,30 @@
    ]
   },
   {
+   "id": "devpost-31400",
+   "name": "YouCam API Skin AI & eCommerce VTO Hackathon",
+   "organizer": "Perfect Corp",
+   "official_url": "https://youcam-api-skin-ai-ecommerce.devpost.com/",
+   "type": "黑客松",
+   "tags": [
+    "Devpost",
+    "国际"
+   ],
+   "city": "线上",
+   "prize": "$6,000",
+   "start": "2026-09-29",
+   "deadline": "2026-11-02",
+   "end": "2026-11-02",
+   "signup": "open",
+   "description": "Devpost 黑客松，主题：AR/VR、E-commerce/Retail、Machine Learning/AI",
+   "sources": [
+    {
+     "name": "Devpost",
+     "url": "https://devpost.com/hackathons"
+    }
+   ]
+  },
+  {
    "id": "devpost-30350",
    "name": "Hack Apertus",
    "organizer": "aiLights Association",
@@ -378,30 +378,6 @@
    "end": "2026-10-25",
    "signup": "open",
    "description": "Devpost 黑客松，主题：Blockchain、Machine Learning/AI、Social Good",
-   "sources": [
-    {
-     "name": "Devpost",
-     "url": "https://devpost.com/hackathons"
-    }
-   ]
-  },
-  {
-   "id": "devpost-30491",
-   "name": "Banana Hacks",
-   "organizer": "n/a",
-   "official_url": "https://banana-hacks-1111.devpost.com/",
-   "type": "黑客松",
-   "tags": [
-    "Devpost",
-    "国际"
-   ],
-   "city": "线上",
-   "prize": "$500",
-   "start": "2026-10-09",
-   "deadline": "2026-10-12",
-   "end": "2026-10-12",
-   "signup": "open",
-   "description": "Devpost 黑客松，主题：Beginner Friendly、Machine Learning/AI、Web",
    "sources": [
     {
      "name": "Devpost",
@@ -482,30 +458,6 @@
    ]
   },
   {
-   "id": "devpost-28259",
-   "name": "United Hackathons V1",
-   "organizer": "United Hackathons",
-   "official_url": "https://devonomicsv1.devpost.com/",
-   "type": "黑客松",
-   "tags": [
-    "Devpost",
-    "国际"
-   ],
-   "city": "线上",
-   "prize": null,
-   "start": "2026-10-06",
-   "deadline": "2026-10-12",
-   "end": "2026-10-12",
-   "signup": "open",
-   "description": "Devpost 黑客松，主题：Machine Learning/AI、Open Ended、Social Good",
-   "sources": [
-    {
-     "name": "Devpost",
-     "url": "https://devpost.com/hackathons"
-    }
-   ]
-  },
-  {
    "id": "devpost-30539",
    "name": "HTCJ × PROOF Aviation Futures Challenge",
    "organizer": "hacktheconcretejungle ",
@@ -578,46 +530,22 @@
    ]
   },
   {
-   "id": "devpost-31548",
-   "name": "AIC Internal Competition -2026 (Agentic AI)",
-   "organizer": "AI Community @ SBU",
-   "official_url": "https://aic-ic-2026.devpost.com/",
+   "id": "devpost-31685",
+   "name": "Company Brain Hackathon",
+   "organizer": "Digo",
+   "official_url": "https://company-brain-oct-2026.devpost.com/",
    "type": "黑客松",
    "tags": [
     "Devpost",
     "国际"
    ],
-   "city": "线上",
+   "city": "Snowflake SVAI Hub",
    "prize": null,
-   "start": "2026-09-30",
-   "deadline": "2026-10-12",
-   "end": "2026-10-12",
+   "start": "2026-10-12",
+   "deadline": "2026-10-13",
+   "end": "2026-10-13",
    "signup": "open",
-   "description": "Devpost 黑客松，主题：Machine Learning/AI、Open Ended",
-   "sources": [
-    {
-     "name": "Devpost",
-     "url": "https://devpost.com/hackathons"
-    }
-   ]
-  },
-  {
-   "id": "devpost-31610",
-   "name": "All you can do with AI",
-   "organizer": "Self",
-   "official_url": "https://all-you-can-do-with-ai.devpost.com/",
-   "type": "黑客松",
-   "tags": [
-    "Devpost",
-    "国际"
-   ],
-   "city": "线上",
-   "prize": null,
-   "start": "2026-10-07",
-   "deadline": "2026-10-12",
-   "end": "2026-10-12",
-   "signup": "open",
-   "description": "Devpost 黑客松，主题：Blockchain、Databases、Serverless",
+   "description": "Devpost 黑客松，主题：Beginner Friendly、Enterprise、Machine Learning/AI",
    "sources": [
     {
      "name": "Devpost",
@@ -642,6 +570,30 @@
    "end": "2026-10-18",
    "signup": "open",
    "description": "Devpost 黑客松，主题：Machine Learning/AI、Social Good",
+   "sources": [
+    {
+     "name": "Devpost",
+     "url": "https://devpost.com/hackathons"
+    }
+   ]
+  },
+  {
+   "id": "devpost-31698",
+   "name": "Child Safety in AI",
+   "organizer": "STEMSisterz",
+   "official_url": "https://child-safety-in-ai.devpost.com/",
+   "type": "黑客松",
+   "tags": [
+    "Devpost",
+    "国际"
+   ],
+   "city": "线上",
+   "prize": null,
+   "start": "2026-10-12",
+   "deadline": "2026-10-14",
+   "end": "2026-10-14",
+   "signup": "open",
+   "description": "Devpost 黑客松，主题：Machine Learning/AI、Beginner Friendly、Low/No Code",
    "sources": [
     {
      "name": "Devpost",
@@ -842,6 +794,30 @@
    ]
   },
   {
+   "id": "devpost-31489",
+   "name": "EthnoHack",
+   "organizer": "ETHCSTWIN",
+   "official_url": "https://ethnohack2026.devpost.com/",
+   "type": "黑客松",
+   "tags": [
+    "Devpost",
+    "国际"
+   ],
+   "city": "线上",
+   "prize": null,
+   "start": "2026-11-02",
+   "deadline": "2026-11-08",
+   "end": "2026-11-08",
+   "signup": "upcoming",
+   "description": "Devpost 黑客松，主题：Databases、Health、Machine Learning/AI",
+   "sources": [
+    {
+     "name": "Devpost",
+     "url": "https://devpost.com/hackathons"
+    }
+   ]
+  },
+  {
    "id": "devpost-31480",
    "name": "AI Agents for Founders Challenge — HETIC 2026",
    "organizer": "HETIC",
@@ -866,22 +842,22 @@
    ]
   },
   {
-   "id": "devpost-31489",
-   "name": "EthnoHack",
-   "organizer": "ETHCSTWIN",
-   "official_url": "https://ethnohack2026.devpost.com/",
+   "id": "devpost-31672",
+   "name": "Hack the Valley 11",
+   "organizer": "University of Toronto",
+   "official_url": "https://hack-the-valley-11.devpost.com/",
    "type": "黑客松",
    "tags": [
     "Devpost",
     "国际"
    ],
-   "city": "线上",
+   "city": "University of Toronto Scarborough",
    "prize": null,
-   "start": "2026-11-02",
-   "deadline": "2026-11-08",
-   "end": "2026-11-08",
+   "start": "2026-10-16",
+   "deadline": "2026-10-18",
+   "end": "2026-10-18",
    "signup": "upcoming",
-   "description": "Devpost 黑客松，主题：Databases、Health、Machine Learning/AI",
+   "description": "Devpost 黑客松，主题：Beginner Friendly、Machine Learning/AI、Social Good",
    "sources": [
     {
      "name": "Devpost",
@@ -938,22 +914,22 @@
    ]
   },
   {
-   "id": "devpost-31165",
-   "name": "2026 AI for Good Hackathon",
-   "organizer": "Florida Data Science for Social Good",
-   "official_url": "https://2026ai4goodhackathon.devpost.com/",
+   "id": "devpost-31393",
+   "name": "Daytona HackSprint w/ Arize AI - NYC, October 2026",
+   "organizer": "daytona",
+   "official_url": "https://daytona-hacksprint-nyc.devpost.com/",
    "type": "黑客松",
    "tags": [
     "Devpost",
     "国际"
    ],
-   "city": "The Link",
-   "prize": null,
-   "start": "2026-10-23",
-   "deadline": "2026-10-25",
-   "end": "2026-10-25",
+   "city": "AWS, JFK27",
+   "prize": "$7,000",
+   "start": "2026-10-16",
+   "deadline": "2026-10-16",
+   "end": "2026-10-16",
    "signup": "upcoming",
-   "description": "Devpost 黑客松，主题：Machine Learning/AI、Social Good、Music/Art",
+   "description": "Devpost 黑客松，主题：Machine Learning/AI",
    "sources": [
     {
      "name": "Devpost",
@@ -986,22 +962,22 @@
    ]
   },
   {
-   "id": "devpost-31393",
-   "name": "Daytona HackSprint w/ Arize AI - NYC, October 2026",
-   "organizer": "daytona",
-   "official_url": "https://daytona-hacksprint-nyc.devpost.com/",
+   "id": "devpost-31165",
+   "name": "2026 AI for Good Hackathon",
+   "organizer": "Florida Data Science for Social Good",
+   "official_url": "https://2026ai4goodhackathon.devpost.com/",
    "type": "黑客松",
    "tags": [
     "Devpost",
     "国际"
    ],
-   "city": "AWS, JFK27",
-   "prize": "$7,000",
-   "start": "2026-10-16",
-   "deadline": "2026-10-16",
-   "end": "2026-10-16",
+   "city": "The Link",
+   "prize": null,
+   "start": "2026-10-23",
+   "deadline": "2026-10-25",
+   "end": "2026-10-25",
    "signup": "upcoming",
-   "description": "Devpost 黑客松，主题：Machine Learning/AI",
+   "description": "Devpost 黑客松，主题：Machine Learning/AI、Social Good、Music/Art",
    "sources": [
     {
      "name": "Devpost",
@@ -1058,30 +1034,6 @@
    ]
   },
   {
-   "id": "devpost-31146",
-   "name": "Sheridan Datathon 2026",
-   "organizer": "GDG on Campus Sheridan College",
-   "official_url": "https://sheridandatathon2026.devpost.com/",
-   "type": "黑客松",
-   "tags": [
-    "Devpost",
-    "国际"
-   ],
-   "city": "Sheridan College Hazel McCallion Campus",
-   "prize": "$CAD 10,000",
-   "start": "2026-11-07",
-   "deadline": "2026-11-08",
-   "end": "2026-11-08",
-   "signup": "upcoming",
-   "description": "Devpost 黑客松，主题：Beginner Friendly、Databases、Machine Learning/AI",
-   "sources": [
-    {
-     "name": "Devpost",
-     "url": "https://devpost.com/hackathons"
-    }
-   ]
-  },
-  {
    "id": "devpost-31580",
    "name": "Ostad Presents YUNet AIgnite Buildathon 2026",
    "organizer": "Youth Upskill Network - YUNet",
@@ -1098,6 +1050,30 @@
    "end": "2026-11-05",
    "signup": "upcoming",
    "description": "Devpost 黑客松，主题：Education、Low/No Code、Machine Learning/AI",
+   "sources": [
+    {
+     "name": "Devpost",
+     "url": "https://devpost.com/hackathons"
+    }
+   ]
+  },
+  {
+   "id": "devpost-31146",
+   "name": "Sheridan Datathon 2026",
+   "organizer": "GDG on Campus Sheridan College",
+   "official_url": "https://sheridandatathon2026.devpost.com/",
+   "type": "黑客松",
+   "tags": [
+    "Devpost",
+    "国际"
+   ],
+   "city": "Sheridan College Hazel McCallion Campus",
+   "prize": "$CAD 10,000",
+   "start": "2026-11-07",
+   "deadline": "2026-11-08",
+   "end": "2026-11-08",
+   "signup": "upcoming",
+   "description": "Devpost 黑客松，主题：Beginner Friendly、Databases、Machine Learning/AI",
    "sources": [
     {
      "name": "Devpost",
@@ -1178,6 +1154,30 @@
    ]
   },
   {
+   "id": "devpost-31164",
+   "name": "CrownHacks",
+   "organizer": "Club for AI Research - Charlotte",
+   "official_url": "https://crownhacks.devpost.com/",
+   "type": "黑客松",
+   "tags": [
+    "Devpost",
+    "国际"
+   ],
+   "city": "UNC Charlotte - Woodward Hall Room 106",
+   "prize": null,
+   "start": "2026-11-06",
+   "deadline": "2026-11-08",
+   "end": "2026-11-08",
+   "signup": "upcoming",
+   "description": "Devpost 黑客松，主题：Machine Learning/AI、Robotic Process Automation、Cybersecurity",
+   "sources": [
+    {
+     "name": "Devpost",
+     "url": "https://devpost.com/hackathons"
+    }
+   ]
+  },
+  {
    "id": "devpost-30029",
    "name": "SwampHacks XII",
    "organizer": "SwampHacks",
@@ -1226,22 +1226,22 @@
    ]
   },
   {
-   "id": "devpost-31164",
-   "name": "CrownHacks",
-   "organizer": "Club for AI Research - Charlotte",
-   "official_url": "https://crownhacks.devpost.com/",
+   "id": "devpost-31126",
+   "name": "Sierra Hacks 2026",
+   "organizer": "CodeCatalyst",
+   "official_url": "https://sierra-hacks-2026.devpost.com/",
    "type": "黑客松",
    "tags": [
     "Devpost",
     "国际"
    ],
-   "city": "UNC Charlotte - Woodward Hall Room 106",
+   "city": "Sierra High School",
    "prize": null,
-   "start": "2026-11-06",
-   "deadline": "2026-11-08",
-   "end": "2026-11-08",
+   "start": "2026-10-24",
+   "deadline": "2026-10-24",
+   "end": "2026-10-24",
    "signup": "upcoming",
-   "description": "Devpost 黑客松，主题：Machine Learning/AI、Robotic Process Automation、Cybersecurity",
+   "description": "Devpost 黑客松，主题：Beginner Friendly、Machine Learning/AI、Web",
    "sources": [
     {
      "name": "Devpost",
@@ -1274,30 +1274,6 @@
    ]
   },
   {
-   "id": "devpost-30918",
-   "name": "FutureForge Hacks",
-   "organizer": "Future Forge",
-   "official_url": "https://futureforge-hacks.devpost.com/",
-   "type": "黑客松",
-   "tags": [
-    "Devpost",
-    "国际"
-   ],
-   "city": "Pleasanton, CA",
-   "prize": null,
-   "start": "2026-11-21",
-   "deadline": "2026-11-21",
-   "end": "2026-11-21",
-   "signup": "upcoming",
-   "description": "Devpost 黑客松，主题：Education、Machine Learning/AI、Social Good",
-   "sources": [
-    {
-     "name": "Devpost",
-     "url": "https://devpost.com/hackathons"
-    }
-   ]
-  },
-  {
    "id": "devpost-31612",
    "name": "NTU Beyond Binary Techathon 2027",
    "organizer": "NTU Women In Tech",
@@ -1322,22 +1298,22 @@
    ]
   },
   {
-   "id": "devpost-31126",
-   "name": "Sierra Hacks 2026",
-   "organizer": "CodeCatalyst",
-   "official_url": "https://sierra-hacks-2026.devpost.com/",
+   "id": "devpost-30918",
+   "name": "FutureForge Hacks",
+   "organizer": "Future Forge",
+   "official_url": "https://futureforge-hacks.devpost.com/",
    "type": "黑客松",
    "tags": [
     "Devpost",
     "国际"
    ],
-   "city": "Sierra High School",
+   "city": "Pleasanton, CA",
    "prize": null,
-   "start": "2026-10-24",
-   "deadline": "2026-10-24",
-   "end": "2026-10-24",
+   "start": "2026-11-21",
+   "deadline": "2026-11-21",
+   "end": "2026-11-21",
    "signup": "upcoming",
-   "description": "Devpost 黑客松，主题：Beginner Friendly、Machine Learning/AI、Web",
+   "description": "Devpost 黑客松，主题：Education、Machine Learning/AI、Social Good",
    "sources": [
     {
      "name": "Devpost",
@@ -1394,46 +1370,22 @@
    ]
   },
   {
-   "id": "devpost-31616",
-   "name": "Zoftware AgentHack",
-   "organizer": "zoftwarehub",
-   "official_url": "https://zoftware-agenthack.devpost.com/",
+   "id": "devpost-31703",
+   "name": "Human + AI Hackathon ($1750 Prize Pool)",
+   "organizer": "Juniper Websites",
+   "official_url": "https://human-ai-hackathon.devpost.com/",
    "type": "黑客松",
    "tags": [
     "Devpost",
     "国际"
    ],
-   "city": "Spring House Workspaces SHGU001",
-   "prize": "$500",
-   "start": "2026-10-17",
-   "deadline": "2026-10-17",
-   "end": "2026-10-17",
-   "signup": "upcoming",
-   "description": "Devpost 黑客松，主题：Enterprise",
-   "sources": [
-    {
-     "name": "Devpost",
-     "url": "https://devpost.com/hackathons"
-    }
-   ]
-  },
-  {
-   "id": "devpost-31306",
-   "name": "HackOHI/O 2026",
-   "organizer": "OHI/O",
-   "official_url": "https://hackohio2026.devpost.com/",
-   "type": "黑客松",
-   "tags": [
-    "Devpost",
-    "国际"
-   ],
-   "city": "The Ohio State University - Ohio Union",
+   "city": "线上",
    "prize": null,
-   "start": "2026-10-24",
-   "deadline": "2026-10-25",
-   "end": "2026-10-25",
+   "start": "2026-10-14",
+   "deadline": "2026-10-14",
+   "end": "2026-10-14",
    "signup": "upcoming",
-   "description": "Devpost 黑客松，主题：Beginner Friendly、Machine Learning/AI、Open Ended",
+   "description": "Devpost 黑客松，主题：Beginner Friendly、Low/No Code、Open Ended",
    "sources": [
     {
      "name": "Devpost",
@@ -1490,6 +1442,30 @@
    ]
   },
   {
+   "id": "devpost-31616",
+   "name": "Zoftware AgentHack",
+   "organizer": "zoftwarehub",
+   "official_url": "https://zoftware-agenthack.devpost.com/",
+   "type": "黑客松",
+   "tags": [
+    "Devpost",
+    "国际"
+   ],
+   "city": "Spring House Workspaces SHGU001",
+   "prize": "$500",
+   "start": "2026-10-17",
+   "deadline": "2026-10-17",
+   "end": "2026-10-17",
+   "signup": "upcoming",
+   "description": "Devpost 黑客松，主题：Enterprise",
+   "sources": [
+    {
+     "name": "Devpost",
+     "url": "https://devpost.com/hackathons"
+    }
+   ]
+  },
+  {
    "id": "devpost-31621",
    "name": "CapCut x EAST2046 University of Cambridge Creator Lab Free Learning Campus",
    "organizer": "east2046",
@@ -1506,6 +1482,78 @@
    "end": "2026-10-22",
    "signup": "upcoming",
    "description": "Devpost 黑客松，主题：Machine Learning/AI、Music/Art、Web",
+   "sources": [
+    {
+     "name": "Devpost",
+     "url": "https://devpost.com/hackathons"
+    }
+   ]
+  },
+  {
+   "id": "devpost-31306",
+   "name": "HackOHI/O 2026",
+   "organizer": "OHI/O",
+   "official_url": "https://hackohio2026.devpost.com/",
+   "type": "黑客松",
+   "tags": [
+    "Devpost",
+    "国际"
+   ],
+   "city": "The Ohio State University - Ohio Union",
+   "prize": null,
+   "start": "2026-10-24",
+   "deadline": "2026-10-25",
+   "end": "2026-10-25",
+   "signup": "upcoming",
+   "description": "Devpost 黑客松，主题：Beginner Friendly、Machine Learning/AI、Open Ended",
+   "sources": [
+    {
+     "name": "Devpost",
+     "url": "https://devpost.com/hackathons"
+    }
+   ]
+  },
+  {
+   "id": "devpost-31660",
+   "name": "AWS x A10 Hack 2026",
+   "organizer": "Santa Clara University ACM",
+   "official_url": "https://a10-x-aws-hack-26.devpost.com/",
+   "type": "黑客松",
+   "tags": [
+    "Devpost",
+    "国际"
+   ],
+   "city": "Heafey Hall",
+   "prize": "$7,500",
+   "start": "2026-11-07",
+   "deadline": "2026-11-08",
+   "end": "2026-11-08",
+   "signup": "upcoming",
+   "description": "Devpost 黑客松，主题：Beginner Friendly、Cybersecurity、Machine Learning/AI",
+   "sources": [
+    {
+     "name": "Devpost",
+     "url": "https://devpost.com/hackathons"
+    }
+   ]
+  },
+  {
+   "id": "devpost-31710",
+   "name": "OCSEFHacks 3",
+   "organizer": "HackPac",
+   "official_url": "https://ocsefhacks3.devpost.com/",
+   "type": "黑客松",
+   "tags": [
+    "Devpost",
+    "国际"
+   ],
+   "city": "Westminster High School",
+   "prize": null,
+   "start": "2026-11-14",
+   "deadline": "2026-11-15",
+   "end": "2026-11-15",
+   "signup": "upcoming",
+   "description": "Devpost 黑客松，主题：Beginner Friendly、Machine Learning/AI、Open Ended",
    "sources": [
     {
      "name": "Devpost",

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12",
+ "updated": "2026-10-13",
  "competitions": [
   {
    "id": "tianchi-532514",
@@ -273,6 +273,54 @@
    ]
   },
   {
+   "id": "tianchi-532499",
+   "name": "CSIG图像图形技术挑战赛-赛道一：生成式图像增强可控性挑战",
+   "organizer": "阿里云天池",
+   "official_url": "https://tianchi.aliyun.com/competition/entrance/532499",
+   "type": "数据算法赛",
+   "tags": [
+    "天池",
+    "计算机视觉"
+   ],
+   "city": null,
+   "prize": "¥200,000",
+   "start": "2026-07-03",
+   "deadline": null,
+   "end": "2026-10-18",
+   "signup": "closed",
+   "description": "CSIG图像图形技术挑战赛是由中国图象图形学学会（CSIG）主办的系列赛事，旨在促进图像图形技术及相关产业的发展和应用，解决企业面临的技术难题，扩大企业宣传面，帮助企业吸引更多的优秀人才。为推动国内高等院校、科研院所在Camera及其相关领域在读学生的培养，选拔优秀人才，中国图象图形学学会、华为终端有限公司携手举办第三届\"Camera学术之星\"影像算法技术竞赛与研讨会。",
+   "sources": [
+    {
+     "name": "天池",
+     "url": "https://tianchi.aliyun.com/competition/activeList"
+    }
+   ]
+  },
+  {
+   "id": "tianchi-532500",
+   "name": "CSIG图像图形技术挑战赛-赛道二：生成式图像增强轻量模型设计挑战",
+   "organizer": "阿里云天池",
+   "official_url": "https://tianchi.aliyun.com/competition/entrance/532500",
+   "type": "数据算法赛",
+   "tags": [
+    "天池",
+    "计算机视觉"
+   ],
+   "city": null,
+   "prize": "¥200,000",
+   "start": "2026-07-01",
+   "deadline": null,
+   "end": "2026-10-18",
+   "signup": "closed",
+   "description": "CSIG图像图形技术挑战赛是由中国图象图形学学会（CSIG）主办的系列赛事，旨在促进图像图形技术及相关产业的发展和应用，解决企业面临的技术难题，扩大企业宣传面，帮助企业吸引更多的优秀人才。为推动国内高等院校、科研院所在Camera及其相关领域在读学生的培养，选拔优秀人才，中国图象图形学学会、华为终端有限公司携手举办第三届\"Camera学术之星\"影像算法技术竞赛与研讨会。",
+   "sources": [
+    {
+     "name": "天池",
+     "url": "https://tianchi.aliyun.com/competition/activeList"
+    }
+   ]
+  },
+  {
    "id": "tianchi-532460",
    "name": "余震预测技术国际大赛",
    "organizer": "阿里云天池",
@@ -286,10 +334,10 @@
    ],
    "city": null,
    "prize": "$30,000",
-   "start": "2026-10-01",
-   "deadline": "2026-10-31",
+   "start": "2026-01-28",
+   "deadline": null,
    "end": "2026-10-31",
-   "signup": "open",
+   "signup": "closed",
    "description": "中国地震局地震预测研究所主办。本次比赛旨在梳理地震序列预测中的科技问题，汇集全球智慧，借助人工智能、大模型等新兴技术，推动学科交叉和合作，提升余震预测的准确性，并为地震序列后续强震的预测提供思路和参考，从而提升全球地震灾害应对能力。",
    "sources": [
     {

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12",
+ "updated": "2026-10-13",
  "competitions": [
   {
    "id": "mlh-swamphacks-com",
@@ -826,6 +826,29 @@
     {
      "name": "MLH",
      "url": "https://2027.uottahack.ca/"
+    }
+   ]
+  },
+  {
+   "id": "mlh-www-qwerhacks-com",
+   "name": "QWER Hacks",
+   "organizer": "MLH 认证",
+   "official_url": "https://www.qwerhacks.com/",
+   "type": "黑客松",
+   "tags": [
+    "MLH",
+    "国际"
+   ],
+   "city": "Los Angeles, US",
+   "prize": null,
+   "start": "2027-01-16",
+   "deadline": null,
+   "end": "2027-01-17",
+   "description": "MLH（Major League Hacking）官方认证黑客松，报名时间以官网为准。",
+   "sources": [
+    {
+     "name": "MLH",
+     "url": "https://www.qwerhacks.com/"
     }
    ]
   },
