@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13",
+ "updated": "2026-10-14",
  "competitions": [
   {
    "id": "mlh-swamphacks-com",
@@ -531,6 +531,29 @@
    ]
   },
   {
+   "id": "mlh-hacktheburgh-com",
+   "name": "HackTheBurgh",
+   "organizer": "MLH 认证",
+   "official_url": "https://hacktheburgh.com/",
+   "type": "黑客松",
+   "tags": [
+    "MLH",
+    "国际"
+   ],
+   "city": "Edinburgh, GB",
+   "prize": null,
+   "start": "2026-11-07",
+   "deadline": null,
+   "end": "2026-11-08",
+   "description": "MLH（Major League Hacking）官方认证黑客松，报名时间以官网为准。",
+   "sources": [
+    {
+     "name": "MLH",
+     "url": "https://hacktheburgh.com/"
+    }
+   ]
+  },
+  {
    "id": "mlh-makeuc-io",
    "name": "MakeUC",
    "organizer": "MLH 认证",
@@ -665,6 +688,29 @@
     {
      "name": "MLH",
      "url": "https://unihack.eu/"
+    }
+   ]
+  },
+  {
+   "id": "mlh-hackjunction-com",
+   "name": "Junction",
+   "organizer": "MLH 认证",
+   "official_url": "https://hackjunction.com",
+   "type": "黑客松",
+   "tags": [
+    "MLH",
+    "国际"
+   ],
+   "city": "Espoo, FI",
+   "prize": null,
+   "start": "2026-11-13",
+   "deadline": null,
+   "end": "2026-11-15",
+   "description": "MLH（Major League Hacking）官方认证黑客松，报名时间以官网为准。",
+   "sources": [
+    {
+     "name": "MLH",
+     "url": "https://hackjunction.com"
     }
    ]
   },

@@ -15888,5 +15888,182 @@
     "url": "https://www.competehub.dev/zh/competitions/eventbrite_ai-agents-and-robotics-student-hackathon-great-britain"
    }
   ]
+ },
+ {
+  "detail": "$19",
+  "id": "lumaddb4f6325f5055594f4e902808eb9fae",
+  "name": "人工智能安全工程黑客松",
+  "organizer": "AISECENG COMMUNITY、JAVIER GARZA、TRISHA RAJESH、CORY WADDINGHAM",
+  "official_url": "https://luma.com/t9wi8tpa",
+  "type": "AI Agent 挑战赛",
+  "tags": [
+   "网络安全",
+   "机器学习/AI"
+  ],
+  "city": "AWS建造楼，第一市场塔，525市场街入口，旧金山，加利福尼亚州，94105，美国",
+  "prize": "¥72,000",
+  "start": "2026-09-29",
+  "deadline": null,
+  "end": "2026-09-29",
+  "signup": "upcoming",
+  "description": "人工智能发展速度超过大多数安全程序，代理工具、MCP服务器和AI生成代码每日投入生产，常超出保护它们的防线。此次黑客马拉松将开发者和安全专家聚集一堂，亲身体验定义AI安全工程新学科的技能。团队合作中，参与者将应对真实世界的AI安全挑战，包括保护MCP服务器和代理技能免受工具中毒和供应链攻击，以及加固vibe编码应用。无论你是好奇AI应用安全性的开发者，还是希望将技能应用于LLMs和代理的安全专家，你都将获得实用的、可添加到个人档案的经验——以及只有从破解（并修复）真实系统才能获得的肌肉记忆。无需先前的AI安全经验——只需拥有建造者的心态和对AI与攻击面交汇的好奇心。",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/lumaddb4f6325f5055594f4e902808eb9fae"
+   }
+  ]
+ },
+ {
+  "detail": "# Startup Speedrun Hackathon 比赛内容概括\n\n## 1. 比赛简介\n🚀 **比赛概述**：Startup Speedrun Hackathon 是一场由 Brainbase、Anthropic、Cloudflare 和 Stripe 联合举办的初创公司速建黑客松活动。这场8小时的比赛旨在鼓励参与者快速实现初创想法，并提供了丰富的奖金和资源支持。\n\n🎯 **比赛背景**：随着科技的发展，初创公司成为推动创新的重要力量。这场黑客松旨在为有志于创业的参与者提供一个展示自己创意和技术的平台。\n\n✅ **比赛目的**：\n- 鼓励创新思维和快速实现初创想法。\n- 为参与者提供实践机会，提升技术能力。\n- 促进初创公司的发展，推动行业进步。\n\n📚 **主要内容**：\n- 参与者在8小时内构建初创公司原型。\n- 比赛分为三个赛道：代理支付、部署基础设施的代理、自主组织。\n- 获胜者将获得免费公司注册和计算资源。\n\n## 2. 时间安排\n📅 **日期**：9月28日（周一）\n🕒 **时间**：9:00 - 17:00\n\n## 3. 奖金\n💳 **奖金设置**：\n- 一等奖：$2,000 现金 + 多项资源\n- 二等奖：$1,000 现金 + 多项资源\n- 三等奖：$500 现金 + 多项资源\n- 所有参与者均有额外奖励。\n\n## 4. 要求\n👨‍💻 **参赛资格**：\n- 需要具备一定的编程和创业知识。\n- 需要具备团队合作精神。\n\n## 5. 重要细节\n🌍 **地点**：Cloudflare 旧金山\n🛠️ **地址**：101 Townsend St, San Francisco, CA 94107, USA\n\n🤝 **主办方**：Brainbase、Anthropic、Cloudflare 和 Stripe\n\n📈 **赛道**：\n- 代理支付\n- 部署基础设施的代理\n- 自主组织",
+  "id": "lumaevt-6W7I92LaqIPkpSB",
+  "name": "初创速跑黑客松",
+  "organizer": "BRAINBASE LABS、GOKHAN EGRI",
+  "official_url": "https://luma.com/g42o84ln",
+  "type": "黑客松",
+  "tags": [
+   "金融科技",
+   "机器学习/AI",
+   "DevOps"
+  ],
+  "city": "Cloudflare，美国加州旧金山101 Townsend St，邮编94107",
+  "prize": "¥198,000",
+  "start": "2026-09-28",
+  "deadline": null,
+  "end": "2026-09-29",
+  "signup": "upcoming",
+  "description": "内部自我提升的代理人",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/lumaevt-6W7I92LaqIPkpSB"
+   }
+  ]
+ },
+ {
+  "detail": "# Build Your AI Co-Founder Hackathon 比赛内容概括\n\n## 1. 比赛简介\n**Build Your AI Co-Founder Hackathon** 是一场独特的黑客松活动，旨在探索人工智能在创业过程中的应用。🤖🚀\n\n**背景**：随着人工智能技术的飞速发展，其在商业领域的应用越来越广泛。本次活动旨在鼓励参与者将人工智能与人类智慧相结合，共同构建具有潜力的创业项目。\n\n**目的**：\n- 探索人工智能在创业过程中的应用。\n- 培养跨学科团队协作能力。\n- 激发创新思维，推动创业项目落地。\n\n**主要内容**：\n- 参与者需组建由2-4名联合创始人组成的团队，其中至少包含一名人类和一名AI联合创始人。\n- 团队需选择一个赛道，如构建并推出业务、筹集资金、销售、增长、构建产品、运营业务等。\n- AI联合创始人可担任任何角色，如CEO、CTO、产品、营销、销售、研究等。\n- 目标是体验用AI作为创始团队一部分来构建真实公司的意义，从想法到执行到推出产品。\n\n## 2. 时间安排\n- 日期：9月26日星期六\n- 时间：9:00 - 20:00\n\n## 3. 奖金\n（无奖金信息）\n\n## 4. 要求\n- 参与者需具备一定的编程和人工智能知识。\n- 团队成员需具备良好的沟通和协作能力。\n- 团队需选择一个赛道，并制定相应的项目计划。\n\n## 5. 重要细节\n- 地点：San Francisco, CA（具体地点需注册后查看）\n- 主办人：David Mumuni 及其他6位专业人士\n- 报名方式：需要审核，欢迎注册参加！\n- 活动亮点：\n  - 跨学科团队协作，结合人类智慧与AI技术。\n  - 多个赛道选择，满足不同创业需求。\n  - 体验用AI作为创始团队一部分构建真实公司的过程。",
+  "id": "lumaevt-gk3mNStqj6AqjXO",
+  "name": "构建AI联合创始人黑客松",
+  "organizer": "PERSONAL、DAVID MUMUNI、VIN WANFAN、ARTICULER.AI、SAHAR MOR (BOND AI)、AVIRAL、ARIA、LE MA、SF HACKATHONS、DWAYNE CAMPBELL",
+  "official_url": "https://luma.com/i8976ew3789",
+  "type": "黑客松",
+  "tags": [
+   "机器学习/AI"
+  ],
+  "city": "3120斯科特大道，圣克拉拉，加州95054，美国",
+  "prize": null,
+  "start": "2026-09-28",
+  "deadline": null,
+  "end": "2026-09-29",
+  "signup": "upcoming",
+  "description": "",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/lumaevt-gk3mNStqj6AqjXO"
+   }
+  ]
+ },
+ {
+  "detail": "# AI Agents for Data Teams: A Practical Mini-Hackathon 比赛内容概括\n\n## 1. 比赛简介\n🚀 **比赛概述**：AI Agents for Data Teams: A Practical Mini-Hackathon 是一场由湾区Snowflake用户组主办的数据科学黑客松活动。该活动旨在通过使用Snowflake的AI产品，解决实际数据问题，提升团队效率。\n\n🌍 **背景**：随着数据量的激增，数据团队面临着如何高效处理和分析数据的挑战。Snowflake的AI产品旨在帮助数据团队自动化数据处理流程，提高工作效率。\n\n🎯 **目的**：通过这次黑客松，参与者将学习如何使用Snowflake的AI产品，解决实际数据问题，提升团队效率。\n\n## 2. 时间安排\n(由于源内容中未提供具体时间安排，此部分不输出)\n\n## 3. 奖金\n(由于源内容中未提供奖金信息，此部分不输出)\n\n## 4. 要求\n✅ **参与者**：欢迎个人或最多4人团队参加。\n\n✅ **设备**：参与者需携带笔记本电脑。\n\n✅ **数据**：使用可共享的公共、合成或批准的样本数据。\n\n## 5. 重要细节\n📚 **活动安排**：\n- 5:00 PM：抵达，组建团队\n- 5:30 PM：欢迎及实用起点\n- 5:45 PM：使用Snowflake的AI产品构建\n- 7:15 PM：展示成果，分享所学\n- 8:00 PM：总结\n\n💡 **评估标准**：\n- 价值创造：是否为团队增值？\n- 创新：是否以新方式使用工具？\n- 工作成果：构建并运行了多少？\n\n🤝 **合作伙伴与支持**：\n- Snowflake：为主要赞助商。\n- Cognee：赞助会议，关注AI代理的记忆。\n- Dave Nielsen：支持团队。\n- 硅谷AI中心：为场地提供支持。\n- Milbird：支持组织。\n\n🛠️ **地点**：135 Constitution Dr, Menlo Park, CA 94025, USA, Silicon Valley AI Hub, 135 Constitution Drive, Menlo Park.",
+  "id": "lumaevt-lGebHHYYw3c9yBA",
+  "name": "AI数据团队助手：实用迷你黑客松",
+  "organizer": "BAY AREA SNOWFLAKE USER GROUP、JOHN MILLER、DAVE NIELSEN、DIVYA KOPPOLU、SILICON VALLEY AI HUB",
+  "official_url": "https://luma.com/j79caynh",
+  "type": "黑客松",
+  "tags": [
+   "机器学习/AI",
+   "数据库",
+   "计算机视觉"
+  ],
+  "city": "135宪法大道，门洛帕克，加利福尼亚州，94025，美国",
+  "prize": null,
+  "start": "2026-09-29",
+  "deadline": null,
+  "end": "2026-09-29",
+  "signup": "upcoming",
+  "description": "湾区Snowflake用户聚会和实操会。学习、协作，让Snowflake数据与AI产品发挥作用。",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/lumaevt-lGebHHYYw3c9yBA"
+   }
+  ]
+ },
+ {
+  "detail": "$19",
+  "id": "urlsa4aa02393cc545e2af9016fcdc5444b9",
+  "name": "第三届NVIDIA DGX Spark黑客松Agent Skills开发挑战赛",
+  "organizer": "NVIDIA开发者社区联合华硕ASUS、赞奇科技XSUPERZONE、阶跃星辰STEPFUN",
+  "official_url": "https://mp.weixin.qq.com/s/lsVok1h0iukf1snv3-aT5w",
+  "type": "AI Agent 挑战赛",
+  "tags": [
+   "机器学习/AI",
+   "计算机视觉",
+   "DevOps"
+  ],
+  "city": "线上",
+  "prize": null,
+  "start": "2026-09-19",
+  "deadline": null,
+  "end": "2026-09-29",
+  "signup": "open",
+  "description": "第三届NVIDIA DGX Spark黑客松由NVIDIA开发者社区联合华硕ASUS、赞奇科技XSUPERZONE、阶跃星辰StepFun共同发起,面向开发者、AI工程师、高校师生及行业创新者等AI探索者。本届赛事聚焦AgentSkills驱动的Agent应用开发。",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/urlsa4aa02393cc545e2af9016fcdc5444b9"
+   }
+  ]
+ },
+ {
+  "detail": "# 网络盗窃 - 激发你内心的黑客\n\n## 1. 比赛简介\n🚀 与摩根士丹利专家团队携手，深入探索网络安全和黑客世界的刺激挑战。本次比赛旨在激发参赛者的创新思维，提升网络安全技能，共同应对日益严峻的网络威胁。\n\n## 2. 时间安排\n📅 2026年9月29日\n\n## 3. 奖金\n💳 比赛奖金信息暂未公布。\n\n## 4. 要求\n🤝 参赛者需具备一定的网络安全知识，包括但不限于网络攻击、防御、漏洞挖掘等。比赛过程中，参赛者需充分发挥团队协作精神，共同完成挑战任务。\n\n## 5. 重要细节\n- 地点：格拉斯哥，英国\n- 比赛形式：现场\n- 注册截止日期：待公布\n- 更多信息请访问：[www.eventbrite.co.uk/e/cyber-heist-unleash-your-inner-hacker-tickets-1996430474291](https://www.eventbrite.co.uk/e/cyber-heist-unleash-your-inner-hacker-tickets-1996430474291)",
+  "id": "eventbrite_cyber-heist-unleash-your-inner-hacker-great-britain-7DjIm",
+  "name": "网络盗窃 - 激发你的黑客潜能",
+  "organizer": null,
+  "official_url": "https://hackathon-base.org/event/cyber-heist-unleash-your-inner-hacker-great-britain-7DjIm",
+  "type": "黑客松",
+  "tags": [
+   "网络安全",
+   "机器学习/AI"
+  ],
+  "city": "格拉斯哥，英国",
+  "prize": null,
+  "start": "2026-09-29",
+  "deadline": null,
+  "end": "2026-09-29",
+  "signup": "upcoming",
+  "description": "加入网络盗窃 - 激发你内心黑客的Hackathon，时间：2026年9月29日，地点：英国格拉斯哥。由摩根士丹利专家团队主办，此次活动邀请参与者深入探索令人兴奋的网络安全与黑客世界。",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/eventbrite_cyber-heist-unleash-your-inner-hacker-great-britain-7DjIm"
+   }
+  ]
+ },
+ {
+  "detail": "# AI in Marketing: Toronto Hackathon\n\n## 1. 比赛简介\n🚀 **AI in Marketing: Toronto Hackathon** 是一场聚焦于人工智能在市场营销领域的创新应用和解决方案的编程马拉松。该比赛旨在鼓励开发者、数据科学家和市场营销专业人士共同探索如何利用人工智能技术提升市场营销效果，推动行业创新。\n\n比赛背景：随着人工智能技术的飞速发展，其在市场营销领域的应用日益广泛。为了激发创新思维，推动技术进步，Luma公司联合多家合作伙伴共同举办了这场Hackathon。\n\n比赛目的：\n- 促进人工智能与市场营销领域的融合与创新。\n- 激发参赛者对人工智能技术的兴趣和应用。\n- 为企业提供创新解决方案，助力企业提升市场营销效果。\n\n比赛主要内容：\n- 参赛者需在规定时间内，围绕人工智能在市场营销领域的应用进行创意编程。\n- 比赛分为多个小组，每个小组需完成一个项目，并展示其创新成果。\n- 比赛结束后，评委将根据项目的创新性、实用性、技术难度等方面进行评分。\n\n## 2. 时间安排\n📅 9月29日（星期二）13:00 - 18:00 GMT-4\n\n## 3. 奖金\n💳 目前比赛奖金信息尚未公布，请关注官方渠道获取最新消息。\n\n## 4. 要求\n📚 参赛者需具备一定的编程能力，熟悉人工智能相关技术。\n🤖 参赛者需关注市场营销领域，了解行业动态。\n🛠️ 参赛者需具备团队协作精神，与团队成员共同完成项目。\n\n## 5. 重要细节\n📍 比赛地点：多伦多，加拿大\n👨‍💻 参赛对象：开发者、数据科学家、市场营销专业人士等\n🤝 比赛主办方：Luma公司联合多家合作伙伴\n📈 比赛结果将在比赛结束后公布，敬请关注官方渠道。",
+  "id": "lumaevt-8XorDLMtdSqrpjM",
+  "name": "人工智能在营销：多伦多黑客松",
+  "organizer": "ALLGOOD CALENDAR、ALYSHA KHAN",
+  "official_url": "https://luma.com/fnlbbltu",
+  "type": "黑客松",
+  "tags": [
+   "机器学习/AI",
+   "计算机视觉"
+  ],
+  "city": "多伦多，加拿大",
+  "prize": null,
+  "start": "2026-09-29",
+  "deadline": null,
+  "end": "2026-09-29",
+  "signup": "upcoming",
+  "description": "",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/lumaevt-8XorDLMtdSqrpjM"
+   }
+  ]
  }
 ]
