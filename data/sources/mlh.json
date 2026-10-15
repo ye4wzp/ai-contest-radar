@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14",
+ "updated": "2026-10-15",
  "competitions": [
   {
    "id": "mlh-swamphacks-com",
@@ -531,6 +531,29 @@
    ]
   },
   {
+   "id": "mlh-events-mlh-com-events-14418-hack-coms-2026",
+   "name": "HACK.COMS",
+   "organizer": "MLH 认证",
+   "official_url": "https://events.mlh.com/events/14418-hack-coms-2026",
+   "type": "黑客松",
+   "tags": [
+    "MLH",
+    "国际"
+   ],
+   "city": "Rochester, US",
+   "prize": null,
+   "start": "2026-11-07",
+   "deadline": null,
+   "end": "2026-11-08",
+   "description": "MLH（Major League Hacking）官方认证黑客松，报名时间以官网为准。",
+   "sources": [
+    {
+     "name": "MLH",
+     "url": "https://events.mlh.com/events/14418-hack-coms-2026"
+    }
+   ]
+  },
+  {
    "id": "mlh-hacktheburgh-com",
    "name": "HackTheBurgh",
    "organizer": "MLH 认证",
@@ -715,6 +738,29 @@
    ]
   },
   {
+   "id": "mlh-www-hackprinceton-com",
+   "name": "HackPrinceton Fall 2026",
+   "organizer": "MLH 认证",
+   "official_url": "https://www.hackprinceton.com",
+   "type": "黑客松",
+   "tags": [
+    "MLH",
+    "国际"
+   ],
+   "city": "Princeton, US",
+   "prize": null,
+   "start": "2026-11-13",
+   "deadline": null,
+   "end": "2026-11-15",
+   "description": "MLH（Major League Hacking）官方认证黑客松，报名时间以官网为准。",
+   "sources": [
+    {
+     "name": "MLH",
+     "url": "https://www.hackprinceton.com"
+    }
+   ]
+  },
+  {
    "id": "mlh-www-spaceappschallenge-org-2026-local-events-new-york",
    "name": "NASA&#x27;s Space Apps Challenge NYC",
    "organizer": "MLH 认证",
@@ -780,6 +826,29 @@
     {
      "name": "MLH",
      "url": "https://durhack.com"
+    }
+   ]
+  },
+  {
+   "id": "mlh-www-wellesleyhacks-org",
+   "name": "WHACK (Wellesley Hackathon)",
+   "organizer": "MLH 认证",
+   "official_url": "https://www.wellesleyhacks.org/",
+   "type": "黑客松",
+   "tags": [
+    "MLH",
+    "国际"
+   ],
+   "city": "Wellesley, US",
+   "prize": null,
+   "start": "2026-11-21",
+   "deadline": null,
+   "end": "2026-11-22",
+   "description": "MLH（Major League Hacking）官方认证黑客松，报名时间以官网为准。",
+   "sources": [
+    {
+     "name": "MLH",
+     "url": "https://www.wellesleyhacks.org/"
     }
    ]
   },

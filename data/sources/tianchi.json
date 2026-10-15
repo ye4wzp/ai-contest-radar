@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14",
+ "updated": "2026-10-15",
  "competitions": [
   {
    "id": "tianchi-532514",
@@ -19,30 +19,6 @@
    "end": "2026-11-15",
    "signup": "open",
    "description": "蚂蚁灵波具身大模型挑战赛由蚂蚁灵波科技、魔搭社区、阿里云天池共同发起，是一场面向具身智能开发者的算法挑战赛。\n\n赛事基于开源 LingBot-VLA 2.0 模型搭建统一评测体系，由线上初赛和线下真机黑客马拉松两个阶段组成，面向全球企业、高校、个人开发者及技术爱好者开放。\n\n本次赛事希望让更多开发者真正上手 LingBot-VLA 2.0，在统一任务与真实机器人场景中验证模型复现、训练调优、泛化评测和真机适配能力，推动具身智能技术从模型能力走向真实落地。",
-   "sources": [
-    {
-     "name": "天池",
-     "url": "https://tianchi.aliyun.com/competition/activeList"
-    }
-   ]
-  },
-  {
-   "id": "tianchi-532480",
-   "name": "CHIP2026-医学NLP代码自动生成测评 ——识别符合临床试验入组标准的患者",
-   "organizer": "阿里云天池",
-   "official_url": "https://tianchi.aliyun.com/competition/entrance/532480",
-   "type": "数据算法赛",
-   "tags": [
-    "天池",
-    "医疗健康"
-   ],
-   "city": null,
-   "prize": null,
-   "start": "2026-08-31",
-   "deadline": null,
-   "end": "2026-10-14",
-   "signup": "closed",
-   "description": "本任务基于CHIP2025-CP03升级，聚焦医学NLP代码自动生成，以识别符合临床试验入组/出组标准的患者。提供17类48条筛选标准及FHIR FSH定义，需按FHIR Message Bundle递交。评测大模型引导小语言模型(SLM)生成代码的可运行性、标准符合性、查询准确性与稳定性。背景强调CDSS需临床全程参与，但知识产权壁垒阻碍协同；大模型编码与FHIR兼容助系统适配，而SLM引入幻觉与可解释性挑战。本任务为科研、产品及政策提供支撑。",
    "sources": [
     {
      "name": "天池",
