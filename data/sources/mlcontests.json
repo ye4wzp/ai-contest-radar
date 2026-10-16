@@ -1,6 +1,29 @@
 {
- "updated": "2026-10-15",
+ "updated": "2026-10-16",
  "competitions": [
+  {
+   "id": "mlc-builderr-ai-challenges-signalpost",
+   "name": "Research Norwegian Companies with an AI Agent",
+   "organizer": "Builderr",
+   "official_url": "https://builderr.ai/challenges/signalpost",
+   "type": "数据算法赛",
+   "tags": [
+    "Builderr",
+    "国际"
+   ],
+   "city": "线上",
+   "prize": "$2,500",
+   "start": null,
+   "deadline": null,
+   "end": "2026-10-21",
+   "description": "Builderr 平台赛事",
+   "sources": [
+    {
+     "name": "ML Contests",
+     "url": "https://mlcontests.com/"
+    }
+   ]
+  },
   {
    "id": "mlc-flagos-io-race-detail-season2-id-8q4m2x7p-lang-en",
    "name": "Optimise LLM Operators & Inference Across AI Chips",
@@ -132,30 +155,6 @@
    "deadline": null,
    "end": "2026-11-09",
    "description": "Kaggle 平台赛事",
-   "sources": [
-    {
-     "name": "ML Contests",
-     "url": "https://mlcontests.com/"
-    }
-   ]
-  },
-  {
-   "id": "mlc-www-learn2design2026-com",
-   "name": "Design Physics Experiments for Gravitational Waves",
-   "organizer": "SPRIN-D",
-   "official_url": "https://www.learn2design2026.com/",
-   "type": "数据算法赛",
-   "tags": [
-    "Independent",
-    "NeurIPS",
-    "国际"
-   ],
-   "city": "线上",
-   "prize": "$27,000",
-   "start": "2026-07-15",
-   "deadline": null,
-   "end": "2026-10-15",
-   "description": "Independent 平台赛事 （NeurIPS 竞赛赛道）",
    "sources": [
     {
      "name": "ML Contests",
@@ -556,6 +555,29 @@
    "start": "2026-10-07",
    "deadline": "2026-11-17",
    "end": "2026-11-17",
+   "description": "Kaggle 平台赛事",
+   "sources": [
+    {
+     "name": "ML Contests",
+     "url": "https://mlcontests.com/"
+    }
+   ]
+  },
+  {
+   "id": "mlc-www-kaggle-com-competitions-name-that-llm",
+   "name": "Identify Which LLM Generated Text Samples",
+   "organizer": "Kaggle",
+   "official_url": "https://www.kaggle.com/competitions/name-that-llm",
+   "type": "数据算法赛",
+   "tags": [
+    "Kaggle",
+    "国际"
+   ],
+   "city": "线上",
+   "prize": "$50,000",
+   "start": "2026-10-14",
+   "deadline": "2027-01-07",
+   "end": "2027-01-13",
    "description": "Kaggle 平台赛事",
    "sources": [
     {

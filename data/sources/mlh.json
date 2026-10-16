@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15",
+ "updated": "2026-10-16",
  "competitions": [
   {
    "id": "mlh-swamphacks-com",
@@ -439,6 +439,29 @@
    ]
   },
   {
+   "id": "mlh-www-bioeng4youth-ca",
+   "name": "BioHacks",
+   "organizer": "MLH 认证",
+   "official_url": "https://www.bioeng4youth.ca",
+   "type": "黑客松",
+   "tags": [
+    "MLH",
+    "国际"
+   ],
+   "city": "Hamilton, CA",
+   "prize": null,
+   "start": "2026-11-07",
+   "deadline": null,
+   "end": "2026-11-08",
+   "description": "MLH（Major League Hacking）官方认证黑客松，报名时间以官网为准。",
+   "sources": [
+    {
+     "name": "MLH",
+     "url": "https://www.bioeng4youth.ca"
+    }
+   ]
+  },
+  {
    "id": "mlh-v0-curc-makecu-vercel-app",
    "name": "MakeCU",
    "organizer": "MLH 认证",
@@ -803,6 +826,29 @@
     {
      "name": "MLH",
      "url": "https://www.hackumass.com/"
+    }
+   ]
+  },
+  {
+   "id": "mlh-hackuta-com",
+   "name": "HackUTA",
+   "organizer": "MLH 认证",
+   "official_url": "https://hackuta.com/",
+   "type": "黑客松",
+   "tags": [
+    "MLH",
+    "国际"
+   ],
+   "city": "Arlington, US",
+   "prize": null,
+   "start": "2026-11-14",
+   "deadline": null,
+   "end": "2026-11-15",
+   "description": "MLH（Major League Hacking）官方认证黑客松，报名时间以官网为准。",
+   "sources": [
+    {
+     "name": "MLH",
+     "url": "https://hackuta.com/"
     }
    ]
   },
