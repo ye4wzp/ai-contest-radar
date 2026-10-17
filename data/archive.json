@@ -17250,5 +17250,207 @@
     "url": "https://www.competehub.dev/zh/competitions/unstop1731208"
    }
   ]
+ },
+ {
+  "id": "devpost-30408",
+  "name": "Global Innovation Build Challenge V2",
+  "organizer": "Kang Chiao International School Student ",
+  "official_url": "https://gibc-v2.devpost.com/",
+  "type": "黑客松",
+  "tags": [
+   "Devpost",
+   "国际"
+  ],
+  "city": "线上",
+  "prize": null,
+  "start": "2026-07-11",
+  "deadline": "2026-10-02",
+  "end": "2026-10-02",
+  "signup": "open",
+  "description": "Devpost 黑客松，主题：Machine Learning/AI、Social Good、Beginner Friendly",
+  "sources": [
+   {
+    "name": "Devpost",
+    "url": "https://devpost.com/hackathons"
+   }
+  ]
+ },
+ {
+  "id": "mlc-competitions-mozilladatacollective-com-competitions-group-lost-in-transcription",
+  "name": "Transcribe Code-Switched Speech in Underserved Languages",
+  "organizer": "Mozilla Data Collective",
+  "official_url": "https://competitions.mozilladatacollective.com/competitions/group/lost-in-transcription/",
+  "type": "数据算法赛",
+  "tags": [
+   "DrivenData",
+   "国际"
+  ],
+  "city": "线上",
+  "prize": "$20,000",
+  "start": "2026-08-04",
+  "deadline": null,
+  "end": "2026-10-02",
+  "description": "DrivenData 平台赛事",
+  "sources": [
+   {
+    "name": "ML Contests",
+    "url": "https://mlcontests.com/"
+   }
+  ]
+ },
+ {
+  "detail": "# 边缘未来黑客松-荆州选手招募\n\n## 1. 比赛简介\n边缘未来黑客松是由长江大学计算机协会举办的创新竞赛。该比赛旨在激发大学生的创新潜能，鼓励他们运用计算机科学和技术解决实际问题。比赛背景是当前科技发展迅速，边缘计算成为热门领域，而荆州地区在这一领域的创新力量相对较弱。因此，比赛目的在于推动荆州地区在边缘计算领域的创新与发展，培养具有创新精神和实践能力的人才。\n\n比赛主要内容涉及以下几个方面：\n- **主题**：围绕边缘计算技术，鼓励选手提出创新解决方案。\n- **参赛对象**：长江大学全体在校学生。\n- **比赛形式**：个人或团队参赛，团队人数不超过5人。\n- **作品要求**：参赛作品需具有原创性，能够解决实际问题，并具备一定的技术实现难度。\n\n## 2. 要求\n- **技术要求**：参赛作品需基于边缘计算技术，如物联网、云计算、大数据等。\n- **创新性**：作品需具有创新性，能够解决实际问题。\n- **实用性**：作品需具备一定的实用性，能够应用于实际场景。\n\n## 5. 重要细节\n- **报名方式**：通过比赛官方网站或微信公众号进行报名。\n- **报名截止时间**：2026年9月30日。\n- **作品提交时间**：2026年10月15日。\n- **比赛时间**：2026年10月20日至22日。\n- **奖项设置**：一等奖1名，二等奖2名，三等奖3名，优秀奖若干名。奖品包括奖金、证书等。",
+  "id": "urls94e36f83de0a677cd359eb18f22a13ab",
+  "name": "边缘未来黑客松-荆州选手招募",
+  "organizer": "长江大学计算机协会",
+  "official_url": "https://mp.weixin.qq.com/s/1NREsjeE5cIoBwZT4cDaDA",
+  "type": "黑客松",
+  "tags": [
+   "机器学习/AI",
+   "计算机视觉"
+  ],
+  "city": "荆州",
+  "prize": null,
+  "start": "2026-09-30",
+  "deadline": "2026-09-30",
+  "end": "2026-10-02",
+  "signup": "upcoming",
+  "description": "",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/urls94e36f83de0a677cd359eb18f22a13ab"
+   }
+  ]
+ },
+ {
+  "detail": "# Preface Hackathon: Virtual Data Room for Real Estate and Developers 比赛内容概括\n\n## 1. 比赛简介\n🚀 **比赛概述**：Preface Hackathon 是一场专注于人工智能领域的开发者比赛，旨在通过AI技术解决房地产和开发商面临的实际问题。这场比赛将见证人机智能的终极对决，鼓励开发者利用AI技术推动行业创新。\n\n🎯 **比赛背景**：随着人工智能技术的快速发展，其在房地产领域的应用日益广泛。为了促进这一领域的创新，Preface 主办了这场Hackathon，为开发者提供一个展示才华、交流学习的平台。\n\n✅ **比赛目的**：\n- 鼓励开发者利用AI技术解决房地产和开发商的实际问题。\n- 促进AI技术在房地产领域的应用和创新。\n- 增强开发者之间的交流与合作。\n\n📚 **比赛主要内容**：\n- 参赛者需在规定时间内，利用AI技术开发一个虚拟数据房间（Virtual Data Room）。\n- 该数据房间需具备以下功能：\n  - 数据存储与检索\n  - 数据分析与可视化\n  - 用户权限管理\n  - 与其他系统的集成\n\n## 2. 时间安排\n📅 **日期**：2026年10月2日（周五）\n🕒 **时间**：下午6:30 - 7:30\n📍 **地点**：PCW by Preface (Causeway Bay), 香港\n\n## 4. 要求\n📝 **参赛资格**：所有对AI技术和房地产领域感兴趣的开发者均可报名参加。\n🔧 **参赛工具**：参赛者需具备以下工具和技能：\n- 编程语言（如Python、Java等）\n- AI框架（如TensorFlow、PyTorch等）\n- 数据处理与分析工具（如Pandas、NumPy等）\n\n## 5. 重要细节\n🤝 **主办单位**：Preface\n👨‍💻 **联系方式**：[Preface](https://luma.com/user/usr-CkW4SlkXuBGSowV)\n📈 **比赛奖励**：比赛将评选出一、二、三等奖，具体奖励设置请关注官方公告。",
+  "id": "lumaevt-KU2HmITNWZacnNh",
+  "name": "序言：地产与开发商虚拟数据室黑客松",
+  "organizer": "PREFACE HACKATHON、PREFACE",
+  "official_url": "https://luma.com/2l1qaxii",
+  "type": "黑客松",
+  "tags": [
+   "机器学习/AI",
+   "区块链"
+  ],
+  "city": "PCW（序言）- 香港岛铜锣湾11号利园东街G/F-5/F",
+  "prize": null,
+  "start": "2026-10-02",
+  "deadline": null,
+  "end": "2026-10-02",
+  "signup": "upcoming",
+  "description": "高能量阶段，开发者以速度和智能AI解决方案解决现实问题。见证人类直觉与机器智能的终极对决。",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/lumaevt-KU2HmITNWZacnNh"
+   }
+  ]
+ },
+ {
+  "detail": "# #NeoIndustrial 公司铸造黑客马拉松\n\n## 1. 比赛简介\n🚀 **比赛概述**：#NeoIndustrial 公司铸造黑客马拉松是一个专注于制造行业的创业挑战赛。该活动旨在将雄心勃勃的创始人、Creative Dock的创业工作室和大型工业参与者配对，共同解决实际的工业边缘问题。\n\n🎯 **背景**：制造行业正面临数字化转型，需要创新解决方案来提高效率和生产力。\n\n✅ **目的**：通过提供真实资产和空白空间，帮助参与者构建可行的创业案例，并有机会获得种子资金和创始人所有权。\n\n💡 **主要内容**：\n- **现场制造挑战**：参与者将面对真实的工业问题，需要运用技术技能或商业直觉来解决。\n- **合作伙伴寻找**：参与者将有机会找到合适的合作伙伴，共同开发解决方案。\n- **创业案例开发**：通过Creative Dock的加速器计划，参与者将开发经过验证的创业案例。\n- **投资机会**：合格的创业案例将提交给投资委员会，有机会获得25万欧元种子资金和多数创始人所有权。\n\n## 4. 要求\n🤝 **参与者要求**：\n- 拥有技术技能或商业直觉。\n- 对制造行业有热情。\n- 准备好面对挑战并寻找合作伙伴。\n\n## 5. 重要细节\n🌍 **地点**：华沙，波兰\n⚙️ **时间**：10月2日星期五，8:30 - 18:00 GMT+2\n👨‍💻 **报名**：欢迎参加！请注册。",
+  "id": "lumaevt-LSZi2eGDrnI8GV7",
+  "name": "#新工业公司铸造黑客松",
+  "organizer": "HERE GOES、NATALIE",
+  "official_url": "https://luma.com/ict79479",
+  "type": "黑客松",
+  "tags": [
+   "机器学习/AI",
+   "区块链",
+   "网络安全"
+  ],
+  "city": "华沙，波兰",
+  "prize": null,
+  "start": "2026-10-02",
+  "deadline": null,
+  "end": "2026-10-02",
+  "signup": "upcoming",
+  "description": "",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/lumaevt-LSZi2eGDrnI8GV7"
+   }
+  ]
+ },
+ {
+  "detail": "# Google DeepMind x InstaLILY AI Toronto Hackathon 比赛内容概括\n\n## 1. 比赛简介\n🚀 **比赛概述**：Google DeepMind与InstaLILY AI共同举办的Toronto Hackathon是一场聚焦于人工智能领域的创新竞赛。该比赛旨在鼓励开发者利用AI技术解决实际问题，推动AI在各个领域的应用。\n\n🎯 **背景**：随着人工智能技术的飞速发展，越来越多的企业和组织开始探索AI在各自领域的应用。Google DeepMind和InstaLILY AI希望通过此次Hackathon，激发开发者的创新潜能，共同推动AI技术的发展。\n\n✅ **目的**：\n- 鼓励开发者利用AI技术解决实际问题。\n- 促进AI技术在各个领域的应用。\n- 增强开发者之间的交流与合作。\n\n📚 **主要内容**：\n- 参赛者需在规定时间内，利用Google DeepMind和InstaLILY AI提供的AI工具和资源，开发具有创新性的AI应用。\n- 应用需符合比赛主题，并具备实际应用价值。\n\n## 2. 时间安排\n（此部分内容未提供，故不输出）\n\n## 3. 奖金\n（此部分内容未提供，故不输出）\n\n## 4. 要求\n- 参赛者需具备一定的编程能力和AI技术基础。\n- 参赛者需在规定时间内完成AI应用的开发。\n- 应用需符合比赛主题，并具备实际应用价值。\n\n## 5. 重要细节\n- 比赛主题：利用AI技术解决实际问题。\n- 报名方式：通过官方网站报名。\n- 比赛形式：线上比赛。\n- 评审标准：创新性、实用性、技术实现难度等。",
+  "id": "luma0c4c3c12d23b72546671a3c5a586ca86",
+  "name": "谷歌DeepMind x InstaLILY AI多伦多黑客松——启动及提示揭晓",
+  "organizer": "INSTALILY AI",
+  "official_url": "https://luma.com/hackathon-pt1",
+  "type": "AI Agent 挑战赛",
+  "tags": [
+   "机器学习/AI",
+   "计算机视觉",
+   "机器人"
+  ],
+  "city": "多伦多，加拿大",
+  "prize": null,
+  "start": "2026-09-22",
+  "deadline": null,
+  "end": "2026-10-02",
+  "signup": "open",
+  "description": "我们正在招聘创始团队，这场黑客松是加入最快的方式。我们将与谷歌DeepMind共同举办，提示将在9月22日现场揭晓。主题为多智能体协同解决单一目标。现场或虚拟加入我们，认识团队！之后，你有周时间自行构建。决赛选手于10月2日Demo Day展示，最佳作品获得团队快速面试机会。提供餐饮。来认识你将一起构建团队的成员！",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/luma0c4c3c12d23b72546671a3c5a586ca86"
+   }
+  ]
+ },
+ {
+  "detail": "# Hack the Feed: Creator Tools Hackathon with Oriane, GMI Cloud & Lovable\n\n## 1. 比赛简介\n🚀 **比赛概述**：Hack the Feed 是一个由 Oriane.xyz Video Intelligence 和 GMI Cloud 主办的创作者工具黑客松活动。该活动旨在鼓励开发者、营销人员和创作者利用社交媒体视频数据，构建有助于创作者或管理50个创作者的机构使用的工具。\n\n🎯 **背景**：随着社交媒体的快速发展，创作者和机构需要更有效的工具来管理内容、分析趋势和与粉丝互动。\n\n✅ **目的**：通过提供免费资源和真实数据，Hack the Feed 活动旨在激发创新，帮助创作者和机构提升其社交媒体表现。\n\n📚 **主要内容**：\n- 参与者将使用 Oriane API、Lovable 和 GMI Cloud 提供的资源构建工具。\n- 工具可以包括趋势导航器、钩子分析器、竞争对手瞭望塔、内容剧本、社交媒体趋势监控和UGC评论收集等。\n- 无需编码：Lovable 支持参与者，或主办方将为他们匹配构建者。\n\n## 2. 时间安排\n📅 **日期**：10月2日\n⏰ **时间**：13:00 - 18:00\n\n## 3. 奖金\n💳 **奖项**：\n- 一等奖：$3,000（$1,000现金 + $2,000信用）\n- 亚军：$1,500（$500现金 + $1,000信用）\n- 季军：$750（$250现金 + $500信用）\n- 优秀奖：最意外想法奖\n\n## 4. 要求\n📝 **要求**：\n- 参与者需携带笔记本电脑。\n- 参与者需有一个不会让他们孤单的想法。\n\n## 5. 重要细节\n📍 **地点**：注册查看具体地点。\n📢 **主办人**：\n- Oriane.xyz Video Intelligence\n- GMI Cloud\n\n📢 **联系方式**：\n- Oriane.xyz Video Intelligence\n- GMI Cloud\n\n📢 **更多信息**：\n- [Oriane.xyz Video Intelligence](https://luma.com/user/oriane_xyz)\n- [GMI Cloud](https://luma.com/user/usr-plIPIXJf41KjhOv)",
+  "id": "luma216597e65c25a954e73e11971c898ac2",
+  "name": "破解订阅：Oriane、GMI云与可爱者开发者工具黑客松",
+  "organizer": "ORIANE.XYZ VIDEO INTELLIGENCE、GMI CLOUD",
+  "official_url": "https://luma.com/92iq2a12",
+  "type": "黑客松",
+  "tags": [
+   "机器学习/AI",
+   "计算机视觉",
+   "社会公益"
+  ],
+  "city": "旧金山，美国",
+  "prize": "¥75,600",
+  "start": "2026-10-02",
+  "deadline": null,
+  "end": "2026-10-02",
+  "signup": "upcoming",
+  "description": "为创作者打造产品。日落前发货。免费堆栈，真实数据，实时演示。每位参与者获得300美元信用额度，用于构建跨所有三个合作伙伴（Oriane API、Lovable、GMI Cloud）的Hackathon堆栈。打造创作者或运营50个创作者所需在周一使用的工具。趋势导航员，钩子分析器，竞争对手瞭望塔，内容剧本，社交趋势监控，UGC评论收集……任何你想到的，利用社交媒体视频数据！开发者、营销人员、创作者，皆可参与。无需编码：Lovable帮你，或我们为你匹配构建者。",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/luma216597e65c25a954e73e11971c898ac2"
+   }
+  ]
+ },
+ {
+  "detail": "# 2026 GatewayHacks 虚拟黑客马拉松\n\n## 1. 比赛简介\n欢迎参加2026年GatewayHacks，由Gateway非营利组织推出的旗舰虚拟黑客马拉松！🚀 Gateway的使命是打开大门，打破障碍，相信下一代开发者、设计师和革新者掌握着解决人类最大挑战的关键。这是一个为期4周的完全虚拟黑客马拉松，挑战你构建软件、硬件或AI解决方案，创造可衡量的社会效益。\n\n## 2. 要求\n#### 要构建什么\nGatewayHacks 2026的使命是创造通往更美好、更公平未来的解决方案。你需要构建一个与Gateway的核心社会公益项目之一相符的工作软件、硬件或AI原型，解决社区、非营利组织或教育机构面临的真实问题。\n\n#### **第一步：选择你的赛道**\n每个提交都必须选择以下三个主要赛道之一：\n- 🌐 轨道1：可访问性与健康\n- 📚 轨道2：教育公平\n- 🌍 轨道3：环境可持续性\n- 💡 轨道4：开放影响 & 社区\n\n#### 要提交什么\n- **一个Devpost项目页面**：包括标题、简短描述和至少一个视觉元素。\n- **一个视频提案（最长5分钟）**：提供链接，解释你的想法。\n- **（可选）** 如果有的话，一个指向代码仓库或实时网站的链接。\n\n## 3. 重要细节\n- **注册**：点击Devpost页面上的“加入黑客马拉松”。\n- **加入社区**：加入Gateway Discord服务器，寻找队友，与导师聊天，获取实时更新。\n- **组建团队**：你可以单独黑客或组建最多4人的团队。\n- **构建 & 提交**：你有4周时间构建你的原型，并在Devpost上提交。\n\n## 4. 奖金\n- $591,585的奖金\n- 100个免费.xyz域名来构建\n- 使用Momen构建的最佳无代码AI App\n- $100 Momen积分 - 加入Discord！\n- 前100个团队获得$299 Tin Computer增长积分\n- $1,000 Adaption积分\n\n## 5. 评委\n- **Jonathan Chang**：GatewayGS CTO\n- **Yaokai Jiang**：创始人 & CEO, Momen\n\n## 6. 评审标准\n- 社会影响（40%）\n- 技术执行（30%）\n- 创新（20%）\n- 设计 & UX（10%）",
+  "id": "devpost30767",
+  "name": "2026网关黑客 | 软件 & 人工智能",
+  "organizer": "GATEWAYGS",
+  "official_url": "https://gatewayhacks-2026.devpost.com/",
+  "type": "黑客松",
+  "tags": [
+   "社会公益",
+   "机器学习/AI",
+   "健康",
+   "教育"
+  ],
+  "city": "线上",
+  "prize": "¥4,259,400",
+  "start": "2026-09-01",
+  "deadline": null,
+  "end": "2026-10-02",
+  "signup": "open",
+  "description": "2026年GatewayHacks虚拟黑客马拉松，挑战开发者构建软件、硬件或AI解决方案，解决社会问题。4周内，个人或团队选择社会公益项目赛道，提交原型及演示视频。奖金丰厚，涵盖社会影响、技术执行、创新、设计等多个方面。",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/devpost30767"
+   }
+  ]
  }
 ]

@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-16",
+ "updated": "2026-10-17",
  "competitions": [
+  {
+   "id": "modelscope-383",
+   "name": "天猫 AI 黑客松·高校挑战赛",
+   "organizer": "3C数码",
+   "official_url": "https://modelscope.cn/events/383",
+   "type": "黑客松",
+   "tags": [
+    "魔搭"
+   ],
+   "city": null,
+   "prize": "¥20万元",
+   "start": "2026-09-08",
+   "deadline": "2026-10-21",
+   "end": null,
+   "description": "AI 正在成为年轻人面向未来的必备能力。天猫 AI 黑客松，旨在连接高校年轻人与真实技术、品牌及产业场景，邀请每一个敢想敢做的人，把 AI 创想真正做出来，让创造走进现实。",
+   "sources": [
+    {
+     "name": "魔搭社区",
+     "url": "https://modelscope.cn/active"
+    }
+   ]
+  },
   {
    "id": "modelscope-380",
    "name": "支付宝AI付年度黑客松",

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16",
+ "updated": "2026-10-17",
  "competitions": [
   {
    "id": "tch-47",
@@ -90,6 +90,30 @@
    "end": "2026-09-13",
    "description": "AI CAN DO IT | 腾讯云黑客松游戏极限开发挑战赛正式启动！腾讯云联合腾讯游戏学堂、Tencent WeTech Academy、腾讯互娱社会价值探索中心、腾讯教育，面向全球高校开发者发起一场 AI 驱动的游戏创作挑战。不论你是程序员、设计师还是创意策划，只要你对游戏和 AI 有热情，这里就是你的舞台。  Tencent Cloud Hackathon · Registration Form AI CAN DO IT | **Tencent Cloud Hackathon: Extreme Game Dev Challenge** Tencent Cloud, in partners",
    "detail": "AI CAN DO IT | 腾讯云黑客松游戏极限开发挑战赛正式启动！腾讯云联合腾讯游戏学堂、Tencent WeTech Academy、腾讯互娱社会价值探索中心、腾讯教育，面向全球高校开发者发起一场 AI 驱动的游戏创作挑战。不论你是程序员、设计师还是创意策划，只要你对游戏和 AI 有热情，这里就是你的舞台。\n\nTencent Cloud Hackathon · Registration Form\nAI CAN DO IT | **Tencent Cloud Hackathon: Extreme Game Dev Challenge**\nTencent Cloud, in partnership with Tencent Institute of Games, Tencent WeTech Academy, Tencent IEG Social Value Exploration Center and Tencent Education, is launching an AI-driven game creation challenge open to university developers worldwide. Whether you are a programmer, designer, or creative producer — if you have a passion for games and AI, this is your stage.",
+   "sources": [
+    {
+     "name": "腾讯云黑客松官网",
+     "url": "https://tch.cloud.tencent.com"
+    }
+   ]
+  },
+  {
+   "id": "tch-50",
+   "name": "重庆邮电大学AI开学季——校园智能体创新挑战赛",
+   "organizer": "重庆邮电大学人工智能学院、腾讯云黑客松、WorkBuddy",
+   "official_url": "https://wj.qq.com/s2/27844237/tk64/?wj_lang=zhs",
+   "type": "黑客松",
+   "tags": [
+    "腾讯云",
+    "官方赛事"
+   ],
+   "city": "线上",
+   "prize": "15000积分",
+   "start": "2026-10-15",
+   "deadline": "2026-10-31",
+   "end": "2026-12-19",
+   "description": "为深入贯彻国家教育数字化战略部署，落实人工智能赋能高等教育教学改革要求，推动\"以赛促学、以学促用\"的产教融合育人模式落地见效，重庆邮电大学人工智能学院联合腾讯云黑客松、WorkBuddy团队，计划于2026秋季开学季共同发起\"西南大学AI开学季——校园智能体创新挑战赛\"，面向全校学生开展AI应用作品征集评选，获奖学生将可创新获得学习任务置换、校级证书等奖励，有效推动人工智能通识教育从课堂走向实践，培育校园AI创新生态。",
+   "detail": "为深入贯彻国家教育数字化战略部署，落实人工智能赋能高等教育教学改革要求，推动\"以赛促学、以学促用\"的产教融合育人模式落地见效，重庆邮电大学人工智能学院联合腾讯云黑客松、WorkBuddy团队，计划于2026秋季开学季共同发起\"西南大学AI开学季——校园智能体创新挑战赛\"，面向全校学生开展AI应用作品征集评选，获奖学生将可创新获得学习任务置换、校级证书等奖励，有效推动人工智能通识教育从课堂走向实践，培育校园AI创新生态。",
    "sources": [
     {
      "name": "腾讯云黑客松官网",

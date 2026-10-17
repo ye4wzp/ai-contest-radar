@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16",
+ "updated": "2026-10-17",
  "competitions": [
   {
    "id": "mlh-swamphacks-com",
@@ -508,6 +508,29 @@
    ]
   },
   {
+   "id": "mlh-hackthechangeyyc-ca",
+   "name": "Hack the Change",
+   "organizer": "MLH 认证",
+   "official_url": "https://hackthechangeyyc.ca/",
+   "type": "黑客松",
+   "tags": [
+    "MLH",
+    "国际"
+   ],
+   "city": "Calgary, CA",
+   "prize": null,
+   "start": "2026-11-07",
+   "deadline": null,
+   "end": "2026-11-08",
+   "description": "MLH（Major League Hacking）官方认证黑客松，报名时间以官网为准。",
+   "sources": [
+    {
+     "name": "MLH",
+     "url": "https://hackthechangeyyc.ca/"
+    }
+   ]
+  },
+  {
    "id": "mlh-sheridandatathon-com",
    "name": "Sheridan Datathon 2026",
    "organizer": "MLH 认证",
@@ -665,6 +688,29 @@
     {
      "name": "MLH",
      "url": "https://tamudatathon.com/"
+    }
+   ]
+  },
+  {
+   "id": "mlh-ubhacking-cse-buffalo-edu",
+   "name": "UB Hacking",
+   "organizer": "MLH 认证",
+   "official_url": "https://ubhacking.cse.buffalo.edu",
+   "type": "黑客松",
+   "tags": [
+    "MLH",
+    "国际"
+   ],
+   "city": "Buffalo, US",
+   "prize": null,
+   "start": "2026-11-07",
+   "deadline": null,
+   "end": "2026-11-08",
+   "description": "MLH（Major League Hacking）官方认证黑客松，报名时间以官网为准。",
+   "sources": [
+    {
+     "name": "MLH",
+     "url": "https://ubhacking.cse.buffalo.edu"
     }
    ]
   },
