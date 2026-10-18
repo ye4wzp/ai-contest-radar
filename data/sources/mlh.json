@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17",
+ "updated": "2026-10-18",
  "competitions": [
   {
    "id": "mlh-swamphacks-com",
@@ -366,6 +366,29 @@
     {
      "name": "MLH",
      "url": "https://shark-byte.io/"
+    }
+   ]
+  },
+  {
+   "id": "mlh-sinceai-ai",
+   "name": "Since AI Hackathon",
+   "organizer": "MLH 认证",
+   "official_url": "https://sinceai.ai/",
+   "type": "黑客松",
+   "tags": [
+    "MLH",
+    "国际"
+   ],
+   "city": "Turku, FI",
+   "prize": null,
+   "start": "2026-11-06",
+   "deadline": null,
+   "end": "2026-11-08",
+   "description": "MLH（Major League Hacking）官方认证黑客松，报名时间以官网为准。",
+   "sources": [
+    {
+     "name": "MLH",
+     "url": "https://sinceai.ai/"
     }
    ]
   },
@@ -899,6 +922,52 @@
    ]
   },
   {
+   "id": "mlh-csesucsd-com",
+   "name": "SanD Hacks",
+   "organizer": "MLH 认证",
+   "official_url": "https://csesucsd.com/",
+   "type": "黑客松",
+   "tags": [
+    "MLH",
+    "国际"
+   ],
+   "city": "La Jolla, US",
+   "prize": null,
+   "start": "2026-11-14",
+   "deadline": null,
+   "end": "2026-11-15",
+   "description": "MLH（Major League Hacking）官方认证黑客松，报名时间以官网为准。",
+   "sources": [
+    {
+     "name": "MLH",
+     "url": "https://csesucsd.com/"
+    }
+   ]
+  },
+  {
+   "id": "mlh-hackthenest-tech",
+   "name": "Hack The Nest",
+   "organizer": "MLH 认证",
+   "official_url": "https://hackthenest.tech/",
+   "type": "黑客松",
+   "tags": [
+    "MLH",
+    "国际"
+   ],
+   "city": "Ypsilanti, US",
+   "prize": null,
+   "start": "2026-11-14",
+   "deadline": null,
+   "end": "2026-11-15",
+   "description": "MLH（Major League Hacking）官方认证黑客松，报名时间以官网为准。",
+   "sources": [
+    {
+     "name": "MLH",
+     "url": "https://hackthenest.tech/"
+    }
+   ]
+  },
+  {
    "id": "mlh-durhack-com",
    "name": "DurHack",
    "organizer": "MLH 认证",
@@ -922,6 +991,52 @@
    ]
   },
   {
+   "id": "mlh-2026-sunhacks-io",
+   "name": "sunhacks",
+   "organizer": "MLH 认证",
+   "official_url": "https://2026.sunhacks.io/",
+   "type": "黑客松",
+   "tags": [
+    "MLH",
+    "国际"
+   ],
+   "city": "Tempe, US",
+   "prize": null,
+   "start": "2026-11-14",
+   "deadline": null,
+   "end": "2026-11-15",
+   "description": "MLH（Major League Hacking）官方认证黑客松，报名时间以官网为准。",
+   "sources": [
+    {
+     "name": "MLH",
+     "url": "https://2026.sunhacks.io/"
+    }
+   ]
+  },
+  {
+   "id": "mlh-tecnurtur-org-hackathon",
+   "name": "Tech For Community 2026",
+   "organizer": "MLH 认证",
+   "official_url": "https://tecnurtur.org/hackathon",
+   "type": "黑客松",
+   "tags": [
+    "MLH",
+    "国际"
+   ],
+   "city": "St. John&#x27;s, CA",
+   "prize": null,
+   "start": "2026-11-21",
+   "deadline": null,
+   "end": "2026-11-22",
+   "description": "MLH（Major League Hacking）官方认证黑客松，报名时间以官网为准。",
+   "sources": [
+    {
+     "name": "MLH",
+     "url": "https://tecnurtur.org/hackathon"
+    }
+   ]
+  },
+  {
    "id": "mlh-www-wellesleyhacks-org",
    "name": "WHACK (Wellesley Hackathon)",
    "organizer": "MLH 认证",
@@ -941,6 +1056,29 @@
     {
      "name": "MLH",
      "url": "https://www.wellesleyhacks.org/"
+    }
+   ]
+  },
+  {
+   "id": "mlh-bostonhacks-org",
+   "name": "BostonHacks",
+   "organizer": "MLH 认证",
+   "official_url": "https://bostonhacks.org/",
+   "type": "黑客松",
+   "tags": [
+    "MLH",
+    "国际"
+   ],
+   "city": "Boston, US",
+   "prize": null,
+   "start": "2026-11-21",
+   "deadline": null,
+   "end": "2026-11-22",
+   "description": "MLH（Major League Hacking）官方认证黑客松，报名时间以官网为准。",
+   "sources": [
+    {
+     "name": "MLH",
+     "url": "https://bostonhacks.org/"
     }
    ]
   },
