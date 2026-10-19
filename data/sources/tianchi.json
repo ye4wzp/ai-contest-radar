@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18",
+ "updated": "2026-10-19",
  "competitions": [
   {
    "id": "tianchi-532514",
@@ -241,54 +241,6 @@
    "end": "2026-10-20",
    "signup": "open",
    "description": "作为全球美妆科技创新的重要实践平台，2026 欧莱雅美妆科技黑客松汇聚全球青年创新力量，面向海内外高校在校学生开放报名。赛事聚焦人工智能与美妆产业融合创新，围绕真实业务场景设置挑战赛题，鼓励参赛团队运用 AI、多模态、智能交互等前沿技术，探索美妆行业的创新应用与未来体验。\n在这里，创意不仅停留于概念，更有机会与产业需求深度连接。赛事希望发掘兼具技术创新力与商业应用价值的青年团队，为未来美妆科技的发展注入更多创新灵感与实践成果。",
-   "sources": [
-    {
-     "name": "天池",
-     "url": "https://tianchi.aliyun.com/competition/activeList"
-    }
-   ]
-  },
-  {
-   "id": "tianchi-532499",
-   "name": "CSIG图像图形技术挑战赛-赛道一：生成式图像增强可控性挑战",
-   "organizer": "阿里云天池",
-   "official_url": "https://tianchi.aliyun.com/competition/entrance/532499",
-   "type": "数据算法赛",
-   "tags": [
-    "天池",
-    "计算机视觉"
-   ],
-   "city": null,
-   "prize": "¥200,000",
-   "start": "2026-07-03",
-   "deadline": null,
-   "end": "2026-10-18",
-   "signup": "closed",
-   "description": "CSIG图像图形技术挑战赛是由中国图象图形学学会（CSIG）主办的系列赛事，旨在促进图像图形技术及相关产业的发展和应用，解决企业面临的技术难题，扩大企业宣传面，帮助企业吸引更多的优秀人才。为推动国内高等院校、科研院所在Camera及其相关领域在读学生的培养，选拔优秀人才，中国图象图形学学会、华为终端有限公司携手举办第三届\"Camera学术之星\"影像算法技术竞赛与研讨会。",
-   "sources": [
-    {
-     "name": "天池",
-     "url": "https://tianchi.aliyun.com/competition/activeList"
-    }
-   ]
-  },
-  {
-   "id": "tianchi-532500",
-   "name": "CSIG图像图形技术挑战赛-赛道二：生成式图像增强轻量模型设计挑战",
-   "organizer": "阿里云天池",
-   "official_url": "https://tianchi.aliyun.com/competition/entrance/532500",
-   "type": "数据算法赛",
-   "tags": [
-    "天池",
-    "计算机视觉"
-   ],
-   "city": null,
-   "prize": "¥200,000",
-   "start": "2026-07-01",
-   "deadline": null,
-   "end": "2026-10-18",
-   "signup": "closed",
-   "description": "CSIG图像图形技术挑战赛是由中国图象图形学学会（CSIG）主办的系列赛事，旨在促进图像图形技术及相关产业的发展和应用，解决企业面临的技术难题，扩大企业宣传面，帮助企业吸引更多的优秀人才。为推动国内高等院校、科研院所在Camera及其相关领域在读学生的培养，选拔优秀人才，中国图象图形学学会、华为终端有限公司携手举办第三届\"Camera学术之星\"影像算法技术竞赛与研讨会。",
    "sources": [
     {
      "name": "天池",
