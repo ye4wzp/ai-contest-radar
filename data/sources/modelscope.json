@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-19",
+ "updated": "2026-10-21",
  "competitions": [
+  {
+   "id": "modelscope-386",
+   "name": "群核科技Ahoolo 全球3D AI黑客松",
+   "organizer": "群核科技",
+   "official_url": "https://modelscope.cn/events/386",
+   "type": "黑客松",
+   "tags": [
+    "魔搭"
+   ],
+   "city": null,
+   "prize": "¥32万元奖金池",
+   "start": "2026-10-19",
+   "deadline": "2026-11-19",
+   "end": null,
+   "description": "本届黑客松，我们不设命题。只需你使用3D生成模型Aholo Lux3D，完成一份3D AI作品或Demo。",
+   "sources": [
+    {
+     "name": "魔搭社区",
+     "url": "https://modelscope.cn/active"
+    }
+   ]
+  },
   {
    "id": "modelscope-383",
    "name": "天猫 AI 黑客松·高校挑战赛",
@@ -104,28 +126,6 @@
    "deadline": "2026-12-31",
    "end": null,
    "description": "由众智FlagOS社区主办的一项多赛季、综合性赛事。大赛鼓励开发者基于统一AI系统软件栈FlagOS的能力进行创作实战和创新探索，促进AI开发者能力提升，推动开放计算生态的蓬勃发展。",
-   "sources": [
-    {
-     "name": "魔搭社区",
-     "url": "https://modelscope.cn/active"
-    }
-   ]
-  },
-  {
-   "id": "modelscope-343",
-   "name": "第六届 OceanBase 数据库大赛",
-   "organizer": "OceanBase",
-   "official_url": "https://modelscope.cn/events/343",
-   "type": "创意应用赛",
-   "tags": [
-    "魔搭"
-   ],
-   "city": null,
-   "prize": null,
-   "start": "2026-08-17",
-   "deadline": "2026-10-19",
-   "end": null,
-   "description": "第六届 OceanBase 数据库大赛是由 CCF 数据库专委指导，OceanBase 主办的面向高校学生的数据库大赛。\n\n大赛以“竞技、交流、成长”为宗旨，搭建开放、专业的技术交流平台，推动数据库人才培养。本届围绕“数据库+AI”设置全新赛题，聚焦数据库内核，同时覆盖数据库、上下文工程、AI 应用开发、基础模型与算力、智能体、具身智能等前沿方向。",
    "sources": [
     {
      "name": "魔搭社区",

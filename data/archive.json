@@ -19027,5 +19027,177 @@
     "url": "https://devpost.com/hackathons"
    }
   ]
+ },
+ {
+  "detail": "# Hackerschool Week 8: Introduction to Typst\n\n## 1. 比赛简介\nHackerschool Week 8: Introduction to Typst 是由 NUS Hackers 主办的一场技术工作坊。该活动旨在向参与者介绍 Typst，这是一种无需 LaTeX 即可排版文档的工具。活动的主要目的是帮助参与者学习如何创建专业文档，并了解 Typst 的基本功能和优势。\n\n## 2. 时间安排\n- **日期**：10月6日星期二\n- **时间**：19:00 - 21:00 GMT+8\n- **地点**：COM3-01-23, Seminar Room 14, 11 Research Link, SGP 119391\n\n## 3. 要求\n- 参与者需具备基本的计算机操作能力。\n- 无需具备 LaTeX 知识。\n\n## 4. 重要细节\n- **活动内容**：学习使用 Typst 排版文档。\n- **活动形式**：讲座和实操。\n- **提供茶点**：活动期间将提供茶点。\n- **报名方式**：请注册参加。",
+  "id": "luma936af37962d1f2d44835b3749a91b8a9",
+  "name": "黑客学校第8周：Typst入门",
+  "organizer": "NUS HACKERS",
+  "official_url": "https://luma.com/vsz3hazv",
+  "type": "工程开发赛",
+  "tags": [
+   "艺术/设计",
+   "教育",
+   "机器学习/AI"
+  ],
+  "city": "COM3-01-23，研讨室14，研究链接11，SGP 119391",
+  "prize": null,
+  "start": "2026-10-06",
+  "deadline": null,
+  "end": "2026-10-06",
+  "signup": "upcoming",
+  "description": "想学习排版论文和创建专业文档，但觉得LaTeX太复杂？在文字处理软件中输入数学公式觉得麻烦？加入我们，了解Typst，LaTeX的现代替代品，用简单标记语言制作精美文档。你将学习Typst语法基础，添加表格、图片和公式等元素，自定义文档格式等。工作坊结束后，你将能制作干净、专业的文档，包括报告、简历、速查表甚至演示文稿。",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/luma936af37962d1f2d44835b3749a91b8a9"
+   }
+  ]
+ },
+ {
+  "detail": "# 人工智能黑客松\n\n## 1. 比赛简介\n🚀 **比赛概述**：这是一场由SAAF项目、Just Eat Takeaway.com和TAG共同主办的人工智能黑客松活动。活动旨在推动开源AI审计代理（SAAF代理）的发展，吸引开发者、AI构建者、审计师和问题解决者共同参与。\n\n🌍 **背景**：随着人工智能技术的快速发展，AI审计代理在确保AI系统安全性和可靠性方面发挥着重要作用。SAAF项目旨在构建一个开源的AI审计代理，以促进AI技术的健康发展。\n\n🎯 **目的**：通过黑客松活动，鼓励参与者改进现有代理，构建可重用技能，创建更好的安全线，并自动化质量检查。\n\n## 2. 时间安排\n📅 **日期**：2023年10月6日\n🕒 **时间**：9:00 - 18:00 GMT+2\n\n## 3. 奖金\n💳 **奖项**：500欧元Just Eat Takeaway.com代金券\n\n## 4. 要求\n📚 **参与者**：开发者、AI构建者、审计师、问题解决者\n🤝 **合作**：65+组织专业人士共建开源AI审计代理\n\n## 5. 重要细节\n🏥 **地点**：Piet Heinkade 61, 1019 GM Amsterdam, Netherlands\n👨‍💻 **报名**：需审核，欢迎注册参加\n🛠️ **评审标准**：创意、技术执行、实际相关性\n🤖 **评审团**：Mark Poen、Mathijs Schouten、Eduward van de Kamp\n📈 **日程**：09:00 - 18:00，包括午餐\n📝 **简报**：改进现有代理，构建可重用技能，创建更好的安全线，自动化质量检查",
+  "id": "lumaevt-TytDxRmIHnMCf4U",
+  "name": "特工叛逃 — 人工智能黑客松",
+  "organizer": "TAG、SOFIA FRUMKINA、MARK POEN",
+  "official_url": "https://luma.com/tag-saaf",
+  "type": "黑客松",
+  "tags": [
+   "机器学习/AI",
+   "网络安全",
+   "DevOps"
+  ],
+  "city": "荷兰阿姆斯特丹，Piet Heinkade 61",
+  "prize": null,
+  "start": "2026-10-06",
+  "deadline": null,
+  "end": "2026-10-06",
+  "signup": "upcoming",
+  "description": "文化层下的创业生态。建造者、黑客、创造者。  \n每周聚会、冲刺、演示之夜。",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/lumaevt-TytDxRmIHnMCf4U"
+   }
+  ]
+ },
+ {
+  "detail": "# Future States: Hackathon at No 10\n\n## 1. 比赛简介\n🚀 The No 10 Data Science team (10DS) 举办了一场为期两天的黑客马拉松活动，旨在将来自政府外部的技术专家与公务员聚集在一起，共同解决国家面临的真实问题。🌍\n\n本次比赛的目标是寻找工程师、研究人员和有远见的人士，他们希望构建有用的东西。参与者将有机会接触到导师和公务员，这些公务员每天都在处理这些问题。此外，参与者还将获得合作伙伴的API积分和支持。\n\n在活动结束时，表现最出色的团队将向内阁秘书和其他政府领导人在No10展示他们的工作。💡\n\n## 2. 时间安排\n📅 10月5日星期一至10月6日星期日，9:00 - 17:00 GMT+1\n\n## 3. 奖金\n💳 奖品包括合作伙伴的积分和免费订阅。\n\n## 4. 要求\n🤝 参赛者需要是工程师、研究人员或有远见的人士，希望构建有用的东西。\n\n## 5. 重要细节\n📍 地点：10 Downing St, London SW1A 2AA, UK\n📝 报名：需要审核，请在下方注册。\n👨‍💻 报名后，您的报名将需要主办人审核。",
+  "id": "lumaevt-QBD293Q6Kj6xwlB",
+  "name": "未来状态：10号站黑客松",
+  "organizer": "NO 10 INNOVATION FELLOWS、DAVID GELBERG、KATIE、EOIN MULGREW",
+  "official_url": "https://luma.com/9vr0zktj",
+  "type": "黑客松",
+  "tags": [
+   "机器学习/AI",
+   "计算机视觉",
+   "社会公益"
+  ],
+  "city": "10号唐宁街，伦敦SW1A 2AA，英国",
+  "prize": null,
+  "start": "2026-10-05",
+  "deadline": null,
+  "end": "2026-10-06",
+  "signup": "open",
+  "description": "",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/lumaevt-QBD293Q6Kj6xwlB"
+   }
+  ]
+ },
+ {
+  "detail": "# FoodHack Vienna: The Shape of Food to Come\n\n## 1. 比赛简介\nFoodHack Vienna 是一个专注于未来食品科技的创新活动，属于维也纳未来食品周的一部分。该活动旨在探讨十年后我们的饮食习惯和食物系统将如何变化，以及哪些趋势将持续，资金将流向何方。活动汇集了食品初创公司创始人、研究人员、投资者以及关心食物发展方向的参与者。\n\n活动背景：\n- **目的**：探讨未来食品科技的发展趋势，激发创新思维，促进食品科技领域的交流与合作。\n- **主要内容**：讨论未来食物及其背后的系统变化，包括持续的趋势、资金流向以及最终出现在餐盘上的食物。\n\n## 2. 时间安排\n- **日期**：2026年10月6日星期二\n- **时间**：18:30 - 22:00 GMT+2\n- **地点**：OTOTO Store & Speciality Coffee, Zirkusgasse 20, 1020维也纳\n\n## 3. 要求\n- **语言**：英语\n- **费用**：免费，但需注册\n- **饮料**：免费提供\n- **名额**：有限，请提前注册\n\n## 4. 重要细节\n- **讨论嘉宾**：\n  - Dr. Philipp Lawrence Fuhrmann，BOKU食品科学研究所博士后，研究食品结构、质地和感官感知。\n  - David Petuzzi，Revo Foods首席执行官，提供3D打印植物基海鲜。\n  - Markus Linder，inoqo创始人兼首席执行官，使食品的气候和生物多样性足迹对消费者和品牌透明化。\n  - Carina Roth，Fund F合伙人，维也纳的早期风险投资公司，拥有不断增长的食品科技投资组合。\n- **主持人**：Bernhard Grabner和Gregor Tegl\n- **合作伙伴**：POPCHOP和OTOTO Store & Speciality Coffee\n- **照片**：活动期间将拍摄照片，可能用于FoodHack渠道。\n- **关于FoodHack**：FoodHack是全球食品科技创始人、投资者和运营商的社区，在世界各地设有聚会、通讯、会员资格和年度HackSummit。",
+  "id": "lumaevt-BJuccP9YVEfoANV",
+  "name": "维也纳食品黑客：未来食品形态",
+  "organizer": "HACK、HACK CHAPTERS",
+  "official_url": "https://luma.com/mlorlgkk",
+  "type": "黑客松",
+  "tags": [
+   "机器学习/AI",
+   "区块链",
+   "健康"
+  ],
+  "city": "OTOTO店 & 特调咖啡，奥地利维也纳1020区，Zirkusgasse 20",
+  "prize": null,
+  "start": "2026-10-06",
+  "deadline": null,
+  "end": "2026-10-06",
+  "signup": "upcoming",
+  "description": "“Hack是一个全球社区，激发、连接并突出气候领域的创始人、资助者和运营者。”",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/lumaevt-BJuccP9YVEfoANV"
+   }
+  ]
+ },
+ {
+  "detail": "# AI Hackathon 比赛内容概括\n\n## 1. 比赛简介\n🚀 **比赛概述**：AI Hackathon 是一场由人工智能原型工作室（AIPS）主办的人工智能领域的黑客马拉松活动。该活动旨在提供一个平台，让参与者通过创新和团队合作，开发出具有实际应用价值的人工智能原型。\n\n🎯 **背景**：随着人工智能技术的快速发展，越来越多的企业和组织开始探索如何将AI技术应用于实际业务中。AI Hackathon 正是为了激发创新思维，推动AI技术的实际应用而举办的。\n\n✅ **目的**：\n- 促进人工智能技术的创新和应用。\n- 培养和发掘具有潜力的AI人才。\n- 为企业和组织提供创新的AI解决方案。\n\n📚 **主要内容**：\n- 参赛者需在规定时间内，围绕指定的主题或问题，开发出具有创新性和实用价值的人工智能原型。\n- 活动将分为多个阶段，包括报名、项目开发、演示和评审等。\n\n## 2. 时间安排\n📅 **日期**：10月6日星期二\n🕒 **时间**：15:30 - 21:00 GMT+11\n\n## 3. 奖金\n💳 **奖金信息**：比赛设有丰厚的奖金，具体金额和分配方式将在后续公布。\n\n## 4. 要求\n📝 **参赛资格**：\n- 参赛者需具备一定的编程能力和人工智能知识。\n- 参赛者可以个人或团队形式参加，团队人数限制为5人以内。\n\n🛠️ **参赛工具**：\n- 参赛者需自备笔记本电脑和开发环境。\n- 比赛提供必要的硬件和软件支持。\n\n## 5. 重要细节\n📍 **地点**：墨尔本大学商学院，Room 206，111 Barry St, Carlton VIC 3053, Australia\n📢 **报名方式**：需要审核，请通过活动页面申请加入。\n📝 **联系方式**：如有疑问，请联系主办人。\n📈 **评审标准**：创新性、实用性、技术实现、团队协作等。",
+  "id": "lumaevt-zGTn3SPMybBVJ8e",
+  "name": "人工智能黑客松",
+  "organizer": "PERSONAL、ARTIFICIAL INTELLIGENCE PROTOTYPING STUDIO (AIPS)",
+  "official_url": "https://luma.com/orgcjpue",
+  "type": "黑客松",
+  "tags": [],
+  "city": "墨尔本大学商学院，FBE大楼，澳大利亚维多利亚州卡尔顿111 Barry St，3053",
+  "prize": null,
+  "start": "2026-10-06",
+  "deadline": null,
+  "end": "2026-10-06",
+  "signup": "upcoming",
+  "description": "",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/lumaevt-zGTn3SPMybBVJ8e"
+   }
+  ]
+ },
+ {
+  "detail": "# 比赛内容概括\n\n## 1. 比赛简介\n🚀 **UnivaBio全球学生竞赛** 由BioCataalysis和UnivaDev联合举办，旨在支持医疗与健康科技交叉领域的创新。该竞赛面向13岁以上学生，鼓励个人或团队设计并构建有意义的科技产品，以帮助人们更早发现疾病、更好地理解疾病或更轻松地与疾病共存。\n\n🎯 **主题**：人类健康科技\n\n📚 **背景**：本次活动汇集全球年轻创新者，探讨科技在人类健康中的作用。\n\n✅ **目的**：鼓励学生利用科技解决医疗健康问题，推动创新。\n\n🌍 **主要内容**：\n- 个人或团队设计并构建有意义的科技产品。\n- 项目形式多样：应用、网站、模拟、系统或算法。\n- 鼓励使用AI助手，降低技术门槛。\n- 理解所建内容并能解释，准备好向评委展示代码。\n\n## 2. 要求\n- 项目：具有用户交互能力的网站、应用或其他编码原型。\n- 展示视频：解释项目目的、展示项目功能和演示用户如何与原型互动。\n- 一页项目描述PDF：描述项目目的和关键功能。\n- Github仓库/代码PDF：展示项目创建过程中所有代码的PDF文档。\n\n## 3. 奖金\n💳 **奖金**：$5,420\n\n## 4. 重要细节\n- **赞助商**：InterviewBuddy、Momen、CodeCrafters\n- **评委**：Ryan Ahn、Sudheer Pratap、Aditya Shrivastava、Eldiiar Bekbolotov、Rupak Bose\n- **评判标准**：创意与创新、实施、健康影响与严谨性、设计与应用、展示",
+  "id": "devpost30781",
+  "name": "优尼瓦生物",
+  "organizer": "BIOCATAALYSIS",
+  "official_url": "https://univabio.devpost.com/",
+  "type": "黑客松",
+  "tags": [],
+  "city": "线上",
+  "prize": "¥275,300",
+  "start": "2026-08-07",
+  "deadline": null,
+  "end": "2026-10-06",
+  "signup": "open",
+  "description": "UnivaBio竞赛面向13岁以上学生，探讨AI在人类健康中的应用。参赛者可个人或组队，设计技术产品，如AI教育应用、分类模型等。要求提交项目、展示视频、项目描述PDF和代码PDF。总奖金38,245美元，设有多个奖项。",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/devpost30781"
+   }
+  ]
+ },
+ {
+  "id": "devpost-31398",
+  "name": "Databricks AI Social Impact (DAISI) Challenge - Singapore",
+  "organizer": "Databricks",
+  "official_url": "https://daisisg26.devpost.com/",
+  "type": "黑客松",
+  "tags": [
+   "Devpost",
+   "国际"
+  ],
+  "city": "Databricks Singapore",
+  "prize": null,
+  "start": "2026-09-16",
+  "deadline": "2026-10-06",
+  "end": "2026-10-06",
+  "signup": "open",
+  "description": "Devpost 黑客松，主题：Education、Machine Learning/AI、Social Good",
+  "sources": [
+   {
+    "name": "Devpost",
+    "url": "https://devpost.com/hackathons"
+   }
+  ]
  }
 ]
