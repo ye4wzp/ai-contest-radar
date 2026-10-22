@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21",
+ "updated": "2026-10-22",
  "competitions": [
   {
    "id": "tianchi-532514",
@@ -162,9 +162,9 @@
    "city": null,
    "prize": "¥100,000",
    "start": "2026-07-30",
-   "deadline": "2026-10-21",
+   "deadline": null,
    "end": "2026-11-15",
-   "signup": "open",
+   "signup": "closed",
    "description": "本赛道聚焦具身智能从仿真训练走向多型号真机验证，探索机器人策略在不同本体和真实物理环境中的迁移能力。本次赛事是全球首个跨本体、跨平台、跨场景仿真+真机挑战赛。",
    "sources": [
     {

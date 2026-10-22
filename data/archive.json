@@ -19199,5 +19199,210 @@
     "url": "https://devpost.com/hackathons"
    }
   ]
+ },
+ {
+  "detail": "# Noetic X Deep Tech London Hackathon 比赛内容概括\n\n## 1. 比赛简介\n🚀 **Noetic X Deep Tech London Hackathon** 是一个为期四小时的案例冲刺活动，旨在为欧洲下一代AI构建者、运营商和投资者提供一个精选智能网络平台。该活动在Deep Tech London前夕举行，由Noetic主办，旨在颠倒深科技公司传统的研发流程，让参与者直接面对真实商业化挑战。\n\n**背景**：深科技公司通常花费数年研究目标用户，而此次Hackathon则让参与者直接面对一家深科技公司带来的技术挑战。\n\n**目的**：通过这次活动，参与者将寻找新技术的新用途和市场，并向开发者展示他们的想法。\n\n**主要内容**：\n- 一家深科技公司提供一项可行的技术及其未来发展的开放性问题。\n- 3-5人团队将寻找新用途和市场。\n- 无需理解底层科学，关注产品和市场问题。\n- 需要具备产品、工程、设计、研究、商业和市场推广思维的人。\n\n## 2. 时间安排\n📅 10月6日星期二，17:00 - 21:00 GMT+1\n\n## 3. 奖金\n💳 现金奖励\n\n## 4. 要求\n🤝 适合申请的人群包括工程师、设计师、研究人员、创始人、学生等擅长发现新技术用途的人。主办方将为每个团队选择技能组合。\n\n## 5. 重要细节\n- **挑战合作伙伴**：即将揭晓。\n- **名额和奖金有限，注册以保留位置**。\n- **这是一个基于申请的活动，提交申请不保证获得位置**。\n- **申请将滚动审查**。\n- **接受者将收到场地和日程详情**。\n- **关于Noetic**：Noetic在真实公司内部真实问题上进行构建冲刺，认为人才的信号已从人们所声称的转变为他们所构建的。\n- **此活动为Deep Tech Week的一部分**。在deep-tech-week.com/register创建免费个人资料，以帮助主办方批准您的注册并为您制定一周日程。",
+  "id": "lumac70d8c4602ba4c2913f188e1c9c1aae8",
+  "name": "诺艾克深科技伦敦黑客松",
+  "organizer": "NOETIC",
+  "official_url": "https://luma.com/h442vepw",
+  "type": "黑客松",
+  "tags": [
+   "机器学习/AI",
+   "生产力/效率",
+   "社会公益"
+  ],
+  "city": "伦敦",
+  "prize": "¥8,460,000",
+  "start": "2026-10-07",
+  "deadline": null,
+  "end": "2026-10-07",
+  "signup": "upcoming",
+  "description": "2026年10月7日晚，Deep Tech London前夕，为期四小时的用例冲刺活动，为本周官方卫星活动。深科技公司带来真实商业化挑战：一项可行技术，以及关于其未来走向的开放性问题。3-5人团队整晚寻找新用例和新市场，然后向构建者演示。",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/lumac70d8c4602ba4c2913f188e1c9c1aae8"
+   }
+  ]
+ },
+ {
+  "detail": "# AI Agents Hack Night | Mistral AI x Elasticsearch 比赛内容概括\n\n## 1. 比赛简介\n🚀 **比赛名称**：AI Agents Hack Night | Mistral AI x Elasticsearch\n🎯 **比赛背景**：由Mistral和Elastic在Elastic{ON} NYC前夜于纽约市举办的实战黑客之夜。\n✅ **比赛目的**：鼓励开发者、数据从业者、设计师、产品构建者和AI初学者构建生成式AI应用和代理。\n📚 **主要内容**：\n- 简短介绍Mistral和Elasticsearch。\n- 参与者构建基于Mistral和Elasticsearch的应用。\n- 提供食物、饮料、奖品和大量帮助人员。\n\n## 2. 时间安排\n📅 **日期**：10月7日星期三\n⏰ **时间**：17:00 - 21:00 GMT-4\n\n## 4. 要求\n🔧 **技术栈**：\n- **Mistral**：提供构建生成式AI应用和代理的强大高效模型。\n- **Elasticsearch**：提供搜索和检索层，通过关键词、向量和混合搜索帮助应用找到和使用相关信息。\n\n## 5. 重要细节\n🌍 **地点**：1250 Broadway floor 16, New York, NY 10001, USA\n👨‍💻 **参与者资格**：所有人，所有技能水平和背景都欢迎。\n📝 **数据要求**：可以自带数据集，但我们也会提供起始数据和示例项目。\n📅 **项目实施**：所有项目实施必须在黑客之夜期间进行。\n👨‍💻 **携带物品**：携带笔记本电脑和想法，我们将提供工具和起始资源。\n🏆 **奖品**：提供奖品和大量帮助人员。",
+  "id": "luma1d4e3bd9ce66759db77659ec88c83288",
+  "name": "人工智能代理黑客之夜 | 风暴AI x Elasticsearch",
+  "organizer": "MISTRAL AND ELASTIC",
+  "official_url": "https://luma.com/nyc-hacknight",
+  "type": "AI Agent 挑战赛",
+  "tags": [
+   "机器学习/AI",
+   "计算机视觉"
+  ],
+  "city": "百老汇1250号16楼，纽约，纽约州，10001，美国",
+  "prize": null,
+  "start": "2026-10-06",
+  "deadline": null,
+  "end": "2026-10-07",
+  "signup": "upcoming",
+  "description": "加入Mistral和Elastic，在Elastic{ON} NYC前一天晚上，在纽约市体验动手黑客之夜。简短介绍Mistral和Elasticsearch后，我们将余下时间进行构建。挑战详情和技术资源将很快分享。开发者、数据从业者、设计师、产品构建者和AI初学者皆欢迎。无需Mistral或Elasticsearch经验。有食物、饮料、奖品，并有很多人提供帮助。带上你的笔记本电脑和想法。我们将提供工具和起始资源。",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/luma1d4e3bd9ce66759db77659ec88c83288"
+   }
+  ]
+ },
+ {
+  "detail": "# Startup Shuffle Startups Recruitment [Hackathon + Carnival]\n\n## 1. 比赛简介\n由 BLOCK71 SEC 和 B71 Singapore 主办，**Startup Shuffle 2026 — 技能型学生招聘**活动于 **10月7日（星期三）18:00-22:00 在 NUS Enterprise i3 Building 举行**。该活动旨在连接初创公司与寻求实战机会的学生，通过 **Startup Carnival** 和 **Hackathon 挑战**两种并行进行的格式，为学生提供与初创公司面对面交流的机会。\n\n**活动背景**：Startup Shuffle 连接初创公司与寻求实战机会的学生，旨在为学生提供实际工作环境中的挑战，帮助他们展示自己的技能和能力。\n\n**活动目的**：\n- 为初创公司提供寻找有潜力的实习生、项目贡献者和早期团队成员的机会。\n- 为学生提供实战机会，展示自己的技能和能力。\n- 促进初创公司与学生的交流与合作。\n\n**主要内容**：\n- **Startup Carnival**：轻松的对话式招聘，初创公司可通过一对一对话、简短面试和网络交流与学生见面。\n- **Hackathon 挑战**：基于技能的招聘，学生在初创公司提供的短期、特定角色的挑战上工作，然后展示他们的解决方案以供评判。\n\n## 2. 时间安排\n- **活动日期**：10月7日（星期三）\n- **活动时间**：18:00 - 22:00 GMT+8\n\n## 4. 要求\n- **Hackathon 注册截止日期**：9月28日\n- **Hackathon 参与者**：需具备一定的编程或相关技能\n- **初创公司**：需提供实际挑战，明确预期成果\n\n## 5. 重要细节\n- **所有参加 Hackathon 的初创公司都将自动包括在 Startup Carnival 中**。\n- **Hackathon 注册截止日期为 9 月 28 日**。\n- **有任何疑问，请联系 Samaira (@samaiirakapur) 或 Simran (@simraiin) 通过 Telegram**。\n- **注册后查看具体地点**。",
+  "id": "lumaevt-vwdlEYGb3exlQxb",
+  "name": "初创混战：招聘 [黑客马拉松+狂欢节]",
+  "organizer": "PERSONAL、BLOCK71 SEC、B71 SINGAPORE",
+  "official_url": "https://luma.com/w6erbm77",
+  "type": "黑客松",
+  "tags": [
+   "机器学习/AI",
+   "工程开发"
+  ],
+  "city": "新加坡",
+  "prize": null,
+  "start": "2026-10-07",
+  "deadline": null,
+  "end": "2026-10-07",
+  "signup": "upcoming",
+  "description": "",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/lumaevt-vwdlEYGb3exlQxb"
+   }
+  ]
+ },
+ {
+  "detail": "$19",
+  "id": "urls4b8f34b7c15004664e9147fe41e50cc7",
+  "name": "2026“欣悦”杯AI创新实践挑战赛",
+  "organizer": "上海立信会计金融学院、松江大学城科创源、中共上海市松江区岳阳街道工作委员会、阿里云智能集团",
+  "official_url": "https://mp.weixin.qq.com/s/FBEh6beEQmelhIU9_PUdHA",
+  "type": "AI大模型赛",
+  "tags": [
+   "机器学习/AI",
+   "计算机视觉",
+   "教育"
+  ],
+  "city": "上海",
+  "prize": null,
+  "start": "2026-09-18",
+  "deadline": null,
+  "end": "2026-10-07",
+  "signup": "open",
+  "description": "为深入贯彻习近平总书记在2026世界人工智能大会暨人工智能全球治理高级别会议开幕式上的讲话精神，积极推进“人工智能 +”行动，培育政校企各类主体共生共荣的创新生态，推动科技创新与产业创新深度融合。立足长三角G60科创走廊建设机遇，依托松江大学城科创源地校共建平台，深化产教融合，探索AI赋能复合型人才培养新模式。",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/urls4b8f34b7c15004664e9147fe41e50cc7"
+   }
+  ]
+ },
+ {
+  "detail": "# 比赛内容概括\n\n## 1. 比赛简介\n🚀 **比赛名称**：好奇建造者社区技术活动\n🎯 **比赛背景**：好奇建造者社区是一个致力于探索和构建技术活动的平台，旨在激发人们对科技的兴趣和创造力。\n✅ **比赛目的**：通过举办技术活动，鼓励社区成员学习新技术、分享知识，并促进技术交流与合作。\n📚 **主要内容**：\n- 定期举办各种技术主题的活动，如编程、人工智能、数据科学等。\n- 提供实践机会，让参与者能够动手操作，将理论知识应用于实际项目中。\n- 鼓励社区成员之间的交流与合作，共同解决问题，提升技术能力。\n\n## 4. 要求\n- 参与者需具备一定的技术基础，对编程、人工智能等领域有一定了解。\n- 参与者需积极参与活动，完成指定的任务和项目。\n- 参与者需遵守社区规则，尊重他人，共同营造良好的学习氛围。\n\n## 5. 重要细节\n- 活动由Give(a)Go主办，Daytonaio协办。\n- 活动时间：GMT-7 06:10。\n- 活动平台：Luma。\n- 参与方式：登录Luma平台，关注好奇建造者社区，加入Give(a)Go。\n- 社交媒体：Instagram [giveago.co/insta](http://giveago.co/insta)、YouTube [youtube.com/@lets.giveago](https://youtube.com/@lets.giveago)、TikTok [tiktok.com/@lets.giveago](https://tiktok.com/@lets.giveago)、LinkedIn [linkedin.com/company/lets-giveago](https://linkedin.com/company/lets-giveago)。",
+  "id": "lumaevt-G1UXoD5BBww0A3j",
+  "name": "戴通纳黑客马拉松：丰饶与几何，都柏林 - 2026年10月7日",
+  "organizer": "GIVE(A)GO、DAYTONA",
+  "official_url": "https://luma.com/daytona-ai-week",
+  "type": "黑客松",
+  "tags": [
+   "机器学习/AI",
+   "计算机视觉"
+  ],
+  "city": "狗镇实验室，查克大厦，海关码头，北墙，都柏林，爱尔兰",
+  "prize": null,
+  "start": "2026-10-07",
+  "deadline": null,
+  "end": "2026-10-07",
+  "signup": "upcoming",
+  "description": "一群好奇的建造者。定期探索与科技建造活动。\n\n加入我们：www.giveago.co/join | Instagram giveago.co/insta",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/lumaevt-G1UXoD5BBww0A3j"
+   }
+  ]
+ },
+ {
+  "detail": "# Light x Lovable x Everphone Finance Hackathon 比赛内容概括\n\n## 1. 比赛简介\n🚀 **比赛概述**：Light x Lovable x Everphone Finance Hackathon 是一场专注于金融领域的黑客松活动，旨在通过人工智能（AI）技术解决企业财务问题。\n\n🎯 **背景**：随着人工智能技术的快速发展，越来越多的企业开始探索如何利用AI提高财务效率。此次黑客松活动由Light（全球领先的AI原生财务平台）、Lovable（AI应用构建平台）和Everphone（分享如何内部应用AI）共同主办。\n\n✅ **目的**：通过此次黑客松，参与者将有机会将AI技术应用于解决实际的财务问题，提升企业财务效率。\n\n📚 **主要内容**：\n- 参与者需选择一个财务问题，并利用Light、Lovable和Everphone提供的资源，开发一个AI应用解决方案。\n- 活动期间，参与者将获得来自Light产品专家、Lovable AI专家和Everphone AI先驱团队的个性化支持。\n- 活动结束时，每个团队需提交一个可运行的AI应用，并准备进行展示。\n\n## 2. 时间安排\n📅 **日期**：2023年10月7日\n🕒 **时间**：13:00 - 18:30 GMT+2\n\n## 3. 奖金\n💳 **奖金信息**：比赛设有奖金，具体金额未在源内容中提及。\n\n## 4. 要求\n🔍 **参与要求**：\n- 财务团队：CFO、VP finance、Head of finance、会计师、控制器、分析师、经理及其团队。\n- 技能水平：无需编程技能。如果能够使用ChatGPT制作意面食谱，则可以在Lovable上构建AI应用。\n\n## 5. 重要细节\n🌍 **地点**：柏林，德国\n👨‍💻 **报名方式**：需主办人审核，请注册以查看具体地点。",
+  "id": "lumaevt-RfGg73O2uA4qgGi",
+  "name": "轻 x 可爱 x 永信金融黑客松",
+  "organizer": "LIGHT、LUKE、JAIR ROJAS、CHRIS PORTEN",
+  "official_url": "https://luma.com/uj396whd",
+  "type": "黑客松",
+  "tags": [
+   "机器学习/AI",
+   "金融科技",
+   "区块链"
+  ],
+  "city": "柏林，德国",
+  "prize": null,
+  "start": "2026-10-07",
+  "deadline": null,
+  "end": "2026-10-07",
+  "signup": "upcoming",
+  "description": "AI赋能的金融，专为高速增长企业打造。",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/lumaevt-RfGg73O2uA4qgGi"
+   }
+  ]
+ },
+ {
+  "detail": "# Pax Silica Hackathon: SF Tech Week\n\n## 1. 比赛简介\n🚀 **Pax Silica Hackathon** 是一场创新工作坊，作为瑞典之家在SF Tech Week的一部分，由Business Sweden和BuilderBase Hackathons共同主办。该活动旨在促进北欧与硅谷之间的创新合作，为参与者提供一个互动的平台，让他们能够找到擅长自己不懂领域的伙伴，并在结束时展示他们的成果。\n\n🎯 **背景**：随着全球科技行业的快速发展，北欧和硅谷的创新力量日益凸显。Pax Silica Hackathon旨在加强这两大科技中心的联系，推动跨文化、跨领域的创新合作。\n\n🌍 **目的**：通过这个活动，参与者可以：\n\n- **建立联系**：结识来自不同背景的同行，拓展人脉。\n- **学习交流**：与专家和导师互动，学习新技能。\n- **创新实践**：将想法付诸实践，开发可展示的项目。\n\n## 2. 时间安排\n📅 **日期**：10月7日星期三\n🕒 **时间**：15:00 - 18:00\n\n## 4. 要求\n✅ **团队**：不需要预先组建团队，但建议在活动前在BuilderBase平台上寻找合作伙伴。\n✅ **地点**：旧金山艺术馆，2 Sacramento St，旧金山，CA — SF Tech Week期间的瑞典之家。\n\n## 5. 重要细节\n- **活动流程**：\n  - 2:00pm - 报到，找到你的团队和位置\n  - 2:20pm - 信息和启动\n  - 2:30pm - 建设区块\n  - 4:20pm - 展示\n- **展示**：每队将有三分钟时间进行现场直播展示。\n- **地点**：2 Embarcadero Ctr, San Francisco, CA 94111, USA",
+  "id": "lumab3db78cde3f697268453c6e31d3f3713",
+  "name": "硅石黑客松：旧金山科技周",
+  "organizer": "BUSINESS SWEDEN WITH BUILDERBASE HACKATHONS",
+  "official_url": "https://luma.com/builde-q0bj",
+  "type": "黑客松",
+  "tags": [
+   "机器学习/AI",
+   "计算机视觉",
+   "DevOps"
+  ],
+  "city": "2 Embarcadero中心，旧金山，加州，94111，美国",
+  "prize": null,
+  "start": "2026-10-07",
+  "deadline": null,
+  "end": "2026-10-07",
+  "signup": "upcoming",
+  "description": "北欧×硅谷创新#SFTechWeek\n这是一次工作坊，而非会议。带着问题或无问题来，找到你在那方面的强人，结束时带走可演示成果和一帮值得保持联系的人。\n瑞典之家在SF Tech周的一部分，由Business Sweden主办，BuilderBase黑客松活动。",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/lumab3db78cde3f697268453c6e31d3f3713"
+   }
+  ]
+ },
+ {
+  "detail": "# Amazon ML Challenge 2026 比赛内容概括\n\n## 1. 比赛简介\nAmazon ML Challenge 2026 是一项面向印度所有工程校园学生的机器学习竞赛。该比赛旨在鼓励学生运用机器学习技术解决现实世界的问题，并提供一个展示他们创新解决方案的平台。参赛者需要在亚马逊提供的数据集上工作，提出新想法，并构建创新解决方案。\n\n### 背景\n亚马逊是一家跨国技术巨头，专注于电子商务、云计算、数字流媒体和人工智能等领域。Amazon ML Challenge 2026 是亚马逊为促进机器学习领域的发展而举办的竞赛。\n\n### 目的\n- 鼓励学生运用机器学习技术解决现实世界问题。\n- 提供一个展示学生创新解决方案的平台。\n- 促进机器学习领域的发展。\n\n### 主要内容\n- 参赛者需要在亚马逊提供的数据集上工作。\n- 提出新想法，并构建创新解决方案。\n- 比赛分为两个阶段：预赛和决赛。\n\n## 2. 时间安排\n- **注册**：2026年9月7日 07:30 AM 至 2026年9月26日 11:29 AM\n- **机器学习挑战 | 72小时黑客马拉松**：2026年9月24日 08:30 PM 至 2026年9月27日 08:30 AM\n- **机器学习轮次结果**：2026年10月1日 09:30 PM 至 2026年10月2日 11:29 AM\n- **决赛**：2026年10月6日 09:30 PM 至 2026年10月7日 02:30 AM\n\n## 3. 奖金\n- 预面试 & 奖项价值：₹ 2,25,000\n\n## 4. 要求\n- 所有在印度所有工程校园攻读博士/硕士/硕士/研究硕士/学士/硕士的全职学生均可参加。\n- 毕业年份：2027或2028\n- 每个团队必须由至少3名成员组成，最多4名成员。\n- 每个团队必须有一个队长。\n- 允许跨学院团队。\n- 学生不能是多个团队的成员。\n\n## 5. 重要细节\n- 参赛者需要在注册前设置AWS Builder Centre个人资料并验证学生身份。\n- 每个团队必须上传一份1-2页的文档，概述他们的方法，以及一个压缩文件中的代码/脚本/笔记本。\n- 比赛分为预赛和决赛，决赛将于2026年10月7日以虚拟直播的形式举行。\n- 前三名获胜团队将获得现金奖品和证书。",
+  "id": "unstop1743604",
+  "name": "亚马逊机器学习挑战赛2026",
+  "organizer": null,
+  "official_url": "https://unstop.com/hackathons/crp-amazon-ml-challenge-2026-amazon-1743604",
+  "type": "黑客松",
+  "tags": [
+   "机器学习/AI",
+   "计算机视觉",
+   "教育"
+  ],
+  "city": "线上",
+  "prize": "¥19,500",
+  "start": "2026-09-07",
+  "deadline": null,
+  "end": "2026-10-07",
+  "signup": "open",
+  "description": "2026年亚马逊机器学习挑战赛是一个面向印度所有工程校园中攻读博士学位、硕士（工程硕士/技术硕士、硕士/研究硕士）、学士学位（工程学士/技术学士）的全日制学生的两阶段竞赛。比赛包括一个72小时的黑客马拉松，3-4人组成的团队将使用亚马逊的数据集，针对现实世界的问题陈述开发创新解决方案。黑客马拉松之后是机器学习环节和总决赛。前三名团队将获得价值225,000卢比的现金奖励和证书。参赛者必须在注册前设置AWS构建中心个人资料并验证学生身份。该比赛旨在为学生提供一个独特的机会，让他们在亚马逊的数据集上工作，并提出新思路。",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/unstop1743604"
+   }
+  ]
  }
 ]

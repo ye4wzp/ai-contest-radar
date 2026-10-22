@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-21",
+ "updated": "2026-10-22",
  "competitions": [
   {
-   "detail": "$14",
+   "detail": "$19",
    "id": "dorahacksdreamdex-perps-bounty",
    "name": "梦想DEX恶意行为者奖励",
    "organizer": "SOMNIA NETWORK",
@@ -223,7 +223,7 @@
    ]
   },
   {
-   "detail": "$14",
+   "detail": "$19",
    "id": "dorahacks2418",
    "name": "Cortensor黑客松#5",
    "organizer": "CORTENSOR",
@@ -337,32 +337,6 @@
     {
      "name": "AI赛事通",
      "url": "https://www.competehub.dev/zh/competitions/zindiclimate-risk-health-prediction-challenge-miva"
-    }
-   ]
-  },
-  {
-   "detail": "# OpenClaw & Friends Meetup w/ NVIDIA & Microsoft\n\n## 1. 比赛简介\n🚀 **Your AI. Your rules. Better together.** OpenClaw & Friends Meetup 是一个由 OpenClaw、Graham McBain 和 Jason Storbeck 主办的活动，旨在探讨可拥有、理解、控制的 AI 代理。该活动在开源 AI 周期间举行，与 NVIDIA 和 Microsoft 合作，为参与者提供一个交流和学习的机会。\n\n活动内容包括：\n- **6:00 PM** 开门，签到和点心\n- **6:20 PM** 欢迎及简短演示\n- **6:45 PM** OpenClaw & Friends 研讨会：约15分钟讨论和15分钟问答\n- **7:20 PM** 非正式交流开始\n- **9:00 PM** 活动结束\n\n## 2. 时间安排\n📅 **日期**：10月20日星期二\n🕒 **时间**：18:00 - 21:00\n\n## 4. 要求\n✅ 参与者需要注册并经过审核才能参加活动。\n\n## 5. 重要细节\n- 地点：请注册以查看具体地点。\n- 主办方：OpenClaw、Graham McBain 和 Jason Storbeck\n- 合作伙伴：NVIDIA 和 Microsoft\n- 主题：开源 AI、AI 代理、人工智能技术",
-   "id": "lumaevt-4sbLgibxDlbbg3Y",
-   "name": "开放爪子与朋友们聚会——NVIDIA与微软",
-   "organizer": "PERSONAL、OPENCLAW、GRAHAM MCBAIN、JASON STORBECK",
-   "official_url": "https://luma.com/oah05xax",
-   "type": "黑客松",
-   "tags": [
-    "机器学习/AI",
-    "计算机视觉",
-    "开放式"
-   ],
-   "city": "旧金山，加州",
-   "prize": null,
-   "start": "2026-10-21",
-   "deadline": null,
-   "end": "2026-10-21",
-   "signup": "upcoming",
-   "description": "",
-   "sources": [
-    {
-     "name": "AI赛事通",
-     "url": "https://www.competehub.dev/zh/competitions/lumaevt-4sbLgibxDlbbg3Y"
     }
    ]
   },
@@ -725,32 +699,6 @@
    ]
   },
   {
-   "detail": "# AI Collective Chicago - Fall Demo Night 🍂\n\n## 1. 比赛简介\nAI Collective Chicago - Fall Demo Night 🍂 是一场专注于展示创新AI项目和商业想法的活动。该活动由AI Collective Chicago主办，旨在连接和庆祝芝加哥的创业、创始人和建设者社区。活动邀请了4-6位演讲者分享他们正在构建的内容，包括创意AI项目、新兴商业想法以及实验性项目。专业评委团将提供反馈和新的视角，以促进创新和成长。\n\n**背景：**\n- AI Collective Chicago 是一个致力于连接全球AI爱好者和专业人士的社区。\n- 活动旨在展示AI领域的创新和潜力，同时为参与者提供学习和交流的机会。\n\n**目的：**\n- 展示AI领域的创新项目。\n- 促进参与者之间的交流和合作。\n- 为芝加哥的创业和建设者社区提供支持和资源。\n\n**主要内容：**\n- 4-6位演讲者分享他们的AI项目和商业想法。\n- 专业评委团提供反馈和新的视角。\n- 参与者之间的交流和合作机会。\n\n## 2. 时间安排\n- 日期：10月20日星期二\n- 时间：17:30 - 21:00 GMT-5\n\n## 3. 奖金\n未提供奖金信息。\n\n## 4. 要求\n- 演讲者需提交提案表单，包括项目介绍和演讲内容。\n- 参与者需注册并审核通过。\n\n## 5. 重要细节\n- 活动地点：请注册以查看具体地点。\n- 评委阵容：包括创始人、风险投资家和投资公司代表。\n- 活动议程：\n  - 5:30 PM: 开门 + 网络交流\n  - 6:00 PM: 欢迎及公告 / AIC介绍\n  - 6:15 PM: 演示/演讲开始\n  - 7:15 PM: 评委讨论及反馈\n  - 7:30 PM: 颁奖及感谢\n  - 7:40 PM: 社交网络交流\n  - 9:00 PM: 结束",
-   "id": "lumaevt-0sOB1FwFJzzjFIV",
-   "name": "AI集体芝加哥 - 秋季演示之夜 🍂",
-   "organizer": "THE AI COLLECTIVE、MARY GRYGLESKI、MARTINA MATTHEWS",
-   "official_url": "https://luma.com/aic-chi-20261020-demo",
-   "type": "黑客松",
-   "tags": [
-    "机器学习/AI",
-    "区块链",
-    "社会公益"
-   ],
-   "city": "芝加哥，伊利诺伊州",
-   "prize": null,
-   "start": "2026-10-20",
-   "deadline": null,
-   "end": "2026-10-21",
-   "signup": "upcoming",
-   "description": "全球最大AI社区。汇聚100+论坛的50万+先锋。构建AI时代的人性化层面。",
-   "sources": [
-    {
-     "name": "AI赛事通",
-     "url": "https://www.competehub.dev/zh/competitions/lumaevt-0sOB1FwFJzzjFIV"
-    }
-   ]
-  },
-  {
    "detail": "# Builder Hour: Omarchy Plugins and Apps showcase 比赛内容概括\n\n## 1. 比赛简介\nBuilder Hour 是一个定期举办的会议，旨在分享使用 AI 创建的作品。本次比赛聚焦于 Omarchy 插件和应用程序的展示，为参与者提供了一个展示他们如何利用这些工具进行创新和创作的平台。比赛背景是鼓励开发者、设计师和创作者探索 AI 在不同领域的应用，提高工作效率和创作质量。比赛目的在于促进 AI 技术的普及，激发创意，并展示 Omarchy 插件和应用程序的强大功能。\n\n**主要内容**:\n- 参与者展示使用 Omarchy 插件和应用程序创作的作品。\n- 分享创作过程中的经验和技巧。\n- 探讨 AI 技术在各个领域的应用前景。\n- 促进开发者、设计师和创作者之间的交流与合作。\n\n## 2. 时间安排\n（此部分内容未提供，故不输出）\n\n## 3. 奖金\n（此部分内容未提供，故不输出）\n\n## 4. 要求\n- 参与者需使用 Omarchy 插件和应用程序进行创作。\n- 作品需原创，不得侵犯他人版权。\n- 作品需符合比赛主题，展示 AI 技术的应用。\n- 参与者需在规定时间内提交作品。\n\n## 5. 重要细节\n- 比赛由 Sahand Sojoodi 主办。\n- 比赛面向全球开发者、设计师和创作者。\n- 参与者需在 Builder Hour 网站注册账号。\n- 提交作品时需附上作品介绍和创作心得。\n- 比赛结果将在比赛结束后公布。",
    "id": "lumaevt-FwBT79o3awUdv2S",
    "name": "建筑小时：奥玛基亚插件与应用展示",
@@ -1078,32 +1026,6 @@
     {
      "name": "AI赛事通",
      "url": "https://www.competehub.dev/zh/competitions/lumaevt-2iodTqkv0zwpZh4"
-    }
-   ]
-  },
-  {
-   "detail": "# Vibe Coding Starter Workshop\n\n## 1. 比赛简介\n🚀 **Vibe Coding Starter Workshop** 是一个由ChatGPT Lab @ Waseda主办的活动，旨在让编程新手和AI爱好者体验使用OpenAI的编程AI代理“Codex”来开发软件。该活动无需编程经验，参与者只需告诉AI他们想要创造什么，就能开发应用或网站。\n\n活动背景：随着人工智能技术的快速发展，编程技能变得越来越重要。为了帮助更多人了解和掌握编程，ChatGPT Lab @ Waseda举办了这次活动。\n\n活动目的：让参与者体验使用AI进行编程的便捷性，激发他们对编程的兴趣，并为他们提供展示自己作品的机会。\n\n主要内容：\n- 无需编程经验，只需描述想法即可开发应用或网站。\n- 使用OpenAI的编程AI代理“Codex”进行开发。\n- 活动结束后，参与者将自由开发，并有机会展示作品。\n\n## 2. 时间安排\n📅 **日期**：10月21日星期三\n🕒 **时间**：16:00 - 18:00 GMT+9\n\n## 3. 要求\n✅ 参与者无需具备编程经验。\n✅ 活动地点：WASEDA共創館（19-2号館）：Waseda Co-creation Space, Japan, 〒169-0051 Tokyo, Shinjuku City, Nishiwaseda, 1-chōme−21−２ 早稲田大学19 2号館 地下1階\n\n## 4. 重要细节\n- 活动结束后，参与者将有机会展示自己的作品。\n- 欢迎编程新手和AI爱好者参加。\n- 报名需要审核。",
-   "id": "lumaevt-2fs8JliiYVq4YdL",
-   "name": "振动编码入门工作坊",
-   "organizer": "OPENAI STUDENT COLLECTIVE AT WASEDA UNIVERSITY、TAKERU FUJII、城森悠希",
-   "official_url": "https://luma.com/40b8cibb",
-   "type": "黑客松",
-   "tags": [
-    "机器学习/AI",
-    "新手友好",
-    "教育"
-   ],
-   "city": "早稻田共創馆（19-2号馆）",
-   "prize": null,
-   "start": "2026-10-21",
-   "deadline": null,
-   "end": "2026-10-21",
-   "signup": "upcoming",
-   "description": "在早稻田，由OpenAI支持的AI学习、试验、创造学生社区。活动日程陆续公布！",
-   "sources": [
-    {
-     "name": "AI赛事通",
-     "url": "https://www.competehub.dev/zh/competitions/lumaevt-2fs8JliiYVq4YdL"
     }
    ]
   },
@@ -1443,7 +1365,7 @@
    ]
   },
   {
-   "detail": "$19",
+   "detail": "$14",
    "id": "lumaevt-cQE6HSoYAsRauAk",
    "name": "恐怖演示之夜 - Generathon #3 × 巴黎创作者周",
    "organizer": "GENERATHON - THE FUTURE OF CONTENT CREATION、ROLAND SOSIN、LE MOTIF",
@@ -1951,7 +1873,7 @@
    ]
   },
   {
-   "detail": "$14",
+   "detail": "$19",
    "id": "dorahacksbchblaze2026",
    "name": "BCH烈焰2026",
    "organizer": "BCH BLAZE",
@@ -2835,32 +2757,6 @@
     {
      "name": "AI赛事通",
      "url": "https://www.competehub.dev/zh/competitions/lumaevt-vGFn1qjhhGVfibG"
-    }
-   ]
-  },
-  {
-   "detail": "# Hack Night: Haystack 企业平台\n\n## 1. 比赛简介\nHack Night: Haystack 企业平台是一个专注于AI和智能体系统构建的编程挑战活动。该活动由deepset GmbH主办，作为GTC Berlin主权之家项目的一部分。活动旨在提供一个平台，让参与者学习和实践使用Haystack企业平台（HEP），一个用于构建智能体系统的企业级AI平台。\n\n**背景**：随着AI技术的快速发展，企业级AI平台的需求日益增长。Haystack企业平台正是为了满足这一需求而设计的，它可以帮助企业快速构建和部署智能体系统。\n\n**目的**：通过Hack Night活动，参与者可以深入了解Haystack企业平台的功能和应用，同时提升自己的编程技能和AI知识。\n\n**主要内容**：\n- 参与者将在Haystack企业平台上运行企业团队任务。\n- 构建最快、最准确的Haystack管道，并在测试数据集上获得尽可能高的分数。\n- 活动提供数据和起始模板，18:20将提供完整说明。\n- 评分客观，每个提交都将进入排行榜，最高分获胜。\n\n## 2. 时间安排\n- 日期：10月21日星期三\n- 时间：18:00 - 21:30 GMT+2\n\n## 3. 奖金\n- 无奖金信息提供。\n\n## 4. 要求\n- 参与者需携带笔记本电脑。\n- 无需先前的Haystack经验，但熟悉LLM框架将有所帮助。\n- 活动提供wifi、API密钥、办公桌、食物、饮料和导师帮助。\n\n## 5. 重要细节\n- 参与者需在活动后一周内保持平台访问，以便完成开始的工作或进行自己的工作。\n- 活动后进行排行榜揭晓及颁奖仪式。\n- 可以团队工作，但建议独自或最多与另一人一起应对挑战。\n- 活动提供食物和饮料。\n- 地点：deepset GmbH, Zinnowitzer Str. 1, 10115 Berlin, Germany",
-   "id": "lumaevt-tRvN4wPjMraDxsQ",
-   "name": "黑客之夜：堆栈企业平台",
-   "organizer": "HAYSTACK、BILGE YÜCEL、JAY WILDER、LUKE WALKER、ANNA GRÜNDLER、PAULA PLATTNER",
-   "official_url": "https://luma.com/hep-hack-night",
-   "type": "黑客松",
-   "tags": [
-    "机器学习/AI",
-    "开放式",
-    "工程开发"
-   ],
-   "city": "deepset GmbH，德国柏林，辛诺维茨特街1号，10115",
-   "prize": null,
-   "start": "2026-10-21",
-   "deadline": null,
-   "end": "2026-10-21",
-   "signup": "upcoming",
-   "description": "加入我们，探索智能体、生成式AI和企业级AI应用。向专家学习，体验Haystack，与AI社区连接。🩵",
-   "sources": [
-    {
-     "name": "AI赛事通",
-     "url": "https://www.competehub.dev/zh/competitions/lumaevt-tRvN4wPjMraDxsQ"
     }
    ]
   },
@@ -4756,28 +4652,6 @@
   },
   {
    "detail": "暂无内容",
-   "id": "modelscope371",
-   "name": "罕见·无界黑客松",
-   "organizer": "病痛挑战基金会、H-HUB罕见病开源社区",
-   "official_url": "https://modelscope.cn/events/371",
-   "type": "工程开发赛",
-   "tags": [],
-   "city": "线上",
-   "prize": null,
-   "start": "2026-09-15",
-   "deadline": null,
-   "end": "2026-10-21",
-   "signup": "closed",
-   "description": "患者出题，高手接招｜「罕见·无界黑客松」赛手招募开启",
-   "sources": [
-    {
-     "name": "AI赛事通",
-     "url": "https://www.competehub.dev/zh/competitions/modelscope371"
-    }
-   ]
-  },
-  {
-   "detail": "暂无内容",
    "id": "modelscope367",
    "name": "蚂蚁灵波具身大模型挑战赛",
    "organizer": "蚂蚁灵波科技、阿里云天池、魔搭社区",
@@ -5611,7 +5485,7 @@
    ]
   },
   {
-   "detail": "$19",
+   "detail": "$14",
    "id": "urls68972111051b983d8507e62fa8ea072e",
    "name": "智遇未来，医路生花|“智遇未来”AI短剧大赛",
    "organizer": "共青团徐州医科大学委员会、共青团徐州医科大学医学人工智能学院委员会、共青团徐州医科大学第一临床医学院委员会",
@@ -7008,7 +6882,7 @@
    ]
   },
   {
-   "detail": "$19",
+   "detail": "$14",
    "id": "dorahacksweb3-social-good-2026",
    "name": "从愿景到影响：构建Web3助力社会——合作·创新·为善2026",
    "organizer": "SCHOOL OF COMPUTING AND INFORMATION SYSTEMS、SMU",
@@ -7508,7 +7382,7 @@
    ]
   },
   {
-   "detail": "$19",
+   "detail": "$14",
    "id": "lumaevt-qeHs8ZwsPUZH9dL",
    "name": "公民科技之夜",
    "organizer": "CIVIC TECH WR、CIVICTECHWR",
@@ -7759,7 +7633,7 @@
    ]
   },
   {
-   "detail": "$14",
+   "detail": "$19",
    "id": "luma4a39c502cf26ca052f302fc91064d58e",
    "name": "人形黑客新加坡",
    "organizer": "ORBOH INC.",
@@ -7958,7 +7832,7 @@
    ]
   },
   {
-   "detail": "$14",
+   "detail": "$19",
    "id": "angelhackdatabricks-appquest",
    "name": "数据湖应用挑战赛",
    "organizer": "DATABRICKS",
@@ -8113,32 +7987,6 @@
     {
      "name": "AI赛事通",
      "url": "https://www.competehub.dev/zh/competitions/urlsbaf87061ec37392169e8bd509db11d91"
-    }
-   ]
-  },
-  {
-   "detail": "# 首届“未来之光”2026粤港澳AI影视创意大赛惠州赛区创作指南\n\n## 1. 比赛简介\n首届“未来之光”2026粤港澳AI影视创意大赛惠州赛区（一人影视·光影惠州）是一项面向全球的影视创作比赛。该比赛旨在鼓励个人、团队和机构通过AI技术创作与惠州相关的短片或短剧，展现惠州的人文风貌和现代化发展。比赛背景是推动AI技术与影视创作的结合，促进文化创新和产业升级。\n\n**目的**：\n- 推动AI技术在影视领域的应用\n- 展现惠州的地域特色和文化魅力\n- 促进影视创作与地方发展的结合\n\n**主要内容**：\n- 参赛者需运用AI工具创作时长不超过10分钟的惠州主题短片或短剧\n- 创作题材包括山海文旅、人文历史、现代惠州和乡村振兴等\n- 作品需符合国家法律法规，弘扬社会主义核心价值观\n\n## 2. 时间安排\n- 作品征集：9月1日—10月21日\n- 同步投稿省赛：10月8日前\n- 初评入围：10月22日—11月20日\n- 决赛颁奖：11月27日\n\n## 3. 要求\n- 格式：MP4或MOV，大小1G以内，分辨率1080p及以上\n- AI使用：作品须使用AI工具辅助创作，并提交AI使用声明\n- 原创：须拥有作品完整著作权，不得侵犯第三方权益\n- 内容：符合国家法律法规，弘扬社会主义核心价值观\n- 其他：作品须为2026年1月1日后完成，配中文字幕\n\n## 4. 重要细节\n- 参赛对象：不限地域、不限职业，个人、团队、机构均可报名\n- 报名方式：免费报名，扫码填写报名表即可参与\n- 作品发布：鼓励参赛者将作品发布到抖音、小红书、视频号等平台，并带话题词条 #未来之光2026粤港澳AI影视创意大赛、#惠州OPV\n- 常见问题：组委会将组织赛前辅导及AI影视创作培训，全程免费，不收取任何报名或评审费用",
-   "id": "urlsb08fc7b1db00769801af943110dd41b9",
-   "name": "首届“未来之光”2026粤港澳AI影视创意大赛惠州赛区",
-   "organizer": "首届“未来之光”2026粤港澳AI影视创意大赛惠州赛区组委会",
-   "official_url": "https://mp.weixin.qq.com/s/rSgkR45Cj2CSnhj05tkM8Q",
-   "type": "AI大模型赛",
-   "tags": [
-    "机器学习/AI",
-    "艺术/设计",
-    "计算机视觉"
-   ],
-   "city": "惠州",
-   "prize": null,
-   "start": "2026-09-01",
-   "deadline": null,
-   "end": "2026-10-21",
-   "signup": "open",
-   "description": "——一人影视·光影惠州（OPV in Huizhou）",
-   "sources": [
-    {
-     "name": "AI赛事通",
-     "url": "https://www.competehub.dev/zh/competitions/urlsb08fc7b1db00769801af943110dd41b9"
     }
    ]
   },
@@ -8522,7 +8370,7 @@
    ]
   },
   {
-   "detail": "$14",
+   "detail": "$19",
    "id": "lumaevt-NOfputuUAiGAELR",
    "name": "MLOps世界 | 生成式AI黑客松",
    "organizer": "PERSONAL、TORONTO MACHINE LEARNING SOCIETY (TMLS)",
@@ -8769,7 +8617,7 @@
    ]
   },
   {
-   "detail": "$19",
+   "detail": "$14",
    "id": "urls3df7d355e7e2a5cf8c90ecded24809ff",
    "name": "暗壳AI×M+设计大赛｜「AIGC创新设计奖」专项赛道开启！火热征稿中",
    "organizer": "暗壳AI",
@@ -9121,7 +8969,7 @@
    ]
   },
   {
-   "detail": "$19",
+   "detail": "$14",
    "id": "xfyun828",
    "name": "个性化全周期医疗健康管理",
    "organizer": "科大讯飞股份有限公司",
@@ -9224,7 +9072,7 @@
    ]
   },
   {
-   "detail": "$19",
+   "detail": "$14",
    "id": "xfyun823",
    "name": "声纹迷雾复杂场景说话人确认挑战赛",
    "organizer": "声网",
@@ -9275,7 +9123,7 @@
    ]
   },
   {
-   "detail": "$19",
+   "detail": "$14",
    "id": "xfyun826",
    "name": "恶劣场景下的车道线检测挑战赛",
    "organizer": "中国矿业大学",
@@ -9476,7 +9324,7 @@
    ]
   },
   {
-   "detail": "$19",
+   "detail": "$14",
    "id": "xfyun821",
    "name": "基于星评测 Agent 的养虾 Skills 横评挑战赛",
    "organizer": "科大讯飞股份有限公司",
@@ -9527,7 +9375,7 @@
    ]
   },
   {
-   "detail": "$19",
+   "detail": "$14",
    "id": "urls5bfdb7bc9f85d5c951d70463b55cfbbd",
    "name": "第八届“余姚・河姆渡”创业创新大赛暨第三届“AI 宁波”人工智能赋能产业大赛余姚赛区",
    "organizer": "宁波舜工集团有限公司",
@@ -9775,7 +9623,7 @@
    ]
   },
   {
-   "detail": "$19",
+   "detail": "$14",
    "id": "urlseaaa7668bba4df257243cb7b7c08ff1c",
    "name": "青浦区第11届创业大赛",
    "organizer": "青浦人社",
@@ -9800,7 +9648,7 @@
    ]
   },
   {
-   "detail": "$19",
+   "detail": "$14",
    "id": "xfyun812",
    "name": "面向单人演讲的场景下的语音同传Agent设计挑战赛",
    "organizer": "科大讯飞股份有限公司",
@@ -9852,7 +9700,7 @@
    ]
   },
   {
-   "detail": "$19",
+   "detail": "$14",
    "id": "xfyun815",
    "name": "智能穿戴与人机交互服务",
    "organizer": "立讯精密工业股份有限公司",
@@ -9878,7 +9726,7 @@
    ]
   },
   {
-   "detail": "$19",
+   "detail": "$14",
    "id": "xfyun820",
    "name": "基于多份材料的信息整合、冲突判断与可靠问答挑战赛",
    "organizer": "科大讯飞股份有限公司",
@@ -9928,7 +9776,7 @@
    ]
   },
   {
-   "detail": "$19",
+   "detail": "$14",
    "id": "xfyun819",
    "name": "工业园区智能化管理",
    "organizer": "包河区人工智能视觉产业港",
@@ -10057,7 +9905,7 @@
    ]
   },
   {
-   "detail": "$19",
+   "detail": "$14",
    "id": "xfyun804",
    "name": "智慧家居环境感知与自动化控制",
    "organizer": "海创汇科技创业发展股份有限公司",
@@ -10284,7 +10132,7 @@
    ]
   },
   {
-   "detail": "$19",
+   "detail": "$14",
    "id": "xfyun818",
    "name": "工业质量管理与工艺优化",
    "organizer": "湖北金石炼化建设有限公司",
@@ -10310,7 +10158,7 @@
    ]
   },
   {
-   "detail": "$19",
+   "detail": "$14",
    "id": "urlscb7e1ddf89ff51f8d301090c1aa0a626",
    "name": "AI4S黑客松",
    "organizer": "新物种SINOVUM联合主办",
@@ -10464,7 +10312,7 @@
    ]
   },
   {
-   "detail": "$19",
+   "detail": "$14",
    "id": "xfyun810",
    "name": "多模态开放词汇关键词检索挑战赛",
    "organizer": "国家语音及语言信息处理工程研究中心 中国科学技术大学",
@@ -10490,7 +10338,7 @@
    ]
   },
   {
-   "detail": "$19",
+   "detail": "$14",
    "id": "xfyun811",
    "name": "智能量化投资策略建模挑战赛",
    "organizer": "上海师范大学商学院",
@@ -10515,7 +10363,7 @@
    ]
   },
   {
-   "detail": "$19",
+   "detail": "$14",
    "id": "xfyun813",
    "name": "多模态语音增强挑战赛",
    "organizer": "科大讯飞股份有限公司",
@@ -10567,7 +10415,7 @@
    ]
   },
   {
-   "detail": "$19",
+   "detail": "$14",
    "id": "xfyun808",
    "name": "在线考试防作弊手机识别挑战赛",
    "organizer": "科大讯飞股份有限公司、安徽信息工程学院、上海外国语大学贤达经济人文学院、天津仁爱学院",

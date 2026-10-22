@@ -1,29 +1,6 @@
 {
- "updated": "2026-10-21",
+ "updated": "2026-10-22",
  "competitions": [
-  {
-   "id": "mlc-builderr-ai-challenges-signalpost",
-   "name": "Research Norwegian Companies with an AI Agent",
-   "organizer": "Builderr",
-   "official_url": "https://builderr.ai/challenges/signalpost",
-   "type": "数据算法赛",
-   "tags": [
-    "Builderr",
-    "国际"
-   ],
-   "city": "线上",
-   "prize": "$2,500",
-   "start": null,
-   "deadline": null,
-   "end": "2026-10-21",
-   "description": "Builderr 平台赛事",
-   "sources": [
-    {
-     "name": "ML Contests",
-     "url": "https://mlcontests.com/"
-    }
-   ]
-  },
   {
    "id": "mlc-flagos-io-race-detail-season2-id-8q4m2x7p-lang-en",
    "name": "Optimise LLM Operators & Inference Across AI Chips",
