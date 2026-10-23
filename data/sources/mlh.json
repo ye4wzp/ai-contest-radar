@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22",
+ "updated": "2026-10-23",
  "competitions": [
   {
    "id": "mlh-calhacks-io",
@@ -738,10 +738,10 @@
    ]
   },
   {
-   "id": "mlh-csesucsd-com",
+   "id": "mlh-hackathon-csesatucsd-com",
    "name": "SanD Hacks",
    "organizer": "MLH 认证",
-   "official_url": "https://csesucsd.com/",
+   "official_url": "https://hackathon.csesatucsd.com/",
    "type": "黑客松",
    "tags": [
     "MLH",
@@ -756,7 +756,7 @@
    "sources": [
     {
      "name": "MLH",
-     "url": "https://csesucsd.com/"
+     "url": "https://hackathon.csesatucsd.com/"
     }
    ]
   },
@@ -826,6 +826,29 @@
     {
      "name": "MLH",
      "url": "https://2026.sunhacks.io/"
+    }
+   ]
+  },
+  {
+   "id": "mlh-hackwestern-com",
+   "name": "Hack Western 13",
+   "organizer": "MLH 认证",
+   "official_url": "https://hackwestern.com",
+   "type": "黑客松",
+   "tags": [
+    "MLH",
+    "国际"
+   ],
+   "city": "London, CA",
+   "prize": null,
+   "start": "2026-11-20",
+   "deadline": null,
+   "end": "2026-11-22",
+   "description": "MLH（Major League Hacking）官方认证黑客松，报名时间以官网为准。",
+   "sources": [
+    {
+     "name": "MLH",
+     "url": "https://hackwestern.com"
     }
    ]
   },
@@ -918,6 +941,29 @@
     {
      "name": "MLH",
      "url": "https://hackeps.dev/"
+    }
+   ]
+  },
+  {
+   "id": "mlh-hacksheffield-uk",
+   "name": "HackSheffield11",
+   "organizer": "MLH 认证",
+   "official_url": "https://hacksheffield.uk",
+   "type": "黑客松",
+   "tags": [
+    "MLH",
+    "国际"
+   ],
+   "city": "Sheffield, GB",
+   "prize": null,
+   "start": "2026-11-28",
+   "deadline": null,
+   "end": "2026-11-29",
+   "description": "MLH（Major League Hacking）官方认证黑客松，报名时间以官网为准。",
+   "sources": [
+    {
+     "name": "MLH",
+     "url": "https://hacksheffield.uk"
     }
    ]
   },

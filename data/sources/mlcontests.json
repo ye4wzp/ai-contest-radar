@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22",
+ "updated": "2026-10-23",
  "competitions": [
   {
    "id": "mlc-flagos-io-race-detail-season2-id-8q4m2x7p-lang-en",
@@ -180,29 +180,6 @@
    "deadline": "2026-08-20",
    "end": "2026-10-25",
    "description": "Codabench 平台赛事 （NeurIPS 竞赛赛道）",
-   "sources": [
-    {
-     "name": "ML Contests",
-     "url": "https://mlcontests.com/"
-    }
-   ]
-  },
-  {
-   "id": "mlc-www-kaggle-com-competitions-rsna-knee-abnormality-detection",
-   "name": "Detect Knee Abnormalities in Multimodal Imaging Data",
-   "organizer": "Radiological Society of North America",
-   "official_url": "https://www.kaggle.com/competitions/rsna-knee-abnormality-detection",
-   "type": "数据算法赛",
-   "tags": [
-    "Kaggle",
-    "国际"
-   ],
-   "city": "线上",
-   "prize": "$77,000",
-   "start": "2026-08-05",
-   "deadline": "2026-10-15",
-   "end": "2026-10-22",
-   "description": "Kaggle 平台赛事",
    "sources": [
     {
      "name": "ML Contests",
