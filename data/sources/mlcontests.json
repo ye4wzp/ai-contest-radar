@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23",
+ "updated": "2026-10-24",
  "competitions": [
   {
    "id": "mlc-flagos-io-race-detail-season2-id-8q4m2x7p-lang-en",
@@ -532,6 +532,29 @@
    "start": "2026-10-14",
    "deadline": "2027-01-07",
    "end": "2027-01-13",
+   "description": "Kaggle 平台赛事",
+   "sources": [
+    {
+     "name": "ML Contests",
+     "url": "https://mlcontests.com/"
+    }
+   ]
+  },
+  {
+   "id": "mlc-www-kaggle-com-competitions-squares-in-squares",
+   "name": "Optimal Square Packing",
+   "organizer": "Kaggle",
+   "official_url": "https://www.kaggle.com/competitions/squares-in-squares",
+   "type": "数据算法赛",
+   "tags": [
+    "Kaggle",
+    "国际"
+   ],
+   "city": "线上",
+   "prize": "$50,000",
+   "start": "2026-10-21",
+   "deadline": "2027-07-11",
+   "end": "2027-07-18",
    "description": "Kaggle 平台赛事",
    "sources": [
     {
