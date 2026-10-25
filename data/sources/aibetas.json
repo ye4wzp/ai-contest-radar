@@ -1,6 +1,75 @@
 {
- "updated": "2026-10-24",
+ "updated": "2026-10-25",
  "competitions": [
+  {
+   "id": "aibetas-635",
+   "name": "“享三好服务·AI漳州好物”漳州市AI短视频大赛",
+   "organizer": "漳州市商务局、中共漳州市委网信办",
+   "official_url": "https://mp.weixin.qq.com/s/zz5lX91p0Z9jH1gRcIRQIQ",
+   "type": "AI创作赛",
+   "tags": [
+    "AI视频",
+    "AIGC"
+   ],
+   "city": null,
+   "prize": "最高10000元（两赛道分别设置）",
+   "start": null,
+   "deadline": "2026-11-15",
+   "end": null,
+   "description": "面向全社会征集AIGC短视频作品，设“漳州好服务”“漳州有好物”两大赛道，要求AI生成画面或音频占比不低于60%。两赛道最高奖均为1万元，2026年11月15日截止。",
+   "sources": [
+    {
+     "name": "AIBetas",
+     "url": "https://www.aibetas.com/aigc_events/zhangzhou-ai-short-video-competition-2026"
+    }
+   ]
+  },
+  {
+   "id": "aibetas-633",
+   "name": "第八届海南岛国际电影节·AI电影展作品征集",
+   "organizer": "第八届海南岛国际电影节·AI电影展",
+   "official_url": "https://www.liblib.tv/hiiff-aifilmseason",
+   "type": "AI创作赛",
+   "tags": [
+    "AI视频",
+    "AIGC"
+   ],
+   "city": null,
+   "prize": "现金激励共10万元；每项年度之选1万元（税前）",
+   "start": null,
+   "deadline": "2026-11-15",
+   "end": null,
+   "description": "第八届海南岛国际电影节·AI电影展以“影像新生 Beyond Generation”为主题，面向全球电影人和创作者征集AI电影级长片、AI精品剧集、AI电影级短片及AI实验影像。十大年度之选现金激励合计10万元，2026年11月15日截止征集。",
+   "sources": [
+    {
+     "name": "AIBetas",
+     "url": "https://www.aibetas.com/aigc_events/hiiff-ai-film-season-2026"
+    }
+   ]
+  },
+  {
+   "id": "aibetas-631",
+   "name": "B站AI创造公开赛S2",
+   "organizer": "哔哩哔哩",
+   "official_url": "https://www.bilibili.com/blackboard/era/StMnSSLw06phBtHM.html",
+   "type": "创意应用赛",
+   "tags": [
+    "AI应用",
+    "AIGC"
+   ],
+   "city": null,
+   "prize": "按公布名额合计220万元税前奖金；一等奖100万元",
+   "start": null,
+   "deadline": "2026-12-31",
+   "end": null,
+   "description": "B站AI创造公开赛S2面向哔哩哔哩全体用户，征集以AI工具为核心创造的可运行、可交互产品及原创展示视频。一等奖税前奖金100万元，活动自2026年10月24日开始持续进行，截止时间将由官方至少提前30个自然日另行公告。",
+   "sources": [
+    {
+     "name": "AIBetas",
+     "url": "https://www.aibetas.com/aigc_events/bilibili-ai-creation-open-competition-s2-2026"
+    }
+   ]
+  },
   {
    "id": "aibetas-622",
    "name": "“AI视界·海丝新程”2026年泉州市短视频比赛",
