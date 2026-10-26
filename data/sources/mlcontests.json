@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25",
+ "updated": "2026-10-26",
  "competitions": [
   {
    "id": "mlc-flagos-io-race-detail-season2-id-8q4m2x7p-lang-en",
@@ -164,30 +164,6 @@
    ]
   },
   {
-   "id": "mlc-realpdecompetition-github-io",
-   "name": "RealPDE: Scientific ML for Real-World Physical Systems",
-   "organizer": "Uniforce AI",
-   "official_url": "https://realpdecompetition.github.io/",
-   "type": "数据算法赛",
-   "tags": [
-    "Codabench",
-    "NeurIPS",
-    "国际"
-   ],
-   "city": "线上",
-   "prize": "$21,000",
-   "start": "2026-07-05",
-   "deadline": "2026-08-20",
-   "end": "2026-10-25",
-   "description": "Codabench 平台赛事 （NeurIPS 竞赛赛道）",
-   "sources": [
-    {
-     "name": "ML Contests",
-     "url": "https://mlcontests.com/"
-    }
-   ]
-  },
-  {
    "id": "mlc-situatedevals-org-simulacrabench",
    "name": "Generate Synthetic Humanitarian Survey Responses",
    "organizer": "Independent",
@@ -204,54 +180,6 @@
    "deadline": null,
    "end": "2026-11-14",
    "description": "Independent 平台赛事 （NeurIPS 竞赛赛道）",
-   "sources": [
-    {
-     "name": "ML Contests",
-     "url": "https://mlcontests.com/"
-    }
-   ]
-  },
-  {
-   "id": "mlc-virtualembryo-ai-challenge",
-   "name": "Generative Modeling of Mouse Embryo Development",
-   "organizer": "Laude Institute",
-   "official_url": "https://virtualembryo.ai/challenge",
-   "type": "数据算法赛",
-   "tags": [
-    "Independent",
-    "NeurIPS",
-    "国际"
-   ],
-   "city": "线上",
-   "prize": "$54,000",
-   "start": "2026-06-30",
-   "deadline": null,
-   "end": "2026-10-25",
-   "description": "Independent 平台赛事 （NeurIPS 竞赛赛道）",
-   "sources": [
-    {
-     "name": "ML Contests",
-     "url": "https://mlcontests.com/"
-    }
-   ]
-  },
-  {
-   "id": "mlc-aimo-interp-github-io",
-   "name": "Interpretability for AI Mathematical Olympiad Reasoning",
-   "organizer": "Fields Model Initiative",
-   "official_url": "https://aimo-interp.github.io/",
-   "type": "数据算法赛",
-   "tags": [
-    "Codabench",
-    "NeurIPS",
-    "国际"
-   ],
-   "city": "线上",
-   "prize": "$10,000",
-   "start": "2026-07-15",
-   "deadline": null,
-   "end": "2026-10-25",
-   "description": "Codabench 平台赛事 （NeurIPS 竞赛赛道）",
    "sources": [
     {
      "name": "ML Contests",

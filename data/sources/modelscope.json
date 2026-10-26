@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-23",
+ "updated": "2026-10-26",
  "competitions": [
+  {
+   "id": "modelscope-389",
+   "name": "一万个回答·AI文化造物黑客松",
+   "organizer": "首肯文化、涂鸦、杭州AI工坊",
+   "official_url": "https://modelscope.cn/events/389",
+   "type": "黑客松",
+   "tags": [
+    "魔搭"
+   ],
+   "city": null,
+   "prize": "6.6万元现金奖金＋7万元Token支持",
+   "start": "2026-10-23",
+   "deadline": "2026-10-31",
+   "end": null,
+   "description": "文化的未来，不能只靠传承，更需要有人敢于创造！👋",
+   "sources": [
+    {
+     "name": "魔搭社区",
+     "url": "https://modelscope.cn/active"
+    }
+   ]
+  },
   {
    "id": "modelscope-386",
    "name": "群核科技Ahoolo 全球3D AI黑客松",
