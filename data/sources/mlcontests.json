@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26",
+ "updated": "2026-10-27",
  "competitions": [
   {
    "id": "mlc-flagos-io-race-detail-season2-id-8q4m2x7p-lang-en",
@@ -132,30 +132,6 @@
    "deadline": null,
    "end": "2026-11-09",
    "description": "Kaggle 平台赛事",
-   "sources": [
-    {
-     "name": "ML Contests",
-     "url": "https://mlcontests.com/"
-    }
-   ]
-  },
-  {
-   "id": "mlc-fusion-equilibrium-challenge-sophelio-io",
-   "name": "Infer Fusion Reactor Magnetic Geometry",
-   "organizer": "Sophelio, General Atomics, UKAEA, UT Austin",
-   "official_url": "https://fusion-equilibrium-challenge.sophelio.io/",
-   "type": "数据算法赛",
-   "tags": [
-    "Independent",
-    "NeurIPS",
-    "国际"
-   ],
-   "city": "线上",
-   "prize": "$1,000",
-   "start": null,
-   "deadline": null,
-   "end": "2026-10-26",
-   "description": "Independent 平台赛事 （NeurIPS 竞赛赛道）",
    "sources": [
     {
      "name": "ML Contests",
@@ -459,6 +435,29 @@
    "start": "2026-10-21",
    "deadline": "2027-07-11",
    "end": "2027-07-18",
+   "description": "Kaggle 平台赛事",
+   "sources": [
+    {
+     "name": "ML Contests",
+     "url": "https://mlcontests.com/"
+    }
+   ]
+  },
+  {
+   "id": "mlc-www-kaggle-com-competitions-google-verifiable-quantum-circuit-compilation",
+   "name": "Optimise Quantum Circuits",
+   "organizer": "Google Quantum AI",
+   "official_url": "https://www.kaggle.com/competitions/google-verifiable-quantum-circuit-compilation",
+   "type": "数据算法赛",
+   "tags": [
+    "Kaggle",
+    "国际"
+   ],
+   "city": "线上",
+   "prize": "$150,000",
+   "start": "2026-10-22",
+   "deadline": "2027-01-13",
+   "end": "2027-01-20",
    "description": "Kaggle 平台赛事",
    "sources": [
     {
