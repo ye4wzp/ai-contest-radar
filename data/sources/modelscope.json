@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-30",
+ "updated": "2026-10-31",
  "competitions": [
+  {
+   "id": "modelscope-393",
+   "name": "全新升级！第二届具亮计划·全球具身智能黑客松开启报名",
+   "organizer": "自变量机器人",
+   "official_url": "https://modelscope.cn/events/393",
+   "type": "AI大模型赛",
+   "tags": [
+    "魔搭"
+   ],
+   "city": null,
+   "prize": "100万奖金池+礼品",
+   "start": "2026-11-10",
+   "deadline": "2026-11-29",
+   "end": null,
+   "description": "全新升级！第二届具亮计划·全球具身智能黑客松开启报名",
+   "sources": [
+    {
+     "name": "魔搭社区",
+     "url": "https://modelscope.cn/active"
+    }
+   ]
+  },
   {
    "id": "modelscope-389",
    "name": "一万个回答·AI文化造物黑客松",

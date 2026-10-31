@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30",
+ "updated": "2026-10-31",
  "competitions": [
   {
    "id": "mlc-flagos-io-race-detail-season2-id-8q4m2x7p-lang-en",
@@ -319,30 +319,6 @@
    "deadline": "2026-10-24",
    "end": "2026-11-21",
    "description": "Codabench 平台赛事 （NeurIPS Brain & Body Workshop 竞赛赛道）",
-   "sources": [
-    {
-     "name": "ML Contests",
-     "url": "https://mlcontests.com/"
-    }
-   ]
-  },
-  {
-   "id": "mlc-aimslab-stanford-edu-competition",
-   "name": "Predict Whether AI Systems Answer Benchmark Items Correctly",
-   "organizer": "Codabench",
-   "official_url": "https://aimslab.stanford.edu/competition",
-   "type": "数据算法赛",
-   "tags": [
-    "Codabench",
-    "NeurIPS",
-    "国际"
-   ],
-   "city": "线上",
-   "prize": null,
-   "start": null,
-   "deadline": null,
-   "end": "2026-10-30",
-   "description": "Codabench 平台赛事 （NeurIPS 竞赛赛道）",
    "sources": [
     {
      "name": "ML Contests",
