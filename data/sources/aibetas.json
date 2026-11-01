@@ -1,6 +1,121 @@
 {
- "updated": "2026-10-31",
+ "updated": "2026-11-01",
  "competitions": [
+  {
+   "id": "aibetas-645",
+   "name": "2026 Epic AI MegaJam",
+   "organizer": "Epic Games",
+   "official_url": "https://itch.io/jam/2026-epic-ai-megajam",
+   "type": "创意应用赛",
+   "tags": [
+    "AI应用",
+    "AIGC"
+   ],
+   "city": null,
+   "prize": "65,000美元现金奖池；后续开发资助单个团队最高50,000美元",
+   "start": null,
+   "deadline": "2026-11-16",
+   "end": null,
+   "description": "面向18岁以上开发者征集使用 Unreal Engine 或 UEFN 制作的可游玩游戏，个人或最多5人团队均可参加。现金奖池6.5万美元，另设单队最高5万美元后续开发资助，北京时间2026年11月16日09:59截止。",
+   "sources": [
+    {
+     "name": "AIBetas",
+     "url": "https://www.aibetas.com/aigc_events/epic-ai-megajam-2026"
+    }
+   ]
+  },
+  {
+   "id": "aibetas-643",
+   "name": "伊春市丰林县首届AI创意视频大赛",
+   "organizer": "中共丰林县委宣传部、丰林县文体广电和旅游局、中国新闻社黑龙江分社、中新社（北京）国际传播集团有限公司黑龙江分公司",
+   "official_url": "https://mp.weixin.qq.com/s/CcAk7DUBFxjGGi-fWD_-0w",
+   "type": "AI创作赛",
+   "tags": [
+    "AI视频",
+    "AIGC"
+   ],
+   "city": null,
+   "prize": "最高30000元（公告未说明税务口径）",
+   "start": null,
+   "deadline": "2026-11-30",
+   "end": null,
+   "description": "面向全国个人及团队征集聚焦丰林冬季旅游资源与文旅活动的AI原创视频，AI生成内容比例须不低于70%。一等奖3万元，2026年11月30日截止。",
+   "sources": [
+    {
+     "name": "AIBetas",
+     "url": "https://www.aibetas.com/aigc_events/fenglin-county-ai-creative-video-competition-2026"
+    }
+   ]
+  },
+  {
+   "id": "aibetas-641",
+   "name": "“阳光下的红十字”河北省首届公益AI创作大赛作品征集启事",
+   "organizer": "河北广播电视台新闻广播、河北省红十字会",
+   "official_url": "https://mp.weixin.qq.com/s/ATRO2zjd-ScZIJ_NrdBXHQ",
+   "type": "AI创作赛",
+   "tags": [
+    "综合创作",
+    "AIGC"
+   ],
+   "city": null,
+   "prize": "大赛设最佳奖项若干名",
+   "start": null,
+   "deadline": "2026-12-31",
+   "end": null,
+   "description": "用AI传递温度，以创意致敬生命。 为弘扬“人道、博爱、奉献”的红十字精神，深入挖掘燕赵大地上的感人故事，河北广 […]",
+   "sources": [
+    {
+     "name": "AIBetas",
+     "url": "https://www.aibetas.com/aigc_events/641"
+    }
+   ]
+  },
+  {
+   "id": "aibetas-639",
+   "name": "湖南青年AI短视频创作大赛",
+   "organizer": "中国移动通信集团湖南有限公司、芒果TV、咪咕数字传媒有限公司、湖南马栏山集团有限公司",
+   "official_url": "https://lego.mgtv.com/act/3_9_9/20261029hunanAInone.html?act_name=20261029hunanAInone&source=share_20261029hunanAInone",
+   "type": "AI创作赛",
+   "tags": [
+    "AI视频",
+    "AIGC"
+   ],
+   "city": null,
+   "prize": "最高30000元（税前）",
+   "start": null,
+   "deadline": "2026-11-30",
+   "end": null,
+   "description": "面向湖南省内AI创作者和AI内容制作企业征集1分钟以上AI短视频，设个人、企业两大赛道及四个创作方向。最高现金奖励3万元，2026年11月30日截止。",
+   "sources": [
+    {
+     "name": "AIBetas",
+     "url": "https://www.aibetas.com/aigc_events/hunan-youth-ai-short-video-competition-2026"
+    }
+   ]
+  },
+  {
+   "id": "aibetas-637",
+   "name": "腾讯视频火龙AIGC黑客松大赛",
+   "organizer": "腾讯视频",
+   "official_url": "https://doc.weixin.qq.com/forms/AJEAIQdfAAoAKQAsAbdAFwCN6lj2j2caf#/fill",
+   "type": "AI创作赛",
+   "tags": [
+    "AI视频",
+    "AIGC"
+   ],
+   "city": null,
+   "prize": "120万现金奖励",
+   "start": null,
+   "deadline": "2026-11-17",
+   "end": null,
+   "description": "一、大赛主题： 🎬 创作方向：野生格式 ｜ UNTAMED GRAMMAR当生活被装进标准模板，当情绪被算法反 […]",
+   "sources": [
+    {
+     "name": "AIBetas",
+     "url": "https://www.aibetas.com/aigc_events/637"
+    }
+   ]
+  },
   {
    "id": "aibetas-635",
    "name": "“享三好服务·AI漳州好物”漳州市AI短视频大赛",
@@ -90,29 +205,6 @@
     {
      "name": "AIBetas",
      "url": "https://www.aibetas.com/aigc_events/quanzhou-ai-maritime-silk-road-short-video-competition-2026"
-    }
-   ]
-  },
-  {
-   "id": "aibetas-619",
-   "name": "2026腾讯SSV“科技向善”AI视频大赛",
-   "organizer": "腾讯集团可持续社会价值事业部",
-   "official_url": "https://docs.qq.com/form/page/DRVdUYmV6c0xqREtI",
-   "type": "AI创作赛",
-   "tags": [
-    "AI视频",
-    "AIGC"
-   ],
-   "city": null,
-   "prize": "13万元现金奖金和1000万SeeBay积分奖励",
-   "start": null,
-   "deadline": "2026-10-31",
-   "end": null,
-   "description": "2026腾讯SSV“科技向善”AI视频大赛面向全国及全球华语创作者征集2—5分钟原创AI视频，现金奖金合计13万元，另设1000万SeeBay积分奖励，2026年10月31日截止投稿。",
-   "sources": [
-    {
-     "name": "AIBetas",
-     "url": "https://www.aibetas.com/aigc_events/tencent-ssv-ai-for-good-video-competition-2026"
     }
    ]
   },
