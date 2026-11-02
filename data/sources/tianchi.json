@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01",
+ "updated": "2026-11-02",
  "competitions": [
   {
    "id": "tianchi-532536",
@@ -139,6 +139,32 @@
    "end": "2026-11-15",
    "signup": "closed",
    "description": "本赛道聚焦具身智能从仿真训练走向多型号真机验证，探索机器人策略在不同本体和真实物理环境中的迁移能力。本次赛事是全球首个跨本体、跨平台、跨场景仿真+真机挑战赛。",
+   "sources": [
+    {
+     "name": "天池",
+     "url": "https://tianchi.aliyun.com/competition/activeList"
+    }
+   ]
+  },
+  {
+   "id": "tianchi-532460",
+   "name": "余震预测技术国际大赛",
+   "organizer": "阿里云天池",
+   "official_url": "https://tianchi.aliyun.com/competition/entrance/532460",
+   "type": "数据算法赛",
+   "tags": [
+    "天池",
+    "地质科学",
+    "地震学",
+    "地球物理学"
+   ],
+   "city": null,
+   "prize": "$30,000",
+   "start": "2026-01-28",
+   "deadline": null,
+   "end": "2026-12-20",
+   "signup": "closed",
+   "description": "中国地震局地震预测研究所主办。本次比赛旨在梳理地震序列预测中的科技问题，汇集全球智慧，借助人工智能、大模型等新兴技术，推动学科交叉和合作，提升余震预测的准确性，并为地震序列后续强震的预测提供思路和参考，从而提升全球地震灾害应对能力。",
    "sources": [
     {
      "name": "天池",

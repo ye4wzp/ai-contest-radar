@@ -1,29 +1,6 @@
 {
- "updated": "2026-11-01",
+ "updated": "2026-11-02",
  "competitions": [
-  {
-   "id": "mlh-hackcbs-tech",
-   "name": "hackCBS 9.O",
-   "organizer": "MLH 认证",
-   "official_url": "https://hackcbs.tech",
-   "type": "黑客松",
-   "tags": [
-    "MLH",
-    "国际"
-   ],
-   "city": "New delhi, IN",
-   "prize": null,
-   "start": "2026-10-31",
-   "deadline": null,
-   "end": "2026-11-01",
-   "description": "MLH（Major League Hacking）官方认证黑客松，报名时间以官网为准。",
-   "sources": [
-    {
-     "name": "MLH",
-     "url": "https://hackcbs.tech"
-    }
-   ]
-  },
   {
    "id": "mlh-shark-byte-io",
    "name": "SharkByte",

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01",
+ "updated": "2026-11-02",
  "competitions": [
   {
    "id": "aibetas-645",
@@ -205,29 +205,6 @@
     {
      "name": "AIBetas",
      "url": "https://www.aibetas.com/aigc_events/quanzhou-ai-maritime-silk-road-short-video-competition-2026"
-    }
-   ]
-  },
-  {
-   "id": "aibetas-616",
-   "name": "“看见微光”可灵AI·公益影像大赛",
-   "organizer": "可灵AI、快手公益",
-   "official_url": "https://klingai.com/app/activity-zone/brand-activity?id=924015525368696877",
-   "type": "AI创作赛",
-   "tags": [
-    "AI视频",
-    "AIGC"
-   ],
-   "city": null,
-   "prize": "最高现金奖金100,000元；10个奖项名额，现金奖金合计320,000元，另设灵感值奖励",
-   "start": null,
-   "deadline": "2026-11-01",
-   "end": null,
-   "description": "“看见微光”可灵AI·公益影像大赛由可灵AI与快手公益联合发起，邀请创作者用AI影像讲述真实、具体的公益故事。 […]",
-   "sources": [
-    {
-     "name": "AIBetas",
-     "url": "https://www.aibetas.com/aigc_events/616"
     }
    ]
   },
