@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02",
+ "updated": "2026-11-03",
  "competitions": [
   {
    "id": "mlh-shark-byte-io",
@@ -941,6 +941,29 @@
     {
      "name": "MLH",
      "url": "https://nwhacks.io/"
+    }
+   ]
+  },
+  {
+   "id": "mlh-hackbi-org",
+   "name": "HackBI X",
+   "organizer": "MLH 认证",
+   "official_url": "https://hackbi.org/",
+   "type": "黑客松",
+   "tags": [
+    "MLH",
+    "国际"
+   ],
+   "city": "Alexandria, US",
+   "prize": null,
+   "start": "2027-01-16",
+   "deadline": null,
+   "end": "2027-01-17",
+   "description": "MLH（Major League Hacking）官方认证黑客松，报名时间以官网为准。",
+   "sources": [
+    {
+     "name": "MLH",
+     "url": "https://hackbi.org/"
     }
    ]
   },

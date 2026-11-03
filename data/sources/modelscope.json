@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-02",
+ "updated": "2026-11-03",
  "competitions": [
+  {
+   "id": "modelscope-394",
+   "name": "AI造游戏，人人都是游戏制作人｜AI+∞开发者创作大赛第三期",
+   "organizer": "魔搭社区、Qoder、盛趣游戏",
+   "official_url": "https://modelscope.cn/events/394",
+   "type": "创意应用赛",
+   "tags": [
+    "魔搭"
+   ],
+   "city": null,
+   "prize": "万元奖金+硬件大奖",
+   "start": "2026-11-02",
+   "deadline": "2026-12-01",
+   "end": null,
+   "description": "本期以「AI 造游戏」为主题，邀请你用 AI 创作一款原创游戏，发布到魔搭创空间，让大家点开就能玩。",
+   "sources": [
+    {
+     "name": "魔搭社区",
+     "url": "https://modelscope.cn/active"
+    }
+   ]
+  },
   {
    "id": "modelscope-393",
    "name": "全新升级！第二届具亮计划·全球具身智能黑客松开启报名",

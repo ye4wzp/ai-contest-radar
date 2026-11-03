@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02",
+ "updated": "2026-11-03",
  "competitions": [
   {
    "id": "mlc-flagos-io-race-detail-season2-id-8q4m2x7p-lang-en",
@@ -63,52 +63,6 @@
    "deadline": "2026-12-07",
    "end": "2026-12-07",
    "description": "Zindi 平台赛事",
-   "sources": [
-    {
-     "name": "ML Contests",
-     "url": "https://mlcontests.com/"
-    }
-   ]
-  },
-  {
-   "id": "mlc-www-kaggle-com-competitions-arc-prize-2026-arc-agi-2",
-   "name": "ARC Prize 2026 - ARC-AGI-2",
-   "organizer": "ARC Prize",
-   "official_url": "https://www.kaggle.com/competitions/arc-prize-2026-arc-agi-2",
-   "type": "数据算法赛",
-   "tags": [
-    "Kaggle",
-    "国际"
-   ],
-   "city": "线上",
-   "prize": "$700,000",
-   "start": "2026-03-25",
-   "deadline": "2026-10-26",
-   "end": "2026-11-02",
-   "description": "Kaggle 平台赛事",
-   "sources": [
-    {
-     "name": "ML Contests",
-     "url": "https://mlcontests.com/"
-    }
-   ]
-  },
-  {
-   "id": "mlc-www-kaggle-com-competitions-arc-prize-2026-arc-agi-3",
-   "name": "ARC Prize 2026 - ARC-AGI-3",
-   "organizer": "ARC Prize",
-   "official_url": "https://www.kaggle.com/competitions/arc-prize-2026-arc-agi-3",
-   "type": "数据算法赛",
-   "tags": [
-    "Kaggle",
-    "国际"
-   ],
-   "city": "线上",
-   "prize": "$850,000",
-   "start": "2026-03-25",
-   "deadline": "2026-10-26",
-   "end": "2026-11-02",
-   "description": "Kaggle 平台赛事",
    "sources": [
     {
      "name": "ML Contests",
