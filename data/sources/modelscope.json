@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03",
+ "updated": "2026-11-04",
  "competitions": [
   {
    "id": "modelscope-394",
@@ -34,8 +34,8 @@
    ],
    "city": null,
    "prize": "100万奖金池+礼品",
-   "start": "2026-11-10",
-   "deadline": "2026-11-29",
+   "start": "2026-11-03",
+   "deadline": "2026-11-20",
    "end": null,
    "description": "全新升级！第二届具亮计划·全球具身智能黑客松开启报名",
    "sources": [
