@@ -1,6 +1,836 @@
 {
- "updated": "2026-11-04",
+ "updated": "2026-11-05",
  "competitions": [
+  {
+   "detail": "# AI Hackathon: Hack the Unreachable 比赛内容概括\n\n## 1. 比赛简介\n🚀 **Hack the Unreachable** 是一场由 Flashpoint.AI 支持的 AI 研究黑客松活动。该活动旨在通过一天的时间，利用 Flashpoint.AI 平台和 Anthropic 模型，构建 AI 桥接公众与私情差距，揭示人们真实想法并转化为有用信息。\n\n**背景**：随着人工智能技术的快速发展，如何利用 AI 技术更好地理解人类行为和情感成为了一个重要课题。Hack the Unreachable 活动正是为了探索这一领域，鼓励参与者提出创新解决方案。\n\n**目的**：\n- 促进 AI 技术在理解人类情感和行为方面的应用。\n- 鼓励创新思维，推动 AI 技术的发展。\n- 为参与者提供一个展示自己才华的平台。\n\n**主要内容**：\n- 参与者需在一天时间内，利用 Flashpoint.AI 平台和 Anthropic 模型，构建 AI 模型来揭示人们真实想法。\n- 模型需能够将人们的情感和行为转化为有用信息。\n- 参与者需在活动结束后提交公开 GitHub 仓库，并在 LinkedIn 或 X 上分享他们的构建成果。\n\n## 2. 时间安排\n⏰ 11月14日星期六，10:00 am - 6:00 pm\n\n## 3. 奖金\n💳 总计 $800\n🥇 一等奖：$500\n🥈 二等奖：$200\n🥉 三等奖：$100\n\n## 4. 要求\n🤝 参赛者需具备以下条件：\n- 对 AI 感兴趣的开发者、研究者、PM、设计师等。\n- 可个人或组队参加，最多 4 人一组。\n- 需在活动结束后提交公开 GitHub 仓库，并在 LinkedIn 或 X 上分享他们的构建成果。\n\n## 5. 重要细节\n📅 11月14日星期六\n⏰ 10:00 am - 6:00 pm\n📍 房间 333，Gabelli 商学院，Fordham Lincoln Center\n📈 由 Fordham AI 社会和 Gabelli 产品管理俱乐部主办，Pioneering Minds AI 赞助。\n👨‍💻 名额有限，立即注册。",
+   "id": "lumaevt-uErPfNp9n9ogMGt",
+   "name": "人工智能黑客松：攻克不可达",
+   "organizer": "PERSONAL、SN ATTREYA、JEFFREY HANG、PRERNA PALAWAT、ARY SHARMA",
+   "official_url": "https://luma.com/yuc5v491",
+   "type": "黑客松",
+   "tags": [
+    "机器学习/AI",
+    "通信",
+    "社会公益"
+   ],
+   "city": "加贝利商学院，纽约市10023，美国，西62街140号",
+   "prize": null,
+   "start": "2026-11-14",
+   "deadline": null,
+   "end": "2026-11-14",
+   "signup": "upcoming",
+   "description": "",
+   "sources": [
+    {
+     "name": "AI赛事通",
+     "url": "https://www.competehub.dev/zh/competitions/lumaevt-uErPfNp9n9ogMGt"
+    }
+   ]
+  },
+  {
+   "detail": "# GWC x SpaceXAI Hackday\n\n## 1. 比赛简介\n🚀 由 Charice Huang、Tech@NYU 和 Pope Cruz 主办的 GWC x SpaceXAI Hackday 是一场聚焦人工智能领域的创新挑战赛。该比赛旨在提供一个平台，让参与者共同探讨和解决现实世界中的问题，通过团队合作和创意思维，将人工智能技术应用于实际场景。\n\n比赛背景：随着人工智能技术的飞速发展，其在各个领域的应用越来越广泛。为了激发年轻一代的创新潜能，推动人工智能技术的进步，GWC 与 SpaceXAI 联合举办此次 Hackday。\n\n比赛目的：\n- 鼓励年轻人关注人工智能领域，提升其创新能力和实践能力。\n- 促进人工智能技术的交流与合作，推动行业的发展。\n- 为参赛者提供一个展示自己才华和创意的舞台。\n\n主要内容：\n- 参赛者需在规定时间内，围绕人工智能主题进行项目开发。\n- 项目需具备创新性、实用性和可行性。\n- 参赛团队需在比赛结束后进行项目展示和答辩。\n\n## 2. 时间安排\n📅 11月24日星期二 17:00 - 19:00 GMT-5\n📍 NYU Global Center for Academic and Spiritual Life, New York, NY 10012, USA, Room GC 269\n\n## 4. 要求\n✅ 参赛者需具备一定的编程基础和人工智能相关知识。\n✅ 参赛者需组队参加，每队人数不超过5人。\n✅ 参赛团队需在比赛开始前完成项目注册。\n\n## 5. 重要细节\n- 比赛地点：NYU Global Center for Academic and Spiritual Life\n- 报名方式：请关注主办方发布的报名信息\n- 活动咨询：请联系活动主办方\n- 项目展示：比赛结束后，参赛团队需进行项目展示和答辩\n- 奖项设置：比赛将评选出一、二、三等奖，以及最佳创意奖、最佳技术奖等。",
+   "id": "lumaevt-xgdLGXwJTJZbocm",
+   "name": "GWC x SpaceXAI 编程马拉松",
+   "organizer": "PERSONAL、CHARICE HUANG、TECH@NYU、POPE CRUZ",
+   "official_url": "https://luma.com/ic89ckxm",
+   "type": "黑客松",
+   "tags": [
+    "机器学习/AI",
+    "计算机视觉",
+    "区块链"
+   ],
+   "city": "纽约大学全球学术与精神生活中心，美国纽约州纽约市汤普森街238号，邮编10012",
+   "prize": null,
+   "start": "2026-11-24",
+   "deadline": null,
+   "end": "2026-11-25",
+   "signup": "upcoming",
+   "description": "",
+   "sources": [
+    {
+     "name": "AI赛事通",
+     "url": "https://www.competehub.dev/zh/competitions/lumaevt-xgdLGXwJTJZbocm"
+    }
+   ]
+  },
+  {
+   "detail": "# Agents in Context Toronto: a MongoDB Hackathon\n\n## 1. 比赛简介\n🚀 **比赛概述**：MongoDB Hackathon 是一场为期一天的黑客马拉松，旨在鼓励开发者和数据科学家利用 MongoDB 的 AI 框架构建创新项目。本次比赛聚焦于开发跨会话持有关键信息、自我调整的智能体，这些智能体能够在真实负载下可靠运行。\n\n🌍 **背景**：随着 MongoDB AI 框架的快速发展，本次比赛旨在探索如何利用 MongoDB Atlas、Vector Search 和 Agentic Memory 工具构建下一代智能体。\n\n🎯 **目的**：通过这次比赛，MongoDB 希望激发开发者的创造力，推动 AI 技术在真实世界中的应用。\n\n## 2. 时间安排\n📅 **日期**：11月14日（星期六）\n🕒 **时间**：9:00 - 22:00 GMT-5\n\n## 3. 奖金\n💳 **奖金**：$21,000 CAD 现金奖将颁发给前三名团队，更多奖项将公布！\n\n## 4. 要求\n🤝 **团队规模**：最大团队规模为四人。\n👨‍💻 **参与者**：所有参与者必须提交申请并获得批准才能参加。\n🛠️ **地点**：The Quay, 100 Queens Quay E 3rd Floor, Toronto, ON M5E 1V3, Canada\n\n## 5. 重要细节\n❗️ **重要提示**：此活动在多伦多完全现场进行，名额有限。所有参与者必须提交申请并获得批准才能参加。",
+   "id": "lumaevt-AuHACD31CpzHhtD",
+   "name": "多伦多MongoDB黑客松：代理在情境中",
+   "organizer": "CEREBRAL VALLEY",
+   "official_url": "https://luma.com/mongodb-toronto",
+   "type": "黑客松",
+   "tags": [
+    "机器学习/AI",
+    "数据库",
+    "DevOps"
+   ],
+   "city": "奎码头，100皇后码头东街3楼，多伦多，安大略省，M5E 1V3，加拿大",
+   "prize": null,
+   "start": "2026-11-14",
+   "deadline": null,
+   "end": "2026-11-15",
+   "signup": "upcoming",
+   "description": "人工智能全球生态",
+   "sources": [
+    {
+     "name": "AI赛事通",
+     "url": "https://www.competehub.dev/zh/competitions/lumaevt-AuHACD31CpzHhtD"
+    }
+   ]
+  },
+  {
+   "detail": "# Penn Builder Meetup — Moso x Comma Capital\n\n## 1. 比赛简介\n🚀 **比赛概述**：这是一场由Moso Capital和Comma Capital联合举办的Meetup活动，旨在为宾夕法尼亚大学和费城的在校学生提供一个轻松的交流平台，让他们能够与志同道合的创业者、学生和早期初创公司创始人建立联系。\n\n🎯 **背景**：活动由Moso Capital和Comma Capital共同发起，旨在促进早期创业者和学生之间的交流与合作。\n\n✅ **目的**：为有志于创业的学生提供一个交流平台，让他们能够分享想法、建立联系，并探索可能的合作机会。\n\n📚 **主要内容**：\n- **时间**：2026年11月13日，下午3:30至5:30（东部时间）\n- **地点**：宾夕法尼亚大学Huntsman Hall\n- **参与者**：对创业感兴趣的学生，特别是对AI、机器人和生物技术领域感兴趣的学生\n- **活动安排**：轻松的聚会，包括自由交流和社交时间，提供披萨和饮料\n\n## 2. 时间安排\n📅 **活动时间**：2026年11月13日，下午3:30至5:30（东部时间）\n\n## 4. 要求\n👨‍💻 **参与者要求**：对创业感兴趣的学生，特别是对AI、机器人和生物技术领域感兴趣的学生\n\n## 5. 重要细节\n🤝 **主办方**：\n- **Comma Capital**：一家位于纽约市的早期阶段种子和种子基金，由宾夕法尼亚大学校友David Ongchoco和Adarsh Bhatt共同创立。\n- **Moso Capital**：宾夕法尼亚大学和沃顿商学院的学生主导的风险投资公司，将学生嵌入风险投资工作流程中。\n\n📝 **注册**：需要注册并经过主办方审核才能参加。活动免费。",
+   "id": "lumaevt-aK2EXEQO2ybmxVR",
+   "name": "彭尼建造者聚会 —— 莫梭 x 逗号资本",
+   "organizer": "MOSO CAPITAL、DAVID ONGCHOCO",
+   "official_url": "https://luma.com/qc821lqw",
+   "type": "黑客松",
+   "tags": [
+    "机器学习/AI"
+   ],
+   "city": "费城，宾州",
+   "prize": null,
+   "start": "2026-11-13",
+   "deadline": null,
+   "end": "2026-11-13",
+   "signup": "upcoming",
+   "description": "",
+   "sources": [
+    {
+     "name": "AI赛事通",
+     "url": "https://www.competehub.dev/zh/competitions/lumaevt-aK2EXEQO2ybmxVR"
+    }
+   ]
+  },
+  {
+   "detail": "# Mini Hackathon Technovation Challenge CDMX 比赛内容概括\n\n## 1. 比赛简介\n🚀 **比赛概述**：Mini Hackathon Technovation Challenge CDMX 是一场旨在鼓励青少年学习编程和解决问题的活动。参与者将有机会设计自己的应用程序，通过实践编程技能来应对现实世界中的挑战。\n\n📱 **背景**：该活动由 Dulce 主办，旨在提供一个平台，让青少年能够发挥创造力，学习编程知识，并解决实际问题。\n\n✅ **目的**：\n- 培养青少年的编程技能。\n- 鼓励创新思维和问题解决能力。\n- 促进青少年对科技的兴趣。\n\n📈 **主要内容**：\n- 参与者将学习编程基础，并应用所学知识设计应用程序。\n- 活动将包括编程工作坊、小组讨论和项目展示。\n\n## 2. 时间安排\n📅 **日期和时间**：11月27日星期五，9:00 - 16:00 GMT-6。\n\n📍 **地点**：Anexo de la Facultad de Ingeniería UNAM。\n\n## 3. 奖金\n💳 **奖金信息**：未提供。\n\n## 4. 要求\n📚 **参与要求**：\n- 青少年年龄在13至17岁之间。\n- 对编程和科技创新感兴趣。\n\n## 5. 重要细节\n🤝 **主办人**：Dulce。\n\n🛠️ **报名方式**：活动详情页面提供报名链接。\n\n🌍 **探索活动**：了解更多活动详情和报名信息。\n\n👨‍💻 **技术支持**：如有技术问题，可联系主办人。\n\n![Mini Hackaton Technovation Challenge CDMX 封面](https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=2,background=white,quality=75,width=400,height=400/uploads/21/36af8e57-37ad-4788-b452-10e41f360e60.png)",
+   "id": "lumaevt-CgoxIBHyS6m2yMC",
+   "name": "迷你技术马拉松挑战赛CDMX",
+   "organizer": "PERSONAL、DULCE",
+   "official_url": "https://luma.com/1pry6bun",
+   "type": "黑客松",
+   "tags": [
+    "教育",
+    "移动开发",
+    "社会公益"
+   ],
+   "city": "墨西哥城科约阿坎，UNAM工学院，03000",
+   "prize": null,
+   "start": "2026-11-27",
+   "deadline": null,
+   "end": "2026-11-27",
+   "signup": "upcoming",
+   "description": "",
+   "sources": [
+    {
+     "name": "AI赛事通",
+     "url": "https://www.competehub.dev/zh/competitions/lumaevt-CgoxIBHyS6m2yMC"
+    }
+   ]
+  },
+  {
+   "detail": "# Build Out Loud: A Wispr Flow × Bolna Hackathon\n\n## 1. 比赛简介\n🚀 **比赛概述**：Build Out Loud: A Wispr Flow × Bolna Hackathon 是一场由 Wispr Flow 和 Bolna 联合举办的黑客松活动，旨在通过语音构建和体验人工智能。参赛者将使用 Wispr Flow 的语音指令在 Bolna 平台上创建工作语音代理。\n\n🎯 **背景**：该比赛旨在推动人工智能和语音技术的发展，鼓励创新和团队合作。\n\n✅ **目的**：通过比赛，参与者将学习如何使用语音技术构建智能代理，同时提升团队协作和问题解决能力。\n\n📚 **主要内容**：\n- 参赛者需使用 Wispr Flow 将语音转换为文本，并通过语音进行提示、编辑和修复。\n- 在 Bolna 平台上创建工作语音代理或多代理系统。\n- 个人或团队（最多4人）参加，至少进行3次测试通话。\n- 展示项目改进过程，提交构建的代理和简短说明。\n\n## 2. 时间安排\n📅 **日期**：2026年11月15日\n🕒 **时间**：12:00 - 17:00 GMT+5:30\n\n## 4. 要求\n📝 **参赛要求**：\n- 完全通过 Wispr Flow 语音构建，无需打字。\n- 在 Bolna 上构建工作语音代理或多代理系统。\n- 团队最多4人。\n- 至少进行3次测试通话，每次超过45秒。\n- 展示项目改进过程。\n\n## 5. 重要细节\n🏥 **可构建内容**：\n- AI招聘人员面试和评估候选人\n- 多语言支持代理\n- 外呼代理，筛选潜在客户和处理异议\n- 反馈代理，进行调查并提取见解\n- 客户在通话中改变主意时保持跟进的代理\n\n💳 **奖品**：奖品、奖项和惊喜即将揭晓。\n\n👨‍💻 **地点**：Bolna : AI Voice Agents | Automated conversational AI, 2nd Floor, TOWER-B, MANTRI COMMERCIO, Marathahalli - Sarjapur Outer Ring Rd, Kariyammana Agrahara, Bellandur, Bengaluru, Karnataka 560103, India\n\n🤝 **注册**：欢迎注册参加，名额有限，请尽早回复。",
+   "id": "lumaevt-ZxZ77Oo38o5xJ4s",
+   "name": "大声建造：Wispr 流 × Bolna 黑客马拉松",
+   "organizer": "BOLNA、TANISHA SHARMA",
+   "official_url": "https://luma.com/1a2rjj9r",
+   "type": "黑客松",
+   "tags": [
+    "机器学习/AI",
+    "语音技能",
+    "通信"
+   ],
+   "city": "博尔纳：AI语音代理 | 自动对话AI，塔楼B，2楼，曼特里商业，马拉塔哈利-萨尔贾普尔外环路，卡里亚曼纳格拉哈拉，贝尔安德，班加罗尔，卡纳塔克邦 560103，印度",
+   "prize": null,
+   "start": "2026-11-15",
+   "deadline": null,
+   "end": "2026-11-15",
+   "signup": "upcoming",
+   "description": "博拉纳是一个专为印度规模、语言复杂性和成本敏感度定制的语音AI平台。我们让企业几天内即可实现数千个并发通话，而非数月。",
+   "sources": [
+    {
+     "name": "AI赛事通",
+     "url": "https://www.competehub.dev/zh/competitions/lumaevt-ZxZ77Oo38o5xJ4s"
+    }
+   ]
+  },
+  {
+   "detail": "# Founders Demo Night by Cognition × FWS — Dubai\n\n## 1. 比赛简介\n🚀 **比赛概述**：Founders Demo Night 是一个由 Cognition 和 FWS 共同主办的活动，旨在为迪拜的创始人、CTO 和 AI 工程师提供一个展示真实产品、交流经验的平台。\n\n🌍 **背景**：该活动旨在促进创新和创业精神，为参与者提供一个展示其技术和产品的机会，同时也是一个交流和学习的好机会。\n\n🎯 **目的**：活动的主要目的是促进创业生态系统的成长，鼓励创新，并为参与者提供一个展示其技术和产品的平台。\n\n**主要内容**：\n- **产品展示**：参与者将有机会展示他们的产品，获得反馈和建议。\n- **交流互动**：参与者可以与其他创始人、CTO 和 AI 工程师交流，建立联系，分享经验。\n\n## 2. 时间安排\n📅 **日期和时间**：11月20日星期五，18:30 - 21:30 GMT+4\n\n## 4. 要求\n✅ **适合对象**：在迪拜的创始人、CTO 和 AI 工程师。\n\n## 5. 重要细节\n- **免费参加**：每位参与者将获得 TryDevin 积分。\n- **主办**：Cognition × FWS\n- **地点**：迪拜，具体地点待定\n- **报名**：需要审核，欢迎注册参加。",
+   "id": "lumaevt-ODgdbgf7xCg5FHt",
+   "name": "认知×FWS 创始人演示之夜 — 迪拜",
+   "organizer": "DEVIN EVENTS - DUBAI、AVINASH MENON、FOUNDERS WHO SHIP",
+   "official_url": "https://luma.com/l86gd76y",
+   "type": "黑客松",
+   "tags": [
+    "机器学习/AI"
+   ],
+   "city": "迪拜，阿联酋",
+   "prize": null,
+   "start": "2026-11-20",
+   "deadline": null,
+   "end": "2026-11-20",
+   "signup": "upcoming",
+   "description": "",
+   "sources": [
+    {
+     "name": "AI赛事通",
+     "url": "https://www.competehub.dev/zh/competitions/lumaevt-ODgdbgf7xCg5FHt"
+    }
+   ]
+  },
+  {
+   "detail": "# [In-Person] 从原型到首位付费用户 - 在AI时代作为构建者和创作者茁壮成长\n\n## 1. 比赛简介\n🚀 **比赛概述**：本次比赛由Tokyo Design社区主办，旨在探讨AI在产品设计和创业中的应用。活动将聚焦于如何将想法转化为业务，并邀请经验丰富的企业家分享他们的成功故事。\n\n🌍 **背景**：Tokyo Design社区是一个专注于AI驱动产品设计、职业发展和共同学习的日本领先社区。\n\n🎯 **目的**：通过分享经验、互动交流和动手实践，帮助参与者了解如何利用AI工具将想法转化为现实，并迈向创业的第一步。\n\n📚 **主要内容**：\n- **主题演讲**：由技术企业家和OneInbox AI的创始人兼CEO Abhishek Gupta，以及曾参加Tokyo Design的创业者Frida Halltorp分享他们的经验和见解。\n- **直接反馈**：参与者可以分享自己的产品或业务想法，并获得现场反馈。\n- **可选构建环节**：参与者可以继续构建自己的想法或获得反馈。\n- **网络交流**：提供机会与来自不同背景的参与者交流。\n\n## 2. 时间安排\n📅 **日期**：12月13日星期日\n⏰ **时间**：13:00 - 17:00 GMT+9\n\n## 3. 奖金\n💳 **奖金信息**：未提供\n\n## 4. 要求\n📝 **报名要求**：需要审核\n\n## 5. 重要细节\n📍 **地点**：札之辻广场，日本东京港区\n🤝 **合作伙伴**：港区产业振兴中心\n👨‍💻 **目标参与者**：产品经理、设计师、构建者、企业家、开发者、AI工程师、市场营销人员和学生等。",
+   "id": "lumaevt-LFA4g7z7BZu2fm3",
+   "name": "[现场] 从原型到首位付费用户 - 在AI时代成为成功构建者和创作者",
+   "organizer": "PERSONAL、TOKYO DESIGN",
+   "official_url": "https://luma.com/aepcemw4",
+   "type": "黑客松",
+   "tags": [
+    "机器学习/AI",
+    "生产力/效率",
+    "新手友好"
+   ],
+   "city": "札の辻スクエア，东京港区芝5-36-4",
+   "prize": null,
+   "start": "2026-12-13",
+   "deadline": null,
+   "end": "2026-12-13",
+   "signup": "upcoming",
+   "description": "",
+   "sources": [
+    {
+     "name": "AI赛事通",
+     "url": "https://www.competehub.dev/zh/competitions/lumaevt-LFA4g7z7BZu2fm3"
+    }
+   ]
+  },
+  {
+   "detail": "# AI x Epistemics Hackathon: Bangkok Hub 比赛内容概括\n\n## 1. 比赛简介\n🚀 **比赛概述**：AI x Epistemics Hackathon: Bangkok Hub 是一场由 AI Safety Thailand 主办的研究冲刺活动，旨在探索人工智能如何改变人类评估事实和决策的方式，以及专家的判断。活动聚焦于构建工具以帮助评估证据、核实主张并做出明智决策。\n\n🎯 **背景**：随着人工智能技术的快速发展，其对社会的影响日益显著。如何确保人工智能的决策过程是透明、可靠和可解释的，成为了一个重要的研究课题。\n\n✅ **目的**：通过这次Hackathon，参与者将有机会开发出能够帮助评估证据、核实主张并做出明智决策的工具，从而推动人工智能在决策领域的应用。\n\n📚 **主要内容**：\n- **研究轨道**：活动分为四个轨道，包括模型认识论和决策评估、信任基础设施、认识论产品、开放轨道。\n- **时间表**：活动从11月13日星期五下午6点开始，持续至11月15日晚上8点。\n- **奖励**：参与者有机会获得现金奖金、Apart Fellowship 入选机会、导师介绍、完整研究项目和团队支持。\n- **参与者**：不限，欢迎工程师、研究人员、学生和领域专家单独或组队参加。\n\n## 4. 要求\n- **技能要求**：参与者应具备一定的编程、数据分析和人工智能相关知识。\n- **团队要求**：可以单独参加，也可以组队参加，但每组人数不超过5人。\n\n## 5. 重要细节\n- **地点**：TK Park, Thailand Knowledge Park\n- **报名方式**：通过提供的报名链接进行报名。\n- **联系方式**：如有任何疑问，请联系主办人。",
+   "id": "lumaevt-tZoUIG1FgXQxu59",
+   "name": "人工智能与认知学黑客松：曼谷中心",
+   "organizer": "PERSONAL、AI SAFETY THAILAND",
+   "official_url": "https://luma.com/xmeztn45",
+   "type": "黑客松",
+   "tags": [
+    "机器学习/AI",
+    "社会公益"
+   ],
+   "city": "TK Park，泰国知识园，中央世界8楼， dazzle zone 拉差达慕里路，巴吞他尼区，巴吞他尼，曼谷，10330泰国",
+   "prize": null,
+   "start": "2026-11-13",
+   "deadline": null,
+   "end": "2026-11-15",
+   "signup": "upcoming",
+   "description": "",
+   "sources": [
+    {
+     "name": "AI赛事通",
+     "url": "https://www.competehub.dev/zh/competitions/lumaevt-tZoUIG1FgXQxu59"
+    }
+   ]
+  },
+  {
+   "detail": "# Base Builder Demo Day | Devcon Mumbai 比赛内容概括\n\n## 1. 比赛简介\nBase Builder Demo Day 是一个专为印度Base构建者举办的现场演示活动。该活动旨在提供一个平台，让Base构建者展示他们在Base平台上开发的项目，并获得Base团队的直接反馈。活动背景是促进Base社区的发展，鼓励创新，并加强社区成员之间的交流。\n\n**比赛目的：**\n- 展示印度Base构建者在Base平台上的创新项目。\n- 获取Base团队对产品、技术和市场的直接反馈。\n- 促进Base社区成员之间的交流与合作。\n\n**主要内容：**\n- **现场演示**：Base构建者将展示他们在Base平台上开发的项目。\n- **Base团队反馈**：Base团队将提供对项目的技术和市场反馈。\n- **交流与合作**：构建者之间将有机会交流经验，探讨合作机会。\n\n## 2. 时间安排\n📅 **日期和时间：** 11月6日星期五 | 3:00 PM – 4:30 PM\n📍 **地点：** Devcon Mumbai @ Jio World Centre (需会议门票) | Base会议室（2楼202室）\n\n## 3. 奖金\n（无奖金信息）\n\n## 4. 要求\n- **项目要求**：项目需基于Base平台开发。\n- **参与资格**：适用于所有阶段的Base构建者，从原型到应用。\n\n## 5. 重要细节\n- **注册要求**：需要审核。\n- **地点信息**：Devcon Mumbai @ Jio World Centre (需会议门票) | Base展位（旗舰02）\n- **如何到达**：提供详细的路线说明。\n- **隐私政策**：注册此活动即表示您承认Coinbase及其供应商将收集和使用您的个人信息来管理您的注册和出席，如Coinbase隐私政策所述。\n- **饮食和无障碍需求**：您选择的任何饮食或无障碍需求将仅用于方便您的出席。",
+   "id": "lumaevt-NGL2Vs6Cq2DM0Ct",
+   "name": "基础构建者演示日 | 孟买Devcon",
+   "organizer": "BASE COMMUNITY EVENTS",
+   "official_url": "https://luma.com/pghwadwy",
+   "type": "黑客松",
+   "tags": [
+    "区块链",
+    "机器学习/AI"
+   ],
+   "city": "Jio世界中心，G区，班德拉-库拉拉综合体，班德拉东，马哈拉施特拉邦，400051，印度",
+   "prize": null,
+   "start": "2026-11-06",
+   "deadline": null,
+   "end": "2026-11-06",
+   "signup": "upcoming",
+   "description": "加入Base社区组织的聚会、研讨会和黑客马拉松。",
+   "sources": [
+    {
+     "name": "AI赛事通",
+     "url": "https://www.competehub.dev/zh/competitions/lumaevt-NGL2Vs6Cq2DM0Ct"
+    }
+   ]
+  },
+  {
+   "detail": "# Founders Builders Roundtable 比赛内容概括\n\n## 1. 比赛简介\n🚀 **比赛概述**：Founders Builders Roundtable 是一场专为创始人、创作者、建造者和对创业感兴趣的人士设计的活动。该活动旨在提供一个平台，让参与者能够进行真诚、深思熟虑和尊重的讨论，通过对话、反馈和介绍来推动愿景的发展。\n\n🎯 **背景**：活动由Founduz主办，旨在促进创新思维和创业精神的交流。\n\n✅ **目的**：活动的主要目的是促进创业者和相关人士之间的交流与合作，激发创新思维，推动创业项目的发展。\n\n📚 **主要内容**：\n- **破冰和交流**：活动开始时，参与者将有机会互相认识，建立联系。\n- **展示、分享、头脑风暴**：参与者将有机会展示自己的项目或想法，与其他参与者分享经验，并进行头脑风暴，共同探讨解决方案。\n- **午餐**：活动期间将提供免费披萨午餐，以促进参与者之间的交流。\n\n## 2. 时间安排\n📅 **日期**：2023年11月14日（星期六）\n🕒 **时间**：10:00 - 18:00 GMT+8\n\n## 3. 奖金\n💳 **门票价格**：NTD$ 350/人\n\n## 4. 要求\n👨‍💻 **参与者**：创始人、创作者、建造者和对创业感兴趣的人士。\n🛠️ **报名**：需要主办人审核。\n\n## 5. 重要细节\n🌍 **地点**：Happ小樹屋（近民權西路MRT站），具体地点需注册后查看。\n🤝 **变更说明**：由于台风改期，活动地点从原定的工作空间改为Happ小樹屋。午餐披萨由主办方赞助，以示感谢。",
+   "id": "lumaevt-rKoiZydQGCqv8gK",
+   "name": "创始人建造者圆桌",
+   "organizer": "FOUNDUZ、REBECCA HUANG",
+   "official_url": "https://luma.com/wumkxhpk",
+   "type": "黑客松",
+   "tags": [],
+   "city": "吉营村，台湾",
+   "prize": null,
+   "start": "2026-11-14",
+   "deadline": null,
+   "end": "2026-11-14",
+   "signup": "upcoming",
+   "description": "愿景与伟人汇聚之地。",
+   "sources": [
+    {
+     "name": "AI赛事通",
+     "url": "https://www.competehub.dev/zh/competitions/lumaevt-rKoiZydQGCqv8gK"
+    }
+   ]
+  },
+  {
+   "detail": "# Codex 社区黑客松 - 特拉维夫\n\n## 1. 比赛简介\n🚀 Codex 社区黑客松是一个四天的编程挑战活动，旨在鼓励开发者使用 Codex 工具进行视频和计算机视觉的构建。活动由以色列 Codex 社区组织，旨在探索如何利用 Codex 技术理解和处理视频内容，从而构建出能够帮助人们理解、搜索、编辑或更好地使用视频的应用。\n\n**背景**：\n随着人工智能和计算机视觉技术的快速发展，视频内容处理成为一个越来越重要的领域。Codex 社区希望通过这次黑客松，激发开发者的创新思维，推动视频处理技术的应用。\n\n**目的**：\n- 鼓励开发者使用 Codex 工具进行视频和计算机视觉的构建。\n- 探索视频内容处理的多种可能性，如物体检测、视频搜索、摘要和亮点等。\n- 促进开发者之间的交流与合作。\n\n**主要内容**：\n- **挑战**：使用 Codex 作为开发工作流程的一部分，围绕视频构建有用的东西。可以探索物体检测、视频搜索、摘要和亮点、视频分析、无障碍、创意工具等领域，或提出自己的创新想法。\n- **时间表**：活动从 11 月 15 日开始，至 11 月 18 日结束。11 月 18 日提交项目，11 月 22 日公布获奖者。\n- **要构建的目标**：一个可工作的原型和简短演示，展示解决的问题、项目的工作原理以及如何使用 Codex。\n- **免责声明**：这是一个社区组织的事件，不是官方 OpenAI 事件。\n\n## 2. 时间安排\n📅 11月15日：黑客松开始\n🛠️ 11月15日至18日：构建和改进你的项目\n📤 11月18日：提交你的项目\n🏆 11月22日：公布获奖者\n\n## 4. 要求\n- 参与者需使用 Codex 工具进行视频和计算机视觉的构建。\n- 参与者需在 11 月 18 日前提交项目。\n- 参与者需尊重视频中出现的任何人的隐私。\n\n## 5. 重要细节\n- 地点：请注册以查看此活动的具体地点（Tel Aviv-Yafo, Israel）。\n- 主办人：Adi Szeskin, Elie Steinbock, Vlad Tansky。",
+   "id": "lumaevt-BLqngRBrvzBo2yQ",
+   "name": "《特拉维夫编码社区黑客松》",
+   "organizer": "CODEX COMMUNITY EVENTS、EYAR ZILBERMAN、ADI SZESKIN",
+   "official_url": "https://luma.com/gy9cprco",
+   "type": "黑客松",
+   "tags": [
+    "计算机视觉",
+    "机器学习/AI"
+   ],
+   "city": "特拉维夫-雅法，以色列",
+   "prize": null,
+   "start": "2026-11-15",
+   "deadline": null,
+   "end": "2026-11-18",
+   "signup": "upcoming",
+   "description": "遇见使用Codex开发真实软件的构建者。加入全球的动手构建之夜、黑客马拉松、研讨会和演示，从初次设置到多代理工作流程、插件、自动化等。",
+   "sources": [
+    {
+     "name": "AI赛事通",
+     "url": "https://www.competehub.dev/zh/competitions/lumaevt-BLqngRBrvzBo2yQ"
+    }
+   ]
+  },
+  {
+   "detail": "# 从AI用户到AI构建者：构建你的AI助手\n\n## 比赛简介\n🚀 由Mercy Nekesa和Henny Sim主办的“从AI用户到AI构建者：构建你的AI助手”活动，旨在帮助参与者学习如何使用AI构建自己的智能助手。活动由Zorentia、CloudBridge和AWS在AWS悉尼总部联合举办，面向无编程经验的初学者、非技术创始人及对AI构建感兴趣的构建者。\n\n该活动旨在提供一个实战大师班环境，让参与者通过实际操作，学习如何构建智能文档助手，读取PDF文件，检索精确段落，并生成带引用的准确答案。活动内容包括文档检索系统的上下文查找、AI模型与云架构的连接，以及使用AWS服务测试、配置和管理应用程序。\n\n## 时间安排\n📅 日期：2026年11月25日星期三\n🕒 时间：下午6:00 - 9:00 AEDT\n\n## 要求\n✅ 参与者需携带笔记本电脑（及充电器）\n✅ 可选：携带想要构建的PDF或文档\n✅ 必备：好奇心\n\n## 重要细节\n🎁 收获：\n* 自建AI助手\n* AWS积分\n* 系统可读性\n* 云成本控制\n* 食物和饮料\n* 社区接入\n\n🛠️ 构建内容：\n* 智能文档助手，读取PDF，检索精确段落，并生成带引用的准确答案。\n* 学习内容：\n    1. 文档检索系统如何找到所需的确切上下文。\n    2. 如何将AI模型连接到实际云架构。\n    3. 如何使用AWS服务测试、配置和管理应用程序。\n\n👨‍💻 适合人群：\n* 寻求构建定制工具的创始人及商业主。\n* 希望获得实际云经验的学子及专业人士。\n* 好奇了解现代AI软件内部运作的构建者。\n\n🌍 地点：\nAWS办公室 | 2 Park Street, Sydney, NSW 2000, Australia\n\n🤝 联合主办：\n* Zorentia\n* CloudBridge\n* AWS支持\n\n🎟️ 门票：\n免费入场 | 名额有限\n\n📌 活动详情：\n* 报名需审核\n* 欢迎注册参加\n\n带着好奇来，带着真实构建的成果离开。",
+   "id": "lumaevt-qBPjxbkhXkYXONl",
+   "name": "从AI用户到AI构建者：打造你的AI助手",
+   "organizer": "PERSONAL、MERCY NEKESA、HENNY SIM",
+   "official_url": "https://luma.com/8f4duakx",
+   "type": "黑客松",
+   "tags": [
+    "机器学习/AI",
+    "新手友好"
+   ],
+   "city": "2 Park St, 悉尼 NSW 2000，澳大利亚",
+   "prize": null,
+   "start": "2026-11-25",
+   "deadline": null,
+   "end": "2026-11-25",
+   "signup": "upcoming",
+   "description": "",
+   "sources": [
+    {
+     "name": "AI赛事通",
+     "url": "https://www.competehub.dev/zh/competitions/lumaevt-qBPjxbkhXkYXONl"
+    }
+   ]
+  },
+  {
+   "detail": "# 构建清洁支付Web3宇宙比赛\n\n## 1. 比赛简介\n🚀 **比赛背景**：随着区块链技术的快速发展，Web3宇宙逐渐成为人们关注的焦点。清洁支付作为Web3宇宙的重要组成部分，旨在通过去中心化的方式，实现更加安全、高效、透明的支付体验。\n\n🎯 **比赛目的**：本次比赛旨在鼓励开发者、设计师和创意人才共同构建清洁支付Web3宇宙，推动区块链技术在支付领域的应用和发展。\n\n📚 **主要内容**：\n- **创意设计**：参赛者需提交清洁支付相关的创意设计方案，包括界面设计、用户体验、功能创新等。\n- **技术实现**：参赛者需展示清洁支付技术的实现方案，包括区块链技术、智能合约、去中心化存储等。\n- **应用场景**：参赛者需提出清洁支付在特定场景下的应用方案，如跨境支付、供应链金融等。\n\n## 2. 时间安排\n（无时间安排信息）\n\n## 3. 奖金\n（无奖金信息）\n\n## 4. 要求\n- **参赛资格**：全球范围内所有符合参赛条件的个人或团队均可报名参加。\n- **参赛作品**：参赛作品需为原创，不得侵犯他人知识产权。\n- **提交方式**：参赛者需将作品以PDF格式提交至指定邮箱。\n\n## 5. 重要细节\n- **作品提交截止日期**：待定\n- **评选标准**：创意性、技术实现、应用场景、用户体验等\n- **联系方式**：如有疑问，请联系组委会邮箱：cleanverse@luma.com",
+   "id": "lumaevt-i2rQhWZ1dlmsPf4",
+   "name": "构建清洁金融：清洁宇宙构建者会议",
+   "organizer": "CLEANVERSE",
+   "official_url": "https://luma.com/6bawj52g",
+   "type": "黑客松",
+   "tags": [
+    "区块链",
+    "金融科技",
+    "网络安全"
+   ],
+   "city": "新加坡展览中心2号馆，1展馆道，新加坡，486150",
+   "prize": null,
+   "start": "2026-11-20",
+   "deadline": null,
+   "end": "2026-11-20",
+   "signup": "upcoming",
+   "description": "构建一个清白之手间的可信支付Web3宇宙",
+   "sources": [
+    {
+     "name": "AI赛事通",
+     "url": "https://www.competehub.dev/zh/competitions/lumaevt-i2rQhWZ1dlmsPf4"
+    }
+   ]
+  },
+  {
+   "detail": "# Friday Hacks #305: 从手写代码到AI编码 & 保护凭证\n\n## 1. 比赛简介\n**Friday Hacks** 是由 NUS Hackers 主办的一项技术交流活动，旨在每周邀请嘉宾分享技术经验和兴趣。本次活动的主题包括“从手写代码到AI编码”和“保护您的凭证”。\n\n活动背景：随着人工智能技术的不断发展，AI 编码逐渐成为趋势。同时，网络安全问题日益突出，保护个人凭证变得尤为重要。本次活动旨在通过嘉宾的分享，让参与者了解 AI 编码的最新进展，以及如何保护自己的凭证。\n\n活动目的：\n- 分享 AI 编码的最新进展和应用\n- 提高网络安全意识，学习如何保护个人凭证\n- 促进技术交流和分享\n\n活动主要内容：\n- 演讲1：从手写代码到AI编码\n- 演讲2：保护您的凭证\n- 地点：COM3 SR12\n- 提供披萨和饮料\n\n## 2. 时间安排\n- 日期：11月6日星期五\n- 时间：19:00 - 21:00 GMT+8\n\n## 4. 要求\n- 参与者需具备一定的编程基础\n- 参与者需关注网络安全问题\n\n## 5. 重要细节\n- 地点：COM3 SR12\n- 提供披萨和饮料\n- 欢迎注册参加！",
+   "id": "lumaevt-372LuYTWF3BfNHz",
+   "name": "星期五黑客#305：从手写代码到AI编码 & 如何保护您的AI代理的秘密",
+   "organizer": "NUS HACKERS",
+   "official_url": "https://luma.com/ds377kj6",
+   "type": "黑客松",
+   "tags": [
+    "机器学习/AI",
+    "网络安全"
+   ],
+   "city": "COM3，新加坡11研究路，119391",
+   "prize": null,
+   "start": "2026-11-06",
+   "deadline": null,
+   "end": "2026-11-06",
+   "signup": "upcoming",
+   "description": "我们是一个由学生运营的组织，致力于推广黑客文化和免费开源软件。我们举办黑客马拉松、每周工作坊和每周技术讲座，对所有人均开放。",
+   "sources": [
+    {
+     "name": "AI赛事通",
+     "url": "https://www.competehub.dev/zh/competitions/lumaevt-372LuYTWF3BfNHz"
+    }
+   ]
+  },
+  {
+   "detail": "# [仅限受邀] NMG Labs AI Builders 迪瓦利聚会 🚀🍺\n\n## 1. 比赛简介\nNMG Labs AI Builders 迪瓦利聚会是一个专为AI爱好者、工程师、创造者和设计师举办的社交活动。此次活动旨在为AI领域的专业人士提供一个交流和学习的机会，共同庆祝印度传统节日迪瓦利。活动内容包括美食、开放酒吧、音乐、游戏和奖品，以及与NMG Labs团队和社区成员的深入交流。\n\n**背景**：\nNMG Labs是一家全球一站式数字增长机构，自2007年以来，通过提供SEO、AI搜索优化、数字公关、SEM和媒体购买等服务，帮助企业提升在线可见性。为了培养印度下一代AI人才，NMG Labs举办了Forge黑客马拉松系列，为参与者提供一个展示才华和解决问题的平台。\n\n**目的**：\n- 为AI领域的专业人士提供一个交流和学习的机会。\n- 增强NMG Labs AI Builder社区的凝聚力。\n- 庆祝印度传统节日迪瓦利。\n\n**主要内容**：\n- 美食、开放酒吧、音乐、游戏和奖品。\n- 与NMG Labs团队和社区成员的深入交流。\n- 了解Forge黑客马拉松系列和AI增长研讨会。\n\n## 2. 时间安排\n- 日期：11月5日星期四\n- 时间：18:00 - 22:00 GMT+5:30\n\n## 3. 奖金\n- 无奖金信息\n\n## 4. 要求\n- 需要审核\n- 门票包含入场、食物、晚餐和6-9点的开放酒吧\n- 仅向法定饮酒年龄的客人提供酒精饮料，请携带身份证\n\n## 5. 重要细节\n- 地点：Bonzai，Global Foyer Mall，Gurugram，Haryana 122009\n- 如何参加：点击**请求加入**，用一句话告诉我们你正在建造什么，一旦批准，购买您的1900卢比门票并加入名单\n- 注意事项：需要审核。门票包含入场、食物、晚餐和6-9点的开放酒吧。仅向法定饮酒年龄的客人提供酒精饮料，请携带身份证。",
+   "id": "lumaevt-R9TYPZyCfWUMng8",
+   "name": "[仅限受邀] NMG Labs AI Builders 迪瓦利派对🚀🍺",
+   "organizer": "NMG LABS、MOHIT MAHESHWARI、ROHIT MAHESHWARI",
+   "official_url": "https://luma.com/nmglabs-05nov26",
+   "type": "黑客松",
+   "tags": [
+    "机器学习/AI",
+    "计算机视觉",
+    "社会公益"
+   ],
+   "city": "博纳入口，10A店，一层，全球入口，43区，古鲁格伦，哈里亚纳，印度122009",
+   "prize": null,
+   "start": "2026-11-05",
+   "deadline": null,
+   "end": "2026-11-05",
+   "signup": "upcoming",
+   "description": "NMG是一家全球全服务数字增长机构。自2007年起，我们通过高级SEO、AI搜索优化、数字公关、SEM、媒体购买为企业打造可见度。",
+   "sources": [
+    {
+     "name": "AI赛事通",
+     "url": "https://www.competehub.dev/zh/competitions/lumaevt-R9TYPZyCfWUMng8"
+    }
+   ]
+  },
+  {
+   "detail": "# 社交GTM代理黑客松\n\n## 1. 比赛简介\n🚀 欢迎参加由Zernio和swanbase举办的社交GTM代理黑客松。这是一场为期一天的比赛，旨在鼓励参与者使用Zernio的社交API构建AI代理或产品。比赛将在2026年11月15日星期日，9:30至20:00，在巴黎2区的swanbase办公室举行。\n\n🎯 比赛目的在于推动创新，鼓励开发者利用AI技术自动化社交媒体运营，提高效率。参赛者将有机会使用Zernio的API，这些API能够提供对15个社交媒体平台的完全访问权限，包括X、LinkedIn、Instagram、TikTok和YouTube等。\n\n## 2. 时间安排\n📅 2026年11月15日星期日\n🕒 9:30 - 20:00 GMT+1\n\n## 3. 奖金\n💳 奖项设置如下：\n- 第一名：Zernio 1000美元信用额度\n- 第二名：Zernio 500美元信用额度\n- 第三名：Zernio 100美元信用额度\nZernio还将为每位参与者提供当天构建所需的信用额度。\n\n## 4. 要求\n📚 参赛者需准备以下物品：\n- 笔记本电脑和充电器\n- 常用的编码工具：Claude Code、Cursor、Codex或其他\n- 如果已有，带上你的代理想法\n\n## 5. 重要细节\n🏆 项目想法：\n- 由代理端到端运营的社交媒体账户\n- 吸引潜在客户的营销磁铁\n- 驱动流量到在线商店的内容系列\n- 元广告机器\n\n🚀 时间表：\n- 9:30am: 报到和咖啡\n- 10am: Zernio及其API，团队组建\n- 期间：构建时间\n- 结束时：演示和奖项\n\n🗓️ 实用信息：\n- 地点：注册后我们将发送地址\n- 名额：45个名额，Luma上需注册",
+   "id": "lumaevt-jxRe49glLOojQZ7",
+   "name": "社零代理与泽尼奥黑客马拉松",
+   "organizer": "SWANBASE、VINCENT MAURIN、THÉO SITJAR、DARYA NAZARAVA、ÒSCAR PÉREZ",
+   "official_url": "https://luma.com/wrgyhbwf",
+   "type": "黑客松",
+   "tags": [
+    "机器学习/AI",
+    "社会公益",
+    "计算机视觉"
+   ],
+   "city": "巴黎，法国",
+   "prize": "¥10,800",
+   "start": "2026-11-15",
+   "deadline": null,
+   "end": "2026-11-15",
+   "signup": "upcoming",
+   "description": "欧洲最具雄心的建造者成为创始人，并发展成实际公司",
+   "sources": [
+    {
+     "name": "AI赛事通",
+     "url": "https://www.competehub.dev/zh/competitions/lumaevt-jxRe49glLOojQZ7"
+    }
+   ]
+  },
+  {
+   "detail": "# Build your content-led GTM motion: Hackathon\n\n## 1. 比赛简介\n由 Alex 和其他 6 人主办的 Hackathon，旨在通过三个小时的挑战，将内容参与转化为预约对话。比赛分为三个阶段：分析、内容创建和转化。参赛者需使用 Flywheel 的内容数据引擎分析同行业的内容效果，利用 Stan 的工具和最佳框架创建内容策略，并通过 Smartlead 序列将符合条件的潜在客户引导至转化流程。比赛要求参赛者展示一个完整的闭环，将实际帖子的参与者在入口端输入，并在出口端输出合格的对话。比赛适合 GTM 创作者、GTM 工程师、增长工程师、技术营销人员和代理运营商参加。\n\n## 2. 时间安排\n- 6:00 PM · 开门，食物，团队组建\n- 6:30 PM · 开幕：10分钟的完整闭环现场构建\n- 6:45 PM · 构建\n- 8:45 PM · 展示（每个3分钟）\n- 9:15 PM · 评判 + 奖品\n\n## 3. 奖金\n奖品尚未公布。\n\n## 4. 要求\n- 参赛者需携带笔记本电脑，并登录常用工具。\n- 参赛者需在周三前修复一个漏斗中的问题。\n\n## 5. 重要细节\n- 比赛地点：Encode Hub, 41 Pitfield St, London N1 6DA, UK\n- 参赛者需通过审核才能报名参加。",
+   "id": "lumaevt-2yr4YmnhmhZtOha",
+   "name": "构建内容驱动 GTM 动作：黑客马拉松",
+   "organizer": "PERSONAL、ALEX、ENCODE CLUB、FERNANDO CAO、CLAUDIA MAGGI、SASHA CAYWARD、JAKE KITCHINER、AMGAD",
+   "official_url": "https://luma.com/y3vajpmz",
+   "type": "黑客松",
+   "tags": [
+    "机器学习/AI",
+    "计算机视觉"
+   ],
+   "city": "编码中心，皮特菲尔德街41号，伦敦N1 6DA，英国",
+   "prize": null,
+   "start": "2026-11-10",
+   "deadline": null,
+   "end": "2026-11-10",
+   "signup": "upcoming",
+   "description": "",
+   "sources": [
+    {
+     "name": "AI赛事通",
+     "url": "https://www.competehub.dev/zh/competitions/lumaevt-2yr4YmnhmhZtOha"
+    }
+   ]
+  },
+  {
+   "detail": "# House London! #4 数据冲刺活动\n\n## 1. 比赛简介\nHouse London! #4 是一场数据冲刺活动，旨在通过数据分析和解决方案来解决伦敦的住房危机。活动聚集了数据科学家、城市规划和政策思考者，共同探讨如何利用数据改善伦敦的住房规划和政策。\n\n**背景**：伦敦正面临严重的住房危机，许多人难以负担合适的住房。House London! 活动旨在通过数据分析和创新思维，为解决这一挑战提供新的视角和解决方案。\n\n**目的**：\n- 利用数据揭示伦敦住房问题的本质。\n- 鼓励参与者提出创新的解决方案。\n- 为政策制定者提供有价值的见解。\n\n**主要内容**：\n- 参与者将使用真实的数据集、调查和答案来分析伦敦的住房问题。\n- 活动将包括数据可视化、模型构建和政策建议。\n- 参与者有机会将他们的解决方案转化为政策简报、仪表板和模型。\n\n## 2. 时间安排\n- 日期：12月5日星期六\n- 时间：10:00 - 19:30 GMT\n\n## 3. 奖金\n- 活动不提供奖金。\n\n## 4. 要求\n- 参与者需具备数据分析、编程或相关领域的技能。\n- 参与者需能够使用数据分析工具和软件。\n- 参与者需对伦敦的住房问题有深入了解。\n\n## 5. 重要细节\n- 地点：Newspeak House, 133 Bethnal Grn Rd, London E2 7DG, UK\n- 入场费用：免费\n- 报名：需要主办人审核\n- 活动性质：数据冲刺活动\n- 活动目标：通过数据分析和创新思维解决伦敦住房危机",
+   "id": "lumaevt-tlJ1kEyDy1I2dEI",
+   "name": "伦敦之家！#4 | 数据黑客松",
+   "organizer": "HOUSE LONDON!、JAM COOMBES、NIKA JAHANKHAH、REUBEN PRITCHARD",
+   "official_url": "https://luma.com/47pikxpr",
+   "type": "黑客松",
+   "tags": [
+    "社会公益"
+   ],
+   "city": "新话屋，贝斯纳格林路133号，伦敦E2 7DG，英国",
+   "prize": null,
+   "start": "2026-12-05",
+   "deadline": null,
+   "end": "2026-12-05",
+   "signup": "upcoming",
+   "description": "一天数据冲刺，用数据分析、理解并解决住房危机。",
+   "sources": [
+    {
+     "name": "AI赛事通",
+     "url": "https://www.competehub.dev/zh/competitions/lumaevt-tlJ1kEyDy1I2dEI"
+    }
+   ]
+  },
+  {
+   "detail": "# Lovable Hackathon, 1st of Advent Edition 比赛内容概括\n\n## 1. 比赛简介\n🚀 **比赛概述**：Lovable Hackathon, 1st of Advent Edition 是一场专为女性设计的AI黑客松活动，旨在鼓励女性探索人工智能，并搭建有助于学校工作的项目。\n\n🎯 **背景**：此活动由Ellen主办，于11月29日在哥本哈根，丹麦举行。活动旨在提供一个温馨的环境，让女性在考试季到来前感受圣诞气氛，并尝试使用AI技术。\n\n✅ **目的**：活动的主要目的是鼓励女性参与AI技术的探索和实践，提高女性在AI领域的参与度，并搭建出真正有助于学校工作的项目。\n\n📚 **主要内容**：\n- 活动将提供无酒精gløgg和圣诞气氛，营造一个轻松愉快的氛围。\n- 参与者无需具备AI经验，只需带上笔记本电脑和好奇心。\n- 活动将带领参与者探索Lovable平台，并鼓励她们根据想法制作出有助于学校工作的项目，如学习计划、复习工具等。\n- 活动旨在提高女性在AI领域的参与度，缩小性别差距。\n\n## 2. 时间安排\n📅 **日期和时间**：2023年11月29日，17:00-19:00 GMT+1\n\n## 4. 要求\n📝 **参与者要求**：\n- 带上笔记本电脑和好奇心。\n- 无需具备AI经验。\n\n## 5. 重要细节\n📍 **地点**：哥本哈根，丹麦\n👨‍💻 **主办人**：Ellen\n🤝 **联系主办人**：[点击这里](https://luma.com/user/usr-cbaP5NtSu6uwuCW)\n🌍 **人工智能**：[点击这里](https://luma.com/ai)\n🎯 **探索活动**：[点击这里](https://luma.com/discover)",
+   "id": "lumaevt-BmT7LfjYvs7Hdcy",
+   "name": "可爱黑客松，圣诞前夜版",
+   "organizer": "PERSONAL、ELLEN",
+   "official_url": "https://luma.com/iejbbkgx",
+   "type": "黑客松",
+   "tags": [
+    "机器学习/AI",
+    "教育",
+    "新手友好"
+   ],
+   "city": "哥本哈根，丹麦",
+   "prize": null,
+   "start": "2026-11-29",
+   "deadline": null,
+   "end": "2026-11-29",
+   "signup": "upcoming",
+   "description": "",
+   "sources": [
+    {
+     "name": "AI赛事通",
+     "url": "https://www.competehub.dev/zh/competitions/lumaevt-BmT7LfjYvs7Hdcy"
+    }
+   ]
+  },
+  {
+   "detail": "# Hacking & Grill — Hacker House BBQ (Autumn Edition)\n\n## 1. 比赛简介\n🚀 **Hacking & Grill — Hacker House BBQ (Autumn Edition**) 是一场由 Hacker Bloc 主办的年度科技社区活动。该活动旨在为硬件爱好者、AI 爱好者、初创公司创始人以及所有对科技感兴趣的人提供一个交流、展示和社交的平台。\n\n🎯 **背景**：活动起源于华沙的 Hacker Bloc 社区，旨在加强科技爱好者的联系，促进创新和知识分享。\n\n✅ **目的**：\n- 促进科技爱好者的交流与合作。\n- 展示和讨论最新的科技项目和创新。\n- 增强社区凝聚力，营造友好的科技交流环境。\n\n📚 **主要内容**：\n- **烧烤晚餐**：活动提供免费的烧烤晚餐，参与者只需自备饮料。\n- **展示作品**：参与者可以展示自己的科技项目或创新成果。\n- **社交互动**：提供一个轻松的社交环境，让参与者结识新朋友，拓展人脉。\n\n## 2. 时间安排\n📅 **日期**：2023年11月7日（星期六）\n🕒 **时间**：16:00 - 20:00 GMT+1\n\n## 4. 要求\n👨‍💻 **参与者**：所有对科技感兴趣的人士，包括硬件爱好者、AI 爱好者、初创公司创始人等。\n🛠️ **作品展示**：参与者可以展示自己的科技项目或创新成果，但需提前报名。\n\n## 5. 重要细节\n📍 **地点**：Hacker Bloc, Kosiarzy 21B, 02-953 Warszawa, Poland\n📞 **联系方式**：如有疑问，请联系主办人 Marin Belec。",
+   "id": "lumaevt-4nYBT15NV7xZJiW",
+   "name": "黑客与烤肉——黑客之家烧烤（秋季版）",
+   "organizer": "HACKER BLOC、MARIN BELEC",
+   "official_url": "https://luma.com/hw6kn0ul",
+   "type": "黑客松",
+   "tags": [
+    "机器学习/AI",
+    "网络安全",
+    "社会公益"
+   ],
+   "city": "黑客区块，波兰华沙科西亚尔齐21B，02-953",
+   "prize": null,
+   "start": "2026-11-07",
+   "deadline": null,
+   "end": "2026-11-07",
+   "signup": "upcoming",
+   "description": "华沙最真实的黑客之家。",
+   "sources": [
+    {
+     "name": "AI赛事通",
+     "url": "https://www.competehub.dev/zh/competitions/lumaevt-4nYBT15NV7xZJiW"
+    }
+   ]
+  },
+  {
+   "detail": "# Open Lab Night @ Hacker Bloc\n\n## 1. 比赛简介\n🚀 每周三，Hacker Bloc在波兰华沙举办名为“Open Lab Night”的活动，这是一个开放的实验室之夜，旨在提供一个交流和学习编程、黑客技术和创新解决方案的平台。活动背景是鼓励社区成员、编程爱好者以及专业人士聚集在一起，分享知识，共同进步。主要内容包括：\n- **编程和黑客技术**：参与者可以学习新的编程语言、工具和技术。\n- **项目展示**：成员可以展示自己的项目，获得反馈和建议。\n- **知识分享**：专家和资深成员分享他们的经验和技巧。\n- **社交互动**：提供一个社交环境，让参与者建立联系，拓展人脉。\n\n## 2. 时间安排\n📅 每周三，16:00 - 22:00 GMT+1\n\n## 4. 要求\n✅ 参与者需要具备基本的编程知识，并准备好分享自己的经验和项目。\n\n## 5. 重要细节\n- **地点**：Hacker Bloc Warszawa, Poland\n- **主办人**：Marin Belec\n- **联系方式**：[Marin Belec](https://luma.com/user/mbelec)\n- **社交媒体**：[Instagram](https://instagram.com/hacker_bloc), [X](https://x.com/hackerbloc), [LinkedIn](https://linkedin.com/company/hackerbloc), [官网](https://hackerbloc.com/?utm_source=luma)",
+   "id": "lumaevt-ApA0lZzN3GXntaA",
+   "name": "开放实验室之夜 @ 黑客街区",
+   "organizer": "HACKER BLOC、MARIN BELEC",
+   "official_url": "https://luma.com/uq1va332",
+   "type": "黑客松",
+   "tags": [],
+   "city": "黑客街区，波兰华沙科西亚尔齐21B，02-953",
+   "prize": null,
+   "start": "2026-11-18",
+   "deadline": null,
+   "end": "2026-11-18",
+   "signup": "upcoming",
+   "description": "华沙最真实的黑客之家。",
+   "sources": [
+    {
+     "name": "AI赛事通",
+     "url": "https://www.competehub.dev/zh/competitions/lumaevt-ApA0lZzN3GXntaA"
+    }
+   ]
+  },
+  {
+   "detail": "# Open Lab Night @ Hacker Bloc\n\n## 1. 比赛简介\n🚀 **比赛概述**：Open Lab Night @ Hacker Bloc 是一场在波兰华沙举办的黑客活动，旨在提供一个开放的平台，让参与者能够展示他们的技能、交流想法，并与其他黑客爱好者建立联系。\n\n🌍 **背景**：Hacker Bloc 是华沙的一个黑客社区，致力于促进技术发展和创新。Open Lab Night 是该社区定期举办的活动之一，旨在为成员和访客提供一个互动和学习的环境。\n\n🎯 **目的**：该活动的目的是鼓励技术爱好者分享他们的知识和技能，激发创新思维，并促进社区成员之间的交流与合作。\n\n**主要内容**：\n- **技能展示**：参与者可以展示他们的编程、网络安全、硬件黑客等技能。\n- **项目展示**：鼓励参与者带来他们正在开发的项目，与其他人分享经验和反馈。\n- **工作坊**：举办各种技术工作坊，帮助参与者学习新技能。\n- **交流互动**：提供一个平台，让参与者能够与其他黑客爱好者交流想法和经验。\n\n## 5. 重要细节\n✅ **日期和时间**：11月11日星期三，16:00 - 22:00 GMT+1。\n✅ **地点**：Hacker Bloc, Kosiarzy 21B, 02-953 Warszawa, Poland。\n✅ **报名**：欢迎参加！请注册。\n✅ **社交媒体**：关注 Hacker Bloc 的 Instagram、X 和 LinkedIn 获取更多信息。",
+   "id": "lumaevt-OFPwkS1WYGEjP8i",
+   "name": "开放实验室之夜 @ 黑客街区",
+   "organizer": "HACKER BLOC、MARIN BELEC",
+   "official_url": "https://luma.com/9gtecu1f",
+   "type": "黑客松",
+   "tags": [
+    "新手友好",
+    "开放式"
+   ],
+   "city": "黑客区块，波兰华沙科西亚尔齐21B，02-953",
+   "prize": null,
+   "start": "2026-11-11",
+   "deadline": null,
+   "end": "2026-11-11",
+   "signup": "upcoming",
+   "description": "华沙最真实的黑客之家。",
+   "sources": [
+    {
+     "name": "AI赛事通",
+     "url": "https://www.competehub.dev/zh/competitions/lumaevt-OFPwkS1WYGEjP8i"
+    }
+   ]
+  },
+  {
+   "detail": "# Hacking & Grill — Hacker House BBQ 比赛内容概括\n\n## 1. 比赛简介\n🚀 **比赛概述**：Hacking & Grill — Hacker House BBQ 是一场结合了科技与社交的烧烤活动，旨在为华沙的科技社区提供一个交流的平台。活动聚集了构建者、发明家和创始人，为大家提供了一个展示作品、交流想法和结识新朋友的机会。\n\n🎯 **背景**：该活动由 Hacker Bloc 主办，旨在加强华沙科技社区的凝聚力，促进成员之间的互动与合作。\n\n✅ **目的**：\n- 促进科技爱好者的交流与合作。\n- 为参与者提供一个展示自己作品的机会。\n- 增强社区成员之间的友谊。\n\n📚 **主要内容**：\n- 烧烤晚宴：活动期间将提供免费的食物，参与者需自带饮料。\n- 社交互动：参与者可以自由交流，结识新朋友，分享彼此的想法和经验。\n- 作品展示：有兴趣的参与者可以展示自己的作品，与其他成员分享。\n\n## 2. 时间安排\n📅 **日期**：2023年11月14日（星期六）\n🕒 **时间**：16:00 - 19:00 GMT+1\n\n## 3. 奖金\n💳 **奖金信息**：该活动不提供奖金。\n\n## 4. 要求\n📝 **参与者要求**：\n- 活动免费，无需报名。\n- 参与者需自带饮料。\n- 欢迎有兴趣展示作品的朋友。\n\n## 5. 重要细节\n📍 **地点**：Hacker Bloc，Kosiarzy 21B, 02-953 Warszawa, Poland\n📞 **联系方式**：如有疑问，请联系主办人 Marin Belec。\n\n🌍 **活动地图**：[Hacker Bloc Warszawa, Poland](https://www.google.com/maps/search/?api=1&query=52.1701645%2C21.0787472&query_place_id=ChIJCX6edUwtGUcR-_swZZ7jY20)\n\n👨‍💻 **主办方**：Hacker Bloc\n🤝 **合作机构**：暂无信息\n\n🛠️ **注意事项**：\n- 活动期间请遵守现场规定。\n- 请注意个人安全，保管好个人物品。\n- 如有特殊需求，请提前与主办方联系。",
+   "id": "lumaevt-DGtkRIb2wROsR7d",
+   "name": "黑客与烧烤——黑客之家烧烤",
+   "organizer": "HACKER BLOC、MARIN BELEC",
+   "official_url": "https://luma.com/wa6fgvte",
+   "type": "黑客松",
+   "tags": [
+    "机器学习/AI",
+    "社会公益"
+   ],
+   "city": "黑客区块，波兰华沙科西亚尔齐21B，02-953",
+   "prize": null,
+   "start": "2026-11-14",
+   "deadline": null,
+   "end": "2026-11-14",
+   "signup": "upcoming",
+   "description": "华沙最真实的黑客之家。",
+   "sources": [
+    {
+     "name": "AI赛事通",
+     "url": "https://www.competehub.dev/zh/competitions/lumaevt-DGtkRIb2wROsR7d"
+    }
+   ]
+  },
+  {
+   "detail": "# AI x Finance Hackathon with Brevan Howard 比赛内容概括\n\n## 1. 比赛简介\n🚀 **比赛概述**：EPFL AI Team 主办了一场名为 \"AI x Finance Hackathon with Brevan Howard\" 的黑客马拉松活动。该活动旨在探索世界领先投资公司如何使用AI和数据来理解市场，并挑战参与者运用AI、代码和智慧解决实际问题。\n\n🎯 **比赛目的**：通过这次活动，EPFL AI Team 希望激发参与者的创新思维和团队精神，推动AI在金融领域的应用。\n\n📚 **主要内容**：\n- 参与者将在8小时内，利用AI技术解决金融领域的实际问题。\n- 活动将提供免费餐饮，并限制参与人数为80人。\n- 参与者需自带笔记本电脑（已安装Python）和充电器。\n\n## 2. 时间安排\n📅 **活动日期**：2023年11月6日（星期五）\n🕒 **活动时间**：10:30 - 20:00 GMT+1\n📍 **活动地点**：BC Building (IC faculty), Chem. Alan Turing, 1015 Ecublens, Switzerland\n\n## 3. 奖金\n💳 **奖金设置**：奖金为500-1000瑞士法郎。\n\n## 4. 要求\n🔧 **参赛要求**：\n- 参与者需具备一定的编程能力和AI知识。\n- 参与者需自带笔记本电脑（已安装Python）和充电器。\n- 参与者需具备热情、创新思维和团队精神。\n\n## 5. 重要细节\n👨‍💻 **技术要求**：\n- 参与者需自带笔记本电脑（已安装Python）和充电器。\n\n🎯 **活动目标**：\n- 探索AI在金融领域的应用。\n- 激发参与者的创新思维和团队精神。\n\n📍 **活动地点**：\n- BC Building (IC faculty), Chem. Alan Turing, 1015 Ecublens, Switzerland\n\n📅 **活动日期**：\n- 2023年11月6日（星期五）\n\n🕒 **活动时间**：\n- 10:30 - 20:00 GMT+1\n\n💳 **奖金**：\n- 500-1000瑞士法郎\n\n👥 **参与人数**：\n- 限80人\n\n🍽️ **餐饮**：\n- 免费餐饮",
+   "id": "lumaevt-CjdTZ28hfvA6DLo",
+   "name": "人工智能与Brevan Howard金融黑客松",
+   "organizer": "AI TEAM、ARIE DAHAN、BENJAMIN MEYER、SONIA KHADHRAOUI",
+   "official_url": "https://luma.com/jhbiush5",
+   "type": "黑客松",
+   "tags": [
+    "机器学习/AI",
+    "金融科技",
+    "区块链"
+   ],
+   "city": "BC大楼（IC学院楼），化学艾伦·图灵，瑞士埃克卢森1015号",
+   "prize": null,
+   "start": "2026-11-06",
+   "deadline": null,
+   "end": "2026-11-06",
+   "signup": "upcoming",
+   "description": "人工智能跨学科项目、活动和竞赛中心",
+   "sources": [
+    {
+     "name": "AI赛事通",
+     "url": "https://www.competehub.dev/zh/competitions/lumaevt-CjdTZ28hfvA6DLo"
+    }
+   ]
+  },
+  {
+   "detail": "# 体育教育第1卷 — Mosaico黑客马拉松\n\n## 1. 比赛简介\n🚀 Mosaico黑客马拉松是一个为期3天的创新挑战，旨在利用机器人技术和物理AI数据构建解决方案。该活动于11月27日至29日在意大利米兰的阿尔贝托学校举行，免费参加，但名额有限。\n\n比赛背景：随着人工智能和机器人技术的快速发展，体育教育领域也迎来了新的机遇。Mosaico黑客马拉松旨在鼓励参与者运用这些技术，为体育教育领域带来创新解决方案。\n\n比赛目的：通过这个活动，Mosaico希望激发参与者对体育教育领域的兴趣，促进技术创新，并推动机器人与AI在体育教育中的应用。\n\n主要内容：\n- 参与者将使用机器人技术和物理AI数据构建解决方案。\n- 活动为期3天，包括设计、开发、测试和展示阶段。\n- 参与者需在11月19日前申请，并完成Discord上的预备任务。\n- 申请截止后，将选出最多30名参与者。\n\n## 2. 时间安排\n📅 11月27日星期五 18:00 - 11月29日 23:00 GMT+1\n\n## 3. 奖金\n💳 获奖团队每人获得Bambu Lab P1S 3D打印机，所有参与者获得ElevenLabs积分，最佳项目奖。\n\n## 4. 要求\n🤝 参与者需具备以下条件：\n- 学生、研究人员、ML、软件和机器人工程师。\n- 无需机器人臂经验。\n\n## 5. 重要细节\n📍 地点：阿尔贝托学校，Via Tortona, 56, 20144 Milano MI, Italy\n📝 评选方式：挑战可选，但强烈推荐。如跳过，将根据GitHub、背景和LinkedIn评估。\n📝 参与方式：11月19日前申请，并完成Discord上的预备任务。申请截止后，选出最多30名参与者。",
+   "id": "lumaevt-8uS1EL0o79NOzWQ",
+   "name": "体育教育卷1 — Mosaico黑客松",
+   "organizer": "PERSONAL、MOSAICO",
+   "official_url": "https://luma.com/mwu3zj7i",
+   "type": "黑客松",
+   "tags": [
+    "机器人",
+    "机器学习/AI"
+   ],
+   "city": "阿尔贝特学校，意大利米兰，托尔托纳街56号",
+   "prize": null,
+   "start": "2026-11-27",
+   "deadline": null,
+   "end": "2026-11-29",
+   "signup": "upcoming",
+   "description": "",
+   "sources": [
+    {
+     "name": "AI赛事通",
+     "url": "https://www.competehub.dev/zh/competitions/lumaevt-8uS1EL0o79NOzWQ"
+    }
+   ]
+  },
+  {
+   "detail": "# ETH AI Club Demo Night #2 比赛内容概括\n\n## 1. 比赛简介\n🚀 ETH AI Club Demo Night #2 是由苏黎世联邦理工学院学生员工协会与 ETH AI Club 共同举办的一场人工智能领域的展示活动。该活动旨在提供一个平台，让参与者展示他们在人工智能领域的创新项目，促进学术交流与合作，激发更多对人工智能的兴趣和研究。\n\n比赛背景：随着人工智能技术的飞速发展，越来越多的学生和研究人员投身于这一领域。ETH AI Club 作为苏黎世联邦理工学院内的人工智能爱好者组织，致力于推动人工智能技术的普及和应用。\n\n比赛目的：\n- 展示人工智能领域的创新项目，激发更多对人工智能的兴趣。\n- 促进学术交流与合作，推动人工智能技术的发展。\n- 为参与者提供一个展示自己才华和项目的平台。\n\n比赛主要内容：\n- 参赛者需提交人工智能领域的创新项目，包括但不限于机器学习、深度学习、自然语言处理、计算机视觉等。\n- 参赛者需准备演示文稿，展示项目的技术细节、应用场景和预期成果。\n- 比赛评委将根据项目的创新性、技术难度、应用价值等方面进行评分。\n\n## 2. 时间安排\n（此部分内容未提供，故不输出）\n\n## 3. 奖金\n（此部分内容未提供，故不输出）\n\n## 4. 要求\n- 参赛者需为苏黎世联邦理工学院的学生或员工。\n- 参赛项目需为人工智能领域的创新项目。\n- 参赛者需准备演示文稿，包括项目的技术细节、应用场景和预期成果。\n- 参赛者需在规定时间内完成演示。\n\n## 5. 重要细节\n- 比赛报名截止日期：2023年X月X日\n- 演示时间：2023年X月X日\n- 比赛地点：苏黎世联邦理工学院\n- 联系方式：[ETH AI Club](https://luma.com/user/ethaiclub)\n\n🤝 ETH AI Club 欢迎所有对人工智能感兴趣的学生和研究人员参加比赛，共同推动人工智能技术的发展！",
+   "id": "lumaevt-sEqfuBg65gMZtm2",
+   "name": "演示之夜#2",
+   "organizer": "ETH AI CLUB",
+   "official_url": "https://luma.com/gbol9hih",
+   "type": "黑客松",
+   "tags": [
+    "机器学习/AI",
+    "社会公益",
+    "教育"
+   ],
+   "city": "苏黎世，瑞士",
+   "prize": null,
+   "start": "2026-11-12",
+   "deadline": null,
+   "end": "2026-11-12",
+   "signup": "upcoming",
+   "description": "苏黎世联邦理工学院学生员工协会，一起学习、构建和部署AI！",
+   "sources": [
+    {
+     "name": "AI赛事通",
+     "url": "https://www.competehub.dev/zh/competitions/lumaevt-sEqfuBg65gMZtm2"
+    }
+   ]
+  },
+  {
+   "detail": "# 🏃‍➡️ The Builders Run #7 比赛内容概括\n\n## 1. 比赛简介\nThe Builders Run #7 是由 Zurich Tech Collective 主办的一项每月晨跑活动，旨在为苏黎世的建造者、创始人及运营商提供一个结合锻炼与有意义对话的平台。该活动由铁人三项运动员及 [athletedata](https://www.athletedata.health/?utm_source=luma) 创始人 [Daniel](https://www.linkedin.com/in/danielstadelmann/?utm_source=luma) 主持，旨在通过保持运动节奏的同时放松交流，促进参与者之间的互动和交流。\n\n**背景：**\n活动旨在为城市建造者、创始人及运营商提供一个社交和锻炼的机会，让他们在繁忙的工作之余，能够放松身心，同时拓展人脉。\n\n**目的：**\n- 促进城市建造者、创始人及运营商之间的交流与合作。\n- 提供一个锻炼身体、放松心情的机会。\n- 增强社区凝聚力。\n\n**主要内容：**\n- 简短热身\n- 8公里慢跑：约5:30-6:00分钟/公里，可能分组\n- 结束后有咖啡，通常是真正交流的时刻\n\n## 2. 时间安排\n- 日期：11月20日星期五\n- 时间：7:15 - 8:15 GMT+1\n\n## 3. 奖金\n- 无奖金信息\n\n## 4. 要求\n- 报名需审核\n- 活动地点将在注册后提供\n\n## 5. 重要细节\n- 活动地点：苏黎世，瑞士\n- 主办人：[Daniel Stadelmann](https://luma.com/user/swissdaniel) 和 [Edouard Treccani](https://luma.com/user/etreccani)\n- 参与人数：3人\n- 活动类别：健身、跑步、科技",
+   "id": "lumaevt-A7ZFpSBkTNCKd5x",
+   "name": "🏃‍➡️ 建筑者跑 #7",
+   "organizer": "ZURICH TECH COLLECTIVE、DANIEL STADELMANN、EDOUARD TRECCANI",
+   "official_url": "https://luma.com/builders-run-7",
+   "type": "黑客松",
+   "tags": [
+    "健康",
+    "社会公益"
+   ],
+   "city": "苏黎世，瑞士",
+   "prize": null,
+   "start": "2026-11-20",
+   "deadline": null,
+   "end": "2026-11-20",
+   "signup": "upcoming",
+   "description": "本城市为建筑工人举办的活动和团体活动。",
+   "sources": [
+    {
+     "name": "AI赛事通",
+     "url": "https://www.competehub.dev/zh/competitions/lumaevt-A7ZFpSBkTNCKd5x"
+    }
+   ]
+  },
+  {
+   "detail": "# SuperteamTR x Dev3pack: University Hackathon ⚡️ — Online + Istanbul\n\n## 1. 比赛简介\n🚀 SuperteamTR 与 Dev3pack 合作举办的大学黑客松，旨在为大学生提供一个学习和展示技能的平台。该活动为期4周，从11月7日开始至11月29日结束。活动背景是Solana生态系统的快速发展，目的是鼓励学生学习和应用Solana技术，将创意转化为实际产品。\n\n### 活动目的\n- **教育**: 提供Solana区块链基础知识的学习课程。\n- **创新**: 鼓励学生开发创新项目。\n- **实践**: 通过实际项目开发，提升学生的技术能力。\n\n### 主要内容\n- **路线图**: 包括区块链与Solana基础、思想赛与团队组建、产品开发、MVP与完善等环节。\n- **课程**: 提供一系列课程，帮助学生掌握必要的技能。\n- **团队组建**: 鼓励学生组建团队，共同开发项目。\n- **开发**: 学生将根据所学知识，开发自己的产品。\n- **演示日**: 所有团队将展示他们的项目，并有机会获得奖金和奖励。\n\n## 2. 时间安排\n📅 **11月7日，周六 — 区块链与Solana基础**\n📅 **11月14日，周六 — 思想赛与团队组建**\n📅 **11月21日，周六 — 产品开发**\n📅 **11月25日，周三 — MVP与完善**\n📅 **演示日**\n\n## 3. 奖金\n💳 全球黑客松最佳Solana项目奖金10,000+美元\n💳 最佳Solana移动应用Seeker手机\n💳 学生可用工具和服务2,500+美元\n💳 Türkiye参与者额外500美元类别奖金\n💳 Türkiye团队AI积分和额外奖励\n\n## 4. 要求\n🤝 对区块链、Web3和Solana建设感兴趣的大学生。\n🤝 开发者、设计师或创始人。\n🤝 无需Solana经验、现有团队或项目想法。\n\n## 5. 重要细节\n📚 免费参加。\n👨‍💻 提供免费指导、技术支持和演示日准备。\n🛠️ 有潜力的团队加速器机会。",
+   "id": "lumaevt-XpEsg0H2F3OHceq",
+   "name": "超级团队TR x Dev3pack：大学黑客马拉松 — 在线 + 伊斯坦布尔",
+   "organizer": "SUPERTEAM、SUPERTEAM TÜRKIYE",
+   "official_url": "https://luma.com/uwr4zd04",
+   "type": "黑客松",
+   "tags": [
+    "区块链",
+    "教育",
+    "机器学习/AI"
+   ],
+   "city": "贝伊奥卢，土耳其",
+   "prize": null,
+   "start": "2026-11-07",
+   "deadline": null,
+   "end": "2026-11-28",
+   "signup": "upcoming",
+   "description": "全球范围内帮助有才华的人学习、赚钱和基于Solana构建的活动。",
+   "sources": [
+    {
+     "name": "AI赛事通",
+     "url": "https://www.competehub.dev/zh/competitions/lumaevt-XpEsg0H2F3OHceq"
+    }
+   ]
+  },
+  {
+   "detail": "# Qiskit Fall Fest 2026: Hackathon & Closing Ceremony 比赛内容概括\n\n## 1. 比赛简介\nQiskit Fall Fest 2026 是一场盛大的量子计算黑客松和闭幕仪式，旨在庆祝云上量子计算十周年。活动由 IBM 主办，汇聚了全球的量子计算爱好者、研究人员和开发者。比赛的主要目的是推动量子计算技术的发展，激发创新思维，并促进量子计算领域的交流与合作。\n\n**背景**：\n- 量子计算作为一项前沿技术，近年来取得了显著进展。\n- 云上量子计算平台的兴起，使得量子计算更加普及和易于访问。\n- 为了庆祝量子计算十周年，IBM 举办了这场盛大的活动。\n\n**目的**：\n- 推动量子计算技术的发展。\n- 激发创新思维，促进量子计算领域的创新。\n- 促进全球量子计算爱好者和专业人士之间的交流与合作。\n\n**主要内容**：\n- **黑客松**：参赛者需要在规定时间内，利用 IBM 的量子计算平台开发创新的应用程序。\n- **闭幕仪式**：展示黑客松的优秀项目，颁发奖项，并邀请行业专家进行主题演讲。\n\n## 2. 时间安排\n（由于源内容中没有提供具体的时间安排信息，此部分内容为空）\n\n## 3. 奖金\n（由于源内容中没有提供奖金信息，此部分内容为空）\n\n## 4. 要求\n- 参赛者需具备一定的量子计算基础和编程能力。\n- 参赛者需使用 IBM 的量子计算平台进行开发。\n- 参赛者需在规定时间内完成项目。\n\n## 5. 重要细节\n- 活动语言：英语\n- 参赛资格：全球量子计算爱好者、研究人员和开发者\n- 活动平台：IBM 量子计算平台\n- 项目主题：量子计算在各个领域的应用创新\n\n🚀🎯✅🌍🤖🏥💳📚📈💡🤝⚙️👨‍💻🛠️",
+   "id": "lumaevt-c8DUr6EfpVs8Rmh",
+   "name": "2026 Qiskit 秋季庆典：黑客马拉松及闭幕式",
+   "organizer": "QISKIT FALL FEST 2026、ASTRACODE COMMUNITY",
+   "official_url": "https://luma.com/4bnvkmln",
+   "type": "黑客松",
+   "tags": [
+    "量子计算",
+    "机器学习/AI"
+   ],
+   "city": "IBM非洲研究院，内罗毕，肯尼亚",
+   "prize": null,
+   "start": "2026-11-13",
+   "deadline": null,
+   "end": "2026-11-13",
+   "signup": "upcoming",
+   "description": "庆祝量子云十年庆典",
+   "sources": [
+    {
+     "name": "AI赛事通",
+     "url": "https://www.competehub.dev/zh/competitions/lumaevt-c8DUr6EfpVs8Rmh"
+    }
+   ]
+  },
+  {
+   "detail": "$19",
+   "id": "lumaevt-7h7mwMFwJtJhCWC",
+   "name": "黑巴西·圣保罗发布会",
+   "organizer": "HACK BRASIL、HACKATHON BRASIL",
+   "official_url": "https://luma.com/11obbloe",
+   "type": "黑客松",
+   "tags": [
+    "机器学习/AI"
+   ],
+   "city": "保罗斯蒂亚大道1106号 - 贝拉维斯塔，圣保罗 - SP，01310-100，巴西",
+   "prize": null,
+   "start": "2026-11-05",
+   "deadline": null,
+   "end": "2026-11-06",
+   "signup": "upcoming",
+   "description": "巴西最大黑客马拉松",
+   "sources": [
+    {
+     "name": "AI赛事通",
+     "url": "https://www.competehub.dev/zh/competitions/lumaevt-7h7mwMFwJtJhCWC"
+    }
+   ]
+  },
+  {
+   "detail": "$19",
+   "id": "lumaevt-Jn88xA96O2xN63N",
+   "name": "承诺比特——全民游戏创作黑客松",
+   "organizer": "PLETHORA、ADITYA PATIL",
+   "official_url": "https://luma.com/hie3wf3b",
+   "type": "黑客松",
+   "tags": [
+    "游戏",
+    "艺术/设计",
+    "机器学习/AI"
+   ],
+   "city": "乔与果汁，旧金山霍华德街301号，加利福尼亚州94105，美国",
+   "prize": null,
+   "start": "2026-11-07",
+   "deadline": null,
+   "end": "2026-11-08",
+   "signup": "upcoming",
+   "description": "",
+   "sources": [
+    {
+     "name": "AI赛事通",
+     "url": "https://www.competehub.dev/zh/competitions/lumaevt-Jn88xA96O2xN63N"
+    }
+   ]
+  },
+  {
+   "detail": "# Side Quest Hotline Vapi Hackathon\n\n## 1. 比赛简介\n🚀 **构建和运行语音代理的必备黑客松**。在Vapi旧金山办公室，与顶级Vapi用户、创始人及AI构建者一起，在VapiCon即将到来之际，打造专属之夜。🎯 有语音AI想法却一直未付诸实践？现在是时候构建它，并找到志同道合的人一起构建了！您将有3小时将您的想法变成可工作的语音代理，现场测试并展示，有机会赢得丰厚奖品。\n\n## 2. 时间安排\n📅 **2026年11月9日星期一**\n🕔 **下午5:00 – 晚上9:00 PST**\n\n## 3. 奖金\n💳 **丰厚奖品等你拿**：\n- 🥇 **一等奖：Apple AirPods**\n- 🥈 **二等奖：Seeed Studio可编程硬件**\n- 🥉 **三等奖：Belkin有线耳机**\n- 🎮 **[Deepgram](https://deepgram.com/?utm_source=luma)**: Nintendo Switch 2台奖品！\n- 🔎 **[Exa](https://exa.ai/?utm_source=luma)**: 获胜项目$2,000 API积分\n- 🖐️ **[Manus](https://manus.im/?utm_source=luma)**: 6个月Manus会员资格+获胜团队的独家礼品\n- ☎️ **[Vapi](https://vapi.ai/?utm_source=luma)**: 顶级3队额外积分\n\n## 4. 要求\n✅ **报名要求**：\n- **名额有限**。此黑客松最多容纳80名构建者。\n- 您必须申请并获得批准才能参加。\n\n## 5. 重要细节\n🛠️ **携带物品**：您的笔记本电脑、一个想法和构建所需的能量。\n📍 **地点**：Vapi总部，旧金山，150 Spear St, San Francisco, CA 94105, USA\n🤝 **主办方**：由[Build Club](https://www.buildclub.ai/?utm_source=luma)联合举办，全球最具合作性的AI社区。\n📝 **奖品分配和积分兑换受赞助商条款约束。更多信息将与批准的参与者分享**。",
+   "id": "lumaevt-7aPpM3ZEJfBWSRT",
+   "name": "支线任务热线 Vapi黑客松",
+   "organizer": "BUILD CLUB、ANNIE LIAO、VAPI EVENTS、AMANDA MARTIN、JOSEPH ZIEFF、NAOMI CARRIGAN、VICTOR LI、KE DENG、MANUS COMMUNITY、EXA.AI",
+   "official_url": "https://luma.com/buildclub-lugq",
+   "type": "黑客松",
+   "tags": [
+    "机器学习/AI",
+    "语音技能"
+   ],
+   "city": "150 Spear St, 旧金山，CA 94105，美国",
+   "prize": null,
+   "start": "2026-11-10",
+   "deadline": null,
+   "end": "2026-11-10",
+   "signup": "upcoming",
+   "description": "全球最具协作性的AI社区（50+城市，3万+成员）",
+   "sources": [
+    {
+     "name": "AI赛事通",
+     "url": "https://www.competehub.dev/zh/competitions/lumaevt-7aPpM3ZEJfBWSRT"
+    }
+   ]
+  },
   {
    "detail": "# Hack Nexus 2027 比赛内容概括\n\n## 1. 比赛简介\n🚀 Hack Nexus 2027 是一场为期36小时的学生黑客马拉松，旨在汇聚来自纳格浦尔及以外地区的300多名学生、开发者和创新者。活动期间，参与者将有机会从导师那里学习，探索新兴技术，并与不断壮大的创作者社区建立联系。该活动于2027年1月30日至31日在印度纳格浦尔举行。\n\n## 2. 时间安排\n📅 2027年1月30日 - 31日\n\n## 3. 奖金\n💳 比赛奖金信息未提供。\n\n## 4. 要求\n✅ 参赛者需遵守[行为准则](https://devfolio.co/code-of-conduct)。\n✅ 团队规模为2-4人。\n✅ 注册费用免费。\n\n## 5. 重要细节\n🤝 活动主办方为 Aryan Vijaykar，可通过 [LinkedIn](https://linkedin.com/in/aryan-vijaykar) 联系。\n📧 如有更多问题，请联系 advijaykar@gmail.com。\n🌍 活动地点：印度纳格浦尔\n📈 活动截止时间：42天7小时49分钟\n📱 立即申请参加比赛\n🔗 [Hack Nexus 2027 官网](https://hack-nexus.devfolio.co/overview)",
    "id": "devfolio409173af22ac40d5aecb47ea06886ab3",
@@ -452,7 +1282,7 @@
    ]
   },
   {
-   "detail": "$19",
+   "detail": "$14",
    "id": "unstop1781078",
    "name": "阿尔戈内克斯1.0",
    "organizer": null,
@@ -477,7 +1307,7 @@
    ]
   },
   {
-   "detail": "$19",
+   "detail": "$14",
    "id": "dorahacksmozilla-devs-wilding",
    "name": "Mozilla Otari黑客松 - 开发者狂欢在线！",
    "organizer": "MOZILLA",
@@ -609,28 +1439,6 @@
     {
      "name": "AI赛事通",
      "url": "https://www.competehub.dev/zh/competitions/devpost31489"
-    }
-   ]
-  },
-  {
-   "detail": "暂无内容",
-   "id": "devpost31815",
-   "name": "神经风暴",
-   "organizer": "JNTUH",
-   "official_url": "https://neuralstorm.devpost.com/",
-   "type": "黑客松",
-   "tags": [],
-   "city": "线上",
-   "prize": "¥144,000",
-   "start": "2026-11-02",
-   "deadline": null,
-   "end": "2026-11-04",
-   "signup": "open",
-   "description": "",
-   "sources": [
-    {
-     "name": "AI赛事通",
-     "url": "https://www.competehub.dev/zh/competitions/devpost31815"
     }
    ]
   },
@@ -1110,7 +1918,7 @@
    "start": "2026-11-04",
    "deadline": null,
    "end": "2026-11-05",
-   "signup": "upcoming",
+   "signup": "open",
    "description": "一些人在米兰的Café Cursor晚会上见过。这次有点不同。\n\n[ctrlalt.museum](https://ctrlalt.museum/?utm_source=luma) 是帕维亚的一家复古计算机博物馆，由我多年参与的comPVter非营利组织运营。他们有机器人狗、驾驶模拟器、飞行模拟器和几架无人机，让我们在两天内对其进行破解，实际操作，不是绳索后的演示。\n\n任务：选择一件硬件、一个API，连接到Grok（API、Grok语音或机器人框架），周四下午展示出你开始时无法工作的东西。\n\nSpaceXAI团队的Ralph Johnson将于周四加入我们。他将首先就模型和API发表演讲，然后",
    "sources": [
     {
@@ -1186,31 +1994,6 @@
     {
      "name": "AI赛事通",
      "url": "https://www.competehub.dev/zh/competitions/lumaevt-wWN2lTxgT9fmdDb"
-    }
-   ]
-  },
-  {
-   "detail": "# Claude Builder Club: Kick-off 比赛内容概括\n\n## 1. 比赛简介\n🚀 **比赛概述**：Claude Builder Club: Kick-off 是一场旨在促进人工智能和编程技能发展的比赛。该活动由 Claude Builder Club 主办，面向所有对人工智能和编程感兴趣的人士开放。\n\n🎯 **比赛背景**：随着人工智能技术的飞速发展，编程和人工智能技能变得越来越重要。为了培养新一代的编程人才，Claude Builder Club 举办了这场比赛，旨在提供一个平台，让参与者展示他们的编程能力和创新思维。\n\n✅ **比赛目的**：\n- 培养和提升参与者的编程技能。\n- 鼓励创新思维和问题解决能力。\n- 促进人工智能领域的交流与合作。\n\n📚 **主要内容**：\n- 参赛者将参与一系列编程挑战，包括但不限于人工智能算法、数据结构、机器学习等。\n- 比赛将分为多个阶段，每个阶段都有不同的任务和挑战。\n- 参赛者需要独立完成挑战，并提交他们的代码和解决方案。\n\n## 2. 时间安排\n📅 **日期和时间**：11月3日星期二，18:00 - 19:30 GMT-5\n\n📍 **地点**：Pearl Sullivan Engineering Building (PSE), 200 University Ave W, Waterloo, ON N2L 3G5, Canada\n\n## 4. 要求\n🔧 **参赛资格**：所有对人工智能和编程感兴趣的人士均可报名参加。\n\n📝 **报名方式**：需要审核，请通过活动页面报名。\n\n## 5. 重要细节\n👨‍💻 **技术要求**：参赛者需要具备基本的编程知识和技能，熟悉至少一种编程语言。\n\n🛠️ **比赛工具**：比赛将提供必要的编程工具和资源，参赛者无需自带。\n\n💡 **评分标准**：评委将根据参赛者的代码质量、创新性、解决问题的能力等方面进行评分。\n\n🤝 **社区支持**：Claude Builder Club 将为参赛者提供社区支持，包括技术指导、资源分享等。",
-   "id": "lumaevt-EHlUVvj0sztgcMD",
-   "name": "克劳德建造俱乐部：启航",
-   "organizer": "CLAUDE BUILDER CLUB @ WATERLOO、TAIRA",
-   "official_url": "https://luma.com/cdynu374",
-   "type": "黑客松",
-   "tags": [
-    "教育",
-    "机器学习/AI"
-   ],
-   "city": "珍珠·沙利文工程大楼（PSE），加拿大滑铁卢市西大学街200号，安大略省N2L 3G5",
-   "prize": null,
-   "start": "2026-11-03",
-   "deadline": null,
-   "end": "2026-11-04",
-   "signup": "upcoming",
-   "description": "",
-   "sources": [
-    {
-     "name": "AI赛事通",
-     "url": "https://www.competehub.dev/zh/competitions/lumaevt-EHlUVvj0sztgcMD"
     }
    ]
   },
@@ -1871,7 +2654,7 @@
    ]
   },
   {
-   "detail": "$19",
+   "detail": "$14",
    "id": "lumaf1e567a7185945ecfb096bd3f140f6c7",
    "name": "AIE x MLH 编程马拉松",
    "organizer": "MAJOR LEAGUE HACKING",
@@ -2021,32 +2804,6 @@
     {
      "name": "AI赛事通",
      "url": "https://www.competehub.dev/zh/competitions/luma428ea8ec524aa856992771071feb5cd0"
-    }
-   ]
-  },
-  {
-   "detail": "# n8n 硬件自动化黑客松与 Atech - 哥本哈根\n\n## 1. 比赛简介\n🚀 **构建一个能与 n8n 工作流通信的物理设备**。这场黑客松旨在鼓励参与者将硬件与自动化技术相结合，通过 n8n 工作流和 Atech 硬件模块，创建出能够与 n8n 工作流互动的物理设备。\n\n### 背景\n- **目的**：提升参与者对硬件自动化和 n8n 工作流的理解，促进创新和技术交流。\n- **主要内容**：参与者将学习如何将传感器、摄像头等硬件设备与 n8n 工作流连接，实现自动化控制，并探索如何将 AI 引入循环。\n\n## 2. 时间安排\n- **日期**：11月4日星期三\n- **时间**：17:00 - 21:30 GMT+1\n- **地点**：丹麦哥本哈根 Lille Strandstræde 6A\n\n## 3. 要求\n- **适合人群**：对连接硬件到自动化感兴趣的任何人，包括开发者、制造者、n8n 用户等。\n- **无需经验**：无需 n8n 或硬件经验，活动将提供启动介绍和 Atech 网页编辑器。\n- **所需物品**：笔记本电脑、n8n 账户、USB-C 数据线。\n\n## 4. 重要细节\n- **启动会**：n8n 和 Atech 硬件简短介绍，以及一些启动想法。\n- **团队组建**：现场组建团队或自带团队，每队最多 4 人。\n- **构建过程**：从 Atech 网页编辑器开始，构建 n8n 工作流和设备。\n- **演示**：每个团队在结束时进行演示，获胜队伍保留工具包。\n- **注册**：请注册两次，一次在 Luma 网站上，一次在 AI Founders 网络上。",
-   "id": "luma64fc990960ee7f13578a66fbdd9b444e",
-   "name": "n8n硬件自动化黑客松——哥本哈根与Atech",
-   "organizer": "N8N",
-   "official_url": "https://luma.com/n8n-8i07",
-   "type": "黑客松",
-   "tags": [
-    "机器学习/AI",
-    "物联网",
-    "工程开发"
-   ],
-   "city": "里勒·斯特兰斯特雷达6A，1254哥本哈根，丹麦",
-   "prize": null,
-   "start": "2026-11-04",
-   "deadline": null,
-   "end": "2026-11-04",
-   "signup": "upcoming",
-   "description": "构建与n8n工作流通信的物理设备。欢迎对连接硬件与自动化感兴趣的任何人，包括开发者、制造商、n8n用户及从未打开过n8n的人。无需n8n或硬件经验：启动介绍两者，Atech网页编辑器让您无需代码即可开始。n8n运行自动化：传感器读数或摄像头触发工作流，工作流可对设备做出反应。Atech提供硬件：每位参与者一块主板和一套构建模块。板载WiFi和蓝牙，您所构建的设备可与n8n、AI模型或任何其他您已使用的系统通信。",
-   "sources": [
-    {
-     "name": "AI赛事通",
-     "url": "https://www.competehub.dev/zh/competitions/luma64fc990960ee7f13578a66fbdd9b444e"
     }
    ]
   },
@@ -2455,32 +3212,6 @@
     {
      "name": "AI赛事通",
      "url": "https://www.competehub.dev/zh/competitions/lumaevt-NQTbzZHmXmhYHwg"
-    }
-   ]
-  },
-  {
-   "detail": "$19",
-   "id": "lumaevt-Ga5gENxq3gosCGR",
-   "name": "人工智能大脑构建工作坊",
-   "organizer": "CALGARY INNOVATION WEEK 2026、PRODUCT CALGARY",
-   "official_url": "https://luma.com/100x56gd",
-   "type": "黑客松",
-   "tags": [
-    "机器学习/AI",
-    "生产力/效率",
-    "教育"
-   ],
-   "city": "平台创新中心，加拿大阿尔伯塔省卡尔加里，东南9街407号，T2G 2K7",
-   "prize": null,
-   "start": "2026-11-03",
-   "deadline": null,
-   "end": "2026-11-04",
-   "signup": "upcoming",
-   "description": "注册活动：\n1️⃣ 点击“加入卡尔加里创新周参与者”。\n2️⃣ 输入邮箱，输入Luma发送的代码。\n3️⃣ 返回活动页面，点击注册，完成！",
-   "sources": [
-    {
-     "name": "AI赛事通",
-     "url": "https://www.competehub.dev/zh/competitions/lumaevt-Ga5gENxq3gosCGR"
     }
    ]
   },
@@ -3816,32 +4547,6 @@
    ]
   },
   {
-   "detail": "$19",
-   "id": "lumaevt-AeRySImG9vyxpdx",
-   "name": "让科幻更佳：与Mistral AI的编程之夜",
-   "organizer": "YOU KNOW、FOR SEARCH、JD ARMADA",
-   "official_url": "https://luma.com/mistral-elastic",
-   "type": "黑客松",
-   "tags": [
-    "机器学习/AI",
-    "社会公益",
-    "计算机视觉"
-   ],
-   "city": "33 新蒙哥马利街，旧金山，加利福尼亚州，94105，美国",
-   "prize": null,
-   "start": "2026-11-04",
-   "deadline": null,
-   "end": "2026-11-04",
-   "signup": "upcoming",
-   "description": "搜索工作者聚会。关于全文搜索、向量数据库、LLMs、ML、可观测性和大规模数据的技术讲座。由Elastic赞助。",
-   "sources": [
-    {
-     "name": "AI赛事通",
-     "url": "https://www.competehub.dev/zh/competitions/lumaevt-AeRySImG9vyxpdx"
-    }
-   ]
-  },
-  {
    "detail": "# CBAI Boston Biosecurity Hackathon 比赛内容概括\n\n## 1. 比赛简介\n🚀 **比赛概述**：CBAI Boston Biosecurity Hackathon 是一场面向生命科学家的实战人工智能挑战赛。本次比赛不要求参赛者具备编程能力，旨在探索人工智能在科学领域的应用以及对抗性测试。\n\n🎯 **比赛背景**：随着人工智能技术的快速发展，其在生命科学领域的应用日益广泛。为了促进这一领域的创新，CBAI（中国生物安全协会）与ASTRAL团队合作，举办了这场Hackathon。\n\n✅ **比赛目的**：\n- 探索人工智能在生命科学领域的应用。\n- 促进科学家之间的交流与合作。\n- 支持CBAI的ASTRAL项目。\n\n💡 **主要内容**：\n- 参赛者无需具备编程能力，可以通过测试和讨论来展示自己的见解。\n- 比赛将围绕生物安全展开，涉及对抗性测试等话题。\n- 比赛旨在为研究助理、学生、博士后以及具有相关经验的人士提供展示平台。\n\n## 2. 时间安排\n📅 **日期**：11月15日星期日\n🕒 **时间**：10:00 - 17:00 GMT-5\n\n## 3. 奖金\n💳 **奖金总额**：$5,000\n**奖金分配**：具体奖金分配方案将在比赛结束后公布。\n\n## 4. 要求\n📚 **参赛资格**：\n- 研究助理\n- 学生\n- 博士后\n- 具有相关经验的人士\n\n## 5. 重要细节\n📍 **地点**：20 Brattle St, Cambridge, MA 02138, USA\n📍 **楼层**：3楼\n\n📧 **联系方式**：\n- 主办人：[Jessica Chen](https://luma.com/user/usr-zzLTAKR5WAoF4UR)\n- 邮箱：ASTRAL@detection.bio\n\n📌 **报名方式**：需要审核，请点击报名链接进行报名。",
    "id": "lumaevt-xW4KTn5oESfAutt",
    "name": "CBAI波士顿生物安全黑客松",
@@ -3910,7 +4615,7 @@
    "start": "2026-11-04",
    "deadline": null,
    "end": "2026-11-05",
-   "signup": "upcoming",
+   "signup": "open",
    "description": "",
    "sources": [
     {
@@ -4635,31 +5340,6 @@
    ]
   },
   {
-   "detail": "# Claude Cybersecurity Workshop | London Hackathon 比赛内容概括\n\n## 1. 比赛简介\n🚀 Claude Cybersecurity Workshop | London Hackathon 是一场由 Claude 社区成员主办的网络安全黑客松活动。该活动旨在提供一个平台，让网络安全爱好者、专业人士和学者们共同探讨网络安全领域的最新技术和挑战。比赛背景反映了当前网络安全领域的重要性，以及全球范围内对网络安全人才的需求日益增长。活动目的包括：\n- **提升网络安全意识**：通过实际操作和讨论，提高参与者对网络安全威胁的认识。\n- **促进技术创新**：鼓励参与者提出创新的解决方案，以应对网络安全挑战。\n- **加强社区联系**：为网络安全领域的专业人士提供一个交流和学习的机会。\n\n比赛的主要内容涉及以下几个方面：\n- **网络安全漏洞挖掘**：参与者需要发现并报告软件或系统中的安全漏洞。\n- **防御策略设计**：设计有效的防御策略来抵御网络攻击。\n- **安全工具开发**：开发或改进网络安全工具，以提高检测和响应网络威胁的能力。\n- **案例研究分析**：分析真实的网络安全事件，探讨其背后的原因和解决方案。\n\n## 4. 要求\n✅ 参赛者需具备基本的网络安全知识，包括但不限于：\n- 网络协议和架构\n- 安全漏洞和攻击方法\n- 防御技术和策略\n- 安全工具的使用\n\n## 5. 重要细节\n- **活动形式**：线上和线下结合，参与者可以选择远程参与或现场参与。\n- **语言要求**：比赛主要使用英语进行交流。\n- **提交作品**：参与者需在规定时间内提交作品，包括漏洞报告、防御策略文档、安全工具代码等。\n- **评审标准**：作品将根据创新性、实用性、技术难度和安全性等方面进行评审。",
-   "id": "lumaevt-BBlPcTlqSWagAkS",
-   "name": "克劳德网络安全研讨会 | 伦敦黑客松",
-   "organizer": "CLAUDE COMMUNITY EVENTS、EDWARD MERRETT",
-   "official_url": "https://luma.com/claude-zl3r",
-   "type": "黑客松",
-   "tags": [
-    "网络安全",
-    "机器学习/AI"
-   ],
-   "city": "线上",
-   "prize": null,
-   "start": "2026-11-04",
-   "deadline": null,
-   "end": "2026-11-04",
-   "signup": "upcoming",
-   "description": "由Claude社区成员全球举办的Claude社区活动。与Claude共建者相聚，持续思考。了解更多：https://claude.com/community",
-   "sources": [
-    {
-     "name": "AI赛事通",
-     "url": "https://www.competehub.dev/zh/competitions/lumaevt-BBlPcTlqSWagAkS"
-    }
-   ]
-  },
-  {
    "detail": "# Oxford Neurotech Hackathon 2026 比赛内容概括\n\n## 1. 比赛简介\n🚀 **比赛概述**：Oxford Neurotech Hackathon 2026 是一场由 Oxford Neurotech Society 主办的黑客松活动，旨在为参与者提供一个与神经科学家、工程师等专业人士共同构建项目的平台。\n\n🎯 **背景**：随着神经科学和人工智能技术的快速发展，这场黑客松旨在鼓励创新思维，解决神经科学、AI 等领域的挑战。\n\n✅ **目的**：通过团队合作，激发创新潜力，推动神经科技领域的发展。\n\n📚 **主要内容**：\n- 参与者需组成最多5人的团队。\n- 团队将解决神经科学、AI 等领域的挑战。\n- 无需完美想法，只需具备技能和好奇心。\n\n🌍 **地点**：Mathematical Institute, University of Oxford, Andrew Wiles Building, University of Oxford, Radcliffe Observatory, Woodstock Rd, Oxford OX2 6GG, UK\n\n## 5. 重要细节\n- 欢迎首次或多次参与者。\n- 无需提前准备完美想法，只需具备技能和好奇心。\n- 活动时间：11月7日星期六 9:00 - 11月8日 20:30 GMT。",
    "id": "lumaevt-prKffOVXRflCM2g",
    "name": "牛津神经科技黑客马拉松2026",
@@ -4702,7 +5382,7 @@
    "start": "2026-11-04",
    "deadline": null,
    "end": "2026-11-05",
-   "signup": "upcoming",
+   "signup": "open",
    "description": "",
    "sources": [
     {
@@ -5000,7 +5680,7 @@
    ]
   },
   {
-   "detail": "$19",
+   "detail": "$14",
    "id": "huawei1300000347",
    "name": "“临策”侵入式脑机接口算法竞赛·运动行为跨天解码-",
    "organizer": "临港实验室",
@@ -5075,7 +5755,7 @@
    ]
   },
   {
-   "detail": "$19",
+   "detail": "$14",
    "id": "huawei1300000344",
    "name": "“临策”侵入式脑机接口算法竞赛·精细手部运动解码-",
    "organizer": "临港实验室",
@@ -5154,31 +5834,6 @@
   },
   {
    "detail": "$14",
-   "id": "huawei1300000313",
-   "name": "华为嵌入式软件大赛-实物组",
-   "organizer": "华为技术有限公司-ICT BG-光产品线",
-   "official_url": "https://developer.huaweicloud.com/competition/information/1300000313",
-   "type": "数据算法赛",
-   "tags": [
-    "机器人",
-    "机器学习/AI"
-   ],
-   "city": "线上",
-   "prize": "¥215,000",
-   "start": "2026-09-14",
-   "deadline": null,
-   "end": "2026-11-04",
-   "signup": "open",
-   "description": "华为嵌入式软件大赛（Huawei Embedded AI Challenge）-实物组赛道",
-   "sources": [
-    {
-     "name": "AI赛事通",
-     "url": "https://www.competehub.dev/zh/competitions/huawei1300000313"
-    }
-   ]
-  },
-  {
-   "detail": "$19",
    "id": "huawei1300000312",
    "name": "华为嵌入式软件大赛-算法组",
    "organizer": "华为技术有限公司-ICT BG-光产品线",
@@ -6073,7 +6728,7 @@
    "start": "2026-11-04",
    "deadline": null,
    "end": "2026-11-07",
-   "signup": "upcoming",
+   "signup": "open",
    "description": "将你的独立代理变成团队成员。Flip the Switch是由WeMakeDevs和DevTools Academy举办的为期4天的在线黑客马拉松，由Switch AI提供支持。使用你已有的AI代理，如Claude Code、Codex、Cursor或OpenCode，通过Switch将其连接到Slack、Discord、Teams或Mattermost，构建一个与人们一起完成实际工作的流程。这可能是一个为你的团队分类错误报告的代理，或者是你每天都会使用的个人或创意工具。",
    "sources": [
     {
@@ -6304,28 +6959,6 @@
    ]
   },
   {
-   "detail": "# Out in Tech Demo Night 5.0 比赛内容概括\n\n## 1. 比赛简介\nOut in Tech Demo Night 5.0 是一场专为LGBTQ+科技专业人士和盟友举办的展示活动。该活动旨在为参与者提供一个平台，让他们能够分享自己的项目，包括激情项目、初创企业、工具或实验性项目。活动背景是连接和加强LGBTQ+科技社区，提供一个支持性的环境，让参与者能够展示自己的作品，获取反馈，结识合作伙伴，并与科技界的LGBTQ+人士交流。\n\n**目的：**\n- 促进LGBTQ+科技专业人士之间的交流和合作。\n- 为参与者提供一个展示自己项目的平台。\n- 增强社区凝聚力，支持LGBTQ+科技社区的发展。\n\n**主要内容：**\n- 参与者可以展示自己的项目，无需压力，无需完美提案。\n- 活动提供反馈和交流机会，帮助参与者改进项目。\n- 举办地点为Capital Factory Austin, TX。\n\n## 2. 时间安排\n- 日期：11月3日星期二\n- 时间：18:30 - 20:30 GMT-6\n\n## 4. 要求\n- 参与者需是LGBTQ+科技专业人士或盟友。\n- 参与者需准备一个项目展示，可以是激情项目、初创企业、工具或实验性项目。\n- 参与者需发送邮件至 austin@outintech.com 了解详情或预订展示位置。\n\n## 5. 重要细节\n- 活动地点：Capital Factory Austin, TX\n- 赞助商：Station Austin\n- 主办人：Michael Moran, Chris Machemehl, Brad Zellman",
-   "id": "lumaevt-IXzQwX4gOukxJBw",
-   "name": "科技Demo之夜5.0",
-   "organizer": "OUT IN TECH AUSTIN、MICHAEL MORAN、CHRIS MACHEMEHL、BRAD ZELLMAN",
-   "official_url": "https://luma.com/l3x8yaxw",
-   "type": "黑客松",
-   "tags": [],
-   "city": "资本工厂，美国德克萨斯州奥斯汀市，布拉索斯街701号，邮编78701",
-   "prize": null,
-   "start": "2026-11-04",
-   "deadline": null,
-   "end": "2026-11-04",
-   "signup": "upcoming",
-   "description": "一个自2018年起通过活动、网络和指导连接德克萨斯州奥斯汀的LGBTQ+科技专业人士和盟友的欢迎社区。",
-   "sources": [
-    {
-     "name": "AI赛事通",
-     "url": "https://www.competehub.dev/zh/competitions/lumaevt-IXzQwX4gOukxJBw"
-    }
-   ]
-  },
-  {
    "detail": "# Brand New Worlds Hackathon 比赛内容概括\n\n## 1. 比赛简介\n🚀 **Brand New Worlds: 创意 AI 广告黑客松** 是一场48小时的创意技术黑客松活动，由Caleb Moulema和其他4人联合主办。活动旨在为知名品牌和机构提供创新的解决方案，汇聚哈佛、麻省理工等高校的顶尖人才。\n\n**背景**：随着人工智能技术的飞速发展，广告行业正经历着前所未有的变革。为了探索AI在广告领域的应用潜力，此次黑客松应运而生。\n\n**目的**：\n- 推动AI技术在广告领域的创新应用\n- 为品牌和机构提供创新的解决方案\n- 激发创意人才的技术潜能\n\n**主要内容**：\n- **The Flow**：活动分为三个阶段：\n  - 11月5日：开幕式、主题公布、合作伙伴演示。\n  - 11月6日：工作坊、指导、迭代。\n  - 11月7日：最终制作、提案、评审、颁奖。\n\n## 2. 时间安排\n📅 **活动时间**：2026年11月5-7日\n\n## 3. 奖金\n💳 **奖金设置**：现金奖励、平台积分和行业曝光\n\n## 4. 要求\n📝 **报名要求**：\n- 需要审核\n- 具备一定的AI技术背景和创意思维\n\n## 5. 重要细节\n- **主办方**：Trippy Pictures、Mirelo、fal、TEDxHarvardSquare\n- **地点**：哈佛艺术博物馆，32 Quincy St, Cambridge, MA 02138, USA\n- **报名方式**：[立即申请](https://luma.com/)",
    "id": "lumaevt-siSA1g3fToukjGk",
    "name": "全新世界黑客马拉松",
@@ -6426,7 +7059,7 @@
    "start": "2026-11-04",
    "deadline": null,
    "end": "2026-11-05",
-   "signup": "upcoming",
+   "signup": "open",
    "description": "举办黑客马拉松、加速器和冲刺的地方。活动结束后仍持续支持建设者、项目和动力的平台。",
    "sources": [
     {
@@ -6698,7 +7331,7 @@
    "start": "2026-11-04",
    "deadline": null,
    "end": "2026-11-05",
-   "signup": "upcoming",
+   "signup": "open",
    "description": "",
    "sources": [
     {
@@ -6877,7 +7510,7 @@
    "start": "2026-11-03",
    "deadline": null,
    "end": "2026-12-16",
-   "signup": "upcoming",
+   "signup": "open",
    "description": "CrossBar推动存储和硅系统前沿，构建硬件级性能、安全和可验证性的架构。",
    "sources": [
     {
@@ -6908,31 +7541,6 @@
     {
      "name": "AI赛事通",
      "url": "https://www.competehub.dev/zh/competitions/lumaevt-FRwmEApqD8w6r4m"
-    }
-   ]
-  },
-  {
-   "detail": "# 0G Builders Brunch 比赛内容概括\n\n## 1. 比赛简介\n🚀 **比赛概述**：0G Builders Brunch 是一场由0G Foundation举办的AI和区块链技术领域的开发者聚会。活动旨在促进AI和区块链技术的创新，为开发者提供一个交流和学习的机会。\n\n🎯 **背景**：0G Foundation 致力于构建一个AI的信任层，通过整合私有计算、加密存储和AI原生EVM L1链，确保AI工作从推理到代理行为均经过验证和审计。\n\n✅ **目的**：活动的主要目的是促进AI和区块链技术的交流与合作，激发开发者们的创新思维，推动相关技术的发展。\n\n📚 **主要内容**：\n- **技术分享**：邀请行业专家分享AI和区块链技术的最新进展和应用案例。\n- **开发者交流**：为开发者提供一个交流平台，促进彼此之间的合作与学习。\n- **项目展示**：鼓励开发者展示自己的项目，获得反馈和指导。\n\n## 2. 时间安排\n📅 **日期**：2023年11月4日\n🕒 **时间**：11:00 - 13:00 GMT+5:30\n\n## 3. 奖金\n💳 **奖金信息**：ETHGlobal Mumbai为0G Builders Brunch提供了15,000美元的奖金。\n\n## 4. 要求\n🔍 **报名要求**：需要审核报名资格。\n\n## 5. 重要细节\n📍 **地点**：BKC，具体地点注册后获取。\n🚗 **交通**：离Jio World Convention Centre 3分钟车程/15分钟步行。\n📌 **注册**：欢迎注册参加！注册后获取具体地点。",
-   "id": "lumaevt-08jX7ADSLH1huIV",
-   "name": "零G建造者早午餐",
-   "organizer": "0G'S EVENT CALENDAR、0G FOUNDATION",
-   "official_url": "https://luma.com/0g-builders-mumbai",
-   "type": "黑客松",
-   "tags": [
-    "区块链",
-    "机器学习/AI"
-   ],
-   "city": "孟买，印度",
-   "prize": null,
-   "start": "2026-11-04",
-   "deadline": null,
-   "end": "2026-11-04",
-   "signup": "upcoming",
-   "description": "0G是AI的信任层。它将私有计算、加密存储和AI原生EVM L1链结合在一起，AI工作（从推理到代理动作）在此栈中验证和审计。",
-   "sources": [
-    {
-     "name": "AI赛事通",
-     "url": "https://www.competehub.dev/zh/competitions/lumaevt-08jX7ADSLH1huIV"
     }
    ]
   },
@@ -7040,32 +7648,6 @@
    ]
   },
   {
-   "detail": "# HeyGen & OpenBuilder AI视频力量比赛内容概括\n\n## 1. 比赛简介\nHeyGen与OpenBuilder联合举办了一场AI视频力量比赛，旨在探讨人工智能如何重塑组织沟通方式。🤖🎯\n\n**背景：**\n随着AI技术的快速发展，视频成为组织沟通的重要工具。HeyGen和OpenBuilder希望通过这次比赛，展示AI视频在提升沟通效果方面的潜力。\n\n**目的：**\n- 探讨AI视频在组织沟通中的应用。\n- 展示AI视频技术的创新成果。\n- 促进HeyGen和OpenBuilder社区的交流与合作。\n\n**主要内容：**\n- HeyGen和OpenBuilder团队将分享AI视频制作的技巧和经验。\n- 参赛者将展示自己的AI视频作品，并与其他参赛者交流心得。\n- 评委将根据作品创意、技术实现和沟通效果等方面进行评分。\n\n## 2. 时间安排\n- 11月4日星期三\n- 18:00 - 21:00 GMT+8\n\n## 3. 奖金\n- 比赛设有奖金，具体金额未公布。\n\n## 4. 要求\n- 参赛者需具备AI视频制作能力。\n- 作品需体现AI视频在组织沟通中的应用。\n- 作品需符合比赛主题，具有创新性和实用性。\n\n## 5. 重要细节\n- 比赛免费参加，需审核，名额有限。\n- 参赛者需在注册后查看具体地点。\n- HeyGen和OpenBuilder团队将提供技术支持和指导。",
-   "id": "lumaevt-E0AIAwmrwOefF4G",
-   "name": "探索HeyGen与OpenBuilder的AI视频力量",
-   "organizer": "HEYGEN COMMUNITY EVENTS、HEYGEN COMMUNITY、LIONEL SIM、AN TING (SGINNOVATE)",
-   "official_url": "https://luma.com/heygen-v80w",
-   "type": "黑客松",
-   "tags": [
-    "机器学习/AI",
-    "计算机视觉",
-    "通信"
-   ],
-   "city": "新加坡",
-   "prize": null,
-   "start": "2026-11-04",
-   "deadline": null,
-   "end": "2026-11-04",
-   "signup": "upcoming",
-   "description": "这是您发现全球社区领袖举办当地活动的日历。想举办自己的活动？请在此提交活动提案：http://bit.ly/3LFYP9Y",
-   "sources": [
-    {
-     "name": "AI赛事通",
-     "url": "https://www.competehub.dev/zh/competitions/lumaevt-E0AIAwmrwOefF4G"
-    }
-   ]
-  },
-  {
    "detail": "# AI x Blockchain Startups & Builders Meetup\n\n## 1. 比赛简介\n🚀 由 SIDAN Lab 和 Neal 主办，这场名为 \"AI x Blockchain Startups & Builders Meetup\" 的活动旨在为人工智能和区块链领域的初创公司创始人、企业家和建设者提供一个交流的平台。活动背景是当前人工智能和区块链技术的快速发展，以及这两个领域在商业和社会应用中的巨大潜力。活动目的在于促进跨领域的合作与交流，激发创新思维，共同探讨未来发展趋势。\n\n活动主要内容包括：\n- **主题演讲**：邀请行业专家分享人工智能和区块链技术的最新进展和应用案例。\n- **圆桌讨论**：围绕特定主题进行深入讨论，如区块链在人工智能领域的应用、人工智能如何赋能区块链等。\n- **初创公司展示**：为初创公司提供展示平台，让参与者了解最新的创业项目。\n- **交流互动**：为参与者提供一个自由交流的环境，促进人脉拓展和合作机会。\n\n## 2. 时间安排\n📅 11月6日星期五\n🕒 14:00 - 17:00 GMT+8\n\n## 4. 要求\n✅ 参与者需对人工智能和区块链领域有一定了解，具备创业精神或对相关领域感兴趣。\n✅ 报名需经过审核，确保参与者符合活动要求。\n\n## 5. 重要细节\n- **地点**：艺穗会，香港岛中环下亚厘毕道2号\n- **主办方**：SIDAN Lab & Blockwind News\n- **主题**：人工智能、加密货币\n- **活动形式**：主题演讲、圆桌讨论、初创公司展示、交流互动",
    "id": "lumaevt-auygR37jMK1oBUk",
    "name": "人工智能与区块链初创公司及构建者聚会",
@@ -7087,31 +7669,6 @@
     {
      "name": "AI赛事通",
      "url": "https://www.competehub.dev/zh/competitions/lumaevt-auygR37jMK1oBUk"
-    }
-   ]
-  },
-  {
-   "detail": "# Unbuilt - Buildathon 比赛内容概括\n\n## 1. 比赛简介\n🚀 **Unbuilt — 从想法开始，打造你自己的作品。**  \nUnbuilt 是由 DevX 和 OpenAI 赞助的入门级 Buildathon，旨在在 Guru Tegh Bahadur Institute of Technology 举办。这个活动面向所有对项目制作感兴趣的新手，无论你是第一次尝试还是对如何开始感兴趣，都可以加入我们。活动将提供一个动手实践的环境，帮助你从零开始，学习、创造和交流。\n\n**背景与目的：**\n- **背景：** 活动旨在鼓励创新思维和项目制作技能，为参与者提供一个实践平台。\n- **目的：** 通过动手实践，引导参与者完成项目，同时提供导师支持，帮助他们塑造想法，克服挑战。\n\n**主要内容：**\n- **入门级课程：** 为参与者提供基础知识，帮助他们开始项目制作。\n- **动手项目构建：** 在导师的指导下，完成实际项目。\n- **实验和交流空间：** 为参与者提供一个充满乐趣的环境，结识同行。\n- **ChatGPT Plus 提供商：** 每位参与者都将获得一个月的 ChatGPT Plus，由 OpenAI 提供。\n\n## 2. 时间安排\n📅 **日期和时间：** 11月4日星期三，大约 10:00 AM–4:00 PM GMT+5:30  \n**地点：** Guru Tegh Bahadur Institute of Technology, G-8 Area, Press Colony, Rajouri Garden, New Delhi, Delhi, 110064, India\n\n## 4. 要求\n🤝 **参与者要求：**\n- 对项目制作感兴趣的新手。\n- 带着好奇心和学习的心态。\n- 准备好从“我有想法”到“我完成了这个作品”的整个过程。\n\n## 5. 重要细节\n✅ **活动亮点：**\n- 实践导向的学习环境。\n- 导师全程支持。\n- 丰富的交流机会。\n- 获得ChatGPT Plus一个月使用权。",
-   "id": "lumaevt-7bJrhspJCrIT3j7",
-   "name": "未建 - 建筑马拉松",
-   "organizer": "PERSONAL、GURBAAZ SINGH",
-   "official_url": "https://luma.com/wuz6iq11",
-   "type": "黑客松",
-   "tags": [
-    "新手友好",
-    "机器学习/AI"
-   ],
-   "city": "印度新德里，拉杰罗伊花园，G-8区，新闻村，古鲁·特格·巴哈杜尔理工学院，110064",
-   "prize": null,
-   "start": "2026-11-04",
-   "deadline": null,
-   "end": "2026-11-04",
-   "signup": "upcoming",
-   "description": "",
-   "sources": [
-    {
-     "name": "AI赛事通",
-     "url": "https://www.competehub.dev/zh/competitions/lumaevt-7bJrhspJCrIT3j7"
     }
    ]
   },
@@ -7984,55 +8541,6 @@
    ]
   },
   {
-   "detail": "$19",
-   "id": "urls915de7ddfb74651f4b982c756151691b",
-   "name": "2026-2027全球学生创业者大奖（GSEA）",
-   "organizer": "清创汇智创新创业研究院",
-   "official_url": "https://mp.weixin.qq.com/s/I9gBI3LBZPdLtA8xC0HZhA",
-   "type": "工程开发赛",
-   "tags": [
-    "机器学习/AI",
-    "社会公益"
-   ],
-   "city": "四川",
-   "prize": "¥100,000",
-   "start": "2026-10-01",
-   "deadline": null,
-   "end": "2026-11-04",
-   "signup": "open",
-   "description": "GSEA，是属于年轻创业者的国际舞台。在这里，你不仅可以展示自己的创新能力，更能让你的创业潜力被全球看见。",
-   "sources": [
-    {
-     "name": "AI赛事通",
-     "url": "https://www.competehub.dev/zh/competitions/urls915de7ddfb74651f4b982c756151691b"
-    }
-   ]
-  },
-  {
-   "detail": "# 项目征集 | “苏创助跑”人工智能OPC人才创新创业大赛项目征集\n\n## 1. 比赛简介\n为贯彻落实省委、省政府就业创业和“人工智能+”行动部署要求，江苏省人力资源和社会保障厅主办，无锡市人力资源和社会保障局承办，各设区市人力资源和社会保障局联办首届“苏创助跑”人工智能OPC人才创新创业大赛。旨在以赛促创、以创促就，聚焦OPC（一人公司）轻量创新创业新业态。\n\n**比赛背景**：\n- 落实省委、省政府就业创业和“人工智能+”行动部署要求\n- 聚焦OPC轻量创新创业新业态\n\n**比赛目的**：\n- 以赛促创、以创促就\n- 推动科研成果实现场景落与商业价值转化\n- 促进产业转型升级，提供数字化解决方案和绿色低碳产业服务\n\n**主要内容**：\n- 参赛条件：年满16周岁创新创业者，重点征集Al驱动、单人主导、轻量运营、权属清晰、无知识产权纠纷、具备市场前景的OPC项目。\n- 赛道设置：4个创业类赛道（科技成果+创业、产业发展+创业、职业技能+创业、民生需求+创业）和1个创新类赛道。\n- 赛事安排：启动报名、市级选拔赛、全省总决赛、颁奖及配套活动。\n- compress奖设置及配套服务：一等奖6个，各奖励5000元；二等奖12个，各奖励3000元；三等奖18个，各奖励2000元；同步颁发获奖证书。\n\n## 2. 时间安排\n- 启动报名：11月5日前\n- 市级选拔赛：11月15日前\n- 全省总决赛：11月23日—24日\n- 颁奖及配套活动：11月24日下午\n\n## 3. 奖金\n- 一等奖6个，各奖励5000元\n- 二等奖12个，各奖励3000元\n- 三等奖18个，各奖励2000元\n\n## 4. 要求\n- 参赛者需年满16周岁\n- 创业类赛道项目需于2026年9月30日前完成注册，报名项目以创始人“1人”为核心经营者\n- 创新类赛道项目尚未注册经营主体，由1名核心负责人或微团队主导\n- 项目需具备技术创新性，拥有原创技术或完整商业构想，契合OPC轻量化创业模式\n\n## 5. 重要细节\n- 大赛实行“4+1”赛制，每个项目仅限申报一个赛道\n- 全省总决赛名额分配根据各地OPC经济体数量权值、扶持成功创业成效、创业培训开展情况等维度确定\n- 获奖项目可获得创业扶持、推荐服务、孵化服务等多项配套服务",
-   "id": "urls2077bc1180bf0a93a6644d05385c9e71",
-   "name": "苏创助跑人工智能OPC人才创新创业大赛",
-   "organizer": "江苏省人力资源和社会保障厅",
-   "official_url": "https://mp.weixin.qq.com/s/MmFF43sqh9C0IEY3JJFAjg",
-   "type": "工程开发赛",
-   "tags": [
-    "机器学习/AI"
-   ],
-   "city": "江苏",
-   "prize": null,
-   "start": "2026-10-01",
-   "deadline": null,
-   "end": "2026-11-04",
-   "signup": "open",
-   "description": "为全面贯彻落实省委、省政府就业创业和“人工智能+”行动部署要求，聚焦OPC (一人公司)轻量创新创业新业态，省厅将举办首届“苏创助跑”人工智能OPC人才创新创业大赛，以赛促创、以创促就。",
-   "sources": [
-    {
-     "name": "AI赛事通",
-     "url": "https://www.competehub.dev/zh/competitions/urls2077bc1180bf0a93a6644d05385c9e71"
-    }
-   ]
-  },
-  {
    "detail": "# 【赛事报名】“智汇文都·桐创未来”2026年桐城市创新创业大赛邀您参加！\n\n## 1. 比赛简介\n🚀 “智汇文都·桐创未来”2026年桐城市创新创业大赛是由桐城市委组织部主办的一项重要赛事。该比赛旨在集聚一批高层次创新创业人才，推动科技成果转化，促进桐城市经济高质量发展。\n\n比赛背景：随着科技发展和社会进步，创新创业已成为推动经济发展的重要力量。桐城市作为安徽省的一个重要城市，希望通过举办此类大赛，吸引更多优秀人才，激发创新创业活力。\n\n比赛目的：\n- 聚集高层次创新创业人才\n- 推动科技成果转化\n- 促进桐城市经济高质量发展\n\n比赛主要内容：\n- 参赛者需提交具有创新性、实用性的项目\n- 比赛分为初赛、复赛和决赛三个阶段\n- 最终评选出优秀项目，给予奖励和扶持\n\n## 2. 参赛条件\n🎯\n- 项目需具有创新性、实用性和市场前景\n- 项目与现有主导产业相关\n- 参赛者需具备一定的专业背景和创业经验\n\n## 3. 奖金设置\n💳\n- 一等奖：5万元奖金\n- 二等奖：3万元奖金\n- 三等奖：2万元奖金\n- 优秀奖：1万元奖金\n奖金将在项目落地转化后发放。剩余奖金将作为大赛组织费用。\n\n## 4. 时间安排\n（此部分内容未提供，故不输出）\n\n## 5. 重要细节\n✅\n- 比赛时间：2026年\n- 比赛地点：桐城市\n- 承办单位：桐城市委组织部、桐城市文化旅游体育局、桐城市创新创业服务中心等\n- 协办单位：桐城市科技创业联合会、桐城市经济技术开发区等",
    "id": "urlsb8e9ba242db2d8d4a2ec256e9ceb7bb6",
    "name": "“智汇文都·桐创未来”2026年桐城市创新创业大赛",
@@ -8231,7 +8739,7 @@
    ]
   },
   {
-   "detail": "$19",
+   "detail": "$14",
    "id": "dorahacks2418",
    "name": "Cortensor黑客松#5",
    "organizer": "CORTENSOR",
@@ -8585,7 +9093,7 @@
    ]
   },
   {
-   "detail": "$19",
+   "detail": "$14",
    "id": "lumaevt-B6kmWqZYUUeTkIP",
    "name": "Zcash呈现：免费社会黑客马拉松",
    "organizer": "WEBZERO、WEBZERO EVENTS、ZCASH",
@@ -8601,7 +9109,7 @@
    "start": "2026-11-04",
    "deadline": null,
    "end": "2026-11-05",
-   "signup": "upcoming",
+   "signup": "open",
    "description": "线上联系。全球活动日历。",
    "sources": [
     {
@@ -8995,7 +9503,7 @@
    ]
   },
   {
-   "detail": "$19",
+   "detail": "$14",
    "id": "lumaevt-6vDrLCT5Gelw1RO",
    "name": "黑客马拉松：科技星期四 x 高通",
    "organizer": "CALGARY TECH THURSDAY、ANGELICA CASTANO",
@@ -9021,7 +9529,7 @@
    ]
   },
   {
-   "detail": "$19",
+   "detail": "$14",
    "id": "dorahacksbchblaze2026",
    "name": "BCH烈焰2026",
    "organizer": "BCH BLAZE",
@@ -9047,7 +9555,7 @@
    ]
   },
   {
-   "detail": "$19",
+   "detail": "$14",
    "id": "dorahacksportaldot-hacker-house-2026",
    "name": "门户点黑客之家2026",
    "organizer": "PORTALDOT",
@@ -9963,7 +10471,7 @@
    ]
   },
   {
-   "detail": "$19",
+   "detail": "$14",
    "id": "devpost31024",
    "name": "2026 Meta VR开发者大赛",
    "organizer": "META",
@@ -10010,7 +10518,7 @@
    ]
   },
   {
-   "detail": "$19",
+   "detail": "$14",
    "id": "heroxteceprize",
    "name": "部落能源能力扩展奖",
    "organizer": "AMERICAN-MADE PROGRAM",
@@ -10111,7 +10619,7 @@
    ]
   },
   {
-   "detail": "$19",
+   "detail": "$14",
    "id": "tianchi532514",
    "name": "蚂蚁灵波具身大模型挑战赛",
    "organizer": "TIANCHI",
@@ -10417,7 +10925,7 @@
    "start": "2026-11-04",
    "deadline": null,
    "end": "2026-11-05",
-   "signup": "upcoming",
+   "signup": "open",
    "description": "硅谷AI月度论坛、研讨会和峰会首选。\n👇加入会员获取独家权限",
    "sources": [
     {
@@ -10761,7 +11269,7 @@
    ]
   },
   {
-   "detail": "$19",
+   "detail": "$14",
    "id": "lumaevt-JBS4CSIIYeqtwSS",
    "name": "崩溃接管呈现——黑客电影之夜 @ KubeCon",
    "organizer": "CRASH OVERRIDE、BRITTANY CANNON",
@@ -11089,7 +11597,7 @@
    ]
   },
   {
-   "detail": "$19",
+   "detail": "$14",
    "id": "dorahacksweb3-social-good-2026",
    "name": "从愿景到影响力：构建Web3助力社会——合作、创新、为善2026",
    "organizer": "SCHOOL OF COMPUTING AND INFORMATION SYSTEMS、SMU",
@@ -11378,7 +11886,7 @@
    "start": "2026-11-04",
    "deadline": null,
    "end": "2026-11-05",
-   "signup": "upcoming",
+   "signup": "open",
    "description": "CivicTechWR是一个汇聚来自不同领域和背景的人们的社区团体，积极运用设计和科技解决当地社区问题。",
    "sources": [
     {
@@ -11658,28 +12166,6 @@
    ]
   },
   {
-   "detail": "# N8n 自动化黑客松\n\n## 1. 比赛简介\n🚀 N8n 自动化黑客松是由 AI 创始人网络主办的一场创新竞赛，旨在鼓励开发者利用 N8n 平台进行自动化创新。比赛背景是当前自动化技术在全球范围内的快速发展，以及 AI 创始人网络对推动技术创新和应用的承诺。比赛目的在于激发开发者的创造力，促进自动化技术的应用，并推动相关领域的进步。主要内容是参赛者需在规定时间内，利用 N8n 平台开发出具有创新性的自动化解决方案。\n\n## 2. 时间安排\n📅 2023年11月4日星期三\n🕒 17:00 - 21:00 GMT+1\n\n## 4. 要求\n✅ 参赛者需具备一定的编程能力和自动化技术知识。\n✅ 参赛者需使用 N8n 平台进行自动化解决方案的开发。\n✅ 参赛作品需具有创新性、实用性和可行性。\n\n## 5. 重要细节\n📍 地点：丹麦哥本哈根 Fiolstræde 17B\n📝 报名需审核，欢迎注册参加。",
-   "id": "lumaevt-7xJ2EGhwkPYXJ1r",
-   "name": "N8n 自动化黑客松",
-   "organizer": "AI FOUNDERS NETWORK、MILO AI、OLGA SAFONOVA",
-   "official_url": "https://luma.com/afn-wp2j",
-   "type": "黑客松",
-   "tags": [],
-   "city": "菲奥尔斯特里德17B，1171哥本哈根，丹麦",
-   "prize": null,
-   "start": "2026-11-04",
-   "deadline": null,
-   "end": "2026-11-04",
-   "signup": "upcoming",
-   "description": "酷人做酷事。由https://milo.gg制作。",
-   "sources": [
-    {
-     "name": "AI赛事通",
-     "url": "https://www.competehub.dev/zh/competitions/lumaevt-7xJ2EGhwkPYXJ1r"
-    }
-   ]
-  },
-  {
    "detail": "# LUMPBOX加密奖赏比赛内容概括\n\n## 1. 比赛简介\nLUMPBOX加密奖赏比赛是一个基于区块链技术的加密货币投资竞赛平台。该平台允许用户通过存款参与不同的加密货币保险库，并有机会赢得奖池中的比特币。比赛旨在提供一个公平、透明且易于参与的平台，让用户能够通过投资加密货币来获得回报。\n\n比赛背景：随着加密货币市场的不断发展，越来越多的用户开始关注加密货币投资。然而，传统的加密货币挖矿方式需要大量的硬件和电力，且竞争激烈。LUMPBOX通过提供一个创新的平台，让用户能够以较低的成本参与加密货币投资。\n\n比赛目的：\n- 为用户提供一个公平、透明的加密货币投资平台。\n- 通过固定奖池和即时支付机制，降低投资风险。\n- 促进加密货币市场的普及和发展。\n\n主要内容：\n- 用户可以选择存款的币种，包括BTC、ETH、USDC、SOL等。\n- 每个保险库都有一个目标存款额，当达到目标时，平台将自动进行结算。\n- 结算时，前3名参与者将根据存款大小获得相应的奖励，平台保留5%作为基础设施和审计费用。\n- 支付将以用户存款的相同币种进行，确保透明度和即时性。\n\n## 2. 时间安排\n（无具体时间安排信息）\n\n## 3. 奖金\n（无具体奖金信息）\n\n## 4. 要求\n- 用户需注册LUMPBOX账户并连接钱包。\n- 选择支持的币种进行存款。\n- 观察保险库的填充情况，当达到目标时，平台将自动进行结算。\n\n## 5. 重要细节\n- 每个保险库都有一个目标存款额，当达到目标时，平台将自动进行结算。\n- 前3名参与者将根据存款大小获得相应的奖励，平台保留5%作为基础设施和审计费用。\n- 支付将以用户存款的相同币种进行，确保透明度和即时性。\n- 用户可以随时提现，无需等待期或手动批准。\n- LUMPBOX平台提供多种币种的保险库，满足不同用户的需求。",
    "id": "urlsad6ca0a97bf3038f2003e1d4297379e3",
    "name": "LUMPBOX加密奖品",
@@ -11749,183 +12235,6 @@
     {
      "name": "AI赛事通",
      "url": "https://www.competehub.dev/zh/competitions/mlh_sponsor_mlh_com"
-    }
-   ]
-  },
-  {
-   "detail": "# Hackathon Sensora 2.0\n\n## 1. 比赛简介\n🚀 **SENSORA 2.0** 是由印度仪器学会（ISOI）组织的一场高强度36小时的黑客马拉松，旨在为创新者、开发者和问题解决者提供一个平台，将他们的大胆想法转化为可行的解决方案。这场比赛聚焦于**智能硬件与物联网、人工智能与数据驱动创新、医疗技术和嵌入式系统**等领域。\n\n比赛背景：\n- **目的**：作为创新、快速原型设计和现实世界问题解决的平台，SENSORA 2.0 挑战参与者们在压力下构建，有效协作，并开发具有重大影响的技术驱动解决方案。\n- **主要内容**：参与者将在导师、行业专业人士和领域专家的指导下，将他们的想法从概念发展到原型。\n\n## 2. 时间安排\n（此部分内容未提供）\n\n## 3. 奖金\n（此部分内容未提供）\n\n## 4. 要求\n- **团队规模**：2 - 4 名成员\n- **参赛资格**：本科生、研究生、工程学生、管理、艺术、商业、科学及其他领域的学生均可参加。\n\n## 5. 重要细节\n- **地点**：TT Shakespeare Gallery - 1, 维拉奥，泰米尔纳德邦，印度\n- **注册费**：295印度卢比\n- **重要日期**：更新时间为2026年9月4日，上午11:20，数据每15分钟更新一次。",
-   "id": "unstop1746206",
-   "name": "Sensora 2.0\n传感器2.0",
-   "organizer": null,
-   "official_url": "https://unstop.com/hackathons/sensora-20-vit-vellore-1746206",
-   "type": "黑客松",
-   "tags": [
-    "机器学习/AI",
-    "物联网",
-    "健康"
-   ],
-   "city": "TT莎士比亚画廊 - 1，维洛尔，泰米尔纳德邦，印度",
-   "prize": null,
-   "start": "2026-09-05",
-   "deadline": null,
-   "end": "2026-11-04",
-   "signup": "open",
-   "description": "Sensora 2.0 是由印度仪器学会（ISOI）在维拉奥理工学院（VIT）维拉奥举办的 36 小时黑客马拉松。黑客马拉松邀请创新者、开发者和问题解决者将大胆的想法转化为功能性解决方案。聚焦于智能硬件与物联网、人工智能与数据驱动创新、医疗技术和嵌入式系统，参与者将开发具有重大影响的技术驱动解决方案。活动面向本科生、研究生、工程学生以及来自管理、艺术、商业、科学和其他学科的学生。团队必须由 2 至 4 名成员组成。",
-   "sources": [
-    {
-     "name": "AI赛事通",
-     "url": "https://www.competehub.dev/zh/competitions/unstop1746206"
-    }
-   ]
-  },
-  {
-   "detail": "# IndustrySolve Idea-Thon & Product-a-Thon 2026 比赛内容概括\n\n## 1. 比赛简介\nIndustrySolve Idea-Thon & Product-a-Thon 2026 是由印度德里Indraprastha Institute of Information Technology (IIIT), Delhi 举办的创新竞赛。该比赛旨在解决真实公司每天面临的实际问题，分为两个阶段：\n\n- **第一阶段：Idea-Thon（一整天活动）** - 参赛者需提出卓越的想法。\n- **第二阶段：Product-a-Thon（一个月的开发，包括导师指导和支持）** - 将想法构建成工作产品。\n\n参赛者将有机会解决受实际工业需求启发的挑战，创建功能性原型，并展示和演示他们的解决方案。\n\n## 2. 时间安排\n- **注册截止日期**：10 Sep 26, 11:30 AM\n\n## 3. 奖金\n信息中未提及奖金详情。\n\n## 4. 要求\n- **团队规模**：2 - 4 名成员\n- **参赛者资格**：本科生、研究生、工程学生、管理专业\n\n## 5. 重要细节\n- **地点**：印度德里Indraprastha Institute of Information Technology (IIIT), Delhi\n- **产品管理**：参赛者需具备产品管理相关技能或知识\n- **真实行业问题**：参赛者将解决受实际工业需求启发的挑战\n- **构建真实产品**：参赛者需将想法构建成功能性原型\n- **专家评估**：参赛者的解决方案将接受专家评估",
-   "id": "unstop1749452",
-   "name": "2026行业解难题思辨赛 & 产品马拉松",
-   "organizer": null,
-   "official_url": "https://unstop.com/hackathons/industrysolve-idea-thon-product-a-thon-2026-indraprastha-institute-of-information-technology-iiit-delhi-1749452",
-   "type": "黑客松",
-   "tags": [
-    "机器学习/AI",
-    "生产力/效率",
-    "社会公益"
-   ],
-   "city": "印度理工学院德里（IIIT），新德里，德里，印度",
-   "prize": null,
-   "start": "2026-09-05",
-   "deadline": null,
-   "end": "2026-11-04",
-   "signup": "open",
-   "description": "2026年IndustrySolve 理念挑战赛 & 产品挑战赛是由德里印度普拉施特拉信息技术研究所（IIIT）主办的为期两阶段创新竞赛。参赛者在第一阶段（理念挑战赛）中解决公司面临的实际问题，然后在第二阶段（产品挑战赛）中将他们的想法发展成为实际产品。该黑客马拉松面向本科生、研究生、工程和管理学生开放。该活动旨在提供真实行业问题、构建真实产品的机会以及专家评估。注册截止日期为2026年9月10日上午11:30。",
-   "sources": [
-    {
-     "name": "AI赛事通",
-     "url": "https://www.competehub.dev/zh/competitions/unstop1749452"
-    }
-   ]
-  },
-  {
-   "detail": "# 创新者日 2026 比赛内容概括\n\n## 1. 比赛简介\n🚀 **比赛名称**：创新者日 2026\n🏫 **举办机构**：印度楓城维纳亚卡工程学院（SMVEC）\n📍 **地点**：印度楓城维纳亚卡工程学院，楓城，楓城，印度\n👨‍💻 **团队规模**：2 - 4 名成员\n📚 **参赛资格**：医学院学生、本科生、研究生、工程学生、管理、艺术、商业、科学、法律等领域的学生\n\n**比赛背景**：\n创新者日 2026 是一场旨在激发创新思维和解决现实世界问题的黑客马拉松。参赛团队需提出一个创新的想法、项目、原型、产品或解决方案。\n\n**比赛目的**：\n- 鼓励学生发挥创新思维，解决现实世界中的问题。\n- 促进不同领域学生的跨学科合作。\n- 展示学生的技术能力和创新潜力。\n\n**主要内容**：\n- 参赛团队需在指定领域内提出创新项目。\n- 项目需具备原创性、创造力、实用性和可行性。\n- 鼓励团队展示工作原型或概念证明。\n\n## 2. 时间安排\n(无具体时间安排信息)\n\n## 3. 奖金\n(无奖金信息)\n\n## 4. 要求\n- 参赛团队需在指定领域内提出创新项目。\n- 项目需具备原创性、创造力、实用性和可行性。\n- 鼓励团队展示工作原型或概念证明。\n- 项目不得为纯粹复制或重新制作现有项目。\n\n## 5. 重要细节\n- 比赛地点：印度楓城维纳亚卡工程学院\n- 团队规模：2 - 4 名成员\n- 参赛资格：医学院学生、本科生、研究生、工程学生、管理、艺术、商业、科学、法律等领域的学生\n- 项目领域：人工智能和机器学习、物联网 (IoT)、机器人和自动化、网络安全、可持续技术、医疗保健和辅助技术、农业和智能农业、教育技术、智慧城市解决方案、金融科技、环境和社会创新等\n- 项目要求：原创性、创造力、实用性和可行性",
-   "id": "unstop1748928",
-   "name": "创新日2026",
-   "organizer": null,
-   "official_url": "https://unstop.com/hackathons/innovators-day-2026-sri-manakula-vinayagar-engineering-college-smvec-puducherry-1748928",
-   "type": "黑客松",
-   "tags": [
-    "机器学习/AI",
-    "计算机视觉",
-    "网络安全",
-    "健康"
-   ],
-   "city": "斯里·马纳库拉·维奈加尔工程学院，印度，普杜奇里",
-   "prize": null,
-   "start": "2026-09-15",
-   "deadline": null,
-   "end": "2026-11-04",
-   "signup": "open",
-   "description": "2026年创新者日黑客马拉松是在印度普杜切里Sri Manakula Vinayagar工程学院举办的活动。它面向医学、本科、研究生、工程、管理、艺术、商业、科学和法律专业的学生开放。黑客马拉松鼓励2-4人团队展示创新的想法、项目、原型、产品或解决方案，以解决现实世界的问题。项目可以基于人工智能和机器学习、物联网、机器人技术、网络安全、可持续技术、医疗保健、农业、教育技术、智慧城市解决方案、金融科技、环境和社会创新以及其他基于技术的创新解决方案。项目应展示原创性、创造性、实用性和可行性，优先考虑工作原型或概念验证。黑客马拉松未指定最终结束日期或提交截止日期，且为线下活动。",
-   "sources": [
-    {
-     "name": "AI赛事通",
-     "url": "https://www.competehub.dev/zh/competitions/unstop1748928"
-    }
-   ]
-  },
-  {
-   "detail": "# 代码大脑3.0 比赛内容概括\n\n## 1. 比赛简介\n代码大脑3.0是一个为期30小时的AI/ML黑客马拉松，旨在为学生提供一个将想法转化为工作解决方案的平台。无论参赛者是否具备丰富的ML经验，这场比赛都鼓励他们通过构建真实事物、解决现实世界问题并挑战自我来提升技能。\n\n**比赛背景**：\n- 代码大脑3.0由维拉奥尔理工学院（VIT）举办，旨在促进AI和机器学习领域的创新和知识分享。\n\n**比赛目的**：\n- 鼓励学生将理论知识应用于实际问题的解决。\n- 培养团队合作精神和创新思维。\n- 促进AI和机器学习领域的交流与合作。\n\n**主要内容**：\n- 参赛者可以选择以下轨道之一进行比赛：\n  - 金融\n  - 医学\n  - 无人机技术\n  - 航空\n  - 安全\n- 参赛者也可以选择开放创新轨道，自由提出自己的问题、数据集和解决方案。\n- 比赛期间，团队将经历密集的开发会议、评审和导师指导。\n- 最终，参赛团队将在评审团面前展示他们的解决方案。\n\n## 2. 时间安排\n- **注册截止日期**：9月16日\n\n## 3. 奖金\n- **奖金信息**：295元注册费\n\n## 4. 要求\n- **团队规模**：2 - 4人\n- **参赛资格**：\n  - 法律、医学、工程、管理、艺术、商业、科学及其他领域的本科生和研究生\n  - 应届毕业生\n\n## 5. 重要细节\n- **地点**：莎士比亚画廊 - I，TT311，维拉奥尔，泰米尔纳德邦，印度\n- **比赛时间**：30小时\n- **比赛内容**：AI/ML黑客马拉松，解决现实世界问题\n- **评审团**：由行业专家和学者组成\n- **奖项设置**：根据评审团评分，评选出最佳解决方案\n- **联系方式**：向组织者发送查询",
-   "id": "unstop1748822",
-   "name": "代码皮质3.0",
-   "organizer": null,
-   "official_url": "https://unstop.com/hackathons/code-cortex-30-gravitas26-vit-vellore-1748822",
-   "type": "黑客松",
-   "tags": [
-    "机器学习/AI",
-    "计算机视觉",
-    "网络安全"
-   ],
-   "city": "莎士比亚画廊 - I, TT311，维洛尔，泰米尔纳德邦，印度",
-   "prize": null,
-   "start": "2026-09-05",
-   "deadline": null,
-   "end": "2026-11-04",
-   "signup": "open",
-   "description": "Code Cortex 3.0 是一场为期 30 小时的 AI/ML 黑客马拉松，旨在帮助学生将想法转化为可行的解决方案。它面向来自法学、医学、工程、管理、艺术、商业、科学等其他学科的在校学生。黑客马拉松设有金融、医学、无人机技术与航空、安全等精选赛道，开放创新赛道则允许参与者提出自己的想法。2-4人团队将参与专注的开发会议、评审和指导，然后在评审团面前展示他们的解决方案。",
-   "sources": [
-    {
-     "name": "AI赛事通",
-     "url": "https://www.competehub.dev/zh/competitions/unstop1748822"
-    }
-   ]
-  },
-  {
-   "detail": "# AI/ML with Data Science - FREE Demo 比赛内容概括\n\n## 1. 比赛简介\n🚀 **概述**：Quality Thought – 软件培训学院即将举办一场关于人工智能/机器学习与数据科学培训的免费演示。该活动旨在帮助参与者了解人工智能和机器学习在实际应用中的挑战和机遇，并提升相关技能。\n\n🎯 **背景**：随着人工智能和机器学习技术的快速发展，越来越多的行业开始应用这些技术。然而，许多学习这些技术的个人在将所学知识应用于实际问题时遇到了困难。\n\n✅ **目的**：本次免费演示的目的是帮助参与者了解如何将人工智能和机器学习技术应用于实际问题，并提升他们的技能，使其更符合市场需求。\n\n📚 **主要内容**：\n- 介绍人工智能和机器学习的基本概念\n- 讲解如何将人工智能和机器学习技术应用于实际问题\n- 分享实际案例，展示人工智能和机器学习在各个行业的应用\n- 提供互动环节，让参与者与专家进行交流\n\n## 2. 时间安排\n📅 **注册截止日期**：2026年9月9日晚上6:00\n📅 **活动日期**：2026年9月10日星期四上午9:00\n\n## 3. 奖金\n💳 **奖金信息**：本次比赛不提供奖金。\n\n## 4. 要求\n📝 **参与要求**：\n- 对人工智能和机器学习感兴趣\n- 想要提升相关技能\n- 有一定的编程基础\n\n## 5. 重要细节\n🔍 **重要日期和截止日期**：\n- 注册截止日期：2026年9月9日晚上6:00\n- 活动日期：2026年9月10日星期四上午9:00\n\n👨‍💻 **联系方式**：\n- 向组织者发送查询：![user_filled](https://cdn.unstop.com/assets/icons/user_filled.svg)\n\n🌍 **活动地点**：\n- 在线活动，或在海得拉巴中心亲自参加（如有需要）\n\n🤝 **组织者**：\nQuality Thought – 软件培训学院",
-   "id": "unstop1748700",
-   "name": "人工智能/机器学习与数据科学 - 免费演示",
-   "organizer": null,
-   "official_url": "https://unstop.com/hackathons/aiml-with-data-science-free-demo-quality-thought-info-systems-1748700",
-   "type": "黑客松",
-   "tags": [
-    "机器学习/AI",
-    "教育",
-    "计算机视觉"
-   ],
-   "city": "线上",
-   "prize": null,
-   "start": "2026-09-10",
-   "deadline": null,
-   "end": "2026-11-04",
-   "signup": "open",
-   "description": "质量思维 - 软件培训学院将举办一场关于AI/ML与数据科学培训的免费演示。本次演示旨在解决模型训练与部署、监控和解释其准确率之间的差距。演示将于2026年9月10日星期四上午9:00开始。参与者可从印度任何地方在线观看，或亲临海得拉巴中心。演示聚焦于AI和机器学习的实际方面，这对于行业就业准备至关重要。",
-   "sources": [
-    {
-     "name": "AI赛事通",
-     "url": "https://www.competehub.dev/zh/competitions/unstop1748700"
-    }
-   ]
-  },
-  {
-   "detail": "# 黑客马拉松重新定义\n\n## 1. 比赛简介\n🚀 **概述**：重新定义是一个24小时的设计马拉松，旨在挑战参赛者质疑数字产品的工作方式，并从头开始重新想象熟悉的经验。参赛者可以选择一个平台，确定可以挑战或改进的内容，并通过UI/UX和视觉设计将想法转化为引人入胜的数字体验。\n\n🎯 **背景**：该比赛由维拉奥尔理工学院（VIT）举办，旨在鼓励创新思维和设计技能，同时提供一个平台，让参赛者展示他们的创造力和技术能力。\n\n✅ **目的**：\n- 鼓励创新和设计思维。\n- 提升UI/UX和视觉设计技能。\n- 促进团队合作和沟通。\n\n## 2. 时间安排\n📅 **重要日期**：\n- **注册截止日期**：14 Sep 26, 11:29 AM\n\n## 3. 要求\n📚 **参赛资格**：\n- 团队规模：1 - 4 名成员\n- 地点：萨罗吉尼·奈迪画廊，SJT，维拉奥尔，泰米尔纳德邦，印度\n\n## 4. 重要细节\n🤝 **比赛流程**：\n- **第0轮**：跟踪和平台选择\n- **第1轮**：设计开发开始\n- **第1次审查**：专家反馈\n- **第2轮**：继续设计和完善\n- **第2次审查**：专家反馈\n- **第3轮**：最终开发和完善\n- **第3次审查**：最终评估和筛选\n- **最终提案**：向评审团展示你的解决方案\n\n🏥 **评审标准**：\n- 创新性\n- 设计质量\n- 可用性\n- 完成度\n\n💡 **奖励**：\n- 虽然没有明确提到奖金，但获胜团队将获得荣誉和可能的职业机会。\n\n👨‍💻 **技术要求**：\n- 参赛者应具备UI/UX设计和视觉设计技能。\n- 需要使用设计工具，如Sketch、Adobe XD或Figma。\n\n🛠️ **其他信息**：\n- 参赛者需要注册并加入比赛。\n- 比赛期间，参赛者将有机会获得专家反馈和指导。",
-   "id": "unstop1748546",
-   "name": "重新定义",
-   "organizer": null,
-   "official_url": "https://unstop.com/hackathons/redefine-gravitas26-vit-vellore-1748546",
-   "type": "黑客松",
-   "tags": [
-    "艺术/设计"
-   ],
-   "city": "印度，泰米尔纳德邦，维洛尔，Sarojini Naidi美术馆，SJT",
-   "prize": null,
-   "start": "2026-09-05",
-   "deadline": null,
-   "end": "2026-11-04",
-   "signup": "open",
-   "description": "Redefine是由印度维洛尔理工学院（VIT）在维洛尔举办的24小时设计马拉松。黑客马拉松挑战参与者质疑数字产品的工作方式，并从底层重新构想熟悉的经验。鼓励1至4人的团队选择一个平台，确定改进领域，并通过UI/UX和视觉设计创造引人入胜的数字体验。活动分为几个阶段，包括设计开发、专家反馈和最终向评审团展示。该黑客马拉松旨在推动传统设计的边界，并鼓励创新解决方案。",
-   "sources": [
-    {
-     "name": "AI赛事通",
-     "url": "https://www.competehub.dev/zh/competitions/unstop1748546"
-    }
-   ]
-  },
-  {
-   "detail": "# Vibeathon 2026 比赛内容概括\n\n## 1. 比赛简介\n🚀 **Vibeathon 2026** 是由 A.C. Patil 工程学院信息技术系举办的开放创新黑客马拉松。该比赛旨在挑战参与者的创造力、技术技能、适应性和解决现实世界问题的能力。与传统的从头开始构建项目的黑客马拉松不同，Vibeathon 2026 允许团队带来预先开发的项目，并在离线阶段接受新的挑战。\n\n**背景**：比赛鼓励创新思维和技术应用，旨在为参与者提供一个展示其技能和创造力的平台。\n\n**目的**：\n- 激发参与者的创新思维和解决问题的能力。\n- 促进技术技能的发展。\n- 鼓励团队合作和交流。\n\n**主要内容**：\n- 参与者可以自由选择任何领域进行项目开发，包括人工智能和机器学习、网络和移动应用等。\n- 团队规模为 2-4 人。\n- 比赛分为在线和离线两个阶段。在线阶段，团队需提交项目提案；离线阶段，团队将收到新的挑战，需在固定时间内实现。\n\n## 2. 时间安排\n📅 **注册截止日期**：2026年9月24日，上午11:30\n\n## 3. 奖金\n💳 **奖金池**：₹25,000+\n- 参与证书\n\n## 4. 要求\n📚 **团队要求**：2-4人\n- 团队成员需具备一定的技术背景和项目开发经验。\n\n## 5. 重要细节\n🤝 **组织者**：A.C. Patil 工程学院信息技术系\n- **地点**：A.C. Patil 工程学院，地块号17，第4区，Kharghar，Navi Mumbai，Panvel，马哈拉施特拉邦 - 410210，Kharghar，马哈拉施特拉邦，印度\n- **联系方式**：向组织者发送查询\n- **相关机会**：ET AI 黑客马拉松、Navachar - Code Fest 2026、National Research & Innovation Challenge 等",
-   "id": "unstop1747384",
-   "name": "2026年Vibeathon",
-   "organizer": null,
-   "official_url": "https://unstop.com/hackathons/vibeathon-2026-ac-patil-college-of-engineering-department-of-information-technology-1747384",
-   "type": "黑客松",
-   "tags": [],
-   "city": "A.C.帕蒂尔工程学院，诺17号地块，第4区，卡哈加尔，纳西克，潘维尔，马哈拉施特拉邦 - 410210，卡哈加尔，马哈拉施特拉邦，印度",
-   "prize": "¥2,100",
-   "start": "2026-09-24",
-   "deadline": null,
-   "end": "2026-11-04",
-   "signup": "open",
-   "description": "Vibeathon 2026 是由 A.C. Patil 工程学院信息技术系主办的开放式创新黑客马拉松。旨在挑战参与者的创造力、技术技能、适应性和解决问题的能力。团队可携带预开发项目，并在线下环节接受新挑战，在固定时间内实施。黑客马拉松的主题是开放式创新，对领域、问题陈述或技术栈没有限制。参与者可以在人工智能和机器学习、Web和移动应用等领域开展创新解决方案的研究。黑客马拉松奖金池超过₹25,000，并提供参与证书。报名截止日期为2026年9月24日上午11:30。",
-   "sources": [
-    {
-     "name": "AI赛事通",
-     "url": "https://www.competehub.dev/zh/competitions/unstop1747384"
     }
    ]
   },
@@ -12152,7 +12461,7 @@
    ]
   },
   {
-   "detail": "$19",
+   "detail": "$14",
    "id": "dorahacks2349",
    "name": "安娜AI应用构建者计划",
    "organizer": "ANNA AI",
@@ -12252,7 +12561,7 @@
    ]
   },
   {
-   "detail": "$19",
+   "detail": "$14",
    "id": "urls4130a2986dae07f5a506a3c0deb9e9af",
    "name": "第十五屆中國創新創業大賽前海港澳台大賽",
    "organizer": "工业和信息化部火炬高技術產業開發中心、广东省科学技术厅、广东省人民政府港澳事务办公室、广东省人民政府台湾事务办公室、工业和信息化部火炬中心中部中心、前海深港青年梦工场、深圳市前海深港现代服务业合作区管理局、各地市科学技术局、各地市港澳办（局）、市台办（局）、台港澳事务局、广东国科慧龙科技服务有限公司",
@@ -12277,7 +12586,7 @@
    ]
   },
   {
-   "detail": "$19",
+   "detail": "$14",
    "id": "heroxcommunitymaternalhealth2.0",
    "name": "社区母婴健康2.0连接",
    "organizer": "EUNICE KENNEDY SHRIVER NATIONAL INSTITUTE OF CHILD HEALTH AND HUMAN DEVELOPMENT",
@@ -12426,28 +12735,6 @@
    ]
   },
   {
-   "detail": "# PROSA & CyberSkills Hacking Evening + SagaLabs on \"Operation Crimson Lynx\" 比赛内容概括\n\n## 1. 比赛简介\n🚀 **比赛概述**：PROSA、CyberSkills和SagaLabs共同举办的“Operation Crimson Lynx”黑客马拉松，旨在提供一个实战勒索软件事件响应的场景，让参与者通过模拟真实环境中的网络安全挑战，提升网络安全技能和应对能力。\n\n🎯 **背景**：随着网络攻击手段的不断升级，勒索软件已成为网络安全领域的一大威胁。此次比赛旨在提高公众对网络安全问题的认识，培养网络安全人才。\n\n✅ **目的**：\n- 增强网络安全意识\n- 提升网络安全技能\n- 培养网络安全人才\n- 促进网络安全领域的交流与合作\n\n📚 **主要内容**：\n- 参赛者将模拟真实环境中的勒索软件事件响应场景\n- 通过解决实际问题，提升网络安全技能\n- 比赛过程中，参与者将学习到勒索软件的攻击手法、防御策略和应急响应措施\n\n## 2. 时间安排\n📅 **日期**：2026年11月4日\n\n## 3. 奖金\n💳 **奖金信息**：未提供\n\n## 4. 要求\n🛠️ **参赛资格**：\n- 对网络安全感兴趣的个人或团队\n- 具备一定的网络安全基础知识和技能\n\n🤝 **参赛准备**：\n- 了解勒索软件的基本知识\n- 熟悉网络安全工具和技术\n- 准备好参赛所需的设备和环境\n\n## 5. 重要细节\n🌍 **地点**：哥本哈根，丹麦\n\n👨‍💻 **更多信息**：请访问 [www.eventbrite.dk/e/prosa-cyberskills-hacking-evening-sagalabs-on-operation-crimson-lynx-tickets-1988320281486](https://www.eventbrite.dk/e/prosa-cyberskills-hacking-evening-sagalabs-on-operation-crimson-lynx-tickets-1988320281486) 了解比赛详情。",
-   "id": "eventbrite_prosa-cyberskills-hacking-evening-sagalabs-on-operation-crimson-lynx-denmark",
-   "name": "PROSA & CyberSkills 破解之夜 + SagaLabs 举办“血色猎豹行动”",
-   "organizer": null,
-   "official_url": "https://hackathon-base.org/event/prosa-cyberskills-hacking-evening-sagalabs-on-operation-crimson-lynx-denmark",
-   "type": "黑客松",
-   "tags": [],
-   "city": "哥本哈根，丹麦",
-   "prize": null,
-   "start": "2026-11-04",
-   "deadline": null,
-   "end": "2026-11-04",
-   "signup": "upcoming",
-   "description": "加入PROSA、CyberSkills和SagaLabs，于2026年11月4日在丹麦哥本哈根进行一次实战勒索软件事件响应场景。",
-   "sources": [
-    {
-     "name": "AI赛事通",
-     "url": "https://www.competehub.dev/zh/competitions/eventbrite_prosa-cyberskills-hacking-evening-sagalabs-on-operation-crimson-lynx-denmark"
-    }
-   ]
-  },
-  {
    "detail": "# NASA Space Apps Challenge 2026 比赛内容概括\n\n## 1. 比赛简介\n🚀 NASA Space Apps Challenge 2026 是一场全球性的黑客松比赛，旨在鼓励全球开发者、设计师、科学家和学生利用 NASA 的开源数据解决地球与太空的真实问题。该比赛由 NASA 主办，每年举办一次，吸引了来自世界各地的参与者。\n\n比赛的核心玩法是利用 NASA 及合作空间机构的免费开源数据，针对官方提出的真实挑战，在 48 小时内提出解决方案。挑战涵盖了从寻找系外行星、改善空气质量评估，到设计火星可持续回收系统、开发空间生物知识引擎等多个领域。\n\n## 2. 时间安排\n📅 2026年11月14-15日，为期两天。\n\n## 3. 奖金\n💳 比赛设有奖金，但具体金额未在文中提及。\n\n## 4. 要求\n🤝 参赛者需具备一定的编程、设计或科学背景，能够理解并使用 NASA 的开源数据。比赛要求所有参赛作品必须直接回应官方 Challenge，并使用 NASA 开源数据。\n\n## 5. 重要细节\n- **参赛对象**：程序员、设计师、科学家、故事讲述者、创客、学生、公民科学家等。\n- **挑战主题**：涵盖从寻找系外行星、改善空气质量评估，到设计火星可持续回收系统、开发空间生物知识引擎等多个领域。\n- **参赛方式**：个人或团队参赛，团队人数最多 6 人。\n- **提交作品**：所有参赛作品必须直接回应官方 Challenge，并使用 NASA 开源数据。\n- **评审标准**：由 NASA 及合作机构专家评审，选出全球获奖项目。",
    "id": "urls2a336a245015dcd65926d987b68fae11",
    "name": "全球最大黑客松来了：NASA Space Apps Challenge 2026，用开源数据解决地球与太空真实问题",
@@ -12525,7 +12812,7 @@
    ]
   },
   {
-   "detail": "$19",
+   "detail": "$14",
    "id": "innocentive01b529d0d8ec4f3197c3423bae3584b2",
    "name": "机械功能微粒子从流体系统中的可控形成",
    "organizer": null,
@@ -12550,7 +12837,7 @@
    ]
   },
   {
-   "detail": "$19",
+   "detail": "$14",
    "id": "heroxxtechideacompetition",
    "name": "布莱兹xTech竞赛",
    "organizer": "FORWARD EDGE-AL",

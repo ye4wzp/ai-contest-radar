@@ -26051,5 +26051,57 @@
     "url": "https://www.competehub.dev/zh/competitions/urls6257d5d8db0877674cfe064b3b2bd852"
    }
   ]
+ },
+ {
+  "detail": "# Hack Night: Haystack 企业平台\n\n## 1. 比赛简介\nHack Night: Haystack 企业平台是一个专注于AI和智能体系统构建的编程挑战活动。该活动由deepset GmbH主办，作为GTC Berlin主权之家项目的一部分。活动旨在提供一个平台，让参与者学习和实践使用Haystack企业平台（HEP），一个用于构建智能体系统的企业级AI平台。\n\n**背景**：随着AI技术的快速发展，企业级AI平台的需求日益增长。Haystack企业平台正是为了满足这一需求而设计的，它可以帮助企业快速构建和部署智能体系统。\n\n**目的**：通过Hack Night活动，参与者可以深入了解Haystack企业平台的功能和应用，同时提升自己的编程技能和AI知识。\n\n**主要内容**：\n- 参与者将在Haystack企业平台上运行企业团队任务。\n- 构建最快、最准确的Haystack管道，并在测试数据集上获得尽可能高的分数。\n- 活动提供数据和起始模板，18:20将提供完整说明。\n- 评分客观，每个提交都将进入排行榜，最高分获胜。\n\n## 2. 时间安排\n- 日期：10月21日星期三\n- 时间：18:00 - 21:30 GMT+2\n\n## 3. 奖金\n- 无奖金信息提供。\n\n## 4. 要求\n- 参与者需携带笔记本电脑。\n- 无需先前的Haystack经验，但熟悉LLM框架将有所帮助。\n- 活动提供wifi、API密钥、办公桌、食物、饮料和导师帮助。\n\n## 5. 重要细节\n- 参与者需在活动后一周内保持平台访问，以便完成开始的工作或进行自己的工作。\n- 活动后进行排行榜揭晓及颁奖仪式。\n- 可以团队工作，但建议独自或最多与另一人一起应对挑战。\n- 活动提供食物和饮料。\n- 地点：deepset GmbH, Zinnowitzer Str. 1, 10115 Berlin, Germany",
+  "id": "lumaevt-tRvN4wPjMraDxsQ",
+  "name": "黑客之夜：堆栈企业平台",
+  "organizer": "HAYSTACK、BILGE YÜCEL、JAY WILDER、LUKE WALKER、ANNA GRÜNDLER、PAULA PLATTNER",
+  "official_url": "https://luma.com/hep-hack-night",
+  "type": "黑客松",
+  "tags": [
+   "机器学习/AI",
+   "开放式",
+   "工程开发"
+  ],
+  "city": "deepset GmbH，德国柏林，辛诺维茨特街1号，10115",
+  "prize": null,
+  "start": "2026-10-21",
+  "deadline": null,
+  "end": "2026-10-21",
+  "signup": "upcoming",
+  "description": "加入我们，探索智能体、生成式AI和企业级AI应用。向专家学习，体验Haystack，与AI社区连接。🩵",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/lumaevt-tRvN4wPjMraDxsQ"
+   }
+  ]
+ },
+ {
+  "detail": "# 首届“未来之光”2026粤港澳AI影视创意大赛惠州赛区创作指南\n\n## 1. 比赛简介\n首届“未来之光”2026粤港澳AI影视创意大赛惠州赛区（一人影视·光影惠州）是一项面向全球的影视创作比赛。该比赛旨在鼓励个人、团队和机构通过AI技术创作与惠州相关的短片或短剧，展现惠州的人文风貌和现代化发展。比赛背景是推动AI技术与影视创作的结合，促进文化创新和产业升级。\n\n**目的**：\n- 推动AI技术在影视领域的应用\n- 展现惠州的地域特色和文化魅力\n- 促进影视创作与地方发展的结合\n\n**主要内容**：\n- 参赛者需运用AI工具创作时长不超过10分钟的惠州主题短片或短剧\n- 创作题材包括山海文旅、人文历史、现代惠州和乡村振兴等\n- 作品需符合国家法律法规，弘扬社会主义核心价值观\n\n## 2. 时间安排\n- 作品征集：9月1日—10月21日\n- 同步投稿省赛：10月8日前\n- 初评入围：10月22日—11月20日\n- 决赛颁奖：11月27日\n\n## 3. 要求\n- 格式：MP4或MOV，大小1G以内，分辨率1080p及以上\n- AI使用：作品须使用AI工具辅助创作，并提交AI使用声明\n- 原创：须拥有作品完整著作权，不得侵犯第三方权益\n- 内容：符合国家法律法规，弘扬社会主义核心价值观\n- 其他：作品须为2026年1月1日后完成，配中文字幕\n\n## 4. 重要细节\n- 参赛对象：不限地域、不限职业，个人、团队、机构均可报名\n- 报名方式：免费报名，扫码填写报名表即可参与\n- 作品发布：鼓励参赛者将作品发布到抖音、小红书、视频号等平台，并带话题词条 #未来之光2026粤港澳AI影视创意大赛、#惠州OPV\n- 常见问题：组委会将组织赛前辅导及AI影视创作培训，全程免费，不收取任何报名或评审费用",
+  "id": "urlsb08fc7b1db00769801af943110dd41b9",
+  "name": "首届“未来之光”2026粤港澳AI影视创意大赛惠州赛区",
+  "organizer": "首届“未来之光”2026粤港澳AI影视创意大赛惠州赛区组委会",
+  "official_url": "https://mp.weixin.qq.com/s/rSgkR45Cj2CSnhj05tkM8Q",
+  "type": "AI大模型赛",
+  "tags": [
+   "机器学习/AI",
+   "艺术/设计",
+   "计算机视觉"
+  ],
+  "city": "惠州",
+  "prize": null,
+  "start": "2026-09-01",
+  "deadline": null,
+  "end": "2026-10-21",
+  "signup": "open",
+  "description": "——一人影视·光影惠州（OPV in Huizhou）",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/urlsb08fc7b1db00769801af943110dd41b9"
+   }
+  ]
  }
 ]
