@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05",
+ "updated": "2026-11-06",
  "competitions": [
   {
    "id": "modelscope-394",
@@ -16,6 +16,28 @@
    "deadline": "2026-12-01",
    "end": null,
    "description": "本期以「AI 造游戏」为主题，邀请你用 AI 创作一款原创游戏，发布到魔搭创空间，让大家点开就能玩。",
+   "sources": [
+    {
+     "name": "魔搭社区",
+     "url": "https://modelscope.cn/active"
+    }
+   ]
+  },
+  {
+   "id": "modelscope-416",
+   "name": "48H和真实世界碰一碰｜首届地瓜机器人黑客松",
+   "organizer": "地瓜机器人",
+   "official_url": "https://modelscope.cn/events/416",
+   "type": "黑客松",
+   "tags": [
+    "魔搭"
+   ],
+   "city": null,
+   "prize": "30W现金奖池",
+   "start": "2026-11-02",
+   "deadline": "2026-11-30",
+   "end": null,
+   "description": "欢迎来到2026地瓜机器人黑客松，和真实世界碰一碰！",
    "sources": [
     {
      "name": "魔搭社区",
@@ -148,6 +170,28 @@
    "deadline": "2026-12-31",
    "end": null,
    "description": "由众智FlagOS社区主办的一项多赛季、综合性赛事。大赛鼓励开发者基于统一AI系统软件栈FlagOS的能力进行创作实战和创新探索，促进AI开发者能力提升，推动开放计算生态的蓬勃发展。",
+   "sources": [
+    {
+     "name": "魔搭社区",
+     "url": "https://modelscope.cn/active"
+    }
+   ]
+  },
+  {
+   "id": "modelscope-418",
+   "name": "AI造游戏【组队专用】",
+   "organizer": "魔搭社区",
+   "official_url": "https://modelscope.cn/events/418",
+   "type": "创意应用赛",
+   "tags": [
+    "魔搭"
+   ],
+   "city": null,
+   "prize": null,
+   "start": "2026-11-06",
+   "deadline": "2026-11-07",
+   "end": null,
+   "description": "方便大家组队\n比赛官网：https://modelscope.cn/active/AIstudio",
    "sources": [
     {
      "name": "魔搭社区",
