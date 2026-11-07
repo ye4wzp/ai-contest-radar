@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06",
+ "updated": "2026-11-07",
  "competitions": [
   {
    "id": "mlh-events-mlh-com-events-15200-solana-hackathon",
@@ -21,29 +21,6 @@
     {
      "name": "MLH",
      "url": "https://events.mlh.com/events/15200-solana-hackathon"
-    }
-   ]
-  },
-  {
-   "id": "mlh-luma-com-UTDRoadshow",
-   "name": "HackUTD Roadshow",
-   "organizer": "MLH 认证",
-   "official_url": "https://luma.com/UTDRoadshow",
-   "type": "黑客松",
-   "tags": [
-    "MLH",
-    "国际"
-   ],
-   "city": "Richardson, US",
-   "prize": null,
-   "start": "2026-11-06",
-   "deadline": null,
-   "end": "2026-11-06",
-   "description": "MLH（Major League Hacking）官方认证黑客松，报名时间以官网为准。",
-   "sources": [
-    {
-     "name": "MLH",
-     "url": "https://luma.com/UTDRoadshow"
     }
    ]
   },
@@ -550,6 +527,29 @@
     {
      "name": "MLH",
      "url": "https://www.hackprinceton.com"
+    }
+   ]
+  },
+  {
+   "id": "mlh-www-spaceappschallenge-org-2026-local-events-new-york",
+   "name": "NASA&#x27;s Space Apps Challenge NYC",
+   "organizer": "MLH 认证",
+   "official_url": "https://www.spaceappschallenge.org/2026/local-events/new-york/",
+   "type": "黑客松",
+   "tags": [
+    "MLH",
+    "国际"
+   ],
+   "city": "Brooklyn, US",
+   "prize": null,
+   "start": "2026-11-13",
+   "deadline": null,
+   "end": "2026-11-15",
+   "description": "MLH（Major League Hacking）官方认证黑客松，报名时间以官网为准。",
+   "sources": [
+    {
+     "name": "MLH",
+     "url": "https://www.spaceappschallenge.org/2026/local-events/new-york/"
     }
    ]
   }

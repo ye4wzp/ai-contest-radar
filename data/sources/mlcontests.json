@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06",
+ "updated": "2026-11-07",
  "competitions": [
   {
    "id": "mlc-flagos-io-race-detail-season2-id-8q4m2x7p-lang-en",
@@ -365,6 +365,77 @@
    "deadline": "2027-01-13",
    "end": "2027-01-20",
    "description": "Kaggle 平台赛事",
+   "sources": [
+    {
+     "name": "ML Contests",
+     "url": "https://mlcontests.com/"
+    }
+   ]
+  },
+  {
+   "id": "mlc-www-codabench-org-competitions-18333",
+   "name": "SafeDrive-VLA: Towards Safety in Autonomous Driving",
+   "organizer": "Codabench",
+   "official_url": "https://www.codabench.org/competitions/18333/",
+   "type": "数据算法赛",
+   "tags": [
+    "Codabench",
+    "NeurIPS RoboPAD Workshop",
+    "国际"
+   ],
+   "city": "线上",
+   "prize": null,
+   "start": "2026-10-15",
+   "deadline": "2026-11-30",
+   "end": "2026-11-30",
+   "description": "Codabench 平台赛事 （NeurIPS RoboPAD Workshop 竞赛赛道）",
+   "sources": [
+    {
+     "name": "ML Contests",
+     "url": "https://mlcontests.com/"
+    }
+   ]
+  },
+  {
+   "id": "mlc-www-codabench-org-competitions-18135",
+   "name": "Human-Aware Vision-and-Language Navigation",
+   "organizer": "Codabench",
+   "official_url": "https://www.codabench.org/competitions/18135/",
+   "type": "数据算法赛",
+   "tags": [
+    "Codabench",
+    "NeurIPS RoboPAD Workshop",
+    "国际"
+   ],
+   "city": "线上",
+   "prize": null,
+   "start": "2026-10-15",
+   "deadline": "2026-11-30",
+   "end": "2026-11-30",
+   "description": "Codabench 平台赛事 （NeurIPS RoboPAD Workshop 竞赛赛道）",
+   "sources": [
+    {
+     "name": "ML Contests",
+     "url": "https://mlcontests.com/"
+    }
+   ]
+  },
+  {
+   "id": "mlc-www-codabench-org-competitions-17954",
+   "name": "Domain-Specific Question Answering with LLMs",
+   "organizer": "IEEE CIS",
+   "official_url": "https://www.codabench.org/competitions/17954/",
+   "type": "数据算法赛",
+   "tags": [
+    "Codabench",
+    "国际"
+   ],
+   "city": "线上",
+   "prize": "$20,000",
+   "start": "2026-09-28",
+   "deadline": "2026-11-15",
+   "end": "2026-12-05",
+   "description": "Codabench 平台赛事",
    "sources": [
     {
      "name": "ML Contests",
