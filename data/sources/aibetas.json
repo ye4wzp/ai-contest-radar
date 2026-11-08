@@ -1,6 +1,29 @@
 {
- "updated": "2026-11-07",
+ "updated": "2026-11-08",
  "competitions": [
+  {
+   "id": "aibetas-649",
+   "name": "2026山东文旅AIGC视频创作大赛",
+   "organizer": "山东省文化和旅游厅、山东省大数据局、山东省青年联合会",
+   "official_url": "https://aigc.sdcth.edu.cn/",
+   "type": "AI创作赛",
+   "tags": [
+    "AI视频",
+    "AIGC"
+   ],
+   "city": null,
+   "prize": "总奖金5万元，最高单项奖金1万元",
+   "start": null,
+   "deadline": "2026-11-20",
+   "end": null,
+   "description": "“齐风鲁韵·AI焕新”2026山东文旅AIGC视频创作大赛面向社会各界征集适配“好客山东”品牌推广的AIGC短视频，设置六大创作赛道，总奖金5万元，最高奖1万元，2026年11月20日24时截止。",
+   "sources": [
+    {
+     "name": "AIBetas",
+     "url": "https://www.aibetas.com/aigc_events/shandong-aigc-video-competition-2026"
+    }
+   ]
+  },
   {
    "id": "aibetas-645",
    "name": "2026 Epic AI MegaJam",
