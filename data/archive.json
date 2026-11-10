@@ -29813,5 +29813,278 @@
     "url": "https://events.mlh.com/events/15611-fph-example"
    }
   ]
+ },
+ {
+  "id": "tch-48",
+  "name": "麦当劳程序员创意开发大赛",
+  "organizer": "麦当劳、腾讯WorkBuddy",
+  "official_url": "https://github.com/M-China-Official/mcd-developer-innovation-challenge",
+  "type": "黑客松",
+  "tags": [
+   "腾讯云",
+   "官方赛事"
+  ],
+  "city": "线上",
+  "prize": "60000积分",
+  "start": "2026-10-09",
+  "deadline": "2026-10-25",
+  "end": "2026-10-26",
+  "description": "基于麦当劳 MCP（Model Context Protocol）能力开发的创新 Skill（能够实现信息查询、业务处理、决策辅助、内容生成、任务执行等目的的应用程序、智能体、插件、自动化流程、工作流或其他软件功能模块）（简称“项目”）以开源形式发布至 GitHub，并于活动期间提交参赛申请。麦当劳对于符合活动要求的项目进行排名，并根据项目排名及相应条件发放相应奖励。 从梳理需求、编写代码到调试完善，使用WorkBuddy开发，让你的脑洞变成实用又好玩的作品！",
+  "detail": "基于麦当劳 MCP（Model Context Protocol）能力开发的创新 Skill（能够实现信息查询、业务处理、决策辅助、内容生成、任务执行等目的的应用程序、智能体、插件、自动化流程、工作流或其他软件功能模块）（简称“项目”）以开源形式发布至 GitHub，并于活动期间提交参赛申请。麦当劳对于符合活动要求的项目进行排名，并根据项目排名及相应条件发放相应奖励。\n从梳理需求、编写代码到调试完善，使用WorkBuddy开发，让你的脑洞变成实用又好玩的作品！",
+  "sources": [
+   {
+    "name": "腾讯云黑客松官网",
+    "url": "https://tch.cloud.tencent.com"
+   }
+  ]
+ },
+ {
+  "id": "devpost-31805",
+  "name": "NextSpark Hacks",
+  "organizer": "Independent Student Organizer",
+  "official_url": "https://nextspark-hacks.devpost.com/",
+  "type": "黑客松",
+  "tags": [
+   "Devpost",
+   "国际"
+  ],
+  "city": "线上",
+  "prize": "$100",
+  "start": "2026-10-21",
+  "deadline": "2026-10-26",
+  "end": "2026-10-26",
+  "signup": "open",
+  "description": "Devpost 黑客松，主题：Beginner Friendly、Machine Learning/AI、Open Ended",
+  "sources": [
+   {
+    "name": "Devpost",
+    "url": "https://devpost.com/hackathons"
+   }
+  ]
+ },
+ {
+  "id": "devpost-30447",
+  "name": "Build With AI: Basics",
+  "organizer": "Devpost",
+  "official_url": "https://learn-ai-basics.devpost.com/",
+  "type": "黑客松",
+  "tags": [
+   "Devpost",
+   "国际"
+  ],
+  "city": "线上",
+  "prize": "$2,500",
+  "start": "2026-09-22",
+  "deadline": "2026-10-26",
+  "end": "2026-10-26",
+  "signup": "open",
+  "description": "Devpost 黑客松，主题：Machine Learning/AI、Beginner Friendly、Education",
+  "sources": [
+   {
+    "name": "Devpost",
+    "url": "https://devpost.com/hackathons"
+   }
+  ]
+ },
+ {
+  "id": "devpost-31138",
+  "name": "Build North: Ship Something Real",
+  "organizer": "Georgian",
+  "official_url": "https://build-north.devpost.com/",
+  "type": "黑客松",
+  "tags": [
+   "Devpost",
+   "国际"
+  ],
+  "city": "Toronto",
+  "prize": null,
+  "start": "2026-10-16",
+  "deadline": "2026-10-26",
+  "end": "2026-10-26",
+  "signup": "open",
+  "description": "Devpost 黑客松，主题：Enterprise、Machine Learning/AI、Open Ended",
+  "sources": [
+   {
+    "name": "Devpost",
+    "url": "https://devpost.com/hackathons"
+   }
+  ]
+ },
+ {
+  "id": "mlc-fusion-equilibrium-challenge-sophelio-io",
+  "name": "Infer Fusion Reactor Magnetic Geometry",
+  "organizer": "Sophelio, General Atomics, UKAEA, UT Austin",
+  "official_url": "https://fusion-equilibrium-challenge.sophelio.io/",
+  "type": "数据算法赛",
+  "tags": [
+   "Independent",
+   "NeurIPS",
+   "国际"
+  ],
+  "city": "线上",
+  "prize": "$1,000",
+  "start": null,
+  "deadline": null,
+  "end": "2026-10-26",
+  "description": "Independent 平台赛事 （NeurIPS 竞赛赛道）",
+  "sources": [
+   {
+    "name": "ML Contests",
+    "url": "https://mlcontests.com/"
+   }
+  ]
+ },
+ {
+  "id": "tianchi-532469",
+  "name": "“学AI，你做主”——天池平台学习赛题征集赛",
+  "organizer": "阿里云天池",
+  "official_url": "https://tianchi.aliyun.com/competition/entrance/532469",
+  "type": "数据算法赛",
+  "tags": [
+   "天池",
+   "阿里云竞赛",
+   "云计算"
+  ],
+  "city": null,
+  "prize": "¥100,000",
+  "start": "2026-04-20",
+  "deadline": null,
+  "end": "2026-10-26",
+  "signup": "closed",
+  "description": "在云计算与大模型技术深度融合的今天，AI应用的边界正在被无限拓宽。学AI，学什么？我们决定听你的！我们不再局限于特定的赛道，而是面向大众征集有意思的AI赛题。无论您是想解决一个具体的行业痛点，还是想探索大模型的创意玩法，这里听大家的！想让你的智慧成为长期的经典赛题吗？快报名参赛吧！你的赛题将会收获万人点赞",
+  "sources": [
+   {
+    "name": "天池",
+    "url": "https://tianchi.aliyun.com/competition/activeList"
+   }
+  ]
+ },
+ {
+  "detail": "# SpaceXAI 数字化转型实验室\n\n## 1. 比赛简介\nSpaceXAI 数字化转型实验室是一个为期2天的黑客马拉松活动，旨在帮助葡萄牙的中小企业利用人工智能（AI）技术解决真实的商业挑战。该活动由 TAIKAI 组织，旨在通过创新和协作，将AI技术应用于实际问题，推动企业数字化转型。\n\n### 背景\n随着技术的快速发展，中小企业面临着如何利用AI技术提高效率、降低成本和增强竞争力的挑战。SpaceXAI 数字化转型实验室旨在提供一个平台，让参与者能够将AI技术应用于实际业务场景，从而推动葡萄牙中小企业的数字化转型。\n\n### 目的\n- 促进AI技术在中小企业中的应用\n- 培养创新思维和团队合作能力\n- 提高中小企业在数字化转型过程中的竞争力\n\n### 主要内容\n- 参与者将在2天内，针对提供的商业挑战，运用AI技术进行创新解决方案的设计和开发。\n- 活动将包括工作坊、研讨会和导师指导，帮助参与者提升技能和知识。\n\n## 2. 时间安排\n- 注册：15 Sep, 2026 - 16:00\n- 活动日：26 Oct, 2026 - 01:30\n\n## 3. 奖金\n（信息未提供）\n\n## 4. 要求\n- 参与者需具备一定的编程和AI技术基础。\n- 参与者需以团队形式参加，每队至少3人。\n\n## 5. 重要细节\n- 组织：SpaceXAI\n- 行业：人工智能\n- 活动地点：线上进行\n- 参与人数：5个团队\n- 官方网站：[SpaceXAI 数字化转型实验室](https://www.iapmei.pt/pt/paginas/laboratorio-de-ia-e-transformacao-digital-spacexai/)",
+  "id": "taikaispacexai-digital-transformation-lab",
+  "name": "SpaceXAI数字化转型实验室",
+  "organizer": "TAIKAI",
+  "official_url": "https://taikai.network/en/spacexai/hackathons/spacexai-digital-transformation-lab/",
+  "type": "黑客松",
+  "tags": [
+   "机器学习/AI",
+   "社会公益"
+  ],
+  "city": "线上",
+  "prize": "¥25,200",
+  "start": "2026-10-26",
+  "deadline": null,
+  "end": "2026-10-26",
+  "signup": "upcoming",
+  "description": "葡萄牙中小企业两天内将真实商业挑战转化为AI解决方案",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/taikaispacexai-digital-transformation-lab"
+   }
+  ]
+ },
+ {
+  "detail": "# Dell x NVIDIA Hackathon 比赛内容概括\n\n## 1. 比赛简介\n🚀 **Dell x NVIDIA Hackathon** 是一场由Dell和NVIDIA联合举办的黑客松活动，旨在鼓励创新和技术突破。该比赛为参赛者提供了一个展示自己技术能力和创造力的平台，通过解决实际问题来推动科技发展。\n\n比赛背景：随着科技的快速发展，企业和组织对于创新解决方案的需求日益增长。Dell和NVIDIA希望通过此次黑客松，激发参赛者的创新思维，共同探索前沿技术，推动行业进步。\n\n比赛目的：\n- 鼓励参赛者运用Dell和NVIDIA的技术，开发出具有创新性和实用性的解决方案。\n- 促进技术交流和合作，推动行业创新。\n- 发现和培养未来的技术人才。\n\n比赛主要内容：\n- 参赛者需在规定时间内，利用Dell和NVIDIA的技术资源，开发出具有创新性的项目。\n- 项目需围绕特定主题，如人工智能、物联网、云计算等。\n- 参赛者需在比赛现场进行项目展示，并接受评委的评审。\n\n## 2. 时间安排\n📅 **日期**：10月25日\n🕒 **时间**：9:00 - 19:00\n📍 **地点**：Frontier Tower @ Spaceship 995 Market Street, San Francisco\n\n## 3. 奖金\n💳 **奖金信息**：比赛设有丰厚的奖金，具体金额和分配方式将在比赛公告中公布。\n\n## 4. 要求\n📝 **参赛要求**：\n- 参赛者需具备一定的编程能力和技术背景。\n- 参赛者需在比赛规定时间内完成项目开发。\n- 参赛者需遵守比赛规则和规定。\n\n## 5. 重要细节\n🤝 **合作机构**：Dell、NVIDIA\n🛠️ **技术支持**：Dell和NVIDIA将提供技术支持和资源，协助参赛者完成项目开发。\n📚 **报名方式**：请关注比赛官网或相关渠道，获取报名信息。\n👨‍💻 **团队参赛**：鼓励团队参赛，但每个团队最多只能有4名成员。\n🏥 **健康与安全**：比赛现场将提供必要的安全保障和医疗服务。\n🌍 **全球参与**：比赛面向全球参赛者，欢迎来自不同国家和地区的创新者参与。",
+  "id": "lumaevt-kyYOjS75grMVHAR",
+  "name": "戴尔x英伟达黑客松",
+  "organizer": "FRONTIER TOWER SF、FRONTIER TOWER、JENS INGELSTEDT、PHILIPPE COLLET",
+  "official_url": "https://luma.com/frontier-al6k",
+  "type": "黑客松",
+  "tags": [
+   "机器学习/AI",
+   "计算机视觉",
+   "DevOps"
+  ],
+  "city": "线上",
+  "prize": null,
+  "start": "2026-10-25",
+  "deadline": null,
+  "end": "2026-10-26",
+  "signup": "upcoming",
+  "description": "旧金山16层前沿科技枢纽。加入我们：https://frontiertower.io/apply",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/lumaevt-kyYOjS75grMVHAR"
+   }
+  ]
+ },
+ {
+  "detail": "# Bay Area AI+car hackathon 比赛内容概括\n\n## 1. 比赛简介\n🚀 **比赛概述**：Bay Area AI+car hackathon 是一场聚焦于小型自动驾驶赛车和人工智能技术的黑客马拉松。该比赛旨在鼓励创新思维，推动自动驾驶技术的发展，并促进跨学科的合作。\n\n🎯 **背景**：随着人工智能技术的飞速发展，自动驾驶技术逐渐成为研究热点。此次比赛由Luma公司主办，旨在为参与者提供一个展示自己技术能力和创新思维的平台。\n\n✅ **目的**：\n- 激发参与者对自动驾驶技术的兴趣和热情。\n- 促进人工智能与汽车行业的融合。\n- 培养跨学科的合作精神。\n- 推动自动驾驶技术的实际应用。\n\n📚 **主要内容**：\n- 参赛者需在规定时间内，利用人工智能技术设计并实现一款小型自动驾驶赛车。\n- 赛车需具备自主导航、避障、识别交通信号等功能。\n- 比赛过程中，评委将根据赛车的性能、创新性、实用性等方面进行评分。\n\n## 2. 时间安排\n（此部分内容未提供，故不输出）\n\n## 3. 奖金\n（此部分内容未提供，故不输出）\n\n## 4. 要求\n🤝 **参赛资格**：\n- 个人或团队均可参赛，团队人数不超过4人。\n- 参赛者需具备一定的编程能力和人工智能知识。\n\n⚙️ **参赛工具**：\n- 参赛者可使用任何编程语言和开发工具。\n- Luma公司提供比赛所需的硬件设备和软件资源。\n\n🛠️ **参赛流程**：\n1. 报名参赛。\n2. 在规定时间内完成赛车设计和实现。\n3. 参加比赛，展示自己的作品。\n4. 评委评分，公布获奖名单。\n\n## 5. 重要细节\n👨‍💻 **技术支持**：Luma公司为参赛者提供技术支持，包括硬件设备、软件资源和在线教程。\n\n💡 **创新奖励**：比赛设置创新奖，鼓励参赛者发挥创意，提出独特的解决方案。\n\n🏥 **安全提示**：参赛者在设计和实现赛车过程中，请注意安全，避免发生意外事故。",
+  "id": "lumaevt-pMblGmFDgWwshUx",
+  "name": "湾区AI+汽车黑客松",
+  "organizer": "DIY ROBOCARS、CHRIS ANDERSON",
+  "official_url": "https://luma.com/jgl2tejn",
+  "type": "黑客松",
+  "tags": [
+   "机器学习/AI",
+   "计算机视觉",
+   "机器人"
+  ],
+  "city": "电路启动，美国加州奥克兰8000埃德杰德路200号",
+  "prize": null,
+  "start": "2026-10-25",
+  "deadline": null,
+  "end": "2026-10-26",
+  "signup": "upcoming",
+  "description": "小型自动驾驶赛车和黑客马拉松",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/lumaevt-pMblGmFDgWwshUx"
+   }
+  ]
+ },
+ {
+  "detail": "# Seattle | AI Week Claude Impact Lab Hackathon 比赛内容概括\n\n## 1. 比赛简介\n🚀 **比赛概述**：Seattle AI Week Claude Impact Lab Hackathon 是一场由 Anthropic 赞助的社会影响力黑客马拉松，由 Seattle 市大使 Adam Burgh（We Build With AI 创始人）组织。该活动旨在鼓励参与者利用 AI 技术解决社会问题，与当地政府机构或非营利组织合作，推动公民或社会影响。\n\n🎯 **比赛背景**：随着人工智能技术的快速发展，其应用领域日益广泛。本次黑客马拉松旨在探索 AI 在社会领域的潜力，促进 AI 技术与社会的融合。\n\n✅ **比赛目的**：\n- 鼓励创新思维，利用 AI 技术解决社会问题。\n- 促进 AI 技术与社会的融合，推动社会进步。\n- 增强参与者对 AI 技术的理解和应用能力。\n\n📚 **比赛主要内容**：\n- 参与者需在规定时间内，围绕社会影响力主题，利用 Claude AI 工具开发创新项目。\n- 项目需与当地政府机构或非营利组织合作，解决实际问题。\n- 活动结束后，评委将对项目进行评审，评选出优秀项目。\n\n## 2. 时间安排\n📅 **活动日期**：2023年10月25日星期日\n🕒 **活动时间**：9:00 - 19:30\n\n## 3. 奖金\n💳 **奖金信息**：比赛奖金信息未提供。\n\n## 4. 要求\n🔍 **参赛要求**：\n- 参赛者需具备一定的编程基础和 AI 技术知识。\n- 参赛者需在规定时间内完成项目开发。\n- 项目需与当地政府机构或非营利组织合作。\n\n## 5. 重要细节\n📝 **重要提示**：\n- 报名已截止，活动目前不接受报名。\n- 如需赞助、提供工具和积分、担任评委或为活动制作照片和视频，请发送电子邮件至 events@webuildwithai.org。\n- 活动地点：thinkspace SEATTLE，1700 Westlake Ave N #200, Seattle, WA 98109, USA。",
+  "id": "lumaevt-hyFbKqzTXu6MVAt",
+  "name": "西雅图 | 人工智能周 克劳德影响实验室黑客马拉松",
+  "organizer": "CLAUDE COMMUNITY EVENTS、ADAM BURGH",
+  "official_url": "https://luma.com/claude-impact",
+  "type": "黑客松",
+  "tags": [
+   "机器学习/AI",
+   "社会公益"
+  ],
+  "city": "ThinkSpace 西雅图，1700 Westlake Ave N #200，华盛顿州西雅图，98109，美国",
+  "prize": null,
+  "start": "2026-10-25",
+  "deadline": null,
+  "end": "2026-10-26",
+  "signup": "upcoming",
+  "description": "由Claude社区成员全球举办的Claude社区活动。与Claude共建者相聚，持续思考。了解更多：https://claude.com/community",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/lumaevt-hyFbKqzTXu6MVAt"
+   }
+  ]
+ },
+ {
+  "detail": "# SEA AI WEEK Anthropic Hackathon 比赛内容概括\n\n## 1. 比赛简介\n🚀 **比赛概述**：SEA AI WEEK Anthropic Hackathon 是一场专注于人工智能领域的黑客松活动，旨在鼓励开发者、研究人员和爱好者共同探索和开发创新的人工智能解决方案。\n\n🌍 **背景**：该活动作为 SEA AI WEEK 的一部分，由 Skillsheet 和 Thinkspace 联合主办，旨在推动人工智能技术的发展和应用。\n\n🎯 **目的**：通过黑客松的形式，激发参与者对人工智能的兴趣，促进跨学科合作，推动技术创新。\n\n📚 **主要内容**：\n- **项目开发**：参与者将在规定时间内，围绕人工智能主题进行项目开发。\n- **技术交流**：提供技术交流和分享的平台，促进知识传播和技能提升。\n- **团队协作**：鼓励跨学科团队协作，促进不同领域专家的交流与合作。\n\n## 2. 时间安排\n📅 **日期**：2023年10月25日\n🕒 **时间**：8:00 - 20:00\n\n## 4. 要求\n🤖 **参与者要求**：\n- 对人工智能有浓厚兴趣\n- 具备一定的编程和开发能力\n- 愿意参与团队合作\n\n## 5. 重要细节\n- **地点**：thinkspace SEATTLE，1700 Westlake Ave N #200, Seattle, WA 98109, USA\n- **报名方式**：请通过活动页面进行报名\n- **联系方式**：如有任何疑问，请联系 aniket@skillsheet.me 或 peter@thinkspace.com",
+  "id": "lumaevt-qLQlIrBmGrwnFiy",
+  "name": "[SEA AI周]Anthropic黑客松",
+  "organizer": "SKILLSHEET EVENTS、ANIKET NARAVANEKAR [SKILLSHEET]、PETER CHEE、JACKIE LATRAGNA、ADITI BENDRE、HANNAH MADGETT、VIKTORIIA BEZUSHKO [SKILLSHEET]",
+  "official_url": "https://luma.com/seaaiweek-sun",
+  "type": "黑客松",
+  "tags": [
+   "机器学习/AI",
+   "计算机视觉",
+   "社会公益"
+  ],
+  "city": "ThinkSpace 西雅图，1700 Westlake Ave N #200，华盛顿州西雅图，98109，美国",
+  "prize": null,
+  "start": "2026-10-25",
+  "deadline": null,
+  "end": "2026-10-26",
+  "signup": "upcoming",
+  "description": "GTM和初创企业活动。演讲者、联合主持、赞助机会，请联系aniket@skillsheet.me。西雅图AI周，与Thinkspace联合举办。",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/lumaevt-qLQlIrBmGrwnFiy"
+   }
+  ]
  }
 ]
