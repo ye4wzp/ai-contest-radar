@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10",
+ "updated": "2026-11-11",
  "competitions": [
   {
    "id": "mlc-flagos-io-race-detail-season2-id-8q4m2x7p-lang-en",
@@ -421,6 +421,30 @@
    ]
   },
   {
+   "id": "mlc-www-codabench-org-competitions-18366",
+   "name": "PhyRC 2027: Robot-Assisted Dressing in Simulation",
+   "organizer": "Hello Robot",
+   "official_url": "https://www.codabench.org/competitions/18366/",
+   "type": "数据算法赛",
+   "tags": [
+    "Codabench",
+    "ICRA",
+    "国际"
+   ],
+   "city": "线上",
+   "prize": null,
+   "start": "2026-10-15",
+   "deadline": "2026-10-15",
+   "end": "2026-12-15",
+   "description": "Codabench 平台赛事 （ICRA 竞赛赛道）",
+   "sources": [
+    {
+     "name": "ML Contests",
+     "url": "https://mlcontests.com/"
+    }
+   ]
+  },
+  {
    "id": "mlc-www-synapse-org-Synapse-syn68634259-wiki-633407",
    "name": "Predict Cognitive Outcomes from Digital Clock Drawings",
    "organizer": "Sage Bionetworks",
@@ -437,6 +461,29 @@
    "deadline": null,
    "end": "2027-02-17",
    "description": "Synapse 平台赛事 （ISMB 竞赛赛道）",
+   "sources": [
+    {
+     "name": "ML Contests",
+     "url": "https://mlcontests.com/"
+    }
+   ]
+  },
+  {
+   "id": "mlc-www-kaggle-com-competitions-physical-engineerings-last-exam",
+   "name": "Build Autonomous Agent Harnesses for Physical Engineering",
+   "organizer": "Google",
+   "official_url": "https://www.kaggle.com/competitions/physical-engineerings-last-exam",
+   "type": "数据算法赛",
+   "tags": [
+    "Kaggle",
+    "国际"
+   ],
+   "city": "线上",
+   "prize": "$400,000",
+   "start": "2026-11-09",
+   "deadline": null,
+   "end": "2027-01-05",
+   "description": "Kaggle 平台赛事",
    "sources": [
     {
      "name": "ML Contests",

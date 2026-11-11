@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10",
+ "updated": "2026-11-11",
  "competitions": [
   {
    "id": "modelscope-394",
@@ -16,6 +16,28 @@
    "deadline": "2026-12-01",
    "end": null,
    "description": "本期以「AI 造游戏」为主题，邀请你用 AI 创作一款原创游戏，发布到魔搭创空间，让大家点开就能玩。",
+   "sources": [
+    {
+     "name": "魔搭社区",
+     "url": "https://modelscope.cn/active"
+    }
+   ]
+  },
+  {
+   "id": "modelscope-421",
+   "name": "知乎黑客松S3 |湾区共创季",
+   "organizer": "知乎",
+   "official_url": "https://modelscope.cn/events/421",
+   "type": "黑客松",
+   "tags": [
+    "魔搭"
+   ],
+   "city": null,
+   "prize": "120,000 元总奖金池",
+   "start": "2026-11-05",
+   "deadline": "2026-12-04",
+   "end": null,
+   "description": "次赛事线下宣讲落地大湾区，面向全球开放线上报名、全程支持云参赛",
    "sources": [
     {
      "name": "魔搭社区",
@@ -104,28 +126,6 @@
    "deadline": "2026-12-01",
    "end": null,
    "description": "把AI做成一门真实的生意。不只做出 Demo，更要完成从发现、使用到付款、交付的商业闭环。",
-   "sources": [
-    {
-     "name": "魔搭社区",
-     "url": "https://modelscope.cn/active"
-    }
-   ]
-  },
-  {
-   "id": "modelscope-375",
-   "name": "支付宝｜智能体涌现奖比赛",
-   "organizer": "支付宝",
-   "official_url": "https://modelscope.cn/events/375",
-   "type": "创意应用赛",
-   "tags": [
-    "魔搭"
-   ],
-   "city": null,
-   "prize": "1000万智能体发展奖金总奖池",
-   "start": "2026-09-10",
-   "deadline": "2026-11-10",
-   "end": null,
-   "description": "欢迎参加由支付宝发起的智能体涌现奖比赛，每一个真实需求都可能长成智能体（包括：智能应用、Agent…），你可以带着原创想法报名提交作品，也可以从阿宝许愿池的真实需求里找灵感动手创作，哪怕没有开发经验，也能投递你的愿望赢取奖励。",
    "sources": [
     {
      "name": "魔搭社区",

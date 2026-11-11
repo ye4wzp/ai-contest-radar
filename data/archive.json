@@ -30086,5 +30086,230 @@
     "url": "https://www.competehub.dev/zh/competitions/lumaevt-qLQlIrBmGrwnFiy"
    }
   ]
+ },
+ {
+  "id": "devpost-30984",
+  "name": "OpenCV AI Competition 2026, powered by AWS",
+  "organizer": "OpenCV",
+  "official_url": "https://opencv26.devpost.com/",
+  "type": "黑客松",
+  "tags": [
+   "Devpost",
+   "国际"
+  ],
+  "city": "线上",
+  "prize": "$20,250",
+  "start": "2026-08-26",
+  "deadline": "2026-10-27",
+  "end": "2026-10-27",
+  "signup": "open",
+  "description": "Devpost 黑客松，主题：IoT、Machine Learning/AI、Serverless",
+  "sources": [
+   {
+    "name": "Devpost",
+    "url": "https://devpost.com/hackathons"
+   }
+  ]
+ },
+ {
+  "id": "devpost-31503",
+  "name": "Life After Code",
+  "organizer": "GitLab",
+  "official_url": "https://gitlab-transcend.devpost.com/",
+  "type": "黑客松",
+  "tags": [
+   "Devpost",
+   "国际"
+  ],
+  "city": "线上",
+  "prize": "$45,000",
+  "start": "2026-10-05",
+  "deadline": "2026-10-27",
+  "end": "2026-10-27",
+  "signup": "open",
+  "description": "Devpost 黑客松，主题：DevOps、Machine Learning/AI、Productivity",
+  "sources": [
+   {
+    "name": "Devpost",
+    "url": "https://devpost.com/hackathons"
+   }
+  ]
+ },
+ {
+  "id": "devpost-30539",
+  "name": "HTCJ × PROOF Aviation Futures Challenge",
+  "organizer": "hacktheconcretejungle ",
+  "official_url": "https://htcj-aviation-futures.devpost.com/",
+  "type": "黑客松",
+  "tags": [
+   "Devpost",
+   "国际"
+  ],
+  "city": "Boston Venture Week",
+  "prize": null,
+  "start": "2026-06-25",
+  "deadline": "2026-10-27",
+  "end": "2026-10-27",
+  "signup": "open",
+  "description": "Devpost 黑客松，主题：Enterprise、Machine Learning/AI、Social Good",
+  "sources": [
+   {
+    "name": "Devpost",
+    "url": "https://devpost.com/hackathons"
+   }
+  ]
+ },
+ {
+  "id": "devpost-31821",
+  "name": "Engage 6.0 – Code with AI Hackathon",
+  "organizer": "The Northcap University",
+  "official_url": "https://engage6.devpost.com/",
+  "type": "黑客松",
+  "tags": [
+   "Devpost",
+   "国际"
+  ],
+  "city": "The NorthCap University",
+  "prize": "$45,000",
+  "start": "2026-10-21",
+  "deadline": "2026-10-27",
+  "end": "2026-10-27",
+  "signup": "open",
+  "description": "Devpost 黑客松，主题：Machine Learning/AI",
+  "sources": [
+   {
+    "name": "Devpost",
+    "url": "https://devpost.com/hackathons"
+   }
+  ]
+ },
+ {
+  "detail": "# UMiami Hackathon 比赛内容概括\n\n## 1. 比赛简介\n🚀 **UMiami Hackathon** 是一场旨在激发创新思维和编程技能的编程马拉松活动。该活动由Alex Spiridellis主办，面向所有对编程和科技感兴趣的参与者。比赛背景是鼓励年轻一代通过实践编程技能来解决实际问题，推动科技发展。比赛目的在于提供一个平台，让参与者能够展示自己的编程才能，同时与其他开发者交流学习。\n\n**主要内容**:\n- **主题**: 参与者需要围绕特定主题进行编程创作，具体主题将在比赛开始前公布。\n- **形式**: 比赛为现场编程竞赛，参与者需在规定时间内完成项目。\n- **评审**: 项目将由专业评审团队进行评审，评审标准包括创新性、实用性、代码质量等。\n\n## 2. 时间安排\n📅 **日期**: 10月26日星期一\n🕒 **时间**: 18:30 - 21:00 GMT-4\n\n## 3. 奖金\n💳 **奖金**: 比赛设有丰厚奖金，具体金额和分配方式将在比赛开始前公布。\n\n## 4. 要求\n📚 **参赛资格**: 所有对编程和科技感兴趣的参与者均可报名参加。\n🤝 **团队**: 参赛者可以个人或团队形式参加，团队人数不限。\n🛠️ **工具**: 参赛者需自备电脑和相关编程工具。\n\n## 5. 重要细节\n📍 **地点**: 地点待定，具体地点将在比赛开始前公布。\n📝 **报名**: 报名需审核，请提前注册并提交相关资料。\n📈 **评审**: 比赛结束后，评审团队将对所有参赛项目进行评审，并公布获奖名单。",
+  "id": "lumaevt-X1lkl2mfLT4nIsr",
+  "name": "迈阿密黑客马拉松",
+  "organizer": "PERSONAL、ALEX SPIRIDELLIS",
+  "official_url": "https://luma.com/brjc9j6x",
+  "type": "黑客松",
+  "tags": [
+   "机器学习/AI",
+   "计算机视觉",
+   "DevOps"
+  ],
+  "city": "珊瑚礁市，佛罗里达",
+  "prize": null,
+  "start": "2026-10-26",
+  "deadline": null,
+  "end": "2026-10-27",
+  "signup": "upcoming",
+  "description": "",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/lumaevt-X1lkl2mfLT4nIsr"
+   }
+  ]
+ },
+ {
+  "detail": "# Spacefast Build and Hack Night 比赛内容概括\n\n## 1. 比赛简介\n🚀 **Spacefast Build and Hack Night** 是一场专注于人工智能（AI）的构建和黑客马拉松活动。该活动由Automattic Events主办，旨在提供一个平台，让参与者将自己的AI想法变为现实，并与其他开发者交流和学习。\n\n**背景**：随着AI技术的快速发展，越来越多的创新应用涌现。Spacefast Build and Hack Night旨在激发开发者的创造力，推动AI技术的应用和创新。\n\n**目的**：\n- 鼓励开发者将AI想法转化为实际项目。\n- 促进开发者之间的交流和合作。\n- 展示AI技术的最新应用。\n\n**主要内容**：\n- 参与者可以带来自己的AI想法、团队（或独自参加）和解决方案。\n- 构建工具、仪表盘、游戏或实验。\n- Spacefast将帮助参与者完成和发布他们的AI作品。\n- 参与者可以尝试别人的作品，展示自己的项目。\n- 参加黑客马拉松挑战，有机会获奖。\n\n## 2. 时间安排\n📅 **日期**：10月26日星期一\n🕒 **时间**：17:00 - 22:00 GMT-4\n\n## 3. 要求\n✅ **参与者**：\n- 带自己的AI想法。\n- 准备好团队（或独自参加）。\n- 准备解决方案。\n\n## 4. 重要细节\n- **地点**：166 Crosby St 11th floor, New York, NY 10012, USA\n- **报名**：需要审核，欢迎注册。\n- **活动流程**：\n  - 17:00 - 17:30 报到\n  - 17:30 - 18:00 介绍Spacefast\n  - 18:00 - 19:00 专家协助构建\n  - 19:00 - 19:30 分享和展示\n  - 19:30 - 20:00 披萨和饮料\n  - 20:00 - 21:00 黑客马拉松比赛\n  - 21:00 - 21:30 评审和颁奖\n  - 21:30 - 22:00 最后的饮料，结束",
+  "id": "lumaevt-aiQAeLboI43eJOn",
+  "name": "太空快建与黑客之夜",
+  "organizer": "AUTOMATTIC EVENTS",
+  "official_url": "https://luma.com/3w2xd2z6",
+  "type": "黑客松",
+  "tags": [
+   "机器学习/AI",
+   "游戏",
+   "开放式"
+  ],
+  "city": "166 Crosby St 11F，纽约，纽约州，10012，美国",
+  "prize": null,
+  "start": "2026-10-26",
+  "deadline": null,
+  "end": "2026-10-27",
+  "signup": "upcoming",
+  "description": "",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/lumaevt-aiQAeLboI43eJOn"
+   }
+  ]
+ },
+ {
+  "detail": "# The Revenue Engine Hackathon: Paris Edition 🇫🇷\n\n## 1. 比赛简介\nThe Revenue Engine Hackathon: Paris Edition 是一场为期一天的市场策略黑客马拉松，旨在帮助早期初创公司在一天内设计、构建和推出一个可扩展的收入引擎。该活动由HubSpot for Startups主办，旨在为初创公司提供实际支持和工具，以加速其市场策略和销售流程。\n\n**背景**：\n- 活动旨在解决初创公司在市场策略和销售流程中面临的挑战。\n- 通过一天的高强度工作，初创公司可以快速构建和测试其市场策略。\n\n**目的**：\n- 帮助初创公司快速构建和推出可扩展的收入引擎。\n- 提供实际支持和工具，以加速初创公司的市场策略和销售流程。\n- 促进初创公司之间的交流和合作。\n\n**主要内容**：\n- 参与者将使用自己的数据、ICP、团队和流程来构建收入引擎。\n- 活动将提供CRM、AI代理、数据丰富和多渠道外展等工具和资源。\n- 专家将在整个构建过程中提供支持。\n\n## 2. 时间安排\n- **日期**：10月27日\n- **时间**：8:45 - 19:30 GMT+1\n- **地点**：Cléry - 21 Rue de Cléry, 75002 Paris\n\n## 3. 奖金\n- 活动未提供奖金信息。\n\n## 4. 要求\n- 参与者必须是HubSpot for Startups会员。\n- 参与者需根据阶段、增长计划和GTM挑战进行筛选。\n- 参与者需具备一定的市场策略和销售流程知识。\n\n## 5. 重要细节\n- **收入引擎动力包**：活动提供HubSpot、lemlist、OpenAI和Clay等工具和资源的免费试用或访问权限。\n- **议程**：活动包括开场致辞、多个冲刺阶段、午餐、自由构建时间、演示和奖项颁发等环节。\n- **GDPR通知**：HubSpot致力于保护参与者的隐私。",
+  "id": "luma0f431ee107c9a850d613a77cf8265691",
+  "name": "收入引擎黑客松：巴黎版 🇫🇷",
+  "organizer": "HUBSPOT FOR STARTUPS",
+  "official_url": "https://luma.com/cnhcdwc3",
+  "type": "黑客松",
+  "tags": [
+   "机器学习/AI",
+   "区块链",
+   "电商/零售"
+  ],
+  "city": "巴黎，法国",
+  "prize": null,
+  "start": "2026-10-27",
+  "deadline": null,
+  "end": "2026-10-27",
+  "signup": "upcoming",
+  "description": "一天打造您的收入引擎。大多数初创公司花费数月搭建GTM。您只需一天。加入我们的GTM黑客松，为早期初创公司从零开始设计、构建和推出可扩展的收入引擎。仅限HubSpot for Startup会员。加入[这里](https://app.hubspot.com/signup-hubspot/hubspot-for-startups?partner-code=J1xZszirzo89&program=startups&utm_source=luma)!",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/luma0f431ee107c9a850d613a77cf8265691"
+   }
+  ]
+ },
+ {
+  "detail": "# Principled Business Hackathon: Capitalism - Here to Stay 比赛内容概括\n\n## 1. 比赛简介\n🚀 **比赛概述**：Principled Business Hackathon: Capitalism - Here to Stay 是一场旨在探索和推动资本主义未来发展的黑客松活动。该活动汇聚了来自世界各地的创新者、企业家和自由市场倡导者，共同探讨如何通过科技和创新来加强资本主义体系。\n\n🎯 **背景**：活动背景基于对资本主义未来发展的深刻思考，旨在通过集思广益的方式，提出能够促进经济增长、社会进步和环境保护的创新解决方案。\n\n✅ **目的**：\n- 促进跨学科合作，结合不同领域的专业知识。\n- 探索如何利用科技和创新来加强资本主义体系。\n- 鼓励参与者提出具有实际应用价值的创新想法。\n\n📚 **主要内容**：\n- **主题讨论**：围绕资本主义的核心议题进行深入讨论，如公平、可持续性和效率。\n- **团队协作**：参与者将被分成小组，共同研究和开发创新项目。\n- **解决方案展示**：每个小组将展示他们的项目，并接受评审团的评估。\n\n## 4. 要求\n- **参与者资格**：对资本主义、创新和科技感兴趣的任何人都可以参加。\n- **技能要求**：具备编程、设计、商业分析等相关技能者优先。\n\n## 5. 重要细节\n- **活动形式**：线上和线下结合，提供灵活参与方式。\n- **评审标准**：创新性、可行性、社会影响和团队协作。\n- **后续支持**：优秀项目将获得进一步的支持和资源，以推动其落地实施。",
+  "id": "lumaevt-tChmV8ENMwHqLOB",
+  "name": "原则性商业黑客松：资本主义——长存",
+  "organizer": "2026 PRINCIPLED BUSINESS SUMMIT - AUSTIN、PRINCIPLED BUSINESS",
+  "official_url": "https://luma.com/hvvhw1xl",
+  "type": "黑客松",
+  "tags": [
+   "机器学习/AI",
+   "区块链",
+   "企业"
+  ],
+  "city": "斯普特尼克ATX VC，美国德克萨斯州奥斯汀市东6街200号230室",
+  "prize": null,
+  "start": "2026-10-27",
+  "deadline": null,
+  "end": "2026-10-27",
+  "signup": "upcoming",
+  "description": "峰会汇集了分配资本、创建公司并推进自由企业理念领导者。",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/lumaevt-tChmV8ENMwHqLOB"
+   }
+  ]
+ },
+ {
+  "detail": "# LangChain x Data Reply Hackathon: Building with Agent Harnesses (Munich)\n\n## 1. 比赛简介\n🚀 **比赛概述**：LangChain x Data Reply Hackathon 是一场关于构建智能代理的实战比赛，旨在让参与者深入了解并实践智能代理的构建过程。\n\n🎯 **背景**：此次比赛由 LangChain 和 Data Reply 联合举办，旨在推动人工智能技术的发展和应用。\n\n✅ **目的**：通过构建智能代理，提升参与者对人工智能技术的理解和应用能力，促进人工智能技术的创新和发展。\n\n**主要内容**：\n- **主题**：智能代理的构建，特别是智能代理的框架（agent harnesses）。\n- **活动流程**：\n  - **前期准备**：参赛者将在活动前收到一个提示，以便提前思考自己的项目方案。\n  - **现场活动**：活动当天，参赛者将分成小组，从零开始构建智能代理，并在活动结束时向评委展示。\n  - **评委**：由 LangChain 和 Data Reply 的专家组成，对参赛作品进行评审。\n\n## 2. 时间安排\n⏰ **日期**：2023年10月27日\n⏰ **时间**：17:00 - 21:00 GMT+1\n\n## 3. 奖金\n💳 **奖金设置**：\n- **第一名**：$3,000 in LangSmith credits\n- **第二名**：$2,000 in LangSmith credits\n- **第三名**：$1,000 in LangSmith credits\n\n## 4. 要求\n📚 **参赛要求**：\n- 参赛者需携带自己的笔记本电脑和愿意一起协作的小组（如无，组织方将协助形成小组）。\n- 参赛者需准备自己使用的模型或工具的 API 密钥。\n- 参赛者可向 Steffen, Zamal 和 Data Reply 团队提出问题。\n\n## 5. 重要细节\n📍 **地点**：Arnulfpark，具体地址将在活动前发送给批准的参与者。\n🤝 **主办方**：LangChain 和 Data Reply\n👨‍💻 **技术支持**：LangSmith credits 将提供给每位参与者，以便在构建过程中进行调试和追踪。",
+  "id": "lumaevt-JjjsVU6mV4FH8In",
+  "name": "LangChain x 数据回复黑客松：构建代理工具（慕尼黑）",
+  "organizer": "LANGCHAIN EVENTS、AMADA (LANGCHAIN)、ZAMAL、SINAN EZER、LEO FRIEDERICH、STEFFEN HAUSMANN",
+  "official_url": "https://luma.com/g6kvvori",
+  "type": "黑客松",
+  "tags": [
+   "机器学习/AI",
+   "计算机视觉"
+  ],
+  "city": "慕尼黑，德国",
+  "prize": null,
+  "start": "2026-10-27",
+  "deadline": null,
+  "end": "2026-10-27",
+  "signup": "upcoming",
+  "description": "想了解更多关于LangChain或结识其他爱好者？以下为LangChain主办及社区主办活动🥳\n\n如有疑问，请联系community@langchain.dev。",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/lumaevt-JjjsVU6mV4FH8In"
+   }
+  ]
  }
 ]
