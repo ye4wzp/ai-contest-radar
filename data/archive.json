@@ -30311,5 +30311,230 @@
     "url": "https://www.competehub.dev/zh/competitions/lumaevt-JjjsVU6mV4FH8In"
    }
   ]
+ },
+ {
+  "id": "devpost-31052",
+  "name": "AWS Communication Developer Services (CDS) Agentic AI Partner Hackathon",
+  "organizer": "AWS",
+  "official_url": "https://aws-cds-partner.devpost.com/",
+  "type": "黑客松",
+  "tags": [
+   "Devpost",
+   "国际"
+  ],
+  "city": "线上",
+  "prize": "$40,000",
+  "start": "2026-09-14",
+  "deadline": "2026-10-28",
+  "end": "2026-10-28",
+  "signup": "open",
+  "description": "Devpost 黑客松，主题：Communication、Mobile、Machine Learning/AI",
+  "sources": [
+   {
+    "name": "Devpost",
+    "url": "https://devpost.com/hackathons"
+   }
+  ]
+ },
+ {
+  "detail": "# Matrix Infrastructure as Code Hackathon 比赛内容概括\n\n## 1. 比赛简介\n🚀 Matrix Infrastructure as Code Hackathon 是一场由 Mind over Machine 主办的技术挑战赛。该比赛旨在提供一个平台，让参与者体验和探索 Matrix 服务器在不同环境下的部署和配置。Matrix 是一个开源的即时通讯协议，支持端到端加密和多种客户端集成。\n\n比赛背景：随着云计算和容器化技术的普及，基础设施即代码（Infrastructure as Code, IaC）成为了一种流行的管理方式。Matrix Infrastructure as Code Hackathon 比赛旨在鼓励开发者学习和实践如何使用 IaC 技术来部署和管理 Matrix 服务器。\n\n比赛目的：\n- 增强开发者对 Matrix 服务器和 IaC 技术的理解。\n- 促进开源社区的合作和创新。\n- 提供一个实践平台，让开发者展示他们的技能。\n\n主要内容：\n- 比赛将提供多种配置的 Matrix 服务器和客户端。\n- 参赛者需要部署 Matrix 服务器到 Kubernetes 集群、Docker 集群、云服务提供商，或是在裸机上安装旧 PC。\n- 比赛无规则限制，鼓励自由探索和创新。\n- 即使不是 IaC 专家，也能在活动现场获得专家的协助。\n\n## 2. 时间安排\n📅 10月28日星期三，16:00 - 19:00 GMT+1\n\n## 4. 要求\n✅ 参赛者需要具备基本的编程和系统管理知识。\n✅ 参赛者需要能够使用 Kubernetes、Docker 或云服务提供商进行服务器部署。\n✅ 参赛者需要准备好自己的笔记本电脑。\n\n## 5. 重要细节\n- 地点：Matrikel1 Workbar, Gammel Strand 26, 1202 København, Denmark\n- 主办方：Mind over Machine\n- 联系主办方：[联系信息](https://luma.com/user/lakruzz)\n- 报名参加：[报名链接](https://www.mindovermachine.dk/events/?utm_source=luma)",
+  "id": "lumaevt-TdfEv9l2qEYNHQm",
+  "name": "矩阵基础设施即代码黑客松",
+  "organizer": "MIND OVER MACHINE、LARS KRUSE、PAULINA DUBAS、EDITOR IN CHIEF MIND OVER MACHINE",
+  "official_url": "https://luma.com/bi2ye41e",
+  "type": "黑客松",
+  "tags": [
+   "DevOps",
+   "机器学习/AI",
+   "区块链"
+  ],
+  "city": "Matrikel1 工作吧，丹麦哥本哈根老海滩26号，1202",
+  "prize": null,
+  "start": "2026-10-28",
+  "deadline": null,
+  "end": "2026-10-28",
+  "signup": "upcoming",
+  "description": "再生软件基金会",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/lumaevt-TdfEv9l2qEYNHQm"
+   }
+  ]
+ },
+ {
+  "detail": "# Hack With YOU @AWS Builder Loft - Halloween Edition 比赛内容概括\n\n## 1. 比赛简介\n🚀 **比赛概述**：Hack With YOU @AWS Builder Loft - Halloween Edition 是一场面向AI和机器学习工程师、软件工程师、技术创始人及创始人工程师、开源贡献者和开发商倡导者的黑客马拉松活动。活动旨在提供一个平台，让参与者与顶级AI工程师、创始人及构建者并肩作战，共同打造生产级AI代理。\n\n🎯 **背景**：活动由You.com、AWS Builder Loft、Founders Bay等机构联合举办，旨在推动AI技术的发展和应用。\n\n✅ **目的**：\n- 促进AI技术的创新和应用\n- 为参与者提供一个实践和展示自己技能的机会\n- 建立人脉，拓展职业发展\n\n📚 **主要内容**：\n- 参与者将在一天内完成真实且令人毛骨悚然的成果，包括构建自主代理群和生成式UI管道等。\n- 活动分为两个主题赛道：“驱魔协议”（自主代理群）和“鬼魅仪表板”（生成式UI管道）。\n\n## 2. 时间安排\n📅 **日期**：2023年10月28日\n🕒 **时间**：9:00 - 20:30\n📍 **地点**：AWS Builder Loft, San Francisco, CA\n\n## 3. 奖金\n💳 **奖金池**：10k+美元\n- **一等奖**：5000美元AWS信用额度、1000美元You.com API信用额度等\n- **二等奖**：500美元You.com API信用额度等\n- **三等奖**：250美元You.com API信用额度等\n- **最佳服装奖**：250美元You.com信用额度\n\n## 4. 要求\n🔍 **适合申请的对象**：\n- AI和机器学习工程师\n- 使用LLM和代理构建软件的软件工程师\n- 技术创始人及创始人工程师\n- 开源贡献者\n- 积极构建的开发商倡导者\n\n## 5. 重要细节\n⚙️ **注册码**：将通过确认邮件和Discord私下分发\n👨‍💻 **技术支持**：OneAI、CrewAI、Parasail、AWS、UpScaleX等技术合作伙伴提供支持\n🌍 **活动条款和同意**：通过注册，您同意我们的活动条款和同意",
+  "id": "luma0ac1c72731b09df319a94ff8635530e4",
+  "name": "AWS Builder Loft万圣节版与你一起黑客马拉松",
+  "organizer": "YOU.COM、AWS BUILDER LOFT、FOUNDERS BAY",
+  "official_url": "https://luma.com/you-halloween",
+  "type": "AI Agent 挑战赛",
+  "tags": [
+   "机器学习/AI",
+   "计算机视觉",
+   "机器人"
+  ],
+  "city": "AWS Builder Loft 旧金山，加州",
+  "prize": "¥72,000",
+  "start": "2026-10-28",
+  "deadline": null,
+  "end": "2026-10-28",
+  "signup": "upcoming",
+  "description": "加入旧金山AWS Builder Loft，与顶级AI工程师、创始人及构建者一起，全天打造由实时网络数据驱动的生产级AI代理。特别万圣节主题赛道及最佳服装奖",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/luma0ac1c72731b09df319a94ff8635530e4"
+   }
+  ]
+ },
+ {
+  "detail": "# Chance AI x 产品设计俱乐部校园黑客马拉松\n\n## 1. 比赛简介\n🚀 由 CT 产品设计俱乐部、Wendy Hong 和 Jully Li 主办的 \"Chance AI x 产品设计俱乐部校园黑客马拉松\" 是一场旨在激发学生创新思维和解决实际问题的比赛。比赛背景是当前人工智能技术的快速发展，以及产品设计在各个领域的重要性。比赛目的在于鼓励学生将人工智能技术与产品设计相结合，创造出具有实际应用价值的产品原型。\n\n比赛主要内容涉及以下几个方面：\n- **人工智能应用**：鼓励参赛者探索人工智能在产品设计中的潜在应用，如机器学习、自然语言处理等。\n- **产品设计**：参赛者需结合人工智能技术，设计出具有创新性和实用性的产品原型。\n- **团队合作**：比赛鼓励团队合作，以促进不同学科背景的学生之间的交流与合作。\n\n## 2. 时间安排\n📅 10月27日星期二 18:00 - 20:00 GMT-4\n\n## 4. 要求\n✅ 参赛者需具备一定的产品设计基础和人工智能知识。\n✅ 参赛者需以团队形式参赛，每队成员不超过4人。\n✅ 参赛作品需结合人工智能技术与产品设计，具有创新性和实用性。\n\n## 5. 重要细节\n- **地点**：[地点](https://www.google.com/maps/search/?api=1&query=40.7559044%2C-73.9549787&query_place_id=ChIJvVOVZgBZwokRVzSP3zM8v1c)\n- **报名**：需要审核\n- **活动详情**：[活动详情](https://luma.com/)\n- **下载 App**：[下载 App](https://luma.com/app)\n- **探索**：[探索](https://luma.com/discover)\n- **定价**：[定价](https://luma.com/pricing)\n- **帮助**：[帮助](https://help.luma.com)\n- **Instagram**：[Instagram](https://www.instagram.com/luma_hq/)\n- **X**：[X](https://x.com/LumaHQ)",
+  "id": "lumaevt-8UJqGLwuPvLnRV7",
+  "name": "机会AI x 产品设计俱乐部校园黑客松",
+  "organizer": "PERSONAL、CT PRODUCT DESIGN CLUB、WENDY HONG、JULLY LI",
+  "official_url": "https://luma.com/aysshz9g",
+  "type": "黑客松",
+  "tags": [],
+  "city": "康奈尔科技学院住宅，纽约州纽约市，1 E Loop Rd，10044，美国",
+  "prize": "¥4,300",
+  "start": "2026-10-27",
+  "deadline": null,
+  "end": "2026-10-28",
+  "signup": "open",
+  "description": "",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/lumaevt-8UJqGLwuPvLnRV7"
+   }
+  ]
+ },
+ {
+  "detail": "# Hack with the Flow: n8n Buildathon 比赛内容概括\n\n## 1. 比赛简介\n🚀 **Hack with the Flow: n8n Buildathon** 是一场紧张、充满活力的黑客马拉松，旨在解决手动任务的痛苦，通过构建自动化工作流程来提高效率。活动由 n8n 社区举办，在马尼拉举行，参与者将有机会与同行交流想法，并利用 n8n 等工具构建自动化解决方案。\n\n**背景**：随着数字化转型的加速，手动任务变得越来越繁琐，影响了工作效率。n8n Buildathon 旨在通过创新和协作，提供解决方案，消除这些重复性工作。\n\n**目的**：鼓励开发者构建实用、现实世界的自动化工作流程，提高工作效率，并促进 n8n 社区的交流与合作。\n\n**主要内容**：\n- 参与者最多三人一组，利用 n8n 等工具构建自动化工作流程。\n- 活动提供 Gmail、Google Sheets、Google Calendar 和高级 AI 集成等工具。\n- 目标是构建一个实用、现实世界的解决方案，消除繁琐工作。\n\n## 2. 时间安排\n📅 10月28日星期三 8:00 - 17:00 GMT+8\n\n## 3. 奖金\n💳 比赛设有激动人心的奖品，等待着当天每个轨道上最具创新性、创造性和影响力的工作流程。\n\n## 4. 要求\n📚 参与者需自带笔记本电脑和充电器。\n🍼 建议携带水壶，保持水分。\n💡 带上你的疯狂流程想法和开放、协作的心态。\n\n## 5. 重要细节\n- 活动地点：Zero-Ten Park in Makati\n- 地点地址：11F, Frabelle Business Center, 111 Rada, Legazpi Village, Makati City, 1229 Metro Manila, Philippines\n- 报名情况：活动已满，请加入候补名单。",
+  "id": "lumaevt-NtBw6wWCMBAqYZ3",
+  "name": "与潮流共黑客：n8n 构建挑战赛",
+  "organizer": "N8N COMMUNITY EVENTS、N8N、KHYLE ASHLEY PANGANIBAN、WORKFLOW PH",
+  "official_url": "https://luma.com/n8n-6a92",
+  "type": "黑客松",
+  "tags": [
+   "生产力/效率",
+   "机器学习/AI",
+   "低代码/无代码"
+  ],
+  "city": "零一十公园 马尼拉 马卡蒂，11楼，法贝尔商务中心，111拉达，莱加兹皮村，马卡蒂市，1229大马尼拉，菲律宾",
+  "prize": null,
+  "start": "2026-10-28",
+  "deadline": null,
+  "end": "2026-10-28",
+  "signup": "upcoming",
+  "description": "请联系community@n8n.io添加您的活动。",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/lumaevt-NtBw6wWCMBAqYZ3"
+   }
+  ]
+ },
+ {
+  "detail": "# Hack AI × Rho x Geek Ventures: Casino Night 比赛内容概括\n\n## 1. 比赛简介\n🎯 **比赛概述**：Hack AI × Rho x Geek Ventures: Casino Night 是一场结合了技术挑战和娱乐活动的创新比赛。该比赛旨在通过一个轻松愉快的氛围，鼓励参与者展示他们的编程技能和创意思维。\n\n🚀 **背景**：比赛由Hack AI、Rho和Geek Ventures联合举办，旨在为人工智能领域的开发者、爱好者以及创新者提供一个交流和展示的平台。\n\n✅ **目的**：\n- 促进人工智能技术的创新和应用。\n- 增强开发者之间的交流和合作。\n- 为参与者提供一个展示自己技能和创造力的机会。\n\n📚 **主要内容**：\n- 参赛者将参与一系列编程挑战，这些挑战将围绕人工智能和机器学习展开。\n- 比赛将包括多个环节，如编码竞赛、创意展示和团队协作。\n- 参赛者需要在规定时间内完成挑战，并展示他们的解决方案。\n\n## 2. 时间安排\n📅 **日期和时间**：10月27日星期二，18:00 - 21:00 GMT-5。\n\n## 4. 要求\n🛠️ **参赛资格**：\n- 参赛者需具备一定的编程基础和人工智能知识。\n- 参赛者需注册并报名参加比赛。\n\n## 5. 重要细节\n👨‍💻 **地点**：请注册以查看具体地点。\n💳 **奖金**：比赛设有奖金，具体金额和分配方式将在比赛开始前公布。\n🤝 **团队协作**：参赛者可以个人或团队形式参加，但每个团队的人数限制为4人。\n📈 **评分标准**：比赛将根据创意、技术实现和解决问题的能力进行评分。",
+  "id": "lumaevt-0qavzAtDHeDwvOg",
+  "name": "黑客AI × Rho x 极客创投：赌场之夜",
+  "organizer": "HACK AI、REID MCCRABB、BRYCE MILES、JACK MOFFATT、SARAH ROMANKO、UMAR BRIMAH",
+  "official_url": "https://luma.com/e0hgrd4l",
+  "type": "黑客松",
+  "tags": [
+   "机器学习/AI",
+   "游戏",
+   "社会公益"
+  ],
+  "city": "奥斯汀，德克萨斯州",
+  "prize": null,
+  "start": "2026-10-27",
+  "deadline": null,
+  "end": "2026-10-28",
+  "signup": "open",
+  "description": "",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/lumaevt-0qavzAtDHeDwvOg"
+   }
+  ]
+ },
+ {
+  "detail": "# Fintech Ladies Hackathon: Build Your Own Software with AI\n\n## 1. 比赛简介\n🚀 Fintech Ladies Hackathon: Build Your Own Software with AI 是一场专注于金融科技领域的女性开发者黑客松活动。该活动旨在鼓励女性在金融科技领域发挥创新和领导作用，通过使用人工智能技术来构建自己的软件解决方案。\n\n### 背景\n随着金融科技的快速发展，人工智能技术在金融领域的应用越来越广泛。然而，女性在金融科技领域的参与度相对较低。为了改变这一现状，Fintech Ladies Events 举办了这个黑客松活动，为女性开发者提供一个展示才华、交流学习的平台。\n\n### 目的\n- **鼓励创新**：通过黑客松的形式，激发女性开发者在金融科技领域的创新思维。\n- **提升技能**：提供实践机会，帮助女性开发者提升人工智能和金融科技相关技能。\n- **促进交流**：搭建一个女性开发者之间的交流平台，促进资源共享和合作。\n\n### 主要内容\n- **主题**：使用人工智能技术构建金融科技软件。\n- **活动形式**：黑客松，参与者需要在规定时间内完成软件的开发。\n- **参与对象**：女性开发者，不限年龄、职业和背景。\n\n## 2. 时间安排\n📅 10月28日星期三\n🕒 16:00 - 20:00 GMT+1\n📍 The Delta Campus, Donaustraße 44, 12043 Berlin, Germany\n\n## 3. 奖金\n💳 门票价格为 €15.00。\n\n## 4. 要求\n🤝 参与者需具备一定的编程和人工智能知识。\n👨‍💻 参与者需自备笔记本电脑。\n📚 参与者需遵守活动规则和道德规范。\n\n## 5. 重要细节\n- **地点**：The Delta Campus, Donaustraße 44, 12043 Berlin, Germany\n- **主办人**：Christine\n- **报名方式**：购买门票\n- **退款政策**：具体政策请咨询主办方\n- **举报活动**：如有任何问题，请联系主办人",
+  "id": "lumaevt-mZF5Bt9gdepQKLL",
+  "name": "金融女黑客马拉松：用AI打造你的软件",
+  "organizer": "FINTECH LADIES EVENTS、CHRISTINE",
+  "official_url": "https://luma.com/6f56q46r",
+  "type": "黑客松",
+  "tags": [
+   "金融科技",
+   "机器学习/AI"
+  ],
+  "city": "Delta校区，德国柏林，Donaustraße 44，12043",
+  "prize": null,
+  "start": "2026-10-28",
+  "deadline": null,
+  "end": "2026-10-28",
+  "signup": "upcoming",
+  "description": "",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/lumaevt-mZF5Bt9gdepQKLL"
+   }
+  ]
+ },
+ {
+  "detail": "# 国庆专辑｜第二届长三角智慧体育创新创业大赛暨第四届合肥智慧体育创新创业大赛项目征集\n\n## 1. 比赛简介\n由安徽省体育局、上海市体育局、江苏省体育局、浙江省体育局、合肥市人民政府联合主办，合肥市体育局、合肥高新技术产业开发区管理委员会承办，安徽波动体育文化科技有限公司运营的第二届长三角智慧体育创新创业大赛暨第四届合肥智慧体育创新创业大赛正式启动。该赛事聚焦AI、大数据、5G、物联网、VR/AR等新一代信息技术与体育产业的深度融合，覆盖智能训练、全民健身、赛事运营、智慧场馆、体育大健康、智能装备等全赛道。\n\n## 2. 时间安排\n- 报名截止时间：2026年10月28日\n- 赛事启动仪式：9月8日\n- 线上初赛评审：11月3日-11月4日\n- 线下复赛：11月14日-11月16日（合肥）\n- 决赛赛前辅导：11月16日\n- 总决赛暨颁奖签约：12月4日（合肥）\n\n## 3. 奖金\n- 金奖 1 名：15万元现金奖励 + 官方奖杯证书\n- 银奖 2 名：5万元现金奖励 + 官方奖杯证书\n- 铜奖 3 名：2万元现金奖励 + 官方奖杯证书\n- 优秀奖 4 名：1万元现金奖励 + 官方奖杯证书\n\n## 4. 要求\n- **企业组**：国内合法注册、经营规范、信誉良好的体育科技相关企业。\n- **团队组**：暂未注册企业的创业团队，包含海外归国创业团队、高校科创团队、大学生创业团队、预落地优质团队，核心成员不少于3人。\n- 项目必须以AI、大数据、物联网、5G、云计算、VR/AR等数字技术为核心驱动，具备创新落地性与商业成长性。\n- 项目知识产权清晰，无权属纠纷、无侵权风险，申报材料真实合规。\n\n## 5. 重要细节\n- 赛事流程包括赛事启动仪式、全域项目报名、线上初赛评审、线下复赛、决赛赛前辅导、总决赛暨颁奖签约。\n- 政策扶持包括全周期食宿保障、标杆产业生态考察、精准投融资对接、赛前专业辅导、政企场景落地签约、长三角产业资源联动。\n- 赛事旨在推动智慧体育产业发展，鼓励创新创业，为参赛者提供展示平台和资源对接机会。",
+  "id": "urlsbef4c38cb7143652276008eeb3d46dce",
+  "name": "第二届长三角智慧体育创新创业大赛暨第四届合肥智慧体育创新创业大赛",
+  "organizer": "安徽省体育局、上海市体育局、江苏省体育局、浙江省体育局、合肥市人民政府",
+  "official_url": "https://mp.weixin.qq.com/s/adwCQms0JImuQQuLjbfUVg",
+  "type": "工程开发赛",
+  "tags": [
+   "机器学习/AI",
+   "计算机视觉",
+   "物联网"
+  ],
+  "city": "合肥",
+  "prize": "¥230,000",
+  "start": "2026-10-01",
+  "deadline": "2026-10-28",
+  "end": "2026-10-28",
+  "signup": "open",
+  "description": "由长三角三省一市体育局与合肥市政府联合主办，第二届长三角智慧体育创新创业大赛暨第四届合肥智慧体育创新创业大赛正式全域启动招募。",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/urlsbef4c38cb7143652276008eeb3d46dce"
+   }
+  ]
+ },
+ {
+  "detail": "# 2026年全国大学生“人工智能+”创新创业大赛\n\n## 1. 比赛简介\n🚀 在全球科技飞速发展的背景下，人工智能成为引领新一轮科技革命和产业变革的战略性技术。为贯彻国家创新驱动发展战略，挖掘和培育人工智能领域的创新人才，特举办全国大学生“人工智能+”创新创业大赛。\n\n**背景**： \n- 人工智能引领新一轮科技革命和产业变革。\n- 国家高度重视人工智能领域的创新发展。\n- 搭建全国性、高水平的大学生创新创业实践平台。\n\n**目的**：\n- 挖掘和培育人工智能领域的创新人才。\n- 促进人工智能技术与多领域的深度融合。\n- 培育具备创新精神、创业意识以及实践能力的高素质人才。\n\n**主要内容**：\n- 设置初赛和决赛两个赛段。\n- 初赛为AI素养测试，决赛为提交创新创业计划书。\n- 参赛对象为各高校在校生（含高职、大专、本科及研究生），不限专业。\n\n## 2. 时间安排\n- 初赛报名及参赛：2026年3月1日至10月28日。\n- 决赛报名及参赛：2026年10月28日前。\n- 决赛截止提交作品：2026年11月5日。\n- 决赛评审：2026年11月6日至12月6日。\n- 决赛获奖公示：2026年12月7日中午12时。\n- 证书邮寄：2026年12月中下。\n\n## 3. 奖金\n💳 初赛奖项：根据答题成绩分设一、二、三等奖。\n- 一等奖：90-100分；\n- 二等奖：80-89分；\n- 三等奖：60-79分。\n\n决赛奖项：\n- 金奖：约占参与队伍数10%，颁发荣誉证书+奖章；\n- 银奖：约占参与队伍数15%，颁发荣誉证书；\n- 铜奖：约占参与队伍数25%，颁发荣誉证书；\n- 优秀奖：若干，颁发荣誉证书。\n\n## 4. 要求\n✅ 参赛对象：各高校在校生（含高职、大专、本科及研究生），不限专业。\n✅ 初赛：个人网络答题，题型为单选题和判断题，60分（含）以上的参赛选手有资格组队参加决赛。\n✅ 决赛：团体赛，每队由1至3名选手和1名指导教师组成。\n\n## 5. 重要细节\n- 初赛免费，决赛每人收取评审费用70元，组队每人60元。\n- 参赛选手对认为不符合竞赛规定与有失公正的检测、评判、奖励做法，以及对工作人员的违规行为等，均可提出申诉。\n- 大赛官网：http://rgzn.52jingsai.com\n- 大赛官方咨询公众号：青年精英社\n- 大赛办公室联系人：马老师 13661342833",
+  "id": "urlsbaf87061ec37392169e8bd509db11d91",
+  "name": "2026年全国大学生“人工智能+”创新创业大赛",
+  "organizer": "中国技术创业协会",
+  "official_url": "https://mp.weixin.qq.com/s/xqQfkakIJ-9na9fgLdRjJw",
+  "type": "工程开发赛",
+  "tags": [
+   "机器学习/AI"
+  ],
+  "city": "线上",
+  "prize": null,
+  "start": "2026-09-01",
+  "deadline": null,
+  "end": "2026-10-28",
+  "signup": "open",
+  "description": "在当今全球科技飞速发展的大背景下，人工智能已成为引领新一轮科技革命和产业变革的战略性技术，对经济社会发展产生着深远影响。我国高度重视人工智能领域的创新发展，国家创新驱动发展战略明确指出，要加快人工智能技术在各行业的深度应用，推动产业升级与创新发展模式转变。为深入贯彻党的二十大及二十届二中、三中全会精神，全面落实习近平总书记在全国教育大会上的重要讲话精神，积极响应国家战略号召，进一步挖掘和培育人工智能领域的创新人才，大力促进人工智能技术与多领域的深度融合，切实培育具备创新精神、创业意识以及实践能力的高素质人才，搭建一个全国性、高水平的大学生创新创业实践平台，特举办全国大学生“人工智能+”创新创业",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/urlsbaf87061ec37392169e8bd509db11d91"
+   }
+  ]
  }
 ]
