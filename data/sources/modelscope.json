@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-13",
+ "updated": "2026-11-14",
  "competitions": [
+  {
+   "id": "modelscope-432",
+   "name": "魔搭社区 X 虹桥国际科技周黑客松｜选手火热招募🚀",
+   "organizer": "去探险、TECH WEEK",
+   "official_url": "https://modelscope.cn/events/432",
+   "type": "黑客松",
+   "tags": [
+    "魔搭"
+   ],
+   "city": null,
+   "prize": "现金奖金、神秘硬件、DoBeHub 月卡福利",
+   "start": "2026-11-14",
+   "deadline": "2026-11-15",
+   "end": null,
+   "description": "✨报名参赛即可领取 1000 元基础算力✨\n确认线下到场参赛，还可解锁额外算力资源！",
+   "sources": [
+    {
+     "name": "魔搭社区",
+     "url": "https://modelscope.cn/active"
+    }
+   ]
+  },
   {
    "id": "modelscope-394",
    "name": "AI造游戏，人人都是游戏制作人｜AI+∞开发者创作大赛第三期",

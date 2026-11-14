@@ -1,6 +1,29 @@
 {
- "updated": "2026-11-13",
+ "updated": "2026-11-14",
  "competitions": [
+  {
+   "id": "aibetas-652",
+   "name": "2026“数字武当杯”AI应用创新大赛",
+   "organizer": "湖北省太和武当数字文化有限公司",
+   "official_url": "https://customers.wdszwd.com/",
+   "type": "AI创作赛",
+   "tags": [
+    "综合创作",
+    "AIGC"
+   ],
+   "city": null,
+   "prize": "金奖：1名，奖金30,000元",
+   "start": null,
+   "deadline": "2026-12-10",
+   "end": null,
+   "description": "“数字武当杯”AI应用创新大赛面向全国高校师生、独立AIGC创作者、工作室及企业团队征集武当文化原创衍生IP作品，设置视觉IP、微短剧与数字剧本、氛围音乐和数字文创四大赛道，奖金池12万元，最高奖3万元，2026年12月10日截止。",
+   "sources": [
+    {
+     "name": "AIBetas",
+     "url": "https://www.aibetas.com/aigc_events/digital-wudang-cup-ai-innovation-2026"
+    }
+   ]
+  },
   {
    "id": "aibetas-649",
    "name": "2026山东文旅AIGC视频创作大赛",
