@@ -1,6 +1,98 @@
 {
- "updated": "2026-11-14",
+ "updated": "2026-11-15",
  "competitions": [
+  {
+   "id": "aibetas-661",
+   "name": "“用AI讲好潍坊故事”潍坊AIGC创意视频大赛",
+   "organizer": "潍坊市融媒体中心、潍坊银行",
+   "official_url": "https://www.wfcmw.cn/334165/2026/11/45559397.html",
+   "type": "AI创作赛",
+   "tags": [
+    "AI视频",
+    "AIGC"
+   ],
+   "city": null,
+   "prize": "一等奖1名、二等奖3名、三等奖5名，均含奖金；具体金额及税务口径未公布",
+   "start": null,
+   "deadline": "2026-12-31",
+   "end": null,
+   "description": "潍坊AIGC创意视频大赛面向社会征集30—180秒原创AI视频，个人、团队和单位均可参加，设文脉潍坊、活力潍坊、山海潍坊、温暖潍坊四个创作方向。大赛设一、二、三等奖等多个奖项，奖金金额尚未公布，作品征集截至2026年12月底。",
+   "sources": [
+    {
+     "name": "AIBetas",
+     "url": "https://www.aibetas.com/aigc_events/weifang-aigc-video-competition-2026"
+    }
+   ]
+  },
+  {
+   "id": "aibetas-659",
+   "name": "LibTV宝藏画布发现计划",
+   "organizer": "LibTV",
+   "official_url": "https://www.liblib.tv/activity/73",
+   "type": "AI创作赛",
+   "tags": [
+    "AI视频",
+    "AIGC"
+   ],
+   "city": null,
+   "prize": "现金总奖池68000元；积分总奖池190000积分；通过审核的精选画布等额瓜分50000元",
+   "start": null,
+   "deadline": "2026-11-22",
+   "end": null,
+   "description": "活动简介 本次活动以“打开你的创作现场，让好思路被看见”为出发点，不只考察最终视频，也关注创作者在LibTV画 […]",
+   "sources": [
+    {
+     "name": "AIBetas",
+     "url": "https://www.aibetas.com/aigc_events/libtv-treasure-canvas-discovery-plan"
+    }
+   ]
+  },
+  {
+   "id": "aibetas-657",
+   "name": "AI+∞开发者创作大赛第三期·AI造游戏",
+   "organizer": "魔搭社区、Qoder、盛趣游戏",
+   "official_url": "https://modelscope.cn/active/AIstudio",
+   "type": "创意应用赛",
+   "tags": [
+    "AI应用",
+    "AIGC"
+   ],
+   "city": null,
+   "prize": "最高现金奖15000元；另设NVIDIA DGX Spark、华硕ROG设备、Qoder Credits及魔粒值等奖励",
+   "start": null,
+   "deadline": "2026-12-01",
+   "end": null,
+   "description": "大赛简介 AI+∞开发者创作大赛每月围绕一个主题，邀请开发者使用AI将创意转化为可体验、可分享的作品。第三期聚 […]",
+   "sources": [
+    {
+     "name": "AIBetas",
+     "url": "https://www.aibetas.com/aigc_events/ai-infinity-game-developer-competition-3"
+    }
+   ]
+  },
+  {
+   "id": "aibetas-655",
+   "name": "“泰州有戏·剧创未来”泰州首届AI漫剧创作大赛",
+   "organizer": "中共泰州市委宣传部、泰州市委网信办、共青团泰州市委员会、泰州市文化广电和旅游局、中国电信股份有限公司泰州分公司、泰州广播电视台、泰州市文学艺术界联合会",
+   "official_url": "https://tobyai.js118114.com/event/taizhou/#/",
+   "type": "AI创作赛",
+   "tags": [
+    "AI视频",
+    "AIGC"
+   ],
+   "city": null,
+   "prize": "最高现金奖金10000元；另有AI创作算力礼包、文旅文创产品、成果转化优先对接资格及证书",
+   "start": null,
+   "deadline": "2026-12-03",
+   "end": null,
+   "description": "大赛简介 大赛以“泰州有戏·剧创未来”为主题，鼓励创作者以AI漫剧讲述泰州历史文化、非遗民俗、城市风貌和市井烟 […]",
+   "sources": [
+    {
+     "name": "AIBetas",
+     "url": "https://www.aibetas.com/aigc_events/taizhou-ai-comic-competition-2026"
+    }
+   ]
+  },
   {
    "id": "aibetas-652",
    "name": "2026“数字武当杯”AI应用创新大赛",

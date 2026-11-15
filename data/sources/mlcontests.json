@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14",
+ "updated": "2026-11-15",
  "competitions": [
   {
    "id": "mlc-flagos-io-race-detail-season2-id-8q4m2x7p-lang-en",
@@ -63,30 +63,6 @@
    "deadline": "2026-12-07",
    "end": "2026-12-07",
    "description": "Zindi 平台赛事",
-   "sources": [
-    {
-     "name": "ML Contests",
-     "url": "https://mlcontests.com/"
-    }
-   ]
-  },
-  {
-   "id": "mlc-situatedevals-org-simulacrabench",
-   "name": "Generate Synthetic Humanitarian Survey Responses",
-   "organizer": "Independent",
-   "official_url": "https://situatedevals.org/simulacrabench",
-   "type": "数据算法赛",
-   "tags": [
-    "Independent",
-    "NeurIPS",
-    "国际"
-   ],
-   "city": "线上",
-   "prize": null,
-   "start": "2026-08-01",
-   "deadline": null,
-   "end": "2026-11-14",
-   "description": "Independent 平台赛事 （NeurIPS 竞赛赛道）",
    "sources": [
     {
      "name": "ML Contests",

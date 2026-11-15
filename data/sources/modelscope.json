@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14",
+ "updated": "2026-11-15",
  "competitions": [
   {
    "id": "modelscope-432",
@@ -11,7 +11,7 @@
     "魔搭"
    ],
    "city": null,
-   "prize": "现金奖金、神秘硬件、DoBeHub 月卡福利",
+   "prize": "现金奖金、神秘硬件、魔粒值",
    "start": "2026-11-14",
    "deadline": "2026-11-15",
    "end": null,
