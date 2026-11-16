@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15",
+ "updated": "2026-11-16",
  "competitions": [
   {
    "id": "tianchi-532536",
@@ -95,52 +95,6 @@
    "end": "2026-12-31",
    "signup": "open",
    "description": "本赛题面向图片和 PDF 文件中的复杂表格识别与内容理解。参赛者需要读取\n题目清单，识别目标文档中的表格结构和表格内容，并完成结构恢复、内容提取\n或简单推理计算，最终提交可自动评分的 Excel 结果文件。",
-   "sources": [
-    {
-     "name": "天池",
-     "url": "https://tianchi.aliyun.com/competition/activeList"
-    }
-   ]
-  },
-  {
-   "id": "tianchi-532506",
-   "name": "2026-具身仿真合成挑战赛",
-   "organizer": "阿里云天池",
-   "official_url": "https://tianchi.aliyun.com/competition/entrance/532506",
-   "type": "数据算法赛",
-   "tags": [
-    "天池"
-   ],
-   "city": null,
-   "prize": "¥100,000",
-   "start": "2026-07-30",
-   "deadline": null,
-   "end": "2026-11-15",
-   "signup": "closed",
-   "description": "仿真资产是具身智能发展的重要基础，广泛应用于仿真场景构建、机器人训练以及仿真到现实的部署验证。本次比赛是全球首个聚焦多设备真实视频到可交互仿真资产端到端生成与系统评测的具身仿真合成挑战赛。参赛队伍需基于多设备采集的真实物体视频，构建自动化处理流水线，生成结构准确、外观真实、物理可信且可交互的高质量仿真就绪型资产。",
-   "sources": [
-    {
-     "name": "天池",
-     "url": "https://tianchi.aliyun.com/competition/activeList"
-    }
-   ]
-  },
-  {
-   "id": "tianchi-532507",
-   "name": "2026-具身安全应用挑战赛",
-   "organizer": "阿里云天池",
-   "official_url": "https://tianchi.aliyun.com/competition/entrance/532507",
-   "type": "数据算法赛",
-   "tags": [
-    "天池"
-   ],
-   "city": null,
-   "prize": "¥100,000",
-   "start": "2026-07-30",
-   "deadline": null,
-   "end": "2026-11-15",
-   "signup": "closed",
-   "description": "围绕“感知—决策—执行”完整闭环，设置视觉感知、空间感知、任务决策、控制通信、状态估计、执行反馈六个攻击环节，考察具身智能模型在遭受多域攻击时的异常发现、链路识别、危险阻断、降级处置与任务恢复等能力。本次比赛是全球首个以具身安全为核心命题，特别支持VLA、WAM等多模态融合技术的具身安全应用挑战赛，旨在检验多模态感知与决策系统在复杂攻击下的鲁棒性。每类赛题包含简单、中等和困难等难度，正式评测中的攻击形式与参数不公开，重点考察具身模型面对未知异常的泛化防御能力。",
    "sources": [
     {
      "name": "天池",

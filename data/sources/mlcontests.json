@@ -1,29 +1,6 @@
 {
- "updated": "2026-11-15",
+ "updated": "2026-11-16",
  "competitions": [
-  {
-   "id": "mlc-flagos-io-race-detail-season2-id-8q4m2x7p-lang-en",
-   "name": "Optimise LLM Operators & Inference Across AI Chips",
-   "organizer": "FlagOS Community, IEEE",
-   "official_url": "https://flagos.io/race-detail-season2?id=8q4m2x7p&lang=en",
-   "type": "数据算法赛",
-   "tags": [
-    "Independent",
-    "国际"
-   ],
-   "city": "线上",
-   "prize": "$14,925",
-   "start": "2026-07-19",
-   "deadline": null,
-   "end": "2026-11-15",
-   "description": "Independent 平台赛事",
-   "sources": [
-    {
-     "name": "ML Contests",
-     "url": "https://mlcontests.com/"
-    }
-   ]
-  },
   {
    "id": "mlc-hub-crunchdao-com-competitions-datacrunch-2",
    "name": "Predict Cross-sectional Equity Returns",
@@ -63,29 +40,6 @@
    "deadline": "2026-12-07",
    "end": "2026-12-07",
    "description": "Zindi 平台赛事",
-   "sources": [
-    {
-     "name": "ML Contests",
-     "url": "https://mlcontests.com/"
-    }
-   ]
-  },
-  {
-   "id": "mlc-wundernn-io-connectome",
-   "name": "Predict Price Movements from Limit Order Book Data",
-   "organizer": "Wunder Fund",
-   "official_url": "https://wundernn.io/connectome",
-   "type": "数据算法赛",
-   "tags": [
-    "Independent",
-    "国际"
-   ],
-   "city": "线上",
-   "prize": "$13,600",
-   "start": "2026-09-11",
-   "deadline": null,
-   "end": "2026-11-15",
-   "description": "Independent 平台赛事",
    "sources": [
     {
      "name": "ML Contests",

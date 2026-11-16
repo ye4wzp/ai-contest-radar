@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15",
+ "updated": "2026-11-16",
  "competitions": [
   {
    "id": "aibetas-661",
@@ -251,52 +251,6 @@
     {
      "name": "AIBetas",
      "url": "https://www.aibetas.com/aigc_events/637"
-    }
-   ]
-  },
-  {
-   "id": "aibetas-635",
-   "name": "“享三好服务·AI漳州好物”漳州市AI短视频大赛",
-   "organizer": "漳州市商务局、中共漳州市委网信办",
-   "official_url": "https://mp.weixin.qq.com/s/zz5lX91p0Z9jH1gRcIRQIQ",
-   "type": "AI创作赛",
-   "tags": [
-    "AI视频",
-    "AIGC"
-   ],
-   "city": null,
-   "prize": "最高10000元（两赛道分别设置）",
-   "start": null,
-   "deadline": "2026-11-15",
-   "end": null,
-   "description": "面向全社会征集AIGC短视频作品，设“漳州好服务”“漳州有好物”两大赛道，要求AI生成画面或音频占比不低于60%。两赛道最高奖均为1万元，2026年11月15日截止。",
-   "sources": [
-    {
-     "name": "AIBetas",
-     "url": "https://www.aibetas.com/aigc_events/zhangzhou-ai-short-video-competition-2026"
-    }
-   ]
-  },
-  {
-   "id": "aibetas-633",
-   "name": "第八届海南岛国际电影节·AI电影展作品征集",
-   "organizer": "第八届海南岛国际电影节·AI电影展",
-   "official_url": "https://www.liblib.tv/hiiff-aifilmseason",
-   "type": "AI创作赛",
-   "tags": [
-    "AI视频",
-    "AIGC"
-   ],
-   "city": null,
-   "prize": "现金激励共10万元；每项年度之选1万元（税前）",
-   "start": null,
-   "deadline": "2026-11-15",
-   "end": null,
-   "description": "第八届海南岛国际电影节·AI电影展以“影像新生 Beyond Generation”为主题，面向全球电影人和创作者征集AI电影级长片、AI精品剧集、AI电影级短片及AI实验影像。十大年度之选现金激励合计10万元，2026年11月15日截止征集。",
-   "sources": [
-    {
-     "name": "AIBetas",
-     "url": "https://www.aibetas.com/aigc_events/hiiff-ai-film-season-2026"
     }
    ]
   },
