@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16",
+ "updated": "2026-11-17",
  "competitions": [
   {
    "detail": "$14",
@@ -576,7 +576,7 @@
    ]
   },
   {
-   "detail": "$14",
+   "detail": "$19",
    "id": "luma0bdabb9b679215b9b008702294f3ed59",
    "name": "剑桥教育黑客松2026",
    "organizer": "INCUBED GLOBAL",
@@ -837,7 +837,7 @@
    "start": "2026-11-16",
    "deadline": null,
    "end": "2026-11-17",
-   "signup": "upcoming",
+   "signup": "open",
    "description": "",
    "sources": [
     {
@@ -899,7 +899,7 @@
    ]
   },
   {
-   "detail": "$14",
+   "detail": "$19",
    "id": "lumaevt-wwMpYCpyBEF5sfl",
    "name": "构建交流：塔科马AI建造者聚会",
    "organizer": "AI INSTITUTE FOR LIFE IMPROVEMENT、JERMANE EASTERLIN",
@@ -1411,7 +1411,7 @@
    ]
   },
   {
-   "detail": "$14",
+   "detail": "$19",
    "id": "devfolio1c7af64a076f43d5a088b7b65ae793a3",
    "name": "GOA 建筑马拉松27",
    "organizer": "DEVFOLIO",
@@ -1697,7 +1697,7 @@
    ]
   },
   {
-   "detail": "$14",
+   "detail": "$19",
    "id": "dorahacksqday",
    "name": "永恒建造挑战 #1",
    "organizer": "QDAY",
@@ -1723,7 +1723,7 @@
    ]
   },
   {
-   "detail": "$19",
+   "detail": "$14",
    "id": "dorahacksreactive-omni-buildathon",
    "name": "响应式全栈构建挑战赛",
    "organizer": "REACTIVE NETWORK",
@@ -1745,31 +1745,6 @@
     {
      "name": "AI赛事通",
      "url": "https://www.competehub.dev/zh/competitions/dorahacksreactive-omni-buildathon"
-    }
-   ]
-  },
-  {
-   "detail": "$19",
-   "id": "dorahackshack-on-vibe-2026-11",
-   "name": "2026年11月HackOnVibe：打造传播产品",
-   "organizer": "HACKONVIBE_COM",
-   "official_url": "https://dorahacks.io/hackathon/hack-on-vibe-2026-11",
-   "type": "黑客松",
-   "tags": [
-    "机器学习/AI",
-    "开放式"
-   ],
-   "city": "线上",
-   "prize": "¥700",
-   "start": "2026-11-13",
-   "deadline": null,
-   "end": "2026-11-16",
-   "signup": "open",
-   "description": "加入2026年11月HackOnVibe全球黑客马拉松，开发者、学生和创作者齐聚，打造病毒式传播的IT产品。旨在创造自发传播的产品，有机会赢取现金、指导和宝贵许可。报名、组队，在四天编程马拉松中展示创新想法！",
-   "sources": [
-    {
-     "name": "AI赛事通",
-     "url": "https://www.competehub.dev/zh/competitions/dorahackshack-on-vibe-2026-11"
     }
    ]
   },
@@ -1984,7 +1959,7 @@
    ]
   },
   {
-   "detail": "$14",
+   "detail": "$19",
    "id": "huawei1300000366",
    "name": "海客松 · FDE 应用场景开发赛",
    "organizer": "海南海口市国家高新区 OPIECE OPC 社区",
@@ -2036,7 +2011,7 @@
    ]
   },
   {
-   "detail": "$14",
+   "detail": "$19",
    "id": "huawei1300000367",
    "name": "2026华为开发者大赛·智能体创新赛·西安交通工程学院站",
    "organizer": "西安交通工程学院 | 协办 华为云计算技术有限公司、北京软通动力教育科技有限公司",
@@ -2188,7 +2163,7 @@
    ]
   },
   {
-   "detail": "$14",
+   "detail": "$19",
    "id": "baidu780",
    "name": "基于文心NLP大模型的阅读理解可解释评测",
    "organizer": "百度AI STUDIO",
@@ -2264,7 +2239,7 @@
    ]
   },
   {
-   "detail": "$14",
+   "detail": "$19",
    "id": "baidu784",
    "name": "飞桨学习赛：文档检测优化赛",
    "organizer": "百度AI STUDIO",
@@ -2339,7 +2314,7 @@
    ]
   },
   {
-   "detail": "$19",
+   "detail": "$14",
    "id": "baidu787",
    "name": "飞桨学习赛：文档图像摩尔纹消除",
    "organizer": "百度AI STUDIO",
@@ -2416,7 +2391,7 @@
    ]
   },
   {
-   "detail": "$14",
+   "detail": "$19",
    "id": "baidu798",
    "name": "飞桨学习赛：手机行为识别",
    "organizer": "百度AI STUDIO",
@@ -2442,7 +2417,7 @@
    ]
   },
   {
-   "detail": "$14",
+   "detail": "$19",
    "id": "baidu799",
    "name": "飞桨学习赛：吃鸡排名预测挑战赛",
    "organizer": "百度AI STUDIO",
@@ -2493,7 +2468,7 @@
    ]
   },
   {
-   "detail": "$14",
+   "detail": "$19",
    "id": "baidu801",
    "name": "飞桨学习赛：螺旋桨RNA结构预测竞赛",
    "organizer": "百度AI STUDIO",
@@ -2518,7 +2493,7 @@
    ]
   },
   {
-   "detail": "$14",
+   "detail": "$19",
    "id": "baidu802",
    "name": "飞桨学习赛：产品评论观点提取",
    "organizer": "百度AI STUDIO",
@@ -2569,7 +2544,7 @@
    ]
   },
   {
-   "detail": "$14",
+   "detail": "$19",
    "id": "baidu804",
    "name": "飞桨学习赛：花样滑冰选手骨骼点动作识别",
    "organizer": "百度AI STUDIO",
@@ -3643,7 +3618,7 @@
    ]
   },
   {
-   "detail": "$14",
+   "detail": "$19",
    "id": "lumaevt-JxFMoRVtg80C4Rg",
    "name": "第7招：智能层 — Florent × Netcompany × Qualia",
    "organizer": "PERSONAL、CHRISTIAN DORFFER、MAX FÄLLSTRÖM、MADS RYDAHL",
@@ -3868,7 +3843,7 @@
    ]
   },
   {
-   "detail": "$14",
+   "detail": "$19",
    "id": "luma1d31cc4ea03299454f10894db009df12",
    "name": "感恩节多人AI黑客松",
    "organizer": "FINCH AI",
@@ -3961,7 +3936,7 @@
    "start": "2026-11-15",
    "deadline": null,
    "end": "2026-11-20",
-   "signup": "upcoming",
+   "signup": "open",
    "description": "斯坦福对伯克利：大比赛前的“大黑客游戏”。为你的学校赢得胜利！",
    "sources": [
     {
@@ -4112,7 +4087,7 @@
    "start": "2026-11-15",
    "deadline": null,
    "end": "2026-11-18",
-   "signup": "upcoming",
+   "signup": "open",
    "description": "遇见使用Codex开发真实软件的构建者。加入全球的动手构建之夜、黑客马拉松、研讨会和演示，从初次设置到多代理工作流程、插件、自动化等。",
    "sources": [
     {
@@ -5238,31 +5213,6 @@
    ]
   },
   {
-   "detail": "# Builders’ Breakfast with Niilo Pirttijärvi: From Slush to Building One of Finland’s Fastest-Growing Companies\n\n## 1. 比赛简介\n🚀 **活动概述**：这是一场名为“ Builders’ Breakfast with Niilo Pirttijärvi: From Slush to Building One of Finland’s Fastest-Growing Companies”的活动，由Inven联合创始人兼CEO Niilo Pirttijärvi主持。活动旨在分享Niilo从参加Slush（芬兰最大的创业和技术会议）到创立芬兰增长最快的公司之一的经历。\n\n🎯 **背景**：Slush是一个全球性的创业和技术会议，每年在芬兰赫尔辛基举行。它汇集了来自世界各地的创业者、投资者和技术专家。\n\n✅ **目的**：通过Niilo Pirttijärvi的分享，为参与者提供创业经验和成功案例，激发创业热情，并促进创业生态系统的交流与合作。\n\n## 2. 时间安排\n📅 **日期**：2023年11月16日\n⏰ **时间**：9:00 - 11:00 GMT+2\n\n## 4. 要求\n📚 **参与者**：欢迎所有对创业和技术感兴趣的参与者。\n\n## 5. 重要细节\n📍 **地点**：Maria 01 Helsinki, Finland\n👨‍💻 **报名**：请通过活动页面进行注册。",
-   "id": "lumaevt-Jb18C21B1jl9UcC",
-   "name": "建造者早餐：尼洛·皮尔蒂亚尔维：从Slush到打造芬兰增长最快的公司",
-   "organizer": "MARIA 01 CALENDAR、VIOLETTA KORHONEN",
-   "official_url": "https://luma.com/3zd6gumb",
-   "type": "黑客松",
-   "tags": [
-    "机器学习/AI",
-    "金融科技"
-   ],
-   "city": "玛丽亚01，拉皮宁拉赫登卡图16，00180 赫尔辛基，芬兰",
-   "prize": null,
-   "start": "2026-11-16",
-   "deadline": null,
-   "end": "2026-11-16",
-   "signup": "upcoming",
-   "description": "",
-   "sources": [
-    {
-     "name": "AI赛事通",
-     "url": "https://www.competehub.dev/zh/competitions/lumaevt-Jb18C21B1jl9UcC"
-    }
-   ]
-  },
-  {
    "detail": "# 比赛内容概括\n\n## 1. 比赛简介\n🚀 **比赛概述**：这是一场关于市场进入（go-to-market，GTM）和构建GTM操作系统的比赛，旨在帮助参赛者找到、赢得和增长客户。\n\n🎯 **背景**：随着市场竞争的加剧，企业需要更有效地进入市场并建立客户关系。这场比赛提供了一个平台，让参赛者展示他们的市场进入策略和客户增长技巧。\n\n✅ **目的**：比赛的目的是激发创新思维，提高市场进入效率，并帮助参赛者提升客户获取和增长能力。\n\n📚 **主要内容**：\n- 参赛者需提交他们的市场进入策略和客户增长计划。\n- 策略应包括市场分析、目标客户定位、销售和营销策略等。\n- 参赛者需展示如何利用GTM操作系统找到、赢得和增长客户。\n\n## 2. 时间安排\n（此部分内容未提供，故不输出）\n\n## 3. 奖金\n（此部分内容未提供，故不输出）\n\n## 4. 要求\n🤝 **参赛要求**：\n- 参赛者需具备市场进入和客户增长的相关经验。\n- 参赛者需提交一份详细的市场进入策略和客户增长计划。\n- 策略需包含市场分析、目标客户定位、销售和营销策略等。\n\n## 5. 重要细节\n⚙️ **重要细节**：\n- 参赛者需在规定时间内提交策略。\n- 策略需符合比赛主题和要求。\n- 参赛者需确保策略的原创性和实用性。",
    "id": "lumaevt-T7TvMpG78ulvoXP",
    "name": "早起建者早饮",
@@ -5795,32 +5745,6 @@
    ]
   },
   {
-   "detail": "# SanD Hacks @ UCSD 黑客马拉松比赛内容概括\n\n## 1. 比赛简介\n🚀 **SanD Hacks @ UCSD** 是一场于11月14-15日在加州圣地亚哥举行的黑客马拉松活动。这场活动旨在提供一个平台，让UCSD的学生们能够在周末的时间内，围绕科技和创新构建真实的项目。参与者有机会赢取赞助商提供的奖项，并向行业赞助商和评委展示他们的成果。\n\n活动背景：\n- **目的**：鼓励学生创新，提升技术能力，促进跨学科合作。\n- **主要内容**：学生团队将在48小时内开发创新项目，涵盖各种技术领域，如人工智能、机器学习、Web开发、移动应用等。\n\n## 2. 时间安排\n(无具体时间安排信息)\n\n## 3. 奖金\n(无奖金信息)\n\n## 4. 要求\n- **参与者**：UCSD的学生\n- **项目类型**：创新技术项目\n- **地点**：计算机科学与工程学院，3235 Voigt Dr, La Jolla, CA 92093, USA\n\n## 5. 重要细节\n- **活动日期**：11月14-15日\n- **活动地点**：加州圣地亚哥，UCSD计算机科学与工程学院\n- **参与方式**：报名参加，具体报名信息可在活动页面查看\n- **展示机会**：向行业赞助商和评委展示项目成果\n- **合作机会**：与行业赞助商建立联系，探索潜在的合作机会",
-   "id": "lumaevt-fF2Qg5zkBgidZJR",
-   "name": "UCSD SanD黑客",
-   "organizer": "PERSONAL、SANMITA、FIGMA @ UCSD、FIGMA TEAM",
-   "official_url": "https://luma.com/6nwwah7d",
-   "type": "黑客松",
-   "tags": [
-    "机器学习/AI",
-    "艺术/设计",
-    "社会公益"
-   ],
-   "city": "计算机科学与工程学院，美国加州拉霍亚，3235 Voigt Dr，92093",
-   "prize": null,
-   "start": "2026-11-14",
-   "deadline": null,
-   "end": "2026-11-16",
-   "signup": "upcoming",
-   "description": "",
-   "sources": [
-    {
-     "name": "AI赛事通",
-     "url": "https://www.competehub.dev/zh/competitions/lumaevt-fF2Qg5zkBgidZJR"
-    }
-   ]
-  },
-  {
    "detail": "# Travel Hacking Workshop | Optimize Your Credit Card Strategy\n\n## 1. 比赛简介\n🚀 **比赛概述**：这是一场关于旅行黑客技巧的研讨会，旨在帮助企业家和高管通过优化信用卡策略来最大化积分和里程，解锁国际头等舱和商务舱体验。\n\n🎯 **背景**：由Vantage Point Travel的创始人兼CEO Gabe Douek主持，他是一位经验丰富的旅行专家，曾旅行到120个国家以及美国所有50个州。\n\n✅ **目的**：提供实用的旅行金融工程知识，帮助参与者以精确性和严谨性管理旅行，实现高收益。\n\n📚 **主要内容**：\n- 忠诚度计划和信用卡策略的重要性\n- 如何审计信用卡以最大化积分和里程\n- 旅行金融工程的实践应用\n- 以“外部首席财务官”思维管理旅行\n\n## 2. 时间安排\n📅 **日期**：11月18日星期三\n⏰ **时间**：11:30 - 13:30\n\n## 4. 要求\n👨‍💻 **参与者**：企业家、高管以及对旅行黑客技巧感兴趣的任何人\n\n## 5. 重要细节\n📍 **地点**：Downtown Works - Coworking Office Space Carlsbad\n2011 Palomar Airport Rd Ste 101, Carlsbad, CA 92011, USA\n📞 **主办人**：Downtown Works\n📝 **报名**：欢迎注册参加此活动。",
    "id": "lumaevt-Oeun6Uwl3y5DUTu",
    "name": "旅行黑客工作坊 | 优化信用卡策略",
@@ -5842,32 +5766,6 @@
     {
      "name": "AI赛事通",
      "url": "https://www.competehub.dev/zh/competitions/lumaevt-Oeun6Uwl3y5DUTu"
-    }
-   ]
-  },
-  {
-   "detail": "$19",
-   "id": "lumaevt-IABg6pNnIKU39le",
-   "name": "用户体验设计技巧",
-   "organizer": "PERSONAL、PAULINE LAI、SHINY K.、ZLIL SHELOACH",
-   "official_url": "https://luma.com/7033b3cn",
-   "type": "黑客松",
-   "tags": [
-    "艺术/设计",
-    "机器学习/AI",
-    "新手友好"
-   ],
-   "city": "Emily Carr艺术设计大学，加拿大不列颠哥伦比亚省温哥华市，1号大道东520号，V5T 0H2",
-   "prize": null,
-   "start": "2026-11-15",
-   "deadline": null,
-   "end": "2026-11-16",
-   "signup": "upcoming",
-   "description": "",
-   "sources": [
-    {
-     "name": "AI赛事通",
-     "url": "https://www.competehub.dev/zh/competitions/lumaevt-IABg6pNnIKU39le"
     }
    ]
   },
@@ -6781,7 +6679,7 @@
    ]
   },
   {
-   "detail": "$14",
+   "detail": "$19",
    "id": "lumaevt-M1ZNkBzmwbmMN7Y",
    "name": "捕捉、解释、防御——AI网络安全黑客松",
    "organizer": "AI BUILDERS、GMI CLOUD",
@@ -6958,32 +6856,6 @@
     {
      "name": "AI赛事通",
      "url": "https://www.competehub.dev/zh/competitions/lumaevt-EDzumoG4DNVEgiT"
-    }
-   ]
-  },
-  {
-   "detail": "# Vibe Coding Jam Session #15 比赛内容概括\n\n## 1. 比赛简介\n🚀 **Vibe Coding Jam Session #15** 是一场由 Tomasz Wieczorek 和 Pawel Sieczkiewicz 主办的技术聚会，旨在为那些日常使用 AI 构建应用的个人提供一个私密交流的平台。这场活动不同于传统的会议或大会，它更注重实际操作和面对面交流。\n\n### 背景\n活动背景是当前 AI 技术的快速发展，以及越来越多的个人和企业开始探索如何利用 AI 构建应用。Vibe Coding Jam Session #15 旨在为这些个人提供一个交流和学习的机会。\n\n### 目的\n- 促进 AI 构建应用的交流\n- 共同解决问题\n- 展示和讨论实际解决方案\n- 提高技术讨论水平\n\n### 主要内容\n- **针对领域**：构建使用 LLM 的应用、开发 AI 代理和系统、使用 MCP、工具调用、RAG、评估、记忆或自动化等。\n- **工具使用**：Claude Code、Cursor、Windsurf、Codex、Gemini CLI 等工具的使用。\n- **会议形式**：无固定议程，参与者共同创造，如有分享内容，请带来。\n- **活动要求**：参与者需带上笔记本电脑，可能需要展示自己的工作。\n\n## 2. 时间安排\n11月16日（周一）16:00 - 19:00 GMT+1\n\n## 3. 奖金\n无奖金信息提供。\n\n## 4. 要求\n- 参与者需带上笔记本电脑。\n- 可能需要展示自己的工作。\n\n## 5. 重要细节\n- **地点**：Wincentego Rzymowskiego 53, 02-712 Warszawa, Poland, 8楼\n- **人数限制**：人数有限，以保持私密性和高技术讨论水平。\n- **报名**：需要审核，欢迎注册参加。",
-   "id": "lumaevt-Aw5IG5tFXj1FIPt",
-   "name": "第15届Vibe编码狂欢会",
-   "organizer": "PERSONAL、TOMASZ WIECZOREK、PAWEL SIECZKIEWICZ",
-   "official_url": "https://luma.com/qx28mk8t",
-   "type": "黑客松",
-   "tags": [
-    "机器学习/AI",
-    "计算机视觉",
-    "智能体"
-   ],
-   "city": "华沙市温琴托戈·里姆斯基街53号，波兰02-712",
-   "prize": null,
-   "start": "2026-11-16",
-   "deadline": null,
-   "end": "2026-11-16",
-   "signup": "upcoming",
-   "description": "",
-   "sources": [
-    {
-     "name": "AI赛事通",
-     "url": "https://www.competehub.dev/zh/competitions/lumaevt-Aw5IG5tFXj1FIPt"
     }
    ]
   },
@@ -7171,162 +7043,6 @@
    ]
   },
   {
-   "detail": "## **【赛事介绍**】\n\n🚀 华为开发者大赛是华为公司举办的面向全球开发者的旗舰赛事，自2017年起，已有来自全球50多个国家、3,000多所高校的80万开发者参与。大赛主题为“Spark Infinity创想无限”，涵盖“智能体、小红书Skill创新”赛道，旨在通过开放华为ICT技术和实践经验，以赛促学，加速产教融合，催生创新应用，孵化社会价值初创项目。\n\n## **【时间安排**】\n\n📅 区域赛启动与报名：即日起 - 2026年11月12日\n📅 区域赛作品开发与提交：即日起 - 2026年11月16日\n📅 区域赛作品初筛：2026年11月13日 - 2026年11月20日\n📅 区域赛：2026年11月21日-2026年11月27日\n📅 公布全国总决赛晋级名单：2026年11月30日\n📅 全国总决赛：2026年12月\n\n## **【奖金**】\n\n💳 金奖：1名，¥100,000+获奖证书\n💳 银奖：2名，¥50,000+获奖证书\n💳 铜奖：3名，¥20,000+获奖证书\n💳 最佳Agent实践奖：10名，¥10,000+获奖证书\n💳 单项奖：5名，¥5,000+获奖证书\n💳 优秀奖：115名，¥1,000+获奖证书\n\n## **【要求**】\n\n🤝 参赛对象：具备应用软件开发能力的组织、企业或个人、学生等\n🤝 组队要求：企业组、OPC组、高校组均有不同要求，每队1-10人\n🤝 报名须知：点击页面左上方“立即报名”按钮即可报名\n🤝 作品要求：使用华为云码道开发，提交作品需包含PPT、Demo、视频、证明材料、说明文档等\n\n## **【重要细节**】\n\n✅ 参赛作品必须是原创作品，参赛团队应对其所提交的作品负全部责任。\n✅ 参赛者仅可加入1支队伍，同一作品不得跨组别重复报名。\n✅ 比赛时间周期可能存在延期及变化，请及时留意大赛官网页面信息。\n✅ 所有培训均基于自愿原则参与。",
-   "id": "huawei1300000354",
-   "name": "2026华为开发者大赛·智能体创新赛-西南赛区",
-   "organizer": "华为云计算技术有限公司",
-   "official_url": "https://developer.huaweicloud.com/competition/information/1300000354",
-   "type": "AI大模型赛",
-   "tags": [
-    "机器学习/AI",
-    "计算机视觉",
-    "区块链"
-   ],
-   "city": "线上",
-   "prize": "¥500,000",
-   "start": "2026-10-15",
-   "deadline": null,
-   "end": "2026-11-16",
-   "signup": "open",
-   "description": "以“创想无限”为主题，在这里，开发者可以充分发挥想象力，以云端丰富领先的技术为桥梁，开启无限创新、创造无限价值。让我们一起，共同奔赴数字化的星辰大海，点亮美好未来。",
-   "sources": [
-    {
-     "name": "AI赛事通",
-     "url": "https://www.competehub.dev/zh/competitions/huawei1300000354"
-    }
-   ]
-  },
-  {
-   "detail": "## **【赛事介绍**】\n\n🚀 华为开发者大赛是华为公司举办的面向全球开发者的旗舰赛事，自2017年起，已有来自50多个国家的80万开发者参与。本次大赛以“Spark Infinity创想无限”为主题，涵盖智能体、小红书Skill创新赛道，旨在以赛促学，加速产教融合，催生创新应用，孵化社会价值初创项目。\n\n## **【时间安排**】\n\n📅 区域赛启动与报名：即日起 - 2026年11月12日\n📅 区域赛作品开发与提交：即日起 - 2026年11月16日\n📅 区域赛作品初筛：2026年11月13日 - 2026年11月20日\n📅 区域赛：2026年11月21日-2026年11月27日\n📅 公布全国总决赛晋级名单：2026年11月30日\n📅 全国总决赛：2026年12月\n\n## **【奖金**】\n\n💳 金奖：1名，¥100,000+获奖证书\n💳 银奖：2名，¥50,000+获奖证书\n💳 铜奖：3名，¥20,000+获奖证书\n💳 最佳Agent实践奖：10名，¥10,000+获奖证书\n💳 单项奖：5名，¥5,000+获奖证书\n💳 优秀奖：115名，¥1,000+获奖证书\n\n## **【要求**】\n\n🤝 参赛对象：具备应用软件开发能力的组织、企业或个人、学生等\n🤝 组队要求：企业组1-5人，OPC组1人，高校组1-10人\n🤝 报名方式：点击页面左上方“立即报名”按钮\n🤝 作品开发：使用华为云码道（AI Coding工具）作为核心AI编程工具\n\n## **【重要细节**】\n\n📚 作品提交规范：zip压缩包，包含PPT、Demo、视频、码道使用证明材料、说明文档\n📈 评分标准：功能完备度、码道深度使用、专业贴合与创新、技术架构与工程质量、交付规范性\n🎯 答辩要求：完善版作品安装包/在线演示地址、正式答辩PPT、工程源码/作品功能演示Demo、说明文档\n🛠️ 华为云码道订阅与使用：网页端、IDE、小程序\n🌍 晋级规则：校赛阶段、区域赛阶段、全国总决赛",
-   "id": "huawei1300000355",
-   "name": "2026华为开发者大赛·智能体创新赛-中部赛区",
-   "organizer": "华为云计算技术有限公司",
-   "official_url": "https://developer.huaweicloud.com/competition/information/1300000355",
-   "type": "AI大模型赛",
-   "tags": [
-    "机器学习/AI",
-    "计算机视觉",
-    "企业"
-   ],
-   "city": "线上",
-   "prize": "¥500,000",
-   "start": "2026-10-14",
-   "deadline": null,
-   "end": "2026-11-16",
-   "signup": "open",
-   "description": "以“创想无限”为主题，在这里，开发者可以充分发挥想象力，以云端丰富领先的技术为桥梁，开启无限创新、创造无限价值。让我们一起，共同奔赴数字化的星辰大海，点亮美好未来。",
-   "sources": [
-    {
-     "name": "AI赛事通",
-     "url": "https://www.competehub.dev/zh/competitions/huawei1300000355"
-    }
-   ]
-  },
-  {
-   "detail": "## **【赛事介绍**】\n\n华为开发者大赛是由华为公司举办的面向全球开发者的旗舰赛事，自2017年起，已有来自全球50多个国家、3,000多所高校的80万开发者参与。大赛主题为“Spark Infinity创想无限”，旨在通过比赛，促进AI人才培养，推动产教融合，催生创新应用，孵化社会价值项目。\n\n## **【时间安排**】\n\n* 区域赛启动与报名：即日起 - 2026年11月12日\n* 区域赛作品开发与提交：即日起 - 2026年11月16日\n* 区域赛作品初筛：2026年11月13日 - 2026年11月20日\n* 区域赛：2026年11月21日-2026年11月27日\n* 公布全国总决赛晋级名单：2026年11月30日\n* 全国总决赛：2026年12月\n\n## **【奖金**】\n\n* 金奖：1名，¥100,000+获奖证书\n* 银奖：2名，¥50,000+获奖证书\n* 铜奖：3名，¥20,000+获奖证书\n* 最佳Agent实践奖：10名，¥10,000+获奖证书\n* 单项奖：5名，¥5,000+获奖证书\n* 优秀奖：115名，¥1,000+获奖证书\n\n## **【要求**】\n\n* 参赛作品需使用华为云码道（AI Coding工具）开发。\n* 作品需打包为zip压缩包提交，包含PPT、Demo、视频、码道使用证明材料、说明文档等。\n* 提交时间、次数及方式以大赛官网通知为准。\n\n## **【重要细节**】\n\n* 参赛对象：具备应用软件开发能力的组织、企业或个人、学生等。\n* 组别：企业组、OPC组、高校组。\n* 报名方式：点击页面左上方“立即报名”按钮即可报名。\n* 组队方式：队长先在大赛页面“我的团队”页签中选择“组建团队”，其他参赛成员在页签中选择“加入团队”。\n* 晋级规则：各赛区前6名入围全国总决赛。\n* 赛事赋能：提供培训课程、技术支持等。",
-   "id": "huawei1300000353",
-   "name": "2026华为开发者大赛·智能体创新赛-西北赛区",
-   "organizer": "华为云计算技术有限公司",
-   "official_url": "https://developer.huaweicloud.com/competition/information/1300000353",
-   "type": "AI大模型赛",
-   "tags": [
-    "机器学习/AI",
-    "计算机视觉",
-    "区块链"
-   ],
-   "city": "线上",
-   "prize": "¥500,000",
-   "start": "2026-10-14",
-   "deadline": null,
-   "end": "2026-11-16",
-   "signup": "open",
-   "description": "以“创想无限”为主题，在这里，开发者可以充分发挥想象力，以云端丰富领先的技术为桥梁，开启无限创新、创造无限价值。让我们一起，共同奔赴数字化的星辰大海，点亮美好未来。",
-   "sources": [
-    {
-     "name": "AI赛事通",
-     "url": "https://www.competehub.dev/zh/competitions/huawei1300000353"
-    }
-   ]
-  },
-  {
-   "detail": "## **【赛事介绍**】\n\n🚀 华为开发者大赛是华为公司主办的面向全球开发者的旗舰赛事，自2017年起，已有来自全球50多个国家、3,000多所高校的80万开发者参与。大赛以“Spark Infinity创想无限”为主题，旨在通过“智能体、小红书Skill创新”赛道，开放华为ICT技术及实践经验，促进产教融合，催生创新应用，孵化社会价值初创项目。\n\n## **【时间安排**】\n\n📅 区域赛启动与报名：即日起 - 2026年11月12日\n📅 区域赛作品开发与提交：即日起 - 2026年11月16日\n📅 区域赛作品初筛：2026年11月13日 - 2026年11月20日\n📅 区域赛：2026年11月21日-2026年11月27日\n📅 公布全国总决赛晋级名单：2026年11月30日\n📅 全国总决赛：2026年12月\n\n## **【奖金**】\n\n💳 金奖：1名，¥100,000+获奖证书\n💳 银奖：2名，¥50,000+获奖证书\n💳 铜奖：3名，¥20,000+获奖证书\n💳 最佳Agent实践奖：10名，¥10,000+获奖证书\n💳 单项奖：5名，¥5,000+获奖证书\n💳 优秀奖：115名，¥1,000+获奖证书\n\n## **【要求**】\n\n✅ 参赛对象：具备应用软件开发能力的组织、企业或个人、学生等\n✅ 报名方式：点击页面左上方“立即报名”按钮\n✅ 作品开发：使用华为云码道（AI Coding工具）作为核心AI编程工具\n✅ 作品提交：打包为zip压缩包，包含PPT、Demo、视频、码道使用证明材料、说明文档等\n\n## **【重要细节**】\n\n🤝 每名参赛者仅可加入1支队伍；同一作品不得跨组别重复报名\n🤝 参赛作品必须是原创作品，参赛团队应对其所提交的作品负全部责任\n🤝 比赛时间周期可能存在延期及变化，请及时留意大赛官网页面信息\n🤝 所有培训均基于自愿原则参与",
-   "id": "huawei1300000352",
-   "name": "2026华为开发者大赛·智能体创新赛-南部赛区",
-   "organizer": "华为云计算技术有限公司",
-   "official_url": "https://developer.huaweicloud.com/competition/information/1300000352",
-   "type": "AI大模型赛",
-   "tags": [
-    "机器学习/AI",
-    "企业",
-    "教育"
-   ],
-   "city": "线上",
-   "prize": "¥500,000",
-   "start": "2026-10-14",
-   "deadline": null,
-   "end": "2026-11-16",
-   "signup": "open",
-   "description": "以“创想无限”为主题，在这里，开发者可以充分发挥想象力，以云端丰富领先的技术为桥梁，开启无限创新、创造无限价值。让我们一起，共同奔赴数字化的星辰大海，点亮美好未来。",
-   "sources": [
-    {
-     "name": "AI赛事通",
-     "url": "https://www.competehub.dev/zh/competitions/huawei1300000352"
-    }
-   ]
-  },
-  {
-   "detail": "根据您提供的文档，以下是对码道和果办积分政策的分析：\n\n**码道积分政策**：\n\n* **新用户注册即领4000积分**： 这项政策可以吸引新用户注册并使用码道产品，提高产品的用户基数。\n* **每日登录领1000积分**： 这项政策可以鼓励用户每日登录码道产品，提高产品的日活跃度。\n\n**果办积分政策**：\n\n* **新用户注册即领4000积分**： 这项政策与码道类似，旨在吸引新用户注册并使用果办产品。\n* **每日登录领1000积分**： 这项政策与码道类似，旨在鼓励用户每日登录果办产品。\n\n**总结**：\n\n码道和果办都采用了类似的积分政策，通过奖励用户注册和登录来提高产品的用户基数和日活跃度。这种政策可以有效吸引用户，并提高产品的市场竞争力。\n\n**其他信息**：\n\n* 您提供的文档中包含的图片可能包含与码道和果办相关的更多信息，例如产品界面、功能介绍等。\n* 您提供的文档中提到的“官方最新公告”可能包含更详细的积分政策信息，建议您查阅相关资料以获取最新信息。",
-   "id": "huawei1300000350",
-   "name": "2026华为开发者大赛·小红书Skill创新赛",
-   "organizer": "华为技术有限公司、小红书科技有限公司",
-   "official_url": "https://developer.huaweicloud.com/competition/information/1300000350",
-   "type": "数据算法赛",
-   "tags": [
-    "机器学习/AI",
-    "计算机视觉",
-    "移动开发"
-   ],
-   "city": "线上",
-   "prize": "¥500,000",
-   "start": "2026-10-14",
-   "deadline": null,
-   "end": "2026-11-16",
-   "signup": "open",
-   "description": "小红书 Skill 创新赛道是华为开发者大赛的重要赛道之一，由华为与小红书科技联合主办。赛道围绕“一篇笔记就是一次产品发布，一条评论就是一次真实反馈”的理念，鼓励开发者基于真实生活场景创作可复用的 Skill，并通过小红书“学—做—晒”闭环获得真实用户反馈，让好作品在真实场景中被验证、被传播、被沉淀。",
-   "sources": [
-    {
-     "name": "AI赛事通",
-     "url": "https://www.competehub.dev/zh/competitions/huawei1300000350"
-    }
-   ]
-  },
-  {
-   "detail": "## **【赛事介绍**】\n\n🚀 华为开发者大赛是华为公司举办的面向全球开发者的旗舰赛事，自2017年起，已有来自50多个国家的80万开发者参与。大赛以“Spark Infinity创想无限”为主题，旨在通过比赛促进产教融合、催生创新应用、孵化社会价值项目，并赋能AI人才培养。\n\n🎯 大赛涵盖“智能体、小红书Skill创新”赛道，提供华为ICT技术及实践经验，鼓励开发者利用华为技术解决实际问题，推动技术向善。\n\n🌍 大赛分为五大赛区，包括北部、南部、西北、西南和中部赛区，参赛者需根据所在城市选择对应赛区报名。\n\n## **【参赛对象**】\n\n👨‍💻 面向全社会开放，包括具备应用软件开发能力的组织、企业、个人和学生等。参赛者需完成实名认证。\n\n## **【比赛要求**】\n\n✅ 参赛作品需使用华为云码道（AI Coding工具）开发，并提交码道使用痕迹证明材料。\n\n## **【赛程说明**】\n\n📈 比赛分为区域赛和全国总决赛两个阶段。区域赛包括启动与报名、作品开发与提交、作品初筛和区域赛答辩。全国总决赛则包括晋级名单公布、作品优化和完善、终审答辩与功能演示。\n\n## **【赛事赋能**】\n\n💡 大赛提供培训课程，帮助参赛者掌握码道代码智能体的核心功能，熟悉AI原生开发全流程，并完成开发环境搭建、算力使用与作品部署。\n\n## **【晋级规则**】\n\n🏆 校赛阶段：第1名外卡入围全国总决赛，第2-N名可参加区域赛。\n\n🏆 区域赛阶段：第1-6名入围全国总决赛，第7-64名获得荣誉证书。\n\n## **【全国总决赛**】\n\n🏆 5大区域赛Top30+智能体赛道校赛冠军晋级全国总决赛，获奖团队将获得相应奖品。\n\n🎁 奖项包括金奖、银奖、铜奖、最佳Agent实践奖、单项奖和优秀奖。",
-   "id": "huawei1300000349",
-   "name": "2026华为开发者大赛·智能体创新赛-北部赛区",
-   "organizer": "华为云计算技术有限公司",
-   "official_url": "https://developer.huaweicloud.com/competition/information/1300000349",
-   "type": "AI大模型赛",
-   "tags": [
-    "机器学习/AI",
-    "计算机视觉",
-    "企业"
-   ],
-   "city": "线上",
-   "prize": "¥500,000",
-   "start": "2026-10-14",
-   "deadline": null,
-   "end": "2026-11-16",
-   "signup": "open",
-   "description": "以“创想无限”为主题，在这里，开发者可以充分发挥想象力，以云端丰富领先的技术为桥梁，开启无限创新、创造无限价值。让我们一起，共同奔赴数字化的星辰大海，点亮美好未来。",
-   "sources": [
-    {
-     "name": "AI赛事通",
-     "url": "https://www.competehub.dev/zh/competitions/huawei1300000349"
-    }
-   ]
-  },
-  {
    "detail": "$14",
    "id": "huawei1300000347",
    "name": "“临策”侵入式脑机接口算法竞赛·运动行为跨天解码-",
@@ -7402,7 +7118,7 @@
    ]
   },
   {
-   "detail": "$14",
+   "detail": "$19",
    "id": "huawei1300000344",
    "name": "“临策”侵入式脑机接口算法竞赛·精细手部运动解码-",
    "organizer": "临港实验室",
@@ -7502,28 +7218,6 @@
     {
      "name": "AI赛事通",
      "url": "https://www.competehub.dev/zh/competitions/huawei1300000312"
-    }
-   ]
-  },
-  {
-   "detail": "暂无内容",
-   "id": "devpost31552",
-   "name": "2026 UGREEN AI NAS黑客马拉松",
-   "organizer": "UGREEN",
-   "official_url": "https://ugreenhackathon.devpost.com/",
-   "type": "黑客松",
-   "tags": [],
-   "city": "线上",
-   "prize": "¥331,200",
-   "start": "2026-10-22",
-   "deadline": null,
-   "end": "2026-11-16",
-   "signup": "open",
-   "description": "",
-   "sources": [
-    {
-     "name": "AI赛事通",
-     "url": "https://www.competehub.dev/zh/competitions/devpost31552"
     }
    ]
   },
@@ -9768,7 +9462,7 @@
    ]
   },
   {
-   "detail": "$14",
+   "detail": "$19",
    "id": "devpost31024",
    "name": "2026 Meta VR开发者大赛",
    "organizer": "META",
@@ -10123,7 +9817,7 @@
    "start": "2026-11-14",
    "deadline": null,
    "end": "2026-11-21",
-   "signup": "upcoming",
+   "signup": "open",
    "description": "",
    "sources": [
     {
@@ -10335,31 +10029,6 @@
     {
      "name": "AI赛事通",
      "url": "https://www.competehub.dev/zh/competitions/lumaevt-vLzgiGkGBhn1EHP"
-    }
-   ]
-  },
-  {
-   "detail": "# Talent Acquisition Hackathon 比赛内容概括\n\n## 1. 比赛简介\n🚀 **Talent Acquisition Hackathon** 是一场专为招聘人员（TA）打造的创新工具开发比赛。由 Mark Szucs 等四位主办人发起，旨在为招聘行业带来新的解决方案和工具。比赛背景是招聘领域的不断变化和挑战，目的在于激发创意，推动技术应用于招聘流程中，提升招聘效率和效果。\n\n**主要内容**：\n- **主题**：为TA/招聘人员打造工具的早晨。\n- **参与者**：欢迎所有对招聘领域感兴趣的人士参加，无需具备编程经验。\n- **地点**：赫尔辛基，芬兰\n- **时间**：11月16日星期一，9:15 - 12:45 GMT+2\n\n## 2. 时间安排\n📅 **比赛时间**：11月16日星期一，9:15 - 12:45 GMT+2\n\n## 4. 要求\n✅ **参与者要求**：\n- 对招聘领域感兴趣\n- 想要为招聘行业带来创新解决方案\n- 无需具备编程经验\n\n## 5. 重要细节\n🌍 **地点**：赫尔辛基，芬兰\n👨‍💻 **报名**：需审核，欢迎注册参加。\n🤝 **主办人**：Mark Szucs, Juha Lehto, Miro Keimiöniemi, Robert Holmberg\n📚 **活动详情**：活动将提供一个平台，让参与者带来自己的问题，共同探讨和开发解决方案。",
-   "id": "lumaevt-EvnOZGw11PjUNtr",
-   "name": "人才招募黑客松",
-   "organizer": "PERSONAL、MARK SZUCS、JUHA LEHTO、MIRO KEIMIÖNIEMI、ROBERT HOLMBERG",
-   "official_url": "https://luma.com/c38azezk",
-   "type": "黑客松",
-   "tags": [
-    "机器学习/AI",
-    "低代码/无代码"
-   ],
-   "city": "赫尔辛基，芬兰",
-   "prize": null,
-   "start": "2026-11-16",
-   "deadline": null,
-   "end": "2026-11-16",
-   "signup": "upcoming",
-   "description": "",
-   "sources": [
-    {
-     "name": "AI赛事通",
-     "url": "https://www.competehub.dev/zh/competitions/lumaevt-EvnOZGw11PjUNtr"
     }
    ]
   },
@@ -10805,32 +10474,6 @@
    ]
   },
   {
-   "detail": "# Longevity Agents x Berlin Hackathon 比赛内容概括\n\n## 1. 比赛简介\n🚀 **比赛概述**：Longevity Agents x Berlin Hackathon 是一场为期两天的AI代理与长寿黑客马拉松，旨在构建科学、健康和福祉的未来。参赛者将共同构建设计个性化长寿协议、实时优化干预措施并加速衰老研究的代理。\n\n🌍 **背景**：随着科技的发展和人们对健康长寿的追求，长寿研究成为了一个热门领域。此次黑客马拉松旨在通过技术创新，推动长寿科学的发展。\n\n🎯 **目的**：鼓励参与者利用AI技术解决长寿领域的问题，推动相关研究的发展，并促进跨学科的合作。\n\n## 2. 时间安排\n📅 **日期**：2025年11月15-16日\n🕒 **时间**：9:30 AM - 7 PM（11月16日）\n\n## 3. 奖金\n💳 **奖金**：$1,800（BIO代币价值）、Aniva Health会员资格、$750计算积分、原型到创业公司的孵化\n\n## 4. 要求\n🤖 **参与者**：\n- AI/ML工程师，对优化生物和健康感兴趣\n- 科学家，有有趣的研究想法\n- 临床医生，看到医疗保健中的问题\n- 寻找共同创始人的构建者\n- 对长寿感兴趣但不确定从何开始的人\n\n## 5. 重要细节\n📚 **获得内容**：\n- 基础设施：合作伙伴的计算积分和技术支持、科学家、AI专家和投资者的指导、两天午餐和零食\n- 学习：虚拟构建生物代理研讨会、虚拟数据分析代理研讨会、代理与长寿研讨会\n\n📈 **日程**：\n- 11月14日：研讨会“代理黑客长寿”+ 网络活动\n- 11月15日：开幕式、黑客马拉松开始、午餐、黑客马拉松继续、场地关闭\n- 11月16日：开门、黑客马拉松继续、午餐、截止日期、演示、宣布获胜者\n\n🤝 **赞助商**：\n- BIO.XYZ\n- MOLECULE AG\n- ZERVE AI\n- NETMIND AI\n- ANIVA HEALTH\n- HEAL\n- DELTA CAMPUS BERLIN\n\n⚙️ **组织者**：\n- Longevity Hacks\n\n📍 **地点**：请注册以查看此活动的具体地点。柏林，德国",
-   "id": "lumac74da4afc2f355ef7541a5737d797ca2",
-   "name": "长寿因子 x 柏林黑客马拉松",
-   "organizer": "LONGEVITY HACKS",
-   "official_url": "https://luma.com/longevity-hack-berlin",
-   "type": "AI Agent 挑战赛",
-   "tags": [
-    "机器学习/AI",
-    "健康",
-    "机器人"
-   ],
-   "city": "柏林，德国",
-   "prize": "¥18,300",
-   "start": "2026-11-15",
-   "deadline": null,
-   "end": "2026-11-16",
-   "signup": "upcoming",
-   "description": "36小时面对面AI代理参加长寿黑客松。构建科学、健康与福祉的未来。构建设计个性化长寿方案、实时优化干预措施并大幅加速衰老研究的智能代理。",
-   "sources": [
-    {
-     "name": "AI赛事通",
-     "url": "https://www.competehub.dev/zh/competitions/lumac74da4afc2f355ef7541a5737d797ca2"
-    }
-   ]
-  },
-  {
    "detail": "# 个性化长寿 X 巴黎黑客松\n\n## 1. 比赛简介\n🚀 **比赛概述**：个性化长寿 X 巴黎黑客松是一个为期36小时的现场黑客松活动，旨在构建个性化长寿干预的AI系统。该活动将老龄化研究从一刀切转变为精准医疗，设计适应个人生物学、生活方式和目标的方案。\n\n🌍 **背景**：随着全球人口老龄化，对长寿和健康干预的需求日益增长。该活动旨在利用人工智能技术，推动长寿研究的发展，并解决医疗保健中的挑战。\n\n🎯 **目的**：通过黑客松的形式，鼓励参与者利用AI技术，开发出能够个性化长寿干预的创新解决方案。\n\n## 2. 时间安排\n📅 **日期**：2025年11月22-23日\n🕒 **时间**：10:00 - 19:30 GMT+1\n\n## 3. 奖金\n💳 **奖项**：\n- Lyceum积分5000美元\n- Netmind AI计算积分750美元\n- 长寿黑客的后续孵化，将原型转变为初创公司\n\n## 4. 要求\n🤝 **参加对象**：\n- 对优化生物和健康感兴趣的AI/ML工程师\n- 有有趣研究想法的科学家\n- 看到医疗保健中存在问题的外科医生\n- 寻找共同创始人的创业者\n- 对长寿感兴趣但不确定从何开始的人\n\n👨‍💻 **团队规模**：3-5人，共60人。\n\n## 5. 重要细节\n📈 **日程**：\n- 11月22日：上午10:00 - 开幕致辞，上午10:30 - 黑客松开始，中午12:30 - 午餐，下午1:30 - 黑客松继续，晚上10:00 - 场地关闭\n- 11月23日：上午9:30 - 大门开启，上午9:30 - 黑客松继续，中午12:30 - 午餐，下午2:30 - 提交截止，下午3:00 - 展示，晚上6:00 - 公布获奖者\n\n🛠️ **赞助商**：\n- LYCEUM\n- ZERVE AI\n- NETMIND AI\n- HUGGING FACE\n- 2060 FOUNDATION\n- DAPHNI\n- QUAI Labs\n- Lucis\n\n🤝 **社区合作伙伴**：\n- NUCLEATE\n- LONGEVITY CULTURE CLUB\n- ALPHA INTELLIGENCE CAPITAL",
    "id": "luma381e244b56eaf238f7326864001ee1d7",
    "name": "个性化长寿 X 巴黎黑客马拉松",
@@ -10857,7 +10500,7 @@
    ]
   },
   {
-   "detail": "$14",
+   "detail": "$19",
    "id": "urls3df7d355e7e2a5cf8c90ecded24809ff",
    "name": "暗壳AI×M+设计大赛｜「AIGC创新设计奖」专项赛道开启！火热征稿中",
    "organizer": "暗壳AI",
@@ -11007,7 +10650,7 @@
    ]
   },
   {
-   "detail": "$14",
+   "detail": "$19",
    "id": "heroxcommunitymaternalhealth2.0",
    "name": "社区母婴健康2.0连接",
    "organizer": "EUNICE KENNEDY SHRIVER NATIONAL INSTITUTE OF CHILD HEALTH AND HUMAN DEVELOPMENT",
@@ -11134,7 +10777,7 @@
    ]
   },
   {
-   "detail": "$14",
+   "detail": "$19",
    "id": "urlscb7e1ddf89ff51f8d301090c1aa0a626",
    "name": "AI4S黑客松",
    "organizer": "新物种SINOVUM联合主办",

@@ -33095,5 +33095,121 @@
     "url": "https://www.competehub.dev/zh/competitions/lumaa3c9f178a088c8c2eb97a257576bf181"
    }
   ]
+ },
+ {
+  "id": "devpost-31742",
+  "name": "Codex x TwitchCon Hackathon",
+  "organizer": "Twitch",
+  "official_url": "https://twitchcon-codex.devpost.com/",
+  "type": "黑客松",
+  "tags": [
+   "Devpost",
+   "国际"
+  ],
+  "city": "线上",
+  "prize": "$25,000",
+  "start": "2026-10-23",
+  "deadline": "2026-11-02",
+  "end": "2026-11-02",
+  "signup": "open",
+  "description": "Devpost 黑客松，主题：Communication、Gaming、Machine Learning/AI",
+  "sources": [
+   {
+    "name": "Devpost",
+    "url": "https://devpost.com/hackathons"
+   }
+  ]
+ },
+ {
+  "id": "devpost-31400",
+  "name": "YouCam API Skin AI & eCommerce VTO Hackathon",
+  "organizer": "Perfect Corp",
+  "official_url": "https://youcam-api-skin-ai-ecommerce.devpost.com/",
+  "type": "黑客松",
+  "tags": [
+   "Devpost",
+   "国际"
+  ],
+  "city": "线上",
+  "prize": "$6,000",
+  "start": "2026-09-29",
+  "deadline": "2026-11-02",
+  "end": "2026-11-02",
+  "signup": "open",
+  "description": "Devpost 黑客松，主题：AR/VR、E-commerce/Retail、Machine Learning/AI",
+  "sources": [
+   {
+    "name": "Devpost",
+    "url": "https://devpost.com/hackathons"
+   }
+  ]
+ },
+ {
+  "id": "mlc-www-kaggle-com-competitions-arc-prize-2026-arc-agi-2",
+  "name": "ARC Prize 2026 - ARC-AGI-2",
+  "organizer": "ARC Prize",
+  "official_url": "https://www.kaggle.com/competitions/arc-prize-2026-arc-agi-2",
+  "type": "数据算法赛",
+  "tags": [
+   "Kaggle",
+   "国际"
+  ],
+  "city": "线上",
+  "prize": "$700,000",
+  "start": "2026-03-25",
+  "deadline": "2026-10-26",
+  "end": "2026-11-02",
+  "description": "Kaggle 平台赛事",
+  "sources": [
+   {
+    "name": "ML Contests",
+    "url": "https://mlcontests.com/"
+   }
+  ]
+ },
+ {
+  "id": "mlc-www-kaggle-com-competitions-arc-prize-2026-arc-agi-3",
+  "name": "ARC Prize 2026 - ARC-AGI-3",
+  "organizer": "ARC Prize",
+  "official_url": "https://www.kaggle.com/competitions/arc-prize-2026-arc-agi-3",
+  "type": "数据算法赛",
+  "tags": [
+   "Kaggle",
+   "国际"
+  ],
+  "city": "线上",
+  "prize": "$850,000",
+  "start": "2026-03-25",
+  "deadline": "2026-10-26",
+  "end": "2026-11-02",
+  "description": "Kaggle 平台赛事",
+  "sources": [
+   {
+    "name": "ML Contests",
+    "url": "https://mlcontests.com/"
+   }
+  ]
+ },
+ {
+  "detail": "$14",
+  "id": "devfolio0ad8f867250d46bd987623adb920028f",
+  "name": "2026黑客大赛",
+  "organizer": "DEVFOLIO",
+  "official_url": "https://surat-hack-2026.devfolio.co/",
+  "type": "黑客松",
+  "tags": [],
+  "city": "印度加速器 | IA空间 - 共享办公空间，乌达纳 - 马格达拉路，皮普洛德，苏拉特，古吉拉特邦，印度",
+  "prize": "¥2,200",
+  "start": "2026-11-01",
+  "deadline": null,
+  "end": "2026-11-02",
+  "signup": "upcoming",
+  "description": "Surat Hack 2026 是一场以AI为核心的黑客马拉松，将于2026年11月1日至2日在印度苏拉特举行。它邀请开发者、学生、企业家和技术爱好者合作，利用AI解决现实世界问题。参与者将有18-24小时的时间开发工作原型，有机会建立人脉、互相学习，并将他们的项目展示给行业专家评审团。该黑客马拉松对所有背景的个体开放，免费注册。主要奖品为26,000印度卢比。",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/devfolio0ad8f867250d46bd987623adb920028f"
+   }
+  ]
  }
 ]

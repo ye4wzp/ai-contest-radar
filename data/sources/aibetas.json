@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16",
+ "updated": "2026-11-17",
  "competitions": [
   {
    "id": "aibetas-661",
@@ -136,29 +136,6 @@
     {
      "name": "AIBetas",
      "url": "https://www.aibetas.com/aigc_events/shandong-aigc-video-competition-2026"
-    }
-   ]
-  },
-  {
-   "id": "aibetas-645",
-   "name": "2026 Epic AI MegaJam",
-   "organizer": "Epic Games",
-   "official_url": "https://itch.io/jam/2026-epic-ai-megajam",
-   "type": "创意应用赛",
-   "tags": [
-    "AI应用",
-    "AIGC"
-   ],
-   "city": null,
-   "prize": "65,000美元现金奖池；后续开发资助单个团队最高50,000美元",
-   "start": null,
-   "deadline": "2026-11-16",
-   "end": null,
-   "description": "面向18岁以上开发者征集使用 Unreal Engine 或 UEFN 制作的可游玩游戏，个人或最多5人团队均可参加。现金奖池6.5万美元，另设单队最高5万美元后续开发资助，北京时间2026年11月16日09:59截止。",
-   "sources": [
-    {
-     "name": "AIBetas",
-     "url": "https://www.aibetas.com/aigc_events/epic-ai-megajam-2026"
     }
    ]
   },
