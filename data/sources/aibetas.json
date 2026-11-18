@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17",
+ "updated": "2026-11-18",
  "competitions": [
   {
    "id": "aibetas-661",
@@ -205,29 +205,6 @@
     {
      "name": "AIBetas",
      "url": "https://www.aibetas.com/aigc_events/hunan-youth-ai-short-video-competition-2026"
-    }
-   ]
-  },
-  {
-   "id": "aibetas-637",
-   "name": "腾讯视频火龙AIGC黑客松大赛",
-   "organizer": "腾讯视频",
-   "official_url": "https://doc.weixin.qq.com/forms/AJEAIQdfAAoAKQAsAbdAFwCN6lj2j2caf#/fill",
-   "type": "AI创作赛",
-   "tags": [
-    "AI视频",
-    "AIGC"
-   ],
-   "city": null,
-   "prize": "120万现金奖励",
-   "start": null,
-   "deadline": "2026-11-17",
-   "end": null,
-   "description": "一、大赛主题： 🎬 创作方向：野生格式 ｜ UNTAMED GRAMMAR当生活被装进标准模板，当情绪被算法反 […]",
-   "sources": [
-    {
-     "name": "AIBetas",
-     "url": "https://www.aibetas.com/aigc_events/637"
     }
    ]
   },
