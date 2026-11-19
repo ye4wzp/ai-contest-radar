@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18",
+ "updated": "2026-11-19",
  "competitions": [
   {
    "id": "mlh-hackwestern-com",
@@ -163,6 +163,29 @@
    ]
   },
   {
+   "id": "mlh-hackcanada-org",
+   "name": "Hack Canada 2027",
+   "organizer": "MLH 认证",
+   "official_url": "https://hackcanada.org",
+   "type": "黑客松",
+   "tags": [
+    "MLH",
+    "国际"
+   ],
+   "city": "Toronto, CA",
+   "prize": null,
+   "start": "2027-01-08",
+   "deadline": null,
+   "end": "2027-01-10",
+   "description": "MLH（Major League Hacking）官方认证黑客松，报名时间以官网为准。",
+   "sources": [
+    {
+     "name": "MLH",
+     "url": "https://hackcanada.org"
+    }
+   ]
+  },
+  {
    "id": "mlh-www-deltahacks-com",
    "name": "DeltaHacks",
    "organizer": "MLH 认证",
@@ -186,29 +209,6 @@
    ]
   },
   {
-   "id": "mlh-uofthacks-com",
-   "name": "UofTHacks",
-   "organizer": "MLH 认证",
-   "official_url": "https://uofthacks.com/",
-   "type": "黑客松",
-   "tags": [
-    "MLH",
-    "国际"
-   ],
-   "city": "Toronto, CA",
-   "prize": null,
-   "start": "2027-01-15",
-   "deadline": null,
-   "end": "2027-01-17",
-   "description": "MLH（Major League Hacking）官方认证黑客松，报名时间以官网为准。",
-   "sources": [
-    {
-     "name": "MLH",
-     "url": "https://uofthacks.com/"
-    }
-   ]
-  },
-  {
    "id": "mlh-2027-uottahack-ca",
    "name": "uOttaHack 9",
    "organizer": "MLH 认证",
@@ -228,6 +228,29 @@
     {
      "name": "MLH",
      "url": "https://2027.uottahack.ca/"
+    }
+   ]
+  },
+  {
+   "id": "mlh-uofthacks-com",
+   "name": "UofTHacks",
+   "organizer": "MLH 认证",
+   "official_url": "https://uofthacks.com/",
+   "type": "黑客松",
+   "tags": [
+    "MLH",
+    "国际"
+   ],
+   "city": "Toronto, CA",
+   "prize": null,
+   "start": "2027-01-15",
+   "deadline": null,
+   "end": "2027-01-17",
+   "description": "MLH（Major League Hacking）官方认证黑客松，报名时间以官网为准。",
+   "sources": [
+    {
+     "name": "MLH",
+     "url": "https://uofthacks.com/"
     }
    ]
   },
@@ -527,29 +550,6 @@
     {
      "name": "MLH",
      "url": "http://makeuoft.ca/"
-    }
-   ]
-  },
-  {
-   "id": "mlh-sfhacks-io",
-   "name": "SF Hacks",
-   "organizer": "MLH 认证",
-   "official_url": "https://sfhacks.io",
-   "type": "黑客松",
-   "tags": [
-    "MLH",
-    "国际"
-   ],
-   "city": "San Francisco, US",
-   "prize": null,
-   "start": "2027-02-19",
-   "deadline": null,
-   "end": "2027-02-21",
-   "description": "MLH（Major League Hacking）官方认证黑客松，报名时间以官网为准。",
-   "sources": [
-    {
-     "name": "MLH",
-     "url": "https://sfhacks.io"
     }
    ]
   }
