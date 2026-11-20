@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19",
+ "updated": "2026-11-20",
  "competitions": [
   {
    "id": "modelscope-394",
@@ -60,28 +60,6 @@
    "deadline": "2026-11-30",
    "end": null,
    "description": "欢迎来到2026地瓜机器人黑客松，和真实世界碰一碰！",
-   "sources": [
-    {
-     "name": "魔搭社区",
-     "url": "https://modelscope.cn/active"
-    }
-   ]
-  },
-  {
-   "id": "modelscope-386",
-   "name": "群核科技Ahoolo 全球3D AI黑客松",
-   "organizer": "群核科技",
-   "official_url": "https://modelscope.cn/events/386",
-   "type": "黑客松",
-   "tags": [
-    "魔搭"
-   ],
-   "city": null,
-   "prize": "¥32万元奖金池",
-   "start": "2026-10-19",
-   "deadline": "2026-11-19",
-   "end": null,
-   "description": "本届黑客松，我们不设命题。只需你使用3D生成模型Aholo Lux3D，完成一份3D AI作品或Demo。",
    "sources": [
     {
      "name": "魔搭社区",

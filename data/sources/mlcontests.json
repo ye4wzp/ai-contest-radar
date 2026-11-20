@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19",
+ "updated": "2026-11-20",
  "competitions": [
   {
    "id": "mlc-hub-crunchdao-com-competitions-datacrunch-2",
@@ -368,6 +368,29 @@
    "deadline": null,
    "end": "2027-01-05",
    "description": "Kaggle 平台赛事",
+   "sources": [
+    {
+     "name": "ML Contests",
+     "url": "https://mlcontests.com/"
+    }
+   ]
+  },
+  {
+   "id": "mlc-www-kaggle-com-competitions-memecoins-pump-or-dump",
+   "name": "Predict Memecoin Pumps from On-Chain Launch Data",
+   "organizer": "Dmitry Dryomov",
+   "official_url": "https://www.kaggle.com/competitions/memecoins-pump-or-dump",
+   "type": "数据算法赛",
+   "tags": [
+    "Kaggle",
+    "国际"
+   ],
+   "city": "线上",
+   "prize": "$5,000",
+   "start": "2026-09-27",
+   "deadline": "2026-11-30",
+   "end": "2026-11-30",
+   "description": "Kaggle 平台赛事 Solana pump.fun launches: decide 60 seconds after a token migrates whether to buy and at what take-profit level, using the full on-chain trade tape. Metric is simulated PnL. Solutions are frozen on 1 Dec 2026; the final ranking is the sum of PnL over 14 unseen days (1-14 Dec 2026), with ",
    "sources": [
     {
      "name": "ML Contests",
