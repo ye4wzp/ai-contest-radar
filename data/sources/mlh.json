@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20",
+ "updated": "2026-11-21",
  "competitions": [
   {
    "id": "mlh-hackwestern-com",
@@ -462,29 +462,6 @@
    ]
   },
   {
-   "id": "mlh-innovateherhacks-org",
-   "name": "InnovateHer",
-   "organizer": "MLH 认证",
-   "official_url": "https://innovateherhacks.org/",
-   "type": "黑客松",
-   "tags": [
-    "MLH",
-    "国际"
-   ],
-   "city": "West Lafayette, US",
-   "prize": null,
-   "start": "2027-02-06",
-   "deadline": null,
-   "end": "2027-02-07",
-   "description": "MLH（Major League Hacking）官方认证黑客松，报名时间以官网为准。",
-   "sources": [
-    {
-     "name": "MLH",
-     "url": "https://innovateherhacks.org/"
-    }
-   ]
-  },
-  {
    "id": "mlh-www-spartahack-com",
    "name": "SpartaHack",
    "organizer": "MLH 认证",
@@ -527,6 +504,29 @@
     {
      "name": "MLH",
      "url": "https://hackncstate.org/"
+    }
+   ]
+  },
+  {
+   "id": "mlh-innovateherhacks-org",
+   "name": "InnovateHer",
+   "organizer": "MLH 认证",
+   "official_url": "https://innovateherhacks.org/",
+   "type": "黑客松",
+   "tags": [
+    "MLH",
+    "国际"
+   ],
+   "city": "West Lafayette, US",
+   "prize": null,
+   "start": "2027-02-13",
+   "deadline": null,
+   "end": "2027-02-14",
+   "description": "MLH（Major League Hacking）官方认证黑客松，报名时间以官网为准。",
+   "sources": [
+    {
+     "name": "MLH",
+     "url": "https://innovateherhacks.org/"
     }
    ]
   },

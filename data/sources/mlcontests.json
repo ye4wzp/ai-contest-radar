@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20",
+ "updated": "2026-11-21",
  "competitions": [
   {
    "id": "mlc-hub-crunchdao-com-competitions-datacrunch-2",
@@ -133,30 +133,6 @@
    "deadline": "2026-10-24",
    "end": "2026-11-21",
    "description": "Codabench 平台赛事 （NeurIPS Brain & Body Workshop 竞赛赛道）",
-   "sources": [
-    {
-     "name": "ML Contests",
-     "url": "https://mlcontests.com/"
-    }
-   ]
-  },
-  {
-   "id": "mlc-www-codabench-org-competitions-18185",
-   "name": "Language-Conditioned Visual Navigation",
-   "organizer": "Codabench",
-   "official_url": "https://www.codabench.org/competitions/18185/",
-   "type": "数据算法赛",
-   "tags": [
-    "Codabench",
-    "NeurIPS RoboPAD Workshop",
-    "国际"
-   ],
-   "city": "线上",
-   "prize": "$2,800",
-   "start": "2026-09-28",
-   "deadline": "2026-10-31",
-   "end": "2026-11-20",
-   "description": "Codabench 平台赛事 （NeurIPS RoboPAD Workshop 竞赛赛道）",
    "sources": [
     {
      "name": "ML Contests",
