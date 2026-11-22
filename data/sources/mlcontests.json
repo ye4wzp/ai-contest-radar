@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21",
+ "updated": "2026-11-22",
  "competitions": [
   {
    "id": "mlc-hub-crunchdao-com-competitions-datacrunch-2",
@@ -109,30 +109,6 @@
    "deadline": "2027-01-06",
    "end": "2027-01-06",
    "description": "Kaggle 平台赛事",
-   "sources": [
-    {
-     "name": "ML Contests",
-     "url": "https://mlcontests.com/"
-    }
-   ]
-  },
-  {
-   "id": "mlc-neural-interfaces26-github-io",
-   "name": "Decode Brains Signals in Task-Specific Settings",
-   "organizer": "Various",
-   "official_url": "https://neural-interfaces26.github.io",
-   "type": "数据算法赛",
-   "tags": [
-    "Codabench",
-    "NeurIPS Brain & Body Workshop",
-    "国际"
-   ],
-   "city": "线上",
-   "prize": "$20,000",
-   "start": "2026-09-21",
-   "deadline": "2026-10-24",
-   "end": "2026-11-21",
-   "description": "Codabench 平台赛事 （NeurIPS Brain & Body Workshop 竞赛赛道）",
    "sources": [
     {
      "name": "ML Contests",

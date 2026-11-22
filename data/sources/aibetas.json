@@ -1,6 +1,52 @@
 {
- "updated": "2026-11-21",
+ "updated": "2026-11-22",
  "competitions": [
+  {
+   "id": "aibetas-680",
+   "name": "2026镇江首届AIGC视频创作大赛",
+   "organizer": "镇江高新技术产业开发区管委会、镇江市文化广电和旅游局、镇江市人力资源和社会保障局、镇江市总工会、共青团镇江市委员会、镇江市中国电信股份有限公司镇江分公司",
+   "official_url": "https://www.actiontv.cn/event/26fb4cbacba3495b88b8188f98c26f4f",
+   "type": "AI创作赛",
+   "tags": [
+    "AI视频",
+    "AIGC"
+   ],
+   "city": null,
+   "prize": "最高单项15,000元（税前）＋200,000积分，奖项不重复",
+   "start": null,
+   "deadline": "2026-12-31",
+   "end": null,
+   "description": "“创新视界·心宜镇江”2026镇江首届AIGC视频创作大赛面向个人及团队，征集至少1分钟的原创AI视频，内容不少于60%须通过Action平台创作并公开画布。最高单项15,000元税前现金奖励，投稿截至2026年12月31日23:59（北京时间）。",
+   "sources": [
+    {
+     "name": "AIBetas",
+     "url": "https://www.aibetas.com/aigc_events/zhenjiang-aigc-video-competition-2026"
+    }
+   ]
+  },
+  {
+   "id": "aibetas-673",
+   "name": "一等奖10万！微博短剧年度AI创作大赛【微博AI片场】重磅启幕",
+   "organizer": "微博",
+   "official_url": "http://t.cn/AXYaeQSu",
+   "type": "AI创作赛",
+   "tags": [
+    "AI视频",
+    "AIGC"
+   ],
+   "city": null,
+   "prize": "一等奖10万",
+   "start": null,
+   "deadline": "2027-01-10",
+   "end": null,
+   "description": "让每个好故事，都有下一集。11月20日，由微博视频、微博短剧主办的#微博AI片场#AI短剧创作大赛正式启动，面 […]",
+   "sources": [
+    {
+     "name": "AIBetas",
+     "url": "https://www.aibetas.com/aigc_events/weibo-short-drama-ai-creation-competition-2026"
+    }
+   ]
+  },
   {
    "id": "aibetas-671",
    "name": "TRAE AI全国大学生创造力大赛",
