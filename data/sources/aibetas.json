@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22",
+ "updated": "2026-11-23",
  "competitions": [
   {
    "id": "aibetas-680",
@@ -159,29 +159,6 @@
     {
      "name": "AIBetas",
      "url": "https://www.aibetas.com/aigc_events/weifang-aigc-video-competition-2026"
-    }
-   ]
-  },
-  {
-   "id": "aibetas-659",
-   "name": "LibTV宝藏画布发现计划",
-   "organizer": "LibTV",
-   "official_url": "https://www.liblib.tv/activity/73",
-   "type": "AI创作赛",
-   "tags": [
-    "AI视频",
-    "AIGC"
-   ],
-   "city": null,
-   "prize": "现金总奖池68000元；积分总奖池190000积分；通过审核的精选画布等额瓜分50000元",
-   "start": null,
-   "deadline": "2026-11-22",
-   "end": null,
-   "description": "活动简介 本次活动以“打开你的创作现场，让好思路被看见”为出发点，不只考察最终视频，也关注创作者在LibTV画 […]",
-   "sources": [
-    {
-     "name": "AIBetas",
-     "url": "https://www.aibetas.com/aigc_events/libtv-treasure-canvas-discovery-plan"
     }
    ]
   },
@@ -389,29 +366,6 @@
     {
      "name": "AIBetas",
      "url": "https://www.aibetas.com/aigc_events/612"
-    }
-   ]
-  },
-  {
-   "id": "aibetas-608",
-   "name": "鲸锐AI创作大赛",
-   "organizer": "虎鲸文娱集团",
-   "official_url": " https://jingrui-ai-competition.youku.com/",
-   "type": "AI创作赛",
-   "tags": [
-    "AI视频",
-    "AIGC"
-   ],
-   "city": null,
-   "prize": "总奖金池1000万元，最高单项奖金200万",
-   "start": null,
-   "deadline": "2026-11-22",
-   "end": null,
-   "description": "正文 鲸锐AI创作大赛正式启动作品征集。大赛由虎鲸文娱集团主办，优酷担任独家视频展映平台，大麦娱乐提供独家线下 […]",
-   "sources": [
-    {
-     "name": "AIBetas",
-     "url": "https://www.aibetas.com/aigc_events/608"
     }
    ]
   },

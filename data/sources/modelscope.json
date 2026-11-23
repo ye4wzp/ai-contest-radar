@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-22",
+ "updated": "2026-11-23",
  "competitions": [
+  {
+   "id": "modelscope-439",
+   "name": "2026 SPARK S全球AI硬件创新大赛正式启动",
+   "organizer": "涂鸦、杭创营、火花创研社",
+   "official_url": "https://modelscope.cn/events/439",
+   "type": "创意应用赛",
+   "tags": [
+    "魔搭"
+   ],
+   "city": null,
+   "prize": null,
+   "start": "2026-11-22",
+   "deadline": "2026-12-10",
+   "end": null,
+   "description": "大赛旨在面向全球招募具有技术创新能力、产品基础和成长潜力的AI硬件项目，助力硬科技从概念走向落地。",
+   "sources": [
+    {
+     "name": "魔搭社区",
+     "url": "https://modelscope.cn/active"
+    }
+   ]
+  },
   {
    "id": "modelscope-394",
    "name": "AI造游戏，人人都是游戏制作人｜AI+∞开发者创作大赛第三期",
@@ -104,6 +126,28 @@
    "deadline": "2026-12-31",
    "end": null,
    "description": "由众智FlagOS社区主办的一项多赛季、综合性赛事。大赛鼓励开发者基于统一AI系统软件栈FlagOS的能力进行创作实战和创新探索，促进AI开发者能力提升，推动开放计算生态的蓬勃发展。",
+   "sources": [
+    {
+     "name": "魔搭社区",
+     "url": "https://modelscope.cn/active"
+    }
+   ]
+  },
+  {
+   "id": "modelscope-418",
+   "name": "AI造游戏【测试组队】",
+   "organizer": "魔搭社区",
+   "official_url": "https://modelscope.cn/events/418",
+   "type": "创意应用赛",
+   "tags": [
+    "魔搭"
+   ],
+   "city": null,
+   "prize": null,
+   "start": "2026-11-06",
+   "deadline": "2026-12-31",
+   "end": null,
+   "description": "方便大家组队\n比赛官网：https://modelscope.cn/active/AIstudio",
    "sources": [
     {
      "name": "魔搭社区",
