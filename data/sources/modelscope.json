@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-23",
+ "updated": "2026-11-24",
  "competitions": [
   {
    "id": "modelscope-439",
    "name": "2026 SPARK S全球AI硬件创新大赛正式启动",
-   "organizer": "涂鸦、杭创营、火花创研社",
+   "organizer": "涂鸦、杭创（人工智能）营、火花创研社",
    "official_url": "https://modelscope.cn/events/439",
    "type": "创意应用赛",
    "tags": [
@@ -135,7 +135,7 @@
   },
   {
    "id": "modelscope-418",
-   "name": "AI造游戏【测试组队】",
+   "name": "组队【测试专用】",
    "organizer": "魔搭社区",
    "official_url": "https://modelscope.cn/events/418",
    "type": "创意应用赛",

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23",
+ "updated": "2026-11-24",
  "competitions": [
   {
    "id": "mlh-hackeps-dev",
@@ -136,6 +136,29 @@
     {
      "name": "MLH",
      "url": "https://2027.uottahack.ca/"
+    }
+   ]
+  },
+  {
+   "id": "mlh-techacks-tech",
+   "name": "Techacks 5.0",
+   "organizer": "MLH 认证",
+   "official_url": "https://techacks.tech",
+   "type": "黑客松",
+   "tags": [
+    "MLH",
+    "国际"
+   ],
+   "city": "Rajpura, IN",
+   "prize": null,
+   "start": "2027-01-15",
+   "deadline": null,
+   "end": "2027-01-16",
+   "description": "MLH（Major League Hacking）官方认证黑客松，报名时间以官网为准。",
+   "sources": [
+    {
+     "name": "MLH",
+     "url": "https://techacks.tech"
     }
    ]
   },
@@ -297,6 +320,29 @@
     {
      "name": "MLH",
      "url": "https://ellehacks.com/"
+    }
+   ]
+  },
+  {
+   "id": "mlh-hackbu-org",
+   "name": "HackBU",
+   "organizer": "MLH 认证",
+   "official_url": "https://hackbu.org/",
+   "type": "黑客松",
+   "tags": [
+    "MLH",
+    "国际"
+   ],
+   "city": "Vestal, US",
+   "prize": null,
+   "start": "2027-01-30",
+   "deadline": null,
+   "end": "2027-01-31",
+   "description": "MLH（Major League Hacking）官方认证黑客松，报名时间以官网为准。",
+   "sources": [
+    {
+     "name": "MLH",
+     "url": "https://hackbu.org/"
     }
    ]
   },
@@ -504,52 +550,6 @@
     {
      "name": "MLH",
      "url": "https://cuhack.it/"
-    }
-   ]
-  },
-  {
-   "id": "mlh-hacklytics2027-web-app",
-   "name": "Hacklytics 2027",
-   "organizer": "MLH 认证",
-   "official_url": "https://hacklytics2027.web.app/",
-   "type": "黑客松",
-   "tags": [
-    "MLH",
-    "国际"
-   ],
-   "city": "Atlanta, US",
-   "prize": null,
-   "start": "2027-02-26",
-   "deadline": null,
-   "end": "2027-02-28",
-   "description": "MLH（Major League Hacking）官方认证黑客松，报名时间以官网为准。",
-   "sources": [
-    {
-     "name": "MLH",
-     "url": "https://hacklytics2027.web.app/"
-    }
-   ]
-  },
-  {
-   "id": "mlh-www-hackillinois-org",
-   "name": "HackIllinois",
-   "organizer": "MLH 认证",
-   "official_url": "https://www.hackillinois.org/",
-   "type": "黑客松",
-   "tags": [
-    "MLH",
-    "国际"
-   ],
-   "city": "Urbana, US",
-   "prize": null,
-   "start": "2027-02-26",
-   "deadline": null,
-   "end": "2027-02-28",
-   "description": "MLH（Major League Hacking）官方认证黑客松，报名时间以官网为准。",
-   "sources": [
-    {
-     "name": "MLH",
-     "url": "https://www.hackillinois.org/"
     }
    ]
   }

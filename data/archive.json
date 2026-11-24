@@ -36308,5 +36308,259 @@
     "url": "https://devpost.com/hackathons"
    }
   ]
+ },
+ {
+  "id": "mlc-www-kaggle-com-competitions-arc-prize-2026-paper-track",
+  "name": "ARC Prize 2026 - Paper Track",
+  "organizer": "ARC Prize",
+  "official_url": "https://www.kaggle.com/competitions/arc-prize-2026-paper-track",
+  "type": "数据算法赛",
+  "tags": [
+   "Kaggle",
+   "国际"
+  ],
+  "city": "线上",
+  "prize": "$450,000",
+  "start": "2026-03-25",
+  "deadline": null,
+  "end": "2026-11-09",
+  "description": "Kaggle 平台赛事",
+  "sources": [
+   {
+    "name": "ML Contests",
+    "url": "https://mlcontests.com/"
+   }
+  ]
+ },
+ {
+  "detail": "# SDxSDSU Voice Agent Hackathon\n\n## 1. 比赛简介\n🚀 由 SDxSDSU 和其他四位主办，SDxSDSU 首届黑客马拉松，由 ElevenLabs 和 Daytona 主办。这是一场一天下午的构建语音代理的比赛，参与者需要从零开始构建，并在结束时向评委演示。SDx 是圣地亚哥以构建者为中心的技术社区，致力于将产品推出而不是仅仅谈论推出产品。活动欢迎个人或团队参加，现场也会提供寻找团队的机会。\n\n## 2. 时间安排\n📅 11月8日星期日\n⏰ 12:00 - 18:00\n\n## 3. 奖金\n💳 10K+ ElevenLabs 和 Daytona 信用额度\n💰 前 3 名团队分别获得 3K、2K 和 1K Daytona 信用额度\n💰 最佳团队获得 3 个月 ElevenLabs Pro\n💰 使用 ElevenLabs 构建的最佳项目获得 3 个月 ElevenLabs Scale\n💰 每位构建者获得 100 美元 Daytona 信用额度和 1 个月 ElevenLabs Creator\n\n## 4. 要求\n✅ 需要审核报名\n✅ 活动地点：EIS-103, SDSU 拉文创业 + ZIP 启动室\n\n## 5. 重要细节\n🌍 地点：Engineering & Interdisciplinary Science (EIS), Centennial Plaza, San Diego, CA 92182, USA, Zip Launchpad, Room EIS-103.\n📚 社交媒体：[Twitter](https://twitter.com/SDxCommunity?utm_source=luma) | [Discord](https://discord.com/invite/tuFeXZDn7m?utm_source=luma) | [LinkedIn](https://www.linkedin.com/company/sdxcommunity?utm_source=luma) | [Website](https://sdx.community/?utm_source=luma)",
+  "id": "lumaevt-4cLD5BPhj85wsto",
+  "name": "SDxSDSU语音代理黑客松",
+  "organizer": "PERSONAL、SDXSDSU、RJ GALASIESKI、KURT ROSSNER、MATT ATTARDO、ANDREW SHAW",
+  "official_url": "https://luma.com/uan97kyo",
+  "type": "黑客松",
+  "tags": [
+   "机器学习/AI",
+   "语音技能",
+   "通信"
+  ],
+  "city": "工程与跨学科科学（EIS），圣地亚哥，加利福尼亚州，92182",
+  "prize": "¥72,000",
+  "start": "2026-11-08",
+  "deadline": null,
+  "end": "2026-11-09",
+  "signup": "upcoming",
+  "description": "",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/lumaevt-4cLD5BPhj85wsto"
+   }
+  ]
+ },
+ {
+  "detail": "# DevDay Exchange Community Hackathon: Miami 比赛内容概括\n\n## 1. 比赛简介\n🚀 Codex Miami与The Miami Foundation于11月7日至8日在The LAB Miami举办首届黑客松！这是DevDay Exchange活动的一部分，旨在通过AI技术解决南佛罗里达非营利组织面临的问题。参赛团队将利用免费提供的Codex和OpenAI API积分，将实际问题转化为实际可用的AI代理和工具。\n\n🤖 活动背景：\n- Codex Miami与The Miami Foundation合作，旨在通过AI技术促进社区发展。\n- 南佛罗里达的非营利组织面临各种挑战，需要创新解决方案。\n\n🌴 活动目的：\n- 通过黑客松活动，鼓励开发者利用AI技术解决实际问题。\n- 为非营利组织提供创新的AI工具和解决方案。\n\n## 2. 时间安排\n⏰ 11月7日星期六：12:00至21:00\n⏰ 11月8日星期日：12:00至21:00\n\n## 3. 奖金\n💳 首届Codex黑客松将为50多个团队提供免费Codex和OpenAI API积分（每人100美元Codex积分+50美元OpenAI API积分）！\n\n## 4. 要求\n- 参赛团队需解决南佛罗里达非营利组织实际问题。\n- 团队需利用提供的API积分开发实际可用的AI代理和工具。\n\n## 5. 重要细节\n- 活动地点：The LAB Miami, 2750 NW 3rd Ave #24, Miami, FL 33127, USA\n- 报名方式：请注册参加。\n- 赞助商：The Miami Foundation\n- 活动合作伙伴：DeepStation\n- 导师和志愿者招募：[成为赞助商](https://forms.gle/fjroGZm8TyQzVYMF6?utm_source=luma)、[志愿者或导师](https://forms.gle/imQumPHejy9vKojaA?utm_source=luma)",
+  "id": "lumaevt-BZergAyEDmnelhO",
+  "name": "DevDay 交换社区黑客马拉松：迈阿密",
+  "organizer": "DEEPSTATION、GRANT KURZ",
+  "official_url": "https://luma.com/codexmiami",
+  "type": "黑客松",
+  "tags": [
+   "机器学习/AI",
+   "社会公益",
+   "计算机视觉"
+  ],
+  "city": "迈阿密LAB，3rd Ave NW 2750号#24，佛罗里达州迈阿密33127，美国",
+  "prize": null,
+  "start": "2026-11-07",
+  "deadline": null,
+  "end": "2026-11-09",
+  "signup": "open",
+  "description": "DeepStation是OpenAI官方合作伙伴，全球教育超6000人AI知识，连接本地人才与产业，促进经济发展。",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/lumaevt-BZergAyEDmnelhO"
+   }
+  ]
+ },
+ {
+  "detail": "$14",
+  "id": "lumaevt-TPOguBZrTDtAPoy",
+  "name": "Vultr：特工冲刺黑客松",
+  "organizer": "LABLAB.AI EVENTS、LABLAB、MIRDUL SWARUP、MAYANK DEBNATH、JOEL COX",
+  "official_url": "https://luma.com/lablab-8d5a",
+  "type": "黑客松",
+  "tags": [
+   "机器学习/AI",
+   "网络安全",
+   "DevOps"
+  ],
+  "city": "盐宫会议中心，美国犹他州盐湖城S W Temple St 100号，84101",
+  "prize": null,
+  "start": "2026-11-08",
+  "deadline": null,
+  "end": "2026-11-09",
+  "signup": "upcoming",
+  "description": "lablab.ai是一个全球平台，通过黑客马拉松、研讨会和社区活动支持AI创新。关注我们的最新活动，加入AI社区！",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/lumaevt-TPOguBZrTDtAPoy"
+   }
+  ]
+ },
+ {
+  "detail": "# Apify's Hack for Humanity 比赛内容概括\n\n## 1. 比赛简介\n🚀 **Hack for Humanity** 是在布拉格 Apify 办公室举办的一天黑客马拉松活动。该活动旨在鼓励参与者选择一个他们关心的社会或全球问题，并在一天内构建一个解决方案。活动背景是利用技术解决实际问题，推动社会进步。\n\n**目的**:\n- 鼓励创新思维，解决社会问题。\n- 展示 Apify 平台在解决复杂问题上的能力。\n- 促进开发者之间的交流和合作。\n\n**主要内容**:\n- 参与者选择一个他们关心的社会或全球问题。\n- 利用 Apify 平台构建解决方案，如追踪干旱数据、识别虚假信息或检查公共网站的可访问性问题等。\n- 构建的内容可以是 Apify Actor、Web 应用、数据集或初步的概念证明。\n\n## 2. 时间安排\n📅 2026年11月9日星期一\n🕒 3-8 pm\n\n## 3. 奖金\n💳 奖项设置如下：\n- 🥇 第一名：1000美元现金 + 2000美元 Apify 信用\n- 🥈 第二名：500美元现金 + 1000美元 Apify 信用\n- 🥉 第三名：200美元现金 + 500美元 Apify 信用\n\n## 4. 要求\n✅ 参与者需满足以下要求：\n- 带上自己问题和解决方案的想法。\n- 当天从头开始编写所有代码，没有预建项目。\n- 任何类型的输出都算数：Actor、应用、数据集或 PoC。\n\n## 5. 重要细节\n- 📍 地点：Apify 办公室 - Na Příkopě 959/27, 110 00 Staré Město, Prague, Czechia\n- 👥 限50人参加\n- 如何获得名额：只有50个名额，我们将组建一个背景和经验良好的团队。无论你是经验丰富的开发者还是喜欢构建事物的人，请用你的 LinkedIn 和 GitHub 个人资料申请，并告诉我们你想解决的问题。我们将在活动前通过电子邮件确认你的名额。",
+  "id": "lumaevt-PMpwAPZimA83BJE",
+  "name": "Apify的公益黑客",
+  "organizer": "APIFY EVENTS、APIFY、JAKUB WOLF、MATEJ HAMAS",
+  "official_url": "https://luma.com/apify-tt12",
+  "type": "黑客松",
+  "tags": [
+   "社会公益",
+   "机器学习/AI",
+   "Web开发"
+  ],
+  "city": "纳普利科普959/27，11000布拉格1-老城，捷克",
+  "prize": null,
+  "start": "2026-11-09",
+  "deadline": null,
+  "end": "2026-11-09",
+  "signup": "upcoming",
+  "description": "与Apify相遇，您的网页数据工具首选市场。点击上方“关注”⬆️",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/lumaevt-PMpwAPZimA83BJE"
+   }
+  ]
+ },
+ {
+  "detail": "# Make It Make Sense – Vibe Coding Mini-Hackathon\n\n## 1. 比赛简介\n🚀 **比赛概述**：Make It Make Sense – Vibe Coding Mini-Hackathon 是一场编程挑战活动，旨在为参与者提供一个实践编程技能的平台。活动聚焦于构建易于理解的技术产品，如小游戏、可视化、简单网页等。\n\n🎯 **背景**：随着AI、超级计算机和LLM（大型语言模型）的广泛应用，许多技术产品变得复杂难懂。本次活动旨在通过编程，将这些技术以更易于理解的方式呈现。\n\n✅ **目的**：鼓励参与者通过编程实践，将复杂的技术转化为易于理解的产品，提升编程技能，并享受编程的乐趣。\n\n## 2. 时间安排\n📅 **日期**：2023年11月9日\n🕒 **时间**：17:00 - 20:00 GMT+2\n\n## 3. 奖金\n💳 **奖金信息**：未提供\n\n## 4. 要求\n📚 **参与者要求**：\n- 具备编程基础，但初学者也欢迎。\n- 带笔记本电脑参加活动。\n- 活动期间需使用英语交流。\n\n## 5. 重要细节\n🤝 **主办方**：LUMI AI工厂和Helsinki Think Company\n📍 **地点**：Think Company空间，Exactum Kumpula，Pietari Kalmin katu 5，00560赫尔辛基，芬兰\n🍽️ **餐饮**：活动期间18:00提供食物\n📈 **报名**：20个名额，尽早注册！注册截止：10月30日 GMT+2 12:00。\n👨‍💻 **活动流程**：\n- 注册时，将进行团队平衡提问。\n- 活动前，提供简短指南和工具访问权限。\n- 活动期间，介绍LLM和挑战，分组合作构建项目。\n- 活动结束时，每个项目进行3分钟演示，最佳创意将获奖。",
+  "id": "lumaevt-tybDCT6mgcOPEWa",
+  "name": "让它言之有物 - 氛围编码迷你黑客松",
+  "organizer": "HELSINKI THINK COMPANY",
+  "official_url": "https://luma.com/v7xg2mfm",
+  "type": "黑客松",
+  "tags": [
+   "机器学习/AI",
+   "低代码/无代码",
+   "教育"
+  ],
+  "city": "皮特里·卡尔明街5号，00560 赫尔辛基，芬兰",
+  "prize": null,
+  "start": "2026-11-09",
+  "deadline": null,
+  "end": "2026-11-09",
+  "signup": "upcoming",
+  "description": "赫尔辛基思考公司是赫尔辛基大学的创业社团。查看我们的活动，学习创业者所需技能，获得难忘体验！",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/lumaevt-tybDCT6mgcOPEWa"
+   }
+  ]
+ },
+ {
+  "detail": "# 🚀 Beyond Chatbots: Proactive AI Agents Hackathon @ UAlberta\n\n## 1. 比赛简介\n构建能记忆、主动行动并产生影响的AI。想象一下，AI能理解你的目标，记住你的进度，并主动帮助你前进——无需等待下一个提示。加入Brave AI，在艾伯塔大学参加一天黑客马拉松，学生、开发者和AI爱好者共同探索下一代智能AI代理。\n\n**背景：**\nAI技术正迅速发展，但大多数AI仍然局限于回答问题。Brave AI希望通过这次黑客马拉松，激发参与者创造能够主动行动并产生影响的AI。\n\n**目的：**\n- 探索下一代智能AI代理的可能性。\n- 将想法转化为工作原型。\n- 结识志同道合的人并创造有意义的事物。\n\n**主要内容：**\n- 超越传统聊天机器人，构建主动的AI。\n- 构建一个理解上下文、记住重要信息并采取有意义行动的AI代理。\n- 探索代理AI，尝试LLM、记忆、推理、工具使用和自主工作流程。\n- 连接与合作，与开发者、学生和AI爱好者见面。\n- 展示作品，获得反馈并竞争奖项。\n\n## 2. 时间安排\n- 日期：2026年11月9日星期一\n- 时间：上午9:30 – 下午5:00 MST\n- 地点：加拿大艾伯塔大学，埃德蒙顿，AB T6G 2R3\n\n## 3. 奖金\n奖品、评审标准和赞助商的详细信息将很快公布。\n\n## 4. 要求\n- 面向大学生、开发者、有志成为AI工程师的人士以及任何对用AI构建充满热情的人。\n- 所有经验水平都欢迎。\n\n## 5. 重要细节\n- 独自或与朋友参加！\n- 你将有机会在活动中与其他参与者建立联系并组建团队。\n- 展示你的创造力、技术技能和创新想法，有机会赢得激动人心的奖品！",
+  "id": "luma915b2b90c00f0fc80da773eb49e3d1a8",
+  "name": "超越聊天机器人：UAlberta主动AI代理黑客松",
+  "organizer": "BRAVE AI",
+  "official_url": "https://luma.com/zbxekrsn",
+  "type": "AI Agent 挑战赛",
+  "tags": [
+   "机器学习/AI",
+   "计算机视觉"
+  ],
+  "city": "阿尔伯塔大学，埃德蒙顿，AB",
+  "prize": null,
+  "start": "2026-11-09",
+  "deadline": null,
+  "end": "2026-11-09",
+  "signup": "upcoming",
+  "description": "构建能记住、主动行动并产生影响的AI。如果AI不仅能回答问题呢？想象一下能理解你的目标、记住你的进度并主动助你前进的AI——无需等待下一个提示。加入勇敢AI，参加阿尔伯塔大学的一日黑客马拉松，学生、开发者及AI爱好者齐聚一堂，探索下一代智能AI代理。无论你是经验丰富的构建者还是AI初学者，这是将想法转化为工作原型、结识志同道合之人、构建有意义事物的机会。",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/luma915b2b90c00f0fc80da773eb49e3d1a8"
+   }
+  ]
+ },
+ {
+  "detail": "# MIT能源与气候黑客松\n\n## 1. 比赛简介\n🚀 **比赛概述**：MIT能源与气候黑客松是一项全球性的黑客松活动，旨在召集全球学生，共同探讨和解决能源与气候领域的挑战。活动由麻省理工学院的能源与气候俱乐部主办，吸引了众多来自不同学科背景的学生参与。\n\n🌍 **背景**：随着全球气候变化问题的日益严峻，能源领域的创新变得至关重要。MIT能源与气候黑客松正是为了激发学生的创新思维，推动可持续能源和气候解决方案的发展。\n\n🎯 **目的**：本次黑客松的目的是鼓励学生通过团队合作，运用技术手段，提出创新的解决方案，以应对能源和气候领域的挑战。\n\n📚 **主要内容**：\n- 学生需要围绕能源与气候主题，开发具有创新性的项目或解决方案。\n- 活动期间，参与者将有机会与行业专家、教授和同行交流，获取宝贵的反馈和建议。\n- 往届赞助商包括谷歌、麦肯锡等知名企业，为活动提供了丰富的资源和支持。\n\n## 2. 时间安排\n📅 **活动时间**：2023年11月6日至11月8日\n🕒 **时间区间**：16:00 - 19:00 GMT-5\n\n## 3. 奖金\n💳 **奖金信息**：暂无具体奖金信息公布。\n\n## 4. 要求\n🤝 **参与要求**：\n- 参赛者需年满18岁。\n- 活动需审核报名，请提前注册。\n- 参与者需具备一定的技术背景，如编程、数据分析等。\n\n## 5. 重要细节\n⚙️ **地点**：麻省理工学院大圆顶\n📍 **地址**：222 Memorial Dr, Cambridge, MA 02139, USA\n📢 **报名方式**：需审核报名，请提前注册。\n👨‍💻 **联系方式**：[MIT能源与气候俱乐部](https://luma.com/user/usr-QxKDDFDmGXIZP9B)",
+  "id": "lumaevt-qgjIwzmAhFquRp5",
+  "name": "麻省理工能源与气候黑客",
+  "organizer": "MIT CLIMATE & ENERGY CLUB、MIT ENERGY & CLIMATE CLUB",
+  "official_url": "https://luma.com/y097td45",
+  "type": "黑客松",
+  "tags": [
+   "机器学习/AI",
+   "社会公益"
+  ],
+  "city": "大穹顶，222纪念道，剑桥，马萨诸塞州，02139，美国",
+  "prize": null,
+  "start": "2026-11-06",
+  "deadline": null,
+  "end": "2026-11-09",
+  "signup": "open",
+  "description": "",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/lumaevt-qgjIwzmAhFquRp5"
+   }
+  ]
+ },
+ {
+  "detail": "# Zindua 社区黑客马拉松\n\n## 1. 比赛简介\n🚀 Zindua 社区黑客马拉松是一个面向开发者、设计师和构建者的实践性黑客马拉松活动。该活动由 Zindua 学校主办，旨在提供一个平台，让参与者解决实际问题并创造有意义的解决方案。活动汇集了120多位来自不同背景的构建者，共同面对真实世界的问题。\n\n**背景**：Zindua 学校致力于为新兴经济体的学生提供数据科学和软件开发虚拟兼职课程，通过这次黑客马拉松，学校希望能够进一步激发学生的创新能力和实践技能。\n\n**目的**：\n- 提供一个动手实践的机会，让参与者解决实际问题。\n- 促进开发者、设计师和技术爱好者之间的合作与交流。\n- 创造有意义的解决方案，对社区产生积极影响。\n\n**主要内容**：\n- 参与者将获得真实的问题和挑战。\n- 使用他们认为最有效的工具和技术。\n- 构建解决问题的项目，不仅仅是演示。\n- 适合对象：开发者（任何经验水平）、学生和应届毕业生、设计师、产品思考者、技术爱好者。\n\n## 2. 时间安排\n📅 11月9日星期一，7:00 - 19:00 GMT+3\n\n## 4. 要求\n✅ 参与者需要具备一定的技术背景，包括但不限于编程、设计或产品开发。\n✅ 参与者需要能够使用自己的设备参与活动。\n✅ 参与者需要遵守活动规则和指导原则。\n\n## 5. 重要细节\n- 地点：Zindua 编码学校，Parklands Plaza，5楼左侧，6 Chiromo Ln，内罗毕，肯尼亚。\n- 主办人：Zindua 学校和 Imorgan Sonia。\n- 报名方式：请注册参加。\n- 联系方式：[联系主办人](https://luma.com/user/zinduaschool)。\n- 关注主办方：[Instagram](https://instagram.com/zinduaschool) [X](https://x.com/zinduaschool) [YouTube](https://youtube.com/@zinduaschool) [TikTok](https://tiktok.com/@zinduaschool) [LinkedIn](https://linkedin.com/in/zinduaschool) [官网](https://zinduaschool.com/?utm_source=luma)。",
+  "id": "lumaevt-AkcfOqCBJy6nPfX",
+  "name": "Zindua社区黑客马拉松",
+  "organizer": "ZINDUA SCHOOL、IMORGAN SONIA",
+  "official_url": "https://luma.com/n408ndnx",
+  "type": "黑客松",
+  "tags": [
+   "机器学习/AI",
+   "计算机视觉",
+   "社会公益"
+  ],
+  "city": "Zindua编程学校，肯尼亚内罗毕，奇罗莫路6号，公园广场5楼左翼",
+  "prize": null,
+  "start": "2026-11-09",
+  "deadline": null,
+  "end": "2026-11-09",
+  "signup": "upcoming",
+  "description": "Zindua学校提供面向新兴经济体学生的数据科学和软件开发虚拟兼职课程。",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/lumaevt-AkcfOqCBJy6nPfX"
+   }
+  ]
+ },
+ {
+  "detail": "# Hack for Social Impact 2025 比赛内容概括\n\n## 1. 比赛简介\n🚀 **Hack for Social Impact 2025** 是由 Hack for Social Impact 组织举办的一项技术非营利活动。该活动旨在连接工程师和数据科学家与非营利组织、NGO和公民组织，共同解决现实世界中的挑战。通过这个平台，参与者可以运用他们的技术专长，为社会发展做出贡献。\n\n### 背景\nHack for Social Impact 组织致力于推动技术在社会领域的应用，通过举办各种技术挑战赛，鼓励人们利用创新思维解决实际问题。\n\n### 目的\n- **连接人才与需求**：将技术人才与非营利组织的需求相连接。\n- **促进创新**：鼓励创新思维，开发出能够解决社会问题的技术解决方案。\n- **提升社会影响力**：通过技术手段提升社会组织的效率和影响力。\n\n### 主要内容\n- **挑战赛**：参与者将针对特定的社会问题提出解决方案。\n- **技术支持**：提供技术资源和专家指导。\n- **合作与交流**：鼓励参与者之间的合作与交流，共同推动项目进展。\n\n## 2. 时间安排\n（无具体时间安排信息）\n\n## 3. 奖金\n（无奖金信息）\n\n## 4. 要求\n- **参与者**：工程师、数据科学家、学生、专业人士等。\n- **技能要求**：编程、数据分析、产品设计等相关技能。\n- **项目要求**：针对特定社会问题提出创新解决方案。\n\n## 5. 重要细节\n- **主办方**：Hack for Social Impact 组织\n- **参与人数**：438人\n- **活动目标**：解决现实世界中的社会挑战\n- **联系方式**：[联系主办方](#)",
+  "id": "luma6586ed0fcbb889400184a111108a7c68",
+  "name": "2025社会影响黑客",
+  "organizer": "HACK FOR SOCIAL IMPACT",
+  "official_url": "https://luma.com/yc0c4efl",
+  "type": "AI大模型赛",
+  "tags": [
+   "社会公益",
+   "机器学习/AI"
+  ],
+  "city": "旧金山，美国",
+  "prize": "¥74,100",
+  "start": "2026-11-08",
+  "deadline": null,
+  "end": "2026-11-09",
+  "signup": "upcoming",
+  "description": "周末解决现实问题！HSI回归！再次加入Hack for Social Impact，应对现实挑战！我们与非营利伙伴合作，提供重要、紧迫且范围明确的挑战。这些问题等你解决！",
+  "sources": [
+   {
+    "name": "AI赛事通",
+    "url": "https://www.competehub.dev/zh/competitions/luma6586ed0fcbb889400184a111108a7c68"
+   }
+  ]
  }
 ]
