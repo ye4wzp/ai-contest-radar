@@ -103,6 +103,15 @@ def iso_date(s: str | None) -> str | None:
 
 def write_source(name: str, competitions: list):
     SOURCES.mkdir(parents=True, exist_ok=True)
-    out = {"updated": date.today().isoformat(), "competitions": competitions}
-    (SOURCES / f"{name}.json").write_text(json.dumps(out, ensure_ascii=False, indent=1))
-    print(f"{name}: {len(competitions)} competitions")
+    ordered = sorted(competitions, key=lambda c: c.get("id") or "")
+    target = SOURCES / f"{name}.json"
+    if target.exists():
+        try:
+            if json.loads(target.read_text()).get("competitions") == ordered:
+                print(f"{name}: {len(ordered)} competitions (unchanged)")
+                return
+        except Exception:
+            pass
+    out = {"updated": date.today().isoformat(), "competitions": ordered}
+    target.write_text(json.dumps(out, ensure_ascii=False, indent=1))
+    print(f"{name}: {len(ordered)} competitions")

@@ -214,8 +214,8 @@
     document.getElementById("featured-section").hidden = !isList;
     document.getElementById("calendar-view").hidden = isList;
     if (isList) {
-      var feat = list.filter(function (c) { return c.featured; });
-      var rest = list.filter(function (c) { return !c.featured; });
+      var feat = list.filter(function (c) { return c.featured && c._status !== "ended"; });
+      var rest = list.filter(function (c) { return !(c.featured && c._status !== "ended"); });
       document.getElementById("featured-section").hidden = !feat.length;
       document.getElementById("featured-grid").innerHTML = feat.map(cardHTML).join("");
       document.getElementById("card-grid").innerHTML = rest.map(cardHTML).join("");

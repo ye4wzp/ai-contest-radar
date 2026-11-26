@@ -71,10 +71,10 @@ def main():
 
     def alive(c):
         final = c.get("end") or c.get("deadline")
-        return c.get("featured") or not final or final >= cutoff
+        return not final or final >= cutoff
 
     merged, keys, urls, ids = [], {}, {}, set()
-    for c in manual + [x for x in scraped + prev if alive(x) and not off_topic(x)]:
+    for c in [x for x in manual if alive(x)] + [x for x in scraped + prev if alive(x) and not off_topic(x)]:
         if c["id"] in ids:
             continue
         ids.add(c["id"])
@@ -94,17 +94,20 @@ def main():
             urls.setdefault(u, c)
         merged.append(c)
 
-    # archive what fell out of the live set
+    # archive what fell out of the live set (one JSON object per line for compact, append-friendly git diffs)
     archive_f = DATA / "archive.json"
     archive = json.loads(archive_f.read_text()) if archive_f.exists() else []
     known = {c["id"] for c in archive}
     expired = [p for p in prev if not alive(p) and p["id"] not in known]
     if expired:
-        archive_f.write_text(json.dumps(archive + expired, ensure_ascii=False, indent=1))
+        items = archive + expired
+        archive_f.write_text(
+            "[\n" + ",\n".join(json.dumps(c, ensure_ascii=False, separators=(",", ":")) for c in items) + "\n]\n"
+        )
 
     out = {"updated": date.today().isoformat(), "competitions": merged}
     (DATA / "data.js").write_text(
-        "window.__DATA__ = " + json.dumps(out, ensure_ascii=False) + ";\n"
+        "window.__DATA__ = " + json.dumps(out, ensure_ascii=False, separators=(",", ":")) + ";\n"
     )
     print(f"manual {len(manual)} + sources {len(scraped)} + prev {len(prev)} "
           f"-> {len(merged)} live, +{len(expired)} archived")
