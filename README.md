@@ -10,7 +10,11 @@
 
 **[立即打开在线网页 → https://ye4wzp.github.io/ai-contest-radar/](https://ye4wzp.github.io/ai-contest-radar/)**
 
+<p><img src="docs/media/hero-cover.png" alt="AI 赛事雷达 — Contest Calendar" width="860"></p>
+
 </div>
+
+## 界面预览
 
 ![AI 赛事雷达界面预览](assets/preview.png)
 
