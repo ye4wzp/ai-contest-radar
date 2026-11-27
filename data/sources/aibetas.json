@@ -1,348 +1,26 @@
 {
- "updated": "2026-11-26",
+ "updated": "2026-11-27",
  "competitions": [
   {
-   "id": "aibetas-680",
-   "name": "2026镇江首届AIGC视频创作大赛",
-   "organizer": "镇江高新技术产业开发区管委会、镇江市文化广电和旅游局、镇江市人力资源和社会保障局、镇江市总工会、共青团镇江市委员会、镇江市中国电信股份有限公司镇江分公司",
-   "official_url": "https://www.actiontv.cn/event/26fb4cbacba3495b88b8188f98c26f4f",
+   "id": "aibetas-103",
+   "name": "粤港澳大湾区AIGC短剧制作征集大赛",
+   "organizer": "广州妙笔华章文化传媒有限公司、广州广播电视大学",
+   "official_url": "https://docs.qq.com/form/page/DUktrRENKakxsbHBm",
    "type": "AI创作赛",
    "tags": [
     "AI视频",
     "AIGC"
    ],
    "city": null,
-   "prize": "最高单项15,000元（税前）＋200,000积分，奖项不重复",
+   "prize": null,
    "start": null,
    "deadline": "2026-12-31",
    "end": null,
-   "description": "“创新视界·心宜镇江”2026镇江首届AIGC视频创作大赛面向个人及团队，征集至少1分钟的原创AI视频，内容不少于60%须通过Action平台创作并公开画布。最高单项15,000元税前现金奖励，投稿截至2026年12月31日23:59（北京时间）。",
+   "description": "大赛主题 大赛简介 大赛以国家网络视听领域最新政策为指引，立足AI技术与文艺创作的深度融合，聚焦粤港澳大湾区（ […]",
    "sources": [
     {
      "name": "AIBetas",
-     "url": "https://www.aibetas.com/aigc_events/zhenjiang-aigc-video-competition-2026"
-    }
-   ]
-  },
-  {
-   "id": "aibetas-673",
-   "name": "一等奖10万！微博短剧年度AI创作大赛【微博AI片场】重磅启幕",
-   "organizer": "微博",
-   "official_url": "http://t.cn/AXYaeQSu",
-   "type": "AI创作赛",
-   "tags": [
-    "AI视频",
-    "AIGC"
-   ],
-   "city": null,
-   "prize": "一等奖10万",
-   "start": null,
-   "deadline": "2027-01-10",
-   "end": null,
-   "description": "让每个好故事，都有下一集。11月20日，由微博视频、微博短剧主办的#微博AI片场#AI短剧创作大赛正式启动，面 […]",
-   "sources": [
-    {
-     "name": "AIBetas",
-     "url": "https://www.aibetas.com/aigc_events/weibo-short-drama-ai-creation-competition-2026"
-    }
-   ]
-  },
-  {
-   "id": "aibetas-671",
-   "name": "TRAE AI全国大学生创造力大赛",
-   "organizer": "TRAE",
-   "official_url": "https://bytedance.larkoffice.com/share/base/form/shrcn539jr8IZzvnPwMQbMTXYlb",
-   "type": "创意应用赛",
-   "tags": [
-    "AI应用",
-    "AIGC"
-   ],
-   "city": null,
-   "prize": "近20万元奖池（含现金与京东卡），个人最高3万元税前比赛奖金",
-   "start": null,
-   "deadline": "2026-12-25",
-   "end": null,
-   "description": "TRAE AI全国大学生创造力大赛面向全日制高校在校生，仅限个人参赛，须使用TRAE从零完成作品。设学习科研、校园生活、社会公益、AI硬件四赛道，近20万元奖池（含现金和京东卡），个人最高3万元税前奖金，2026年12月25日截止。",
-   "sources": [
-    {
-     "name": "AIBetas",
-     "url": "https://www.aibetas.com/aigc_events/trae-university-creativity-2026"
-    }
-   ]
-  },
-  {
-   "id": "aibetas-669",
-   "name": "腾讯设计Ardot「救救我的AI味儿」改造大赛",
-   "organizer": "腾讯云计算（北京）有限责任公司",
-   "official_url": "https://activity.ardot.tencent.com/ai-flavor/",
-   "type": "AI创作赛",
-   "tags": [
-    "综合创作",
-    "AIGC"
-   ],
-   "city": null,
-   "prize": "总计42,000元奖金+100,000 AI积分，最高单项奖金10,000元",
-   "start": null,
-   "deadline": "2026-12-20",
-   "end": null,
-   "description": "活动简介与参赛对象 活动围绕“AI×审美×设计”开展创意改造，欢迎设计师、产品经理、开发者、学生、AI和设计爱 […]",
-   "sources": [
-    {
-     "name": "AIBetas",
-     "url": "https://www.aibetas.com/aigc_events/ardot-ai-flavor-redesign-2026"
-    }
-   ]
-  },
-  {
-   "id": "aibetas-666",
-   "name": "SHEIN AI创新挑战赛",
-   "organizer": "SHEIN（广州希音国际进出口有限公司）",
-   "official_url": "https://survey.sheincorp.cn/s/BcbY8vYp00005A?outside-the-enterprise=1",
-   "type": "创意应用赛",
-   "tags": [
-    "AI应用",
-    "AIGC"
-   ],
-   "city": null,
-   "prize": "总奖金10万元（税前），每赛道一等奖1.5万元，单项奖可兼得",
-   "start": null,
-   "deadline": "2026-12-09",
-   "end": null,
-   "description": "SHEIN AI创新挑战赛面向在校大学生，支持1—4人跨校组队，设全球智能运营、全球智能履约两大赛道及8道赛题。总奖金10万元（税前），报名与初赛作品提交截至2026年12月9日23:59（北京时间）。",
-   "sources": [
-    {
-     "name": "AIBetas",
-     "url": "https://www.aibetas.com/aigc_events/shein-ai-innovation-challenge-2026"
-    }
-   ]
-  },
-  {
-   "id": "aibetas-664",
-   "name": "「我要上跨年」2026—2027爱奇艺跨年晚会AI创作者征集",
-   "organizer": "爱奇艺",
-   "official_url": "https://nadoupro.iqiyi.com/hub/work/2313",
-   "type": "AI创作赛",
-   "tags": [
-    "AI视频",
-    "AIGC"
-   ],
-   "city": null,
-   "prize": "TOP1—10名各获人民币1万元（税前），不同作品可累计获奖",
-   "start": null,
-   "deadline": "2026-11-30",
-   "end": null,
-   "description": "爱奇艺跨年晚会通过纳逗Pro招募AI创作者，采用先报名、再创作模式，征集3—5分钟节目。TOP1—10名各获人民币1万元税前奖励；2026年11月30日报名截止，最终作品交付日期尚未公布。",
-   "sources": [
-    {
-     "name": "AIBetas",
-     "url": "https://www.aibetas.com/aigc_events/iqiyi-newyear-ai-creator-2026"
-    }
-   ]
-  },
-  {
-   "id": "aibetas-661",
-   "name": "“用AI讲好潍坊故事”潍坊AIGC创意视频大赛",
-   "organizer": "潍坊市融媒体中心、潍坊银行",
-   "official_url": "https://www.wfcmw.cn/334165/2026/11/45559397.html",
-   "type": "AI创作赛",
-   "tags": [
-    "AI视频",
-    "AIGC"
-   ],
-   "city": null,
-   "prize": "一等奖1名、二等奖3名、三等奖5名，均含奖金；具体金额及税务口径未公布",
-   "start": null,
-   "deadline": "2026-12-31",
-   "end": null,
-   "description": "潍坊AIGC创意视频大赛面向社会征集30—180秒原创AI视频，个人、团队和单位均可参加，设文脉潍坊、活力潍坊、山海潍坊、温暖潍坊四个创作方向。大赛设一、二、三等奖等多个奖项，奖金金额尚未公布，作品征集截至2026年12月底。",
-   "sources": [
-    {
-     "name": "AIBetas",
-     "url": "https://www.aibetas.com/aigc_events/weifang-aigc-video-competition-2026"
-    }
-   ]
-  },
-  {
-   "id": "aibetas-657",
-   "name": "AI+∞开发者创作大赛第三期·AI造游戏",
-   "organizer": "魔搭社区、Qoder、盛趣游戏",
-   "official_url": "https://modelscope.cn/active/AIstudio",
-   "type": "创意应用赛",
-   "tags": [
-    "AI应用",
-    "AIGC"
-   ],
-   "city": null,
-   "prize": "最高现金奖15000元；另设NVIDIA DGX Spark、华硕ROG设备、Qoder Credits及魔粒值等奖励",
-   "start": null,
-   "deadline": "2026-12-01",
-   "end": null,
-   "description": "大赛简介 AI+∞开发者创作大赛每月围绕一个主题，邀请开发者使用AI将创意转化为可体验、可分享的作品。第三期聚 […]",
-   "sources": [
-    {
-     "name": "AIBetas",
-     "url": "https://www.aibetas.com/aigc_events/ai-infinity-game-developer-competition-3"
-    }
-   ]
-  },
-  {
-   "id": "aibetas-655",
-   "name": "“泰州有戏·剧创未来”泰州首届AI漫剧创作大赛",
-   "organizer": "中共泰州市委宣传部、泰州市委网信办、共青团泰州市委员会、泰州市文化广电和旅游局、中国电信股份有限公司泰州分公司、泰州广播电视台、泰州市文学艺术界联合会",
-   "official_url": "https://tobyai.js118114.com/event/taizhou/#/",
-   "type": "AI创作赛",
-   "tags": [
-    "AI视频",
-    "AIGC"
-   ],
-   "city": null,
-   "prize": "最高现金奖金10000元；另有AI创作算力礼包、文旅文创产品、成果转化优先对接资格及证书",
-   "start": null,
-   "deadline": "2026-12-03",
-   "end": null,
-   "description": "大赛简介 大赛以“泰州有戏·剧创未来”为主题，鼓励创作者以AI漫剧讲述泰州历史文化、非遗民俗、城市风貌和市井烟 […]",
-   "sources": [
-    {
-     "name": "AIBetas",
-     "url": "https://www.aibetas.com/aigc_events/taizhou-ai-comic-competition-2026"
-    }
-   ]
-  },
-  {
-   "id": "aibetas-652",
-   "name": "2026“数字武当杯”AI应用创新大赛",
-   "organizer": "湖北省太和武当数字文化有限公司",
-   "official_url": "https://customers.wdszwd.com/",
-   "type": "AI创作赛",
-   "tags": [
-    "综合创作",
-    "AIGC"
-   ],
-   "city": null,
-   "prize": "金奖：1名，奖金30,000元",
-   "start": null,
-   "deadline": "2026-12-10",
-   "end": null,
-   "description": "“数字武当杯”AI应用创新大赛面向全国高校师生、独立AIGC创作者、工作室及企业团队征集武当文化原创衍生IP作品，设置视觉IP、微短剧与数字剧本、氛围音乐和数字文创四大赛道，奖金池12万元，最高奖3万元，2026年12月10日截止。",
-   "sources": [
-    {
-     "name": "AIBetas",
-     "url": "https://www.aibetas.com/aigc_events/digital-wudang-cup-ai-innovation-2026"
-    }
-   ]
-  },
-  {
-   "id": "aibetas-643",
-   "name": "伊春市丰林县首届AI创意视频大赛",
-   "organizer": "中共丰林县委宣传部、丰林县文体广电和旅游局、中国新闻社黑龙江分社、中新社（北京）国际传播集团有限公司黑龙江分公司",
-   "official_url": "https://mp.weixin.qq.com/s/CcAk7DUBFxjGGi-fWD_-0w",
-   "type": "AI创作赛",
-   "tags": [
-    "AI视频",
-    "AIGC"
-   ],
-   "city": null,
-   "prize": "最高30000元（公告未说明税务口径）",
-   "start": null,
-   "deadline": "2026-11-30",
-   "end": null,
-   "description": "面向全国个人及团队征集聚焦丰林冬季旅游资源与文旅活动的AI原创视频，AI生成内容比例须不低于70%。一等奖3万元，2026年11月30日截止。",
-   "sources": [
-    {
-     "name": "AIBetas",
-     "url": "https://www.aibetas.com/aigc_events/fenglin-county-ai-creative-video-competition-2026"
-    }
-   ]
-  },
-  {
-   "id": "aibetas-641",
-   "name": "“阳光下的红十字”河北省首届公益AI创作大赛作品征集启事",
-   "organizer": "河北广播电视台新闻广播、河北省红十字会",
-   "official_url": "https://mp.weixin.qq.com/s/ATRO2zjd-ScZIJ_NrdBXHQ",
-   "type": "AI创作赛",
-   "tags": [
-    "综合创作",
-    "AIGC"
-   ],
-   "city": null,
-   "prize": "大赛设最佳奖项若干名",
-   "start": null,
-   "deadline": "2026-12-31",
-   "end": null,
-   "description": "用AI传递温度，以创意致敬生命。 为弘扬“人道、博爱、奉献”的红十字精神，深入挖掘燕赵大地上的感人故事，河北广 […]",
-   "sources": [
-    {
-     "name": "AIBetas",
-     "url": "https://www.aibetas.com/aigc_events/641"
-    }
-   ]
-  },
-  {
-   "id": "aibetas-639",
-   "name": "湖南青年AI短视频创作大赛",
-   "organizer": "中国移动通信集团湖南有限公司、芒果TV、咪咕数字传媒有限公司、湖南马栏山集团有限公司",
-   "official_url": "https://lego.mgtv.com/act/3_9_9/20261029hunanAInone.html?act_name=20261029hunanAInone&source=share_20261029hunanAInone",
-   "type": "AI创作赛",
-   "tags": [
-    "AI视频",
-    "AIGC"
-   ],
-   "city": null,
-   "prize": "最高30000元（税前）",
-   "start": null,
-   "deadline": "2026-11-30",
-   "end": null,
-   "description": "面向湖南省内AI创作者和AI内容制作企业征集1分钟以上AI短视频，设个人、企业两大赛道及四个创作方向。最高现金奖励3万元，2026年11月30日截止。",
-   "sources": [
-    {
-     "name": "AIBetas",
-     "url": "https://www.aibetas.com/aigc_events/hunan-youth-ai-short-video-competition-2026"
-    }
-   ]
-  },
-  {
-   "id": "aibetas-631",
-   "name": "B站AI创造公开赛S2",
-   "organizer": "哔哩哔哩",
-   "official_url": "https://www.bilibili.com/blackboard/era/StMnSSLw06phBtHM.html",
-   "type": "创意应用赛",
-   "tags": [
-    "AI应用",
-    "AIGC"
-   ],
-   "city": null,
-   "prize": "按公布名额合计220万元税前奖金；一等奖100万元",
-   "start": null,
-   "deadline": "2026-12-31",
-   "end": null,
-   "description": "B站AI创造公开赛S2面向哔哩哔哩全体用户，征集以AI工具为核心创造的可运行、可交互产品及原创展示视频。一等奖税前奖金100万元，活动自2026年10月24日开始持续进行，截止时间将由官方至少提前30个自然日另行公告。",
-   "sources": [
-    {
-     "name": "AIBetas",
-     "url": "https://www.aibetas.com/aigc_events/bilibili-ai-creation-open-competition-s2-2026"
-    }
-   ]
-  },
-  {
-   "id": "aibetas-622",
-   "name": "“AI视界·海丝新程”2026年泉州市短视频比赛",
-   "organizer": "泉州市文学艺术界联合会、泉州市电视艺术家协会",
-   "official_url": "https://mp.weixin.qq.com/s/74-J9TYidCl47FV9Vj_RhQ",
-   "type": "AI创作赛",
-   "tags": [
-    "AI视频",
-    "AIGC"
-   ],
-   "city": null,
-   "prize": "一等奖3个、奖金各2000元；二等奖6个、奖金各1000元；三等奖10个、奖金各800元；优秀奖10个、奖金各500元；各奖项均颁发证书",
-   "start": null,
-   "deadline": "2026-12-03",
-   "end": null,
-   "description": "“AI视界·海丝新程”——“中国人寿杯”2026年泉州市短视频比赛暨AIGC创作活动面向社会公开征集5分钟以内短视频，设四大主题，一等奖奖金2000元，2026年12月3日截止投稿。",
-   "sources": [
-    {
-     "name": "AIBetas",
-     "url": "https://www.aibetas.com/aigc_events/quanzhou-ai-maritime-silk-road-short-video-competition-2026"
+     "url": "https://www.aibetas.com/aigc_events/103"
     }
    ]
   },
@@ -370,25 +48,347 @@
    ]
   },
   {
-   "id": "aibetas-103",
-   "name": "粤港澳大湾区AIGC短剧制作征集大赛",
-   "organizer": "广州妙笔华章文化传媒有限公司、广州广播电视大学",
-   "official_url": "https://docs.qq.com/form/page/DUktrRENKakxsbHBm",
+   "id": "aibetas-622",
+   "name": "“AI视界·海丝新程”2026年泉州市短视频比赛",
+   "organizer": "泉州市文学艺术界联合会、泉州市电视艺术家协会",
+   "official_url": "https://mp.weixin.qq.com/s/74-J9TYidCl47FV9Vj_RhQ",
    "type": "AI创作赛",
    "tags": [
     "AI视频",
     "AIGC"
    ],
    "city": null,
-   "prize": null,
+   "prize": "一等奖3个、奖金各2000元；二等奖6个、奖金各1000元；三等奖10个、奖金各800元；优秀奖10个、奖金各500元；各奖项均颁发证书",
    "start": null,
-   "deadline": "2026-12-31",
+   "deadline": "2026-12-03",
    "end": null,
-   "description": "大赛主题 大赛简介 大赛以国家网络视听领域最新政策为指引，立足AI技术与文艺创作的深度融合，聚焦粤港澳大湾区（ […]",
+   "description": "“AI视界·海丝新程”——“中国人寿杯”2026年泉州市短视频比赛暨AIGC创作活动面向社会公开征集5分钟以内短视频，设四大主题，一等奖奖金2000元，2026年12月3日截止投稿。",
    "sources": [
     {
      "name": "AIBetas",
-     "url": "https://www.aibetas.com/aigc_events/103"
+     "url": "https://www.aibetas.com/aigc_events/quanzhou-ai-maritime-silk-road-short-video-competition-2026"
+    }
+   ]
+  },
+  {
+   "id": "aibetas-631",
+   "name": "B站AI创造公开赛S2",
+   "organizer": "哔哩哔哩",
+   "official_url": "https://www.bilibili.com/blackboard/era/StMnSSLw06phBtHM.html",
+   "type": "创意应用赛",
+   "tags": [
+    "AI应用",
+    "AIGC"
+   ],
+   "city": null,
+   "prize": "按公布名额合计220万元税前奖金；一等奖100万元",
+   "start": null,
+   "deadline": "2026-12-31",
+   "end": null,
+   "description": "B站AI创造公开赛S2面向哔哩哔哩全体用户，征集以AI工具为核心创造的可运行、可交互产品及原创展示视频。一等奖税前奖金100万元，活动自2026年10月24日开始持续进行，截止时间将由官方至少提前30个自然日另行公告。",
+   "sources": [
+    {
+     "name": "AIBetas",
+     "url": "https://www.aibetas.com/aigc_events/bilibili-ai-creation-open-competition-s2-2026"
+    }
+   ]
+  },
+  {
+   "id": "aibetas-639",
+   "name": "湖南青年AI短视频创作大赛",
+   "organizer": "中国移动通信集团湖南有限公司、芒果TV、咪咕数字传媒有限公司、湖南马栏山集团有限公司",
+   "official_url": "https://lego.mgtv.com/act/3_9_9/20261029hunanAInone.html?act_name=20261029hunanAInone&source=share_20261029hunanAInone",
+   "type": "AI创作赛",
+   "tags": [
+    "AI视频",
+    "AIGC"
+   ],
+   "city": null,
+   "prize": "最高30000元（税前）",
+   "start": null,
+   "deadline": "2026-11-30",
+   "end": null,
+   "description": "面向湖南省内AI创作者和AI内容制作企业征集1分钟以上AI短视频，设个人、企业两大赛道及四个创作方向。最高现金奖励3万元，2026年11月30日截止。",
+   "sources": [
+    {
+     "name": "AIBetas",
+     "url": "https://www.aibetas.com/aigc_events/hunan-youth-ai-short-video-competition-2026"
+    }
+   ]
+  },
+  {
+   "id": "aibetas-641",
+   "name": "“阳光下的红十字”河北省首届公益AI创作大赛作品征集启事",
+   "organizer": "河北广播电视台新闻广播、河北省红十字会",
+   "official_url": "https://mp.weixin.qq.com/s/ATRO2zjd-ScZIJ_NrdBXHQ",
+   "type": "AI创作赛",
+   "tags": [
+    "综合创作",
+    "AIGC"
+   ],
+   "city": null,
+   "prize": "大赛设最佳奖项若干名",
+   "start": null,
+   "deadline": "2026-12-31",
+   "end": null,
+   "description": "用AI传递温度，以创意致敬生命。 为弘扬“人道、博爱、奉献”的红十字精神，深入挖掘燕赵大地上的感人故事，河北广 […]",
+   "sources": [
+    {
+     "name": "AIBetas",
+     "url": "https://www.aibetas.com/aigc_events/641"
+    }
+   ]
+  },
+  {
+   "id": "aibetas-643",
+   "name": "伊春市丰林县首届AI创意视频大赛",
+   "organizer": "中共丰林县委宣传部、丰林县文体广电和旅游局、中国新闻社黑龙江分社、中新社（北京）国际传播集团有限公司黑龙江分公司",
+   "official_url": "https://mp.weixin.qq.com/s/CcAk7DUBFxjGGi-fWD_-0w",
+   "type": "AI创作赛",
+   "tags": [
+    "AI视频",
+    "AIGC"
+   ],
+   "city": null,
+   "prize": "最高30000元（公告未说明税务口径）",
+   "start": null,
+   "deadline": "2026-11-30",
+   "end": null,
+   "description": "面向全国个人及团队征集聚焦丰林冬季旅游资源与文旅活动的AI原创视频，AI生成内容比例须不低于70%。一等奖3万元，2026年11月30日截止。",
+   "sources": [
+    {
+     "name": "AIBetas",
+     "url": "https://www.aibetas.com/aigc_events/fenglin-county-ai-creative-video-competition-2026"
+    }
+   ]
+  },
+  {
+   "id": "aibetas-652",
+   "name": "2026“数字武当杯”AI应用创新大赛",
+   "organizer": "湖北省太和武当数字文化有限公司",
+   "official_url": "https://customers.wdszwd.com/",
+   "type": "AI创作赛",
+   "tags": [
+    "综合创作",
+    "AIGC"
+   ],
+   "city": null,
+   "prize": "金奖：1名，奖金30,000元",
+   "start": null,
+   "deadline": "2026-12-10",
+   "end": null,
+   "description": "“数字武当杯”AI应用创新大赛面向全国高校师生、独立AIGC创作者、工作室及企业团队征集武当文化原创衍生IP作品，设置视觉IP、微短剧与数字剧本、氛围音乐和数字文创四大赛道，奖金池12万元，最高奖3万元，2026年12月10日截止。",
+   "sources": [
+    {
+     "name": "AIBetas",
+     "url": "https://www.aibetas.com/aigc_events/digital-wudang-cup-ai-innovation-2026"
+    }
+   ]
+  },
+  {
+   "id": "aibetas-655",
+   "name": "“泰州有戏·剧创未来”泰州首届AI漫剧创作大赛",
+   "organizer": "中共泰州市委宣传部、泰州市委网信办、共青团泰州市委员会、泰州市文化广电和旅游局、中国电信股份有限公司泰州分公司、泰州广播电视台、泰州市文学艺术界联合会",
+   "official_url": "https://tobyai.js118114.com/event/taizhou/#/",
+   "type": "AI创作赛",
+   "tags": [
+    "AI视频",
+    "AIGC"
+   ],
+   "city": null,
+   "prize": "最高现金奖金10000元；另有AI创作算力礼包、文旅文创产品、成果转化优先对接资格及证书",
+   "start": null,
+   "deadline": "2026-12-03",
+   "end": null,
+   "description": "大赛简介 大赛以“泰州有戏·剧创未来”为主题，鼓励创作者以AI漫剧讲述泰州历史文化、非遗民俗、城市风貌和市井烟 […]",
+   "sources": [
+    {
+     "name": "AIBetas",
+     "url": "https://www.aibetas.com/aigc_events/taizhou-ai-comic-competition-2026"
+    }
+   ]
+  },
+  {
+   "id": "aibetas-657",
+   "name": "AI+∞开发者创作大赛第三期·AI造游戏",
+   "organizer": "魔搭社区、Qoder、盛趣游戏",
+   "official_url": "https://modelscope.cn/active/AIstudio",
+   "type": "创意应用赛",
+   "tags": [
+    "AI应用",
+    "AIGC"
+   ],
+   "city": null,
+   "prize": "最高现金奖15000元；另设NVIDIA DGX Spark、华硕ROG设备、Qoder Credits及魔粒值等奖励",
+   "start": null,
+   "deadline": "2026-12-01",
+   "end": null,
+   "description": "大赛简介 AI+∞开发者创作大赛每月围绕一个主题，邀请开发者使用AI将创意转化为可体验、可分享的作品。第三期聚 […]",
+   "sources": [
+    {
+     "name": "AIBetas",
+     "url": "https://www.aibetas.com/aigc_events/ai-infinity-game-developer-competition-3"
+    }
+   ]
+  },
+  {
+   "id": "aibetas-661",
+   "name": "“用AI讲好潍坊故事”潍坊AIGC创意视频大赛",
+   "organizer": "潍坊市融媒体中心、潍坊银行",
+   "official_url": "https://www.wfcmw.cn/334165/2026/11/45559397.html",
+   "type": "AI创作赛",
+   "tags": [
+    "AI视频",
+    "AIGC"
+   ],
+   "city": null,
+   "prize": "一等奖1名、二等奖3名、三等奖5名，均含奖金；具体金额及税务口径未公布",
+   "start": null,
+   "deadline": "2026-12-31",
+   "end": null,
+   "description": "潍坊AIGC创意视频大赛面向社会征集30—180秒原创AI视频，个人、团队和单位均可参加，设文脉潍坊、活力潍坊、山海潍坊、温暖潍坊四个创作方向。大赛设一、二、三等奖等多个奖项，奖金金额尚未公布，作品征集截至2026年12月底。",
+   "sources": [
+    {
+     "name": "AIBetas",
+     "url": "https://www.aibetas.com/aigc_events/weifang-aigc-video-competition-2026"
+    }
+   ]
+  },
+  {
+   "id": "aibetas-664",
+   "name": "「我要上跨年」2026—2027爱奇艺跨年晚会AI创作者征集",
+   "organizer": "爱奇艺",
+   "official_url": "https://nadoupro.iqiyi.com/hub/work/2313",
+   "type": "AI创作赛",
+   "tags": [
+    "AI视频",
+    "AIGC"
+   ],
+   "city": null,
+   "prize": "TOP1—10名各获人民币1万元（税前），不同作品可累计获奖",
+   "start": null,
+   "deadline": "2026-11-30",
+   "end": null,
+   "description": "爱奇艺跨年晚会通过纳逗Pro招募AI创作者，采用先报名、再创作模式，征集3—5分钟节目。TOP1—10名各获人民币1万元税前奖励；2026年11月30日报名截止，最终作品交付日期尚未公布。",
+   "sources": [
+    {
+     "name": "AIBetas",
+     "url": "https://www.aibetas.com/aigc_events/iqiyi-newyear-ai-creator-2026"
+    }
+   ]
+  },
+  {
+   "id": "aibetas-666",
+   "name": "SHEIN AI创新挑战赛",
+   "organizer": "SHEIN（广州希音国际进出口有限公司）",
+   "official_url": "https://survey.sheincorp.cn/s/BcbY8vYp00005A?outside-the-enterprise=1",
+   "type": "创意应用赛",
+   "tags": [
+    "AI应用",
+    "AIGC"
+   ],
+   "city": null,
+   "prize": "总奖金10万元（税前），每赛道一等奖1.5万元，单项奖可兼得",
+   "start": null,
+   "deadline": "2026-12-09",
+   "end": null,
+   "description": "SHEIN AI创新挑战赛面向在校大学生，支持1—4人跨校组队，设全球智能运营、全球智能履约两大赛道及8道赛题。总奖金10万元（税前），报名与初赛作品提交截至2026年12月9日23:59（北京时间）。",
+   "sources": [
+    {
+     "name": "AIBetas",
+     "url": "https://www.aibetas.com/aigc_events/shein-ai-innovation-challenge-2026"
+    }
+   ]
+  },
+  {
+   "id": "aibetas-669",
+   "name": "腾讯设计Ardot「救救我的AI味儿」改造大赛",
+   "organizer": "腾讯云计算（北京）有限责任公司",
+   "official_url": "https://activity.ardot.tencent.com/ai-flavor/",
+   "type": "AI创作赛",
+   "tags": [
+    "综合创作",
+    "AIGC"
+   ],
+   "city": null,
+   "prize": "总计42,000元奖金+100,000 AI积分，最高单项奖金10,000元",
+   "start": null,
+   "deadline": "2026-12-20",
+   "end": null,
+   "description": "活动简介与参赛对象 活动围绕“AI×审美×设计”开展创意改造，欢迎设计师、产品经理、开发者、学生、AI和设计爱 […]",
+   "sources": [
+    {
+     "name": "AIBetas",
+     "url": "https://www.aibetas.com/aigc_events/ardot-ai-flavor-redesign-2026"
+    }
+   ]
+  },
+  {
+   "id": "aibetas-671",
+   "name": "TRAE AI全国大学生创造力大赛",
+   "organizer": "TRAE",
+   "official_url": "https://bytedance.larkoffice.com/share/base/form/shrcn539jr8IZzvnPwMQbMTXYlb",
+   "type": "创意应用赛",
+   "tags": [
+    "AI应用",
+    "AIGC"
+   ],
+   "city": null,
+   "prize": "近20万元奖池（含现金与京东卡），个人最高3万元税前比赛奖金",
+   "start": null,
+   "deadline": "2026-12-25",
+   "end": null,
+   "description": "TRAE AI全国大学生创造力大赛面向全日制高校在校生，仅限个人参赛，须使用TRAE从零完成作品。设学习科研、校园生活、社会公益、AI硬件四赛道，近20万元奖池（含现金和京东卡），个人最高3万元税前奖金，2026年12月25日截止。",
+   "sources": [
+    {
+     "name": "AIBetas",
+     "url": "https://www.aibetas.com/aigc_events/trae-university-creativity-2026"
+    }
+   ]
+  },
+  {
+   "id": "aibetas-673",
+   "name": "一等奖10万！微博短剧年度AI创作大赛【微博AI片场】重磅启幕",
+   "organizer": "微博",
+   "official_url": "http://t.cn/AXYaeQSu",
+   "type": "AI创作赛",
+   "tags": [
+    "AI视频",
+    "AIGC"
+   ],
+   "city": null,
+   "prize": "一等奖10万",
+   "start": null,
+   "deadline": "2027-01-10",
+   "end": null,
+   "description": "让每个好故事，都有下一集。11月20日，由微博视频、微博短剧主办的#微博AI片场#AI短剧创作大赛正式启动，面 […]",
+   "sources": [
+    {
+     "name": "AIBetas",
+     "url": "https://www.aibetas.com/aigc_events/weibo-short-drama-ai-creation-competition-2026"
+    }
+   ]
+  },
+  {
+   "id": "aibetas-680",
+   "name": "2026镇江首届AIGC视频创作大赛",
+   "organizer": "镇江高新技术产业开发区管委会、镇江市文化广电和旅游局、镇江市人力资源和社会保障局、镇江市总工会、共青团镇江市委员会、镇江市中国电信股份有限公司镇江分公司",
+   "official_url": "https://www.actiontv.cn/event/26fb4cbacba3495b88b8188f98c26f4f",
+   "type": "AI创作赛",
+   "tags": [
+    "AI视频",
+    "AIGC"
+   ],
+   "city": null,
+   "prize": "最高单项15,000元（税前）＋200,000积分，奖项不重复",
+   "start": null,
+   "deadline": "2026-12-31",
+   "end": null,
+   "description": "“创新视界·心宜镇江”2026镇江首届AIGC视频创作大赛面向个人及团队，征集至少1分钟的原创AI视频，内容不少于60%须通过Action平台创作并公开画布。最高单项15,000元税前现金奖励，投稿截至2026年12月31日23:59（北京时间）。",
+   "sources": [
+    {
+     "name": "AIBetas",
+     "url": "https://www.aibetas.com/aigc_events/zhenjiang-aigc-video-competition-2026"
     }
    ]
   }

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26",
+ "updated": "2026-11-27",
  "competitions": [
   {
    "id": "mlc-hub-crunchdao-com-competitions-datacrunch-2",
@@ -25,21 +25,93 @@
    ]
   },
   {
-   "id": "mlc-zindi-africa-competitions-caribbean-voices-hackathon",
-   "name": "Build Speech Recognition Systems for Caribbean Voices",
-   "organizer": "UWI AI Innovation Centre, CIBC, Infolytics, Data Axis, CTU",
-   "official_url": "https://zindi.africa/competitions/caribbean-voices-hackathon",
+   "id": "mlc-www-codabench-org-competitions-17954",
+   "name": "Domain-Specific Question Answering with LLMs",
+   "organizer": "IEEE CIS",
+   "official_url": "https://www.codabench.org/competitions/17954/",
    "type": "数据算法赛",
    "tags": [
-    "Zindi",
+    "Codabench",
     "国际"
    ],
    "city": "线上",
-   "prize": "$7,500",
-   "start": "2025-11-17",
-   "deadline": "2026-12-07",
-   "end": "2026-12-07",
-   "description": "Zindi 平台赛事",
+   "prize": "$20,000",
+   "start": "2026-09-28",
+   "deadline": "2026-11-15",
+   "end": "2026-12-05",
+   "description": "Codabench 平台赛事",
+   "sources": [
+    {
+     "name": "ML Contests",
+     "url": "https://mlcontests.com/"
+    }
+   ]
+  },
+  {
+   "id": "mlc-www-codabench-org-competitions-18135",
+   "name": "Human-Aware Vision-and-Language Navigation",
+   "organizer": "Codabench",
+   "official_url": "https://www.codabench.org/competitions/18135/",
+   "type": "数据算法赛",
+   "tags": [
+    "Codabench",
+    "NeurIPS RoboPAD Workshop",
+    "国际"
+   ],
+   "city": "线上",
+   "prize": null,
+   "start": "2026-10-15",
+   "deadline": "2026-11-30",
+   "end": "2026-11-30",
+   "description": "Codabench 平台赛事 （NeurIPS RoboPAD Workshop 竞赛赛道）",
+   "sources": [
+    {
+     "name": "ML Contests",
+     "url": "https://mlcontests.com/"
+    }
+   ]
+  },
+  {
+   "id": "mlc-www-codabench-org-competitions-18333",
+   "name": "SafeDrive-VLA: Towards Safety in Autonomous Driving",
+   "organizer": "Codabench",
+   "official_url": "https://www.codabench.org/competitions/18333/",
+   "type": "数据算法赛",
+   "tags": [
+    "Codabench",
+    "NeurIPS RoboPAD Workshop",
+    "国际"
+   ],
+   "city": "线上",
+   "prize": null,
+   "start": "2026-10-15",
+   "deadline": "2026-11-30",
+   "end": "2026-11-30",
+   "description": "Codabench 平台赛事 （NeurIPS RoboPAD Workshop 竞赛赛道）",
+   "sources": [
+    {
+     "name": "ML Contests",
+     "url": "https://mlcontests.com/"
+    }
+   ]
+  },
+  {
+   "id": "mlc-www-codabench-org-competitions-18366",
+   "name": "PhyRC 2027: Robot-Assisted Dressing in Simulation",
+   "organizer": "Hello Robot",
+   "official_url": "https://www.codabench.org/competitions/18366/",
+   "type": "数据算法赛",
+   "tags": [
+    "Codabench",
+    "ICRA",
+    "国际"
+   ],
+   "city": "线上",
+   "prize": null,
+   "start": "2026-10-15",
+   "deadline": "2026-10-15",
+   "end": "2026-12-15",
+   "description": "Codabench 平台赛事 （ICRA 竞赛赛道）",
    "sources": [
     {
      "name": "ML Contests",
@@ -94,6 +166,75 @@
    ]
   },
   {
+   "id": "mlc-www-kaggle-com-competitions-google-verifiable-quantum-circuit-compilation",
+   "name": "Optimise Quantum Circuits",
+   "organizer": "Google Quantum AI",
+   "official_url": "https://www.kaggle.com/competitions/google-verifiable-quantum-circuit-compilation",
+   "type": "数据算法赛",
+   "tags": [
+    "Kaggle",
+    "国际"
+   ],
+   "city": "线上",
+   "prize": "$150,000",
+   "start": "2026-10-22",
+   "deadline": "2027-01-13",
+   "end": "2027-01-20",
+   "description": "Kaggle 平台赛事",
+   "sources": [
+    {
+     "name": "ML Contests",
+     "url": "https://mlcontests.com/"
+    }
+   ]
+  },
+  {
+   "id": "mlc-www-kaggle-com-competitions-memecoins-pump-or-dump",
+   "name": "Predict Memecoin Pumps from On-Chain Launch Data",
+   "organizer": "Dmitry Dryomov",
+   "official_url": "https://www.kaggle.com/competitions/memecoins-pump-or-dump",
+   "type": "数据算法赛",
+   "tags": [
+    "Kaggle",
+    "国际"
+   ],
+   "city": "线上",
+   "prize": "$5,000",
+   "start": "2026-09-27",
+   "deadline": "2026-11-30",
+   "end": "2026-11-30",
+   "description": "Kaggle 平台赛事 Solana pump.fun launches: decide 60 seconds after a token migrates whether to buy and at what take-profit level, using the full on-chain trade tape. Metric is simulated PnL. Solutions are frozen on 1 Dec 2026; the final ranking is the sum of PnL over 14 unseen days (1-14 Dec 2026), with ",
+   "sources": [
+    {
+     "name": "ML Contests",
+     "url": "https://mlcontests.com/"
+    }
+   ]
+  },
+  {
+   "id": "mlc-www-kaggle-com-competitions-name-that-llm",
+   "name": "Identify Which LLM Generated Text Samples",
+   "organizer": "Kaggle",
+   "official_url": "https://www.kaggle.com/competitions/name-that-llm",
+   "type": "数据算法赛",
+   "tags": [
+    "Kaggle",
+    "国际"
+   ],
+   "city": "线上",
+   "prize": "$50,000",
+   "start": "2026-10-14",
+   "deadline": "2027-01-07",
+   "end": "2027-01-13",
+   "description": "Kaggle 平台赛事",
+   "sources": [
+    {
+     "name": "ML Contests",
+     "url": "https://mlcontests.com/"
+    }
+   ]
+  },
+  {
    "id": "mlc-www-kaggle-com-competitions-nfl-big-data-bowl-2027",
    "name": "NFL Big Data Bowl 2027",
    "organizer": "The National Football League",
@@ -117,20 +258,20 @@
    ]
   },
   {
-   "id": "mlc-www-kaggle-com-competitions-name-that-llm",
-   "name": "Identify Which LLM Generated Text Samples",
-   "organizer": "Kaggle",
-   "official_url": "https://www.kaggle.com/competitions/name-that-llm",
+   "id": "mlc-www-kaggle-com-competitions-physical-engineerings-last-exam",
+   "name": "Build Autonomous Agent Harnesses for Physical Engineering",
+   "organizer": "Google",
+   "official_url": "https://www.kaggle.com/competitions/physical-engineerings-last-exam",
    "type": "数据算法赛",
    "tags": [
     "Kaggle",
     "国际"
    ],
    "city": "线上",
-   "prize": "$50,000",
-   "start": "2026-10-14",
-   "deadline": "2027-01-07",
-   "end": "2027-01-13",
+   "prize": "$400,000",
+   "start": "2026-11-09",
+   "deadline": null,
+   "end": "2027-01-05",
    "description": "Kaggle 平台赛事",
    "sources": [
     {
@@ -163,124 +304,6 @@
    ]
   },
   {
-   "id": "mlc-www-kaggle-com-competitions-google-verifiable-quantum-circuit-compilation",
-   "name": "Optimise Quantum Circuits",
-   "organizer": "Google Quantum AI",
-   "official_url": "https://www.kaggle.com/competitions/google-verifiable-quantum-circuit-compilation",
-   "type": "数据算法赛",
-   "tags": [
-    "Kaggle",
-    "国际"
-   ],
-   "city": "线上",
-   "prize": "$150,000",
-   "start": "2026-10-22",
-   "deadline": "2027-01-13",
-   "end": "2027-01-20",
-   "description": "Kaggle 平台赛事",
-   "sources": [
-    {
-     "name": "ML Contests",
-     "url": "https://mlcontests.com/"
-    }
-   ]
-  },
-  {
-   "id": "mlc-www-codabench-org-competitions-18333",
-   "name": "SafeDrive-VLA: Towards Safety in Autonomous Driving",
-   "organizer": "Codabench",
-   "official_url": "https://www.codabench.org/competitions/18333/",
-   "type": "数据算法赛",
-   "tags": [
-    "Codabench",
-    "NeurIPS RoboPAD Workshop",
-    "国际"
-   ],
-   "city": "线上",
-   "prize": null,
-   "start": "2026-10-15",
-   "deadline": "2026-11-30",
-   "end": "2026-11-30",
-   "description": "Codabench 平台赛事 （NeurIPS RoboPAD Workshop 竞赛赛道）",
-   "sources": [
-    {
-     "name": "ML Contests",
-     "url": "https://mlcontests.com/"
-    }
-   ]
-  },
-  {
-   "id": "mlc-www-codabench-org-competitions-18135",
-   "name": "Human-Aware Vision-and-Language Navigation",
-   "organizer": "Codabench",
-   "official_url": "https://www.codabench.org/competitions/18135/",
-   "type": "数据算法赛",
-   "tags": [
-    "Codabench",
-    "NeurIPS RoboPAD Workshop",
-    "国际"
-   ],
-   "city": "线上",
-   "prize": null,
-   "start": "2026-10-15",
-   "deadline": "2026-11-30",
-   "end": "2026-11-30",
-   "description": "Codabench 平台赛事 （NeurIPS RoboPAD Workshop 竞赛赛道）",
-   "sources": [
-    {
-     "name": "ML Contests",
-     "url": "https://mlcontests.com/"
-    }
-   ]
-  },
-  {
-   "id": "mlc-www-codabench-org-competitions-17954",
-   "name": "Domain-Specific Question Answering with LLMs",
-   "organizer": "IEEE CIS",
-   "official_url": "https://www.codabench.org/competitions/17954/",
-   "type": "数据算法赛",
-   "tags": [
-    "Codabench",
-    "国际"
-   ],
-   "city": "线上",
-   "prize": "$20,000",
-   "start": "2026-09-28",
-   "deadline": "2026-11-15",
-   "end": "2026-12-05",
-   "description": "Codabench 平台赛事",
-   "sources": [
-    {
-     "name": "ML Contests",
-     "url": "https://mlcontests.com/"
-    }
-   ]
-  },
-  {
-   "id": "mlc-www-codabench-org-competitions-18366",
-   "name": "PhyRC 2027: Robot-Assisted Dressing in Simulation",
-   "organizer": "Hello Robot",
-   "official_url": "https://www.codabench.org/competitions/18366/",
-   "type": "数据算法赛",
-   "tags": [
-    "Codabench",
-    "ICRA",
-    "国际"
-   ],
-   "city": "线上",
-   "prize": null,
-   "start": "2026-10-15",
-   "deadline": "2026-10-15",
-   "end": "2026-12-15",
-   "description": "Codabench 平台赛事 （ICRA 竞赛赛道）",
-   "sources": [
-    {
-     "name": "ML Contests",
-     "url": "https://mlcontests.com/"
-    }
-   ]
-  },
-  {
    "id": "mlc-www-synapse-org-Synapse-syn68634259-wiki-633407",
    "name": "Predict Cognitive Outcomes from Digital Clock Drawings",
    "organizer": "Sage Bionetworks",
@@ -305,44 +328,21 @@
    ]
   },
   {
-   "id": "mlc-www-kaggle-com-competitions-physical-engineerings-last-exam",
-   "name": "Build Autonomous Agent Harnesses for Physical Engineering",
-   "organizer": "Google",
-   "official_url": "https://www.kaggle.com/competitions/physical-engineerings-last-exam",
+   "id": "mlc-zindi-africa-competitions-caribbean-voices-hackathon",
+   "name": "Build Speech Recognition Systems for Caribbean Voices",
+   "organizer": "UWI AI Innovation Centre, CIBC, Infolytics, Data Axis, CTU",
+   "official_url": "https://zindi.africa/competitions/caribbean-voices-hackathon",
    "type": "数据算法赛",
    "tags": [
-    "Kaggle",
+    "Zindi",
     "国际"
    ],
    "city": "线上",
-   "prize": "$400,000",
-   "start": "2026-11-09",
-   "deadline": null,
-   "end": "2027-01-05",
-   "description": "Kaggle 平台赛事",
-   "sources": [
-    {
-     "name": "ML Contests",
-     "url": "https://mlcontests.com/"
-    }
-   ]
-  },
-  {
-   "id": "mlc-www-kaggle-com-competitions-memecoins-pump-or-dump",
-   "name": "Predict Memecoin Pumps from On-Chain Launch Data",
-   "organizer": "Dmitry Dryomov",
-   "official_url": "https://www.kaggle.com/competitions/memecoins-pump-or-dump",
-   "type": "数据算法赛",
-   "tags": [
-    "Kaggle",
-    "国际"
-   ],
-   "city": "线上",
-   "prize": "$5,000",
-   "start": "2026-09-27",
-   "deadline": "2026-11-30",
-   "end": "2026-11-30",
-   "description": "Kaggle 平台赛事 Solana pump.fun launches: decide 60 seconds after a token migrates whether to buy and at what take-profit level, using the full on-chain trade tape. Metric is simulated PnL. Solutions are frozen on 1 Dec 2026; the final ranking is the sum of PnL over 14 unseen days (1-14 Dec 2026), with ",
+   "prize": "$7,500",
+   "start": "2025-11-17",
+   "deadline": "2026-12-07",
+   "end": "2026-12-07",
+   "description": "Zindi 平台赛事",
    "sources": [
     {
      "name": "ML Contests",

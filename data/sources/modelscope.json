@@ -1,87 +1,21 @@
 {
- "updated": "2026-11-26",
+ "updated": "2026-11-27",
  "competitions": [
   {
-   "id": "modelscope-439",
-   "name": "2026 SPARK S全球AI硬件创新大赛正式启动",
-   "organizer": "涂鸦、杭创（人工智能）营、火花创研社",
-   "official_url": "https://modelscope.cn/events/439",
-   "type": "创意应用赛",
+   "id": "modelscope-342",
+   "name": "FlagOS开放计算全球挑战赛S2",
+   "organizer": "众智FlagOS社区",
+   "official_url": "https://modelscope.cn/events/342",
+   "type": "AI大模型赛",
    "tags": [
     "魔搭"
    ],
    "city": null,
-   "prize": null,
-   "start": "2026-11-22",
-   "deadline": "2026-12-10",
+   "prize": "200w",
+   "start": "2026-07-19",
+   "deadline": "2026-12-31",
    "end": null,
-   "description": "大赛旨在面向全球招募具有技术创新能力、产品基础和成长潜力的AI硬件项目，助力硬科技从概念走向落地。",
-   "sources": [
-    {
-     "name": "魔搭社区",
-     "url": "https://modelscope.cn/active"
-    }
-   ]
-  },
-  {
-   "id": "modelscope-394",
-   "name": "AI造游戏，人人都是游戏制作人｜AI+∞开发者创作大赛第三期",
-   "organizer": "魔搭社区、Qoder、盛趣游戏",
-   "official_url": "https://modelscope.cn/events/394",
-   "type": "创意应用赛",
-   "tags": [
-    "魔搭"
-   ],
-   "city": null,
-   "prize": "万元奖金+硬件大奖",
-   "start": "2026-11-02",
-   "deadline": "2026-12-01",
-   "end": null,
-   "description": "本期以「AI 造游戏」为主题，邀请你用 AI 创作一款原创游戏，发布到魔搭创空间，让大家点开就能玩。",
-   "sources": [
-    {
-     "name": "魔搭社区",
-     "url": "https://modelscope.cn/active"
-    }
-   ]
-  },
-  {
-   "id": "modelscope-421",
-   "name": "知乎黑客松S3 |湾区共创季",
-   "organizer": "知乎",
-   "official_url": "https://modelscope.cn/events/421",
-   "type": "黑客松",
-   "tags": [
-    "魔搭"
-   ],
-   "city": null,
-   "prize": "120,000 元总奖金池",
-   "start": "2026-11-05",
-   "deadline": "2026-12-04",
-   "end": null,
-   "description": "次赛事线下宣讲落地大湾区，面向全球开放线上报名、全程支持云参赛",
-   "sources": [
-    {
-     "name": "魔搭社区",
-     "url": "https://modelscope.cn/active"
-    }
-   ]
-  },
-  {
-   "id": "modelscope-416",
-   "name": "48H和真实世界碰一碰｜首届地瓜机器人黑客松",
-   "organizer": "地瓜机器人",
-   "official_url": "https://modelscope.cn/events/416",
-   "type": "黑客松",
-   "tags": [
-    "魔搭"
-   ],
-   "city": null,
-   "prize": "30W现金奖池",
-   "start": "2026-11-02",
-   "deadline": "2026-11-30",
-   "end": null,
-   "description": "欢迎来到2026地瓜机器人黑客松，和真实世界碰一碰！",
+   "description": "由众智FlagOS社区主办的一项多赛季、综合性赛事。大赛鼓励开发者基于统一AI系统软件栈FlagOS的能力进行创作实战和创新探索，促进AI开发者能力提升，推动开放计算生态的蓬勃发展。",
    "sources": [
     {
      "name": "魔搭社区",
@@ -112,20 +46,42 @@
    ]
   },
   {
-   "id": "modelscope-342",
-   "name": "FlagOS开放计算全球挑战赛S2",
-   "organizer": "众智FlagOS社区",
-   "official_url": "https://modelscope.cn/events/342",
-   "type": "AI大模型赛",
+   "id": "modelscope-394",
+   "name": "AI造游戏，人人都是游戏制作人｜AI+∞开发者创作大赛第三期",
+   "organizer": "魔搭社区、Qoder、盛趣游戏",
+   "official_url": "https://modelscope.cn/events/394",
+   "type": "创意应用赛",
    "tags": [
     "魔搭"
    ],
    "city": null,
-   "prize": "200w",
-   "start": "2026-07-19",
-   "deadline": "2026-12-31",
+   "prize": "万元奖金+硬件大奖",
+   "start": "2026-11-02",
+   "deadline": "2026-12-01",
    "end": null,
-   "description": "由众智FlagOS社区主办的一项多赛季、综合性赛事。大赛鼓励开发者基于统一AI系统软件栈FlagOS的能力进行创作实战和创新探索，促进AI开发者能力提升，推动开放计算生态的蓬勃发展。",
+   "description": "本期以「AI 造游戏」为主题，邀请你用 AI 创作一款原创游戏，发布到魔搭创空间，让大家点开就能玩。",
+   "sources": [
+    {
+     "name": "魔搭社区",
+     "url": "https://modelscope.cn/active"
+    }
+   ]
+  },
+  {
+   "id": "modelscope-416",
+   "name": "48H和真实世界碰一碰｜首届地瓜机器人黑客松",
+   "organizer": "地瓜机器人",
+   "official_url": "https://modelscope.cn/events/416",
+   "type": "黑客松",
+   "tags": [
+    "魔搭"
+   ],
+   "city": null,
+   "prize": "30W现金奖池",
+   "start": "2026-11-02",
+   "deadline": "2026-11-30",
+   "end": null,
+   "description": "欢迎来到2026地瓜机器人黑客松，和真实世界碰一碰！",
    "sources": [
     {
      "name": "魔搭社区",
@@ -148,6 +104,50 @@
    "deadline": "2026-12-31",
    "end": null,
    "description": "方便大家组队\n比赛官网：https://modelscope.cn/active/AIstudio",
+   "sources": [
+    {
+     "name": "魔搭社区",
+     "url": "https://modelscope.cn/active"
+    }
+   ]
+  },
+  {
+   "id": "modelscope-421",
+   "name": "知乎黑客松S3 |湾区共创季",
+   "organizer": "知乎",
+   "official_url": "https://modelscope.cn/events/421",
+   "type": "黑客松",
+   "tags": [
+    "魔搭"
+   ],
+   "city": null,
+   "prize": "120,000 元总奖金池",
+   "start": "2026-11-05",
+   "deadline": "2026-12-04",
+   "end": null,
+   "description": "次赛事线下宣讲落地大湾区，面向全球开放线上报名、全程支持云参赛",
+   "sources": [
+    {
+     "name": "魔搭社区",
+     "url": "https://modelscope.cn/active"
+    }
+   ]
+  },
+  {
+   "id": "modelscope-439",
+   "name": "2026 SPARK S全球AI硬件创新大赛正式启动",
+   "organizer": "涂鸦、杭创（人工智能）营、火花创研社",
+   "official_url": "https://modelscope.cn/events/439",
+   "type": "创意应用赛",
+   "tags": [
+    "魔搭"
+   ],
+   "city": null,
+   "prize": null,
+   "start": "2026-11-22",
+   "deadline": "2026-12-10",
+   "end": null,
+   "description": "大赛旨在面向全球招募具有技术创新能力、产品基础和成长潜力的AI硬件项目，助力硬科技从概念走向落地。",
    "sources": [
     {
      "name": "魔搭社区",
