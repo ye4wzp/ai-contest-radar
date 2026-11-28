@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27",
+ "updated": "2026-11-28",
  "competitions": [
   {
    "id": "devpost-29135",
@@ -1238,8 +1238,8 @@
    "city": "线上",
    "prize": null,
    "start": "2026-11-19",
-   "deadline": "2026-11-27",
-   "end": "2026-11-27",
+   "deadline": "2026-11-28",
+   "end": "2026-11-28",
    "signup": "open",
    "description": "Devpost 黑客松，主题：Enterprise、Fintech、Productivity",
    "sources": [
@@ -1370,6 +1370,30 @@
    ]
   },
   {
+   "id": "devpost-32225",
+   "name": "PromptWarsXSyntaxSquad",
+   "organizer": "syntaxsquad",
+   "official_url": "https://promptwarsxsyntaxsquad.devpost.com/",
+   "type": "黑客松",
+   "tags": [
+    "Devpost",
+    "国际"
+   ],
+   "city": "线上",
+   "prize": "₹ 30,000",
+   "start": "2026-12-09",
+   "deadline": "2026-12-09",
+   "end": "2026-12-09",
+   "signup": "upcoming",
+   "description": "Devpost 黑客松，主题：Beginner Friendly、Machine Learning/AI、Web",
+   "sources": [
+    {
+     "name": "Devpost",
+     "url": "https://devpost.com/hackathons"
+    }
+   ]
+  },
+  {
    "id": "devpost-32230",
    "name": "HackTheFashion Global'26",
    "organizer": "AI SKILLS LAB KIET",
@@ -1434,6 +1458,54 @@
    "end": "2026-12-03",
    "signup": "open",
    "description": "Devpost 黑客松，主题：Machine Learning/AI",
+   "sources": [
+    {
+     "name": "Devpost",
+     "url": "https://devpost.com/hackathons"
+    }
+   ]
+  },
+  {
+   "id": "devpost-32253",
+   "name": "Build AI on Kaspa",
+   "organizer": "GDG EPITA",
+   "official_url": "https://build-ai-on-kaspa.devpost.com/",
+   "type": "黑客松",
+   "tags": [
+    "Devpost",
+    "国际"
+   ],
+   "city": "EPITA Kremlin-Bicêtre",
+   "prize": "€1,000",
+   "start": "2026-11-28",
+   "deadline": "2026-11-28",
+   "end": "2026-11-28",
+   "signup": "upcoming",
+   "description": "Devpost 黑客松，主题：Beginner Friendly、Blockchain、Machine Learning/AI",
+   "sources": [
+    {
+     "name": "Devpost",
+     "url": "https://devpost.com/hackathons"
+    }
+   ]
+  },
+  {
+   "id": "devpost-32260",
+   "name": "Agentic AI @ UIUC x ElevenLabs: Voice Agents Build Night",
+   "organizer": "Agentic AI @ UIUC",
+   "official_url": "https://agentic-ai-elevenlabs-night.devpost.com/",
+   "type": "黑客松",
+   "tags": [
+    "Devpost",
+    "国际"
+   ],
+   "city": "Sunset Studio, Siebel Center for Design",
+   "prize": null,
+   "start": "2026-11-30",
+   "deadline": "2026-11-30",
+   "end": "2026-11-30",
+   "signup": "upcoming",
+   "description": "Devpost 黑客松，主题：Machine Learning/AI、Voice skills",
    "sources": [
     {
      "name": "Devpost",

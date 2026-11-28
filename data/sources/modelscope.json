@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27",
+ "updated": "2026-11-28",
  "competitions": [
   {
    "id": "modelscope-342",
@@ -148,6 +148,28 @@
    "deadline": "2026-12-10",
    "end": null,
    "description": "大赛旨在面向全球招募具有技术创新能力、产品基础和成长潜力的AI硬件项目，助力硬科技从概念走向落地。",
+   "sources": [
+    {
+     "name": "魔搭社区",
+     "url": "https://modelscope.cn/active"
+    }
+   ]
+  },
+  {
+   "id": "modelscope-443",
+   "name": "2026 高德空间智能开发者大赛正式开启！",
+   "organizer": "高德开放平台",
+   "official_url": "https://modelscope.cn/events/443",
+   "type": "创意应用赛",
+   "tags": [
+    "魔搭"
+   ],
+   "city": null,
+   "prize": null,
+   "start": "2026-11-23",
+   "deadline": "2026-12-27",
+   "end": null,
+   "description": "今年高德空间智能开发者大赛迎来全新挑战，以「探图者计划」为赛事主题，开启面向高德千舆空间智能开放平台的特别挑战赛季，邀请开发者用 AI探索真实世界，将空间智能融入更多创新应用。",
    "sources": [
     {
      "name": "魔搭社区",

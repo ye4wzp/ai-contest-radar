@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27",
+ "updated": "2026-11-28",
  "competitions": [
   {
    "id": "mlc-hub-crunchdao-com-competitions-datacrunch-2",
@@ -166,6 +166,29 @@
    ]
   },
   {
+   "id": "mlc-www-kaggle-com-competitions-generalist-gaming-agent",
+   "name": "Build an Agent That Plays New Browser Games",
+   "organizer": "GARC (Generalist Agent Research Collective)",
+   "official_url": "https://www.kaggle.com/competitions/generalist-gaming-agent",
+   "type": "数据算法赛",
+   "tags": [
+    "Kaggle",
+    "国际"
+   ],
+   "city": "线上",
+   "prize": "$50,000",
+   "start": "2026-11-23",
+   "deadline": "2027-02-22",
+   "end": "2027-03-01",
+   "description": "Kaggle 平台赛事",
+   "sources": [
+    {
+     "name": "ML Contests",
+     "url": "https://mlcontests.com/"
+    }
+   ]
+  },
+  {
    "id": "mlc-www-kaggle-com-competitions-google-verifiable-quantum-circuit-compilation",
    "name": "Optimise Quantum Circuits",
    "organizer": "Google Quantum AI",
@@ -272,6 +295,29 @@
    "start": "2026-11-09",
    "deadline": null,
    "end": "2027-01-05",
+   "description": "Kaggle 平台赛事",
+   "sources": [
+    {
+     "name": "ML Contests",
+     "url": "https://mlcontests.com/"
+    }
+   ]
+  },
+  {
+   "id": "mlc-www-kaggle-com-competitions-santa-2026",
+   "name": "Santa 2026: Write Short Programs To Solve Arithmetic Puzzles",
+   "organizer": "Kaggle",
+   "official_url": "https://www.kaggle.com/competitions/santa-2026",
+   "type": "数据算法赛",
+   "tags": [
+    "Kaggle",
+    "国际"
+   ],
+   "city": "线上",
+   "prize": "$50,000",
+   "start": "2026-11-18",
+   "deadline": "2027-01-21",
+   "end": "2027-01-28",
    "description": "Kaggle 平台赛事",
    "sources": [
     {
